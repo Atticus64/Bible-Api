@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "cherio": "https://esm.sh/cheerio@1.0.0-rc.12",
+        "server": "https://deno.land/std/http/server.ts",
+        "hono": "https://deno.land/x/hono@v2.7.2/mod.ts"
+    }
+}
