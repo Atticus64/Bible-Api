@@ -1,7 +1,8 @@
 {
   "tasks": {
-    "dev": "deno run --watch src/main.ts"
+    "dev": "deno run --allow-read --allow-net --watch src/main.ts",
+    "scrape": "deno run --allow-write --allow-net src/scraping/genesis.ts",
     "test": "deno test"
-  }
+  },
   "importMap": "./import_map.json"
 }
