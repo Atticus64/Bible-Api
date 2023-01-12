@@ -6,7 +6,7 @@ import { books } from '$/scraping/books.ts';
 const app = new Hono();
 const oldTestamentbooks = books.filter(b => b.testament === "Antiguo Testamento")
 
-app.use("/", cors())
+app.use("*", cors({ origin: "*"  }))
 
 app.get("/", async (c: Context) => {
 
