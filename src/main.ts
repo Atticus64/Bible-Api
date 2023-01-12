@@ -1,22 +1,31 @@
 import { Context, Hono } from "hono";
+import { cors } from "middleware";
 import { serve } from "server";
 import { books } from '$/scraping/books.ts';
 
 const app = new Hono();
 const oldTestamentbooks = books.filter(b => b.testament === "Antiguo Testamento")
 
+app.use("/", cors())
+
 app.get("/", async (c: Context) => {
 
   const books = []
 
-  for await (const entry of Deno.readDir(`${Deno.cwd()}/books`)) {
+  for await (const entry of Deno.readDir(`${Deno.cwd()}/books/oldTestament`)) {
     const book = {
       name: entry.name,
-      endpoint: `/${entry.name}/`
+      endpoint: `/book/${entry.name}/`,
+			byChapter: `/book/${entry.name}/1`
     }
     books.push(book)
   }
 
+	const byOldTestament = {
+		oldTestament: '/oldTestament/book/:book',
+		oldTestamentByChapter: '/oldTestament/book/:book/:chapter'
+	}
+	books.unshift(byOldTestament)
   return c.json(
     books
   )
@@ -93,6 +102,17 @@ app.get("/book/:bookName/:chapter", async (c: Context) => {
     return c.notFound()
   }
 });
+
+
+app.notFound((c) => {
+	const { pathname } = new URL(c.req.url)
+
+	if (c.req.url.at(-1) === '/') {
+		return c.redirect(pathname.slice(0, -1))
+	}
+
+	return c.json({ message: 'Not Found' }, 404)
+})
 
 
 if (import.meta.main) {
