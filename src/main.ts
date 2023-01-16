@@ -22,13 +22,13 @@ app.get("/", async (c: Context) => {
   }
 
   const byOldTestament = {
-    oldTestament: '/oldTestament/book/:book',
-    oldTestamentByChapter: '/oldTestament/book/:book/:chapter'
+    oldTestament: '/oldTestament/:book',
+    oldTestamentByChapter: '/oldTestament/:book/:chapter'
   }
 
   const byNewTestament = {
-    oldTestament: '/newTestament/book/:book',
-    oldTestamentByChapter: '/newTestament/book/:book/:chapter'
+    oldTestament: '/newTestament/:book',
+    oldTestamentByChapter: '/newTestament/:book/:chapter'
   }
 
   books.unshift(byOldTestament)
