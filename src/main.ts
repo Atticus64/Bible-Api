@@ -6,7 +6,7 @@ import { books } from '$/scraping/books.ts';
 const app = new Hono();
 const oldTestamentbooks = books.filter(b => b.testament === "Antiguo Testamento")
 
-app.use("*", cors({ origin: "*"  }))
+app.use("*", cors({ origin: "*" }))
 
 app.get("/", async (c: Context) => {
 
@@ -16,16 +16,24 @@ app.get("/", async (c: Context) => {
     const book = {
       name: entry.name,
       endpoint: `/book/${entry.name}/`,
-			byChapter: `/book/${entry.name}/1`
+      byChapter: `/book/${entry.name}/1`
     }
     books.push(book)
   }
 
-	const byOldTestament = {
-		oldTestament: '/oldTestament/book/:book',
-		oldTestamentByChapter: '/oldTestament/book/:book/:chapter'
-	}
-	books.unshift(byOldTestament)
+  const byOldTestament = {
+    oldTestament: '/oldTestament/book/:book',
+    oldTestamentByChapter: '/oldTestament/book/:book/:chapter'
+  }
+
+  const byNewTestament = {
+    oldTestament: '/newTestament/book/:book',
+    oldTestamentByChapter: '/newTestament/book/:book/:chapter'
+  }
+
+  books.unshift(byOldTestament)
+  books.unshift(byNewTestament)
+
   return c.json(
     books
   )
@@ -59,7 +67,32 @@ app.get("/oldTestament/:book/:id", async (c: Context) => {
   }
 });
 
+app.get("/newTestament/:book", async (c: Context) => {
+  try {
+    const bookName = c.req.param("book")
+    const path = `${Deno.cwd()}/books/newTestament/${bookName}/${bookName}.json`;
+    const book = await Deno.readTextFile(path);
 
+    return c.json(JSON.parse(book));
+  } catch (_error) {
+    return c.notFound()
+  }
+
+})
+
+
+app.get("/newTestament/:book/:id", async (c: Context) => {
+  try {
+    const number = c.req.param("id");
+    const book = c.req.param("book")
+    const path = `${Deno.cwd()}/books/newTestament/${book}/cap${number}.json`;
+    const chapterBook = await Deno.readTextFile(path);
+
+    return c.json(JSON.parse(chapterBook));
+  } catch (_error) {
+    return c.notFound()
+  }
+});
 
 app.get("/book/:bookName", async (c: Context) => {
   try {
@@ -93,7 +126,7 @@ app.get("/book/:bookName/:chapter", async (c: Context) => {
       const path = `${Deno.cwd()}/books/oldTestament/${book}/cap${chapter}.json`;
       chapterBook = await Deno.readTextFile(path);
     } else {
-      const path = `${Deno.cwd()}/books/newTestament/${book}/cap${chapter}}.json`;
+      const path = `${Deno.cwd()}/books/newTestament/${book}/cap${chapter}.json`;
       chapterBook = await Deno.readTextFile(path);
     }
 
@@ -105,13 +138,13 @@ app.get("/book/:bookName/:chapter", async (c: Context) => {
 
 
 app.notFound((c) => {
-	const { pathname } = new URL(c.req.url)
+  const { pathname } = new URL(c.req.url)
 
-	if (c.req.url.at(-1) === '/') {
-		return c.redirect(pathname.slice(0, -1))
-	}
+  if (c.req.url.at(-1) === '/') {
+    return c.redirect(pathname.slice(0, -1))
+  }
 
-	return c.json({ message: 'Not Found' }, 404)
+  return c.json({ message: 'Not Found' }, 404)
 })
 
 

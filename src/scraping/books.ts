@@ -202,7 +202,141 @@ export const books: Book[] = [
     chapters: 4,
     testament: "Antiguo Testamento"
   },
-
+  {
+    name: "Mateo",
+    chapters: 28,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Marcos",
+    chapters: 16,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Lucas",
+    chapters: 24,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Juan",
+    chapters: 21,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Hechos",
+    chapters: 28,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Romanos",
+    chapters: 16,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "1-Corintios",
+    chapters: 16,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "2-Corintios",
+    chapters: 13,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Galatas",
+    chapters: 6,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Efesios",
+    chapters: 6,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Filipenses",
+    chapters: 4,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Colosenses",
+    chapters: 4,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "1-Tesalonicenses",
+    chapters: 5,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "2-Tesalonicenses",
+    chapters: 3,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "1-Timoteo",
+    chapters: 6,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "2-Timoteo",
+    chapters: 4,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Tito",
+    chapters: 3,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Filemon",
+    chapters: 1,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Hebreos",
+    chapters: 13,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Santiago",
+    chapters: 5,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "1-Pedro",
+    chapters: 5,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "2-Pedro",
+    chapters: 3,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "1-Juan",
+    chapters: 5,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "2-Juan",
+    chapters: 1,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "3-Juan",
+    chapters: 1,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Judas",
+    chapters: 1,
+    testament: "Nuevo Testamento"
+  },
+  {
+    name: "Apocalipsis",
+    chapters: 22,
+    testament: "Nuevo Testamento"
+  }
 ]
 
 const getUrls = (book: string, chapters: number) => {
@@ -246,8 +380,7 @@ export default async function scrapeBook(book: Book) {
       chapter = rawTitle[2];
     }
 
-    console.log({ book, chapter, study });
-    $("span.texto").each((indx, item) => {
+    $("span.texto").each((indx: number, item) => {
       const verse = $(item).text();
       const number = indx + 1;
       vers.push({ verse, number });
@@ -285,7 +418,7 @@ const main = async () => {
       Bookverses = await scrapeBook(book)
       await Deno.writeTextFile(`${Deno.cwd()}/books/${testamentFolder}/${book.name.toLocaleLowerCase()}/${book.name.toLowerCase()}.json`, JSON.stringify(Bookverses, null, '\t'))
     } catch (_error) {
-      await Deno.mkdir(`${Deno.cwd()}/books/${testamentFolder}/`)
+      await Deno.mkdir(`${Deno.cwd()}/books/${testamentFolder}/${book.name.toLocaleLowerCase()}`)
       Bookverses = await scrapeBook(book)
       await Deno.writeTextFile(`${Deno.cwd()}/books/${testamentFolder}/${book.name.toLocaleLowerCase()}/${book.name.toLowerCase()}.json`, JSON.stringify(Bookverses, null, '\t'))
     }

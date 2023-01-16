@@ -1,0 +1,4426 @@
+[
+	{
+		"chapter": "1",
+		"vers": [
+			{
+				"verse": "Libro de la genealogía de Jesucristo, hijo de David, hijo de Abraham.",
+				"number": 1
+			},
+			{
+				"verse": "Abraham engendró a Isaac, Isaac a Jacob, y Jacob a Judá y a sus hermanos.",
+				"number": 2
+			},
+			{
+				"verse": "Judá engendró de Tamar a Fares y a Zara, Fares a Esrom, y Esrom a Aram.",
+				"number": 3
+			},
+			{
+				"verse": "Aram engendró a Aminadab, Aminadab a Naasón, y Naasón a Salmón.",
+				"number": 4
+			},
+			{
+				"verse": "Salmón engendró de Rahab a Booz, Booz engendró de Rut a Obed, y Obed a Isa.",
+				"number": 5
+			},
+			{
+				"verse": "Isaí engendró al rey David, y el rey David engendró a Salomón de la que fue mujer de Urías.",
+				"number": 6
+			},
+			{
+				"verse": "Salomón engendró a Roboam, Roboam a Abías, y Abías a Asa.",
+				"number": 7
+			},
+			{
+				"verse": "Asa engendró a Josafat, Josafat a Joram, y Joram a Uzías.",
+				"number": 8
+			},
+			{
+				"verse": "Uzías engendró a Jotam, Jotam a Acaz, y Acaz a Ezequías.",
+				"number": 9
+			},
+			{
+				"verse": "Ezequías engendró a Manasés, Manasés a Amón, y Amón a Josías.",
+				"number": 10
+			},
+			{
+				"verse": "Josías engendró a Jeconías y a sus hermanos, en el tiempo de la deportación a Babilonia.",
+				"number": 11
+			},
+			{
+				"verse": "Después de la deportación a Babilonia, Jeconías engendró a Salatiel, y Salatiel a Zorobabel.",
+				"number": 12
+			},
+			{
+				"verse": "Zorobabel engendró a Abiud, Abiud a Eliaquim, y Eliaquim a Azor.",
+				"number": 13
+			},
+			{
+				"verse": "Azor engendró a Sadoc, Sadoc a Aquim, y Aquim a Eliud.",
+				"number": 14
+			},
+			{
+				"verse": "Eliud engendró a Eleazar, Eleazar a Matán, Matán a Jacob;",
+				"number": 15
+			},
+			{
+				"verse": "y Jacob engendró a José, marido de María, de la cual nació Jesús, llamado el Cristo.",
+				"number": 16
+			},
+			{
+				"verse": "De manera que todas las generaciones desde Abraham hasta David son catorce; desde David hasta la   deportación a Babilonia, catorce; y desde la deportación a Babilonia hasta Cristo, catorce.",
+				"number": 17
+			},
+			{
+				"verse": "El nacimiento de Jesucristo fue así: Estando desposada María su madre con José, antes que se juntasen, se halló que había concebido del Espíritu Santo.",
+				"number": 18
+			},
+			{
+				"verse": "José su marido, como era justo, y no quería infamarla, quiso dejarla secretamente.",
+				"number": 19
+			},
+			{
+				"verse": "Y pensando él en esto, he aquí un ángel del Señor le apareció en sueños y le dijo: José, hijo de David, no temas recibir a María tu mujer, porque lo que en ella es engendrado, del Espíritu Santo es.",
+				"number": 20
+			},
+			{
+				"verse": "Y dará a luz un hijo, y llamarás su nombre JESÚS, porque él salvará a su pueblo de sus pecados.",
+				"number": 21
+			},
+			{
+				"verse": "Todo esto aconteció para que se cumpliese lo dicho por el Señor por medio del profeta, cuando dijo:",
+				"number": 22
+			},
+			{
+				"verse": "He aquí, una virgen concebirá y dará a luz un hijo, Y llamarás su nombre Emanuel, que traducido es: Dios con nosotros.",
+				"number": 23
+			},
+			{
+				"verse": "Y despertando José del sueño, hizo como el ángel del Señor le había mandado, y recibió a su mujer.",
+				"number": 24
+			},
+			{
+				"verse": "Pero no la conoció hasta que dio a luz a su hijo primogénito; y le puso por nombre JESÚS.",
+				"number": 25
+			}
+		]
+	},
+	{
+		"chapter": "2",
+		"vers": [
+			{
+				"verse": "Cuando Jesús nació en Belén de Judea en días del rey Herodes, vinieron del oriente a Jerusalén unos magos,",
+				"number": 1
+			},
+			{
+				"verse": "diciendo: ¿Dónde está el rey de los judíos, que ha nacido? Porque su estrella hemos visto en el oriente, y venimos a adorarle.",
+				"number": 2
+			},
+			{
+				"verse": "Oyendo esto, el rey Herodes se turbó, y toda Jerusalén con él.",
+				"number": 3
+			},
+			{
+				"verse": "Y convocados todos los principales sacerdotes, y los escribas del pueblo, les preguntó dónde había de nacer el Cristo.",
+				"number": 4
+			},
+			{
+				"verse": "Ellos le dijeron: En Belén de Judea; porque así está escrito por el profeta:",
+				"number": 5
+			},
+			{
+				"verse": "Y tú, Belén, de la tierra de Judá, No eres la más pequeña entre los príncipes de Judá; Porque de ti saldrá un guiador, Que apacentará a mi pueblo Israel.",
+				"number": 6
+			},
+			{
+				"verse": "Entonces Herodes, llamando en secreto a los magos, indagó de ellos diligentemente el tiempo de la aparición de la estrella;",
+				"number": 7
+			},
+			{
+				"verse": "y enviándolos a Belén, dijo: Id allá y averiguad con diligencia acerca del niño; y cuando le halléis, hacédmelo saber, para que yo también vaya y le adore.",
+				"number": 8
+			},
+			{
+				"verse": "Ellos, habiendo oído al rey, se fueron; y he aquí la estrella que habían visto en el oriente iba delante de ellos, hasta que llegando, se detuvo sobre donde estaba el niño.",
+				"number": 9
+			},
+			{
+				"verse": "Y al ver la estrella, se regocijaron con muy grande gozo.",
+				"number": 10
+			},
+			{
+				"verse": "Y al entrar en la casa, vieron al niño con su madre María, y postrándose, lo adoraron; y abriendo sus tesoros, le ofrecieron presentes: oro, incienso y mirra.",
+				"number": 11
+			},
+			{
+				"verse": "Pero siendo avisados por revelación en sueños que no volviesen a Herodes, regresaron a su tierra por otro camino.",
+				"number": 12
+			},
+			{
+				"verse": "Después que partieron ellos, he aquí  un ángel del Señor apareció en sueños a José y dijo: Levántate y toma al niño y a su madre, y huye a Egipto, y permanece allá hasta que yo te diga; porque acontecerá que Herodes buscará al niño para matarlo.",
+				"number": 13
+			},
+			{
+				"verse": "Y él, despertando, tomó de noche al niño y a su madre, y se fue a Egipto,",
+				"number": 14
+			},
+			{
+				"verse": "y estuvo allá hasta la muerte de Herodes; para que se cumpliese lo que dijo el Señor por medio del profeta, cuando dijo: De Egipto llamé a mi Hijo.",
+				"number": 15
+			},
+			{
+				"verse": "Herodes entonces, cuando se vio burlado por los magos, se enojó mucho, y mandó matar a todos los niños menores de dos años que había en Belén y en todos sus alrededores, conforme al tiempo que había inquirido de los magos.",
+				"number": 16
+			},
+			{
+				"verse": "Entonces se cumplió lo que fue dicho por el profeta Jeremías, cuando dijo:",
+				"number": 17
+			},
+			{
+				"verse": "Voz fue oída en Ramá, Grande lamentación, lloro y gemido; Raquel que llora a sus hijos, Y no quiso ser consolada, porque perecieron.",
+				"number": 18
+			},
+			{
+				"verse": "Pero después de muerto Herodes, he aquí un ángel del Señor apareció en sueños a José en Egipto,",
+				"number": 19
+			},
+			{
+				"verse": "diciendo: Levántate, toma al niño y a su madre, y vete a tierra de Israel, porque han muerto los que procuraban la muerte del niño.",
+				"number": 20
+			},
+			{
+				"verse": "Entonces él se levantó, y tomó al niño y a su madre, y vino a tierra de Israel.",
+				"number": 21
+			},
+			{
+				"verse": "Pero oyendo que Arquelao reinaba en Judea en lugar de Herodes su padre, tuvo temor de ir allá; pero avisado por revelación en sueños, se fue a la región de Galilea,",
+				"number": 22
+			},
+			{
+				"verse": "y vino y habitó en la ciudad que se llama Nazaret, para que se cumpliese lo que fue dicho por los profetas, que habría de ser llamado nazareno.",
+				"number": 23
+			}
+		]
+	},
+	{
+		"chapter": "3",
+		"vers": [
+			{
+				"verse": "En aquellos días vino Juan el Bautista predicando en el desierto de Judea,",
+				"number": 1
+			},
+			{
+				"verse": "y diciendo: Arrepentíos, porque el reino de los cielos se ha acercado.",
+				"number": 2
+			},
+			{
+				"verse": "Pues éste es aquel de quien habló el profeta Isaías, cuando dijo: Voz del que clama en el desierto: Preparad el camino del Señor, Enderezad sus sendas.",
+				"number": 3
+			},
+			{
+				"verse": "Y Juan estaba vestido de pelo de camello, y tenía un cinto de cuero alrededor de sus lomos; y su comida era langostas y miel silvestre.",
+				"number": 4
+			},
+			{
+				"verse": "Y salía a él Jerusalén, y toda Judea, y toda la provincia de alrededor del Jordán,",
+				"number": 5
+			},
+			{
+				"verse": "y eran bautizados por él en el Jordán, confesando sus pecados.",
+				"number": 6
+			},
+			{
+				"verse": "Al ver él que muchos de los fariseos y de los saduceos venían a su bautismo, les decía: ¡Generación de víboras! ¿Quién os enseñó a huir de la ira venidera?",
+				"number": 7
+			},
+			{
+				"verse": "Haced, pues, frutos dignos de arrepentimiento,",
+				"number": 8
+			},
+			{
+				"verse": "y no penséis decir dentro de vosotros mismos: A Abraham tenemos por padre; porque yo os digo que Dios puede levantar hijos a Abraham aun de estas piedras.",
+				"number": 9
+			},
+			{
+				"verse": "Y ya también el hacha está puesta a la raíz de los árboles; por tanto, todo árbol que no da buen fruto es cortado y echado en el fuego.",
+				"number": 10
+			},
+			{
+				"verse": "Yo a la verdad os bautizo en agua para arrepentimiento; pero el que viene tras mí, cuyo calzado yo no soy digno de llevar, es más poderoso que yo; él os bautizará en Espíritu Santo y fuego.",
+				"number": 11
+			},
+			{
+				"verse": "Su aventador está en su mano, y limpiará su era; y recogerá su trigo en el granero, y quemará la paja en fuego que nunca se apagará.",
+				"number": 12
+			},
+			{
+				"verse": "Entonces Jesús vino de Galilea a Juan al Jordán, para ser bautizado por él.",
+				"number": 13
+			},
+			{
+				"verse": "Mas Juan se le oponía, diciendo: Yo necesito ser bautizado por ti, ¿y tú vienes a mí?",
+				"number": 14
+			},
+			{
+				"verse": "Pero Jesús le respondió: Deja ahora, porque así conviene que cumplamos toda justicia. Entonces le dejó.",
+				"number": 15
+			},
+			{
+				"verse": "Y Jesús, después que fue bautizado, subió luego del agua; y he aquí cielos le fueron abiertos, y vio al Espíritu de Dios que descendía como paloma, y venía sobre él.",
+				"number": 16
+			},
+			{
+				"verse": "Y hubo una voz de los cielos, que decía: Este es mi Hijo amado, en quien tengo complacencia.",
+				"number": 17
+			}
+		]
+	},
+	{
+		"chapter": "4",
+		"vers": [
+			{
+				"verse": "Entonces Jesús fue llevado por el Espíritu al desierto, para ser tentado por el diablo.",
+				"number": 1
+			},
+			{
+				"verse": "Y después de haber ayunado cuarenta días y cuarenta noches, tuvo hambre.",
+				"number": 2
+			},
+			{
+				"verse": "Y vino a él el tentador, y le dijo: Si eres Hijo de Dios, di que estas piedras se conviertan en pan.",
+				"number": 3
+			},
+			{
+				"verse": "Él respondió y dijo: Escrito está: No sólo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios.",
+				"number": 4
+			},
+			{
+				"verse": "Entonces el diablo le llevó a la santa ciudad, y le puso sobre el pináculo del templo,",
+				"number": 5
+			},
+			{
+				"verse": "y le dijo: Si eres Hijo de Dios, échate abajo; porque escrito está: A sus ángeles mandará acerca de ti, y, En sus manos te sostendrán, Para que no tropieces con tu pie en piedra.",
+				"number": 6
+			},
+			{
+				"verse": "Jesús le dijo: Escrito está también: No tentarás al Señor tu Dios.",
+				"number": 7
+			},
+			{
+				"verse": "Otra vez le llevó el diablo a un monte muy alto, y le mostró todos los reinos del mundo y la gloria de ellos,",
+				"number": 8
+			},
+			{
+				"verse": "y le dijo: Todo esto te daré, si postrado me adorares.",
+				"number": 9
+			},
+			{
+				"verse": "Entonces Jesús le dijo: Vete, Satanás, porque escrito está: Al Señor tu Dios adorarás, y a él sólo servirás.",
+				"number": 10
+			},
+			{
+				"verse": "El diablo entonces le dejó; y he aquí vinieron ángeles y le servían.",
+				"number": 11
+			},
+			{
+				"verse": "Cuando Jesús oyó que Juan estaba preso, volvió a Galilea;",
+				"number": 12
+			},
+			{
+				"verse": "y dejando a Nazaret, vino y habitó en Capernaum, ciudad marítima, en la región de Zabulón y de Neftalí,",
+				"number": 13
+			},
+			{
+				"verse": "para que se cumpliese lo dicho por el profeta Isaías, cuando dijo:",
+				"number": 14
+			},
+			{
+				"verse": "Tierra de Zabulón y tierra de Neftalí, Camino del mar, al otro lado del Jordán, Galilea de los gentiles;",
+				"number": 15
+			},
+			{
+				"verse": "El pueblo asentado en tinieblas vio gran luz; Y a los asentados en región de sombra de muerte, Luz les resplandeció.",
+				"number": 16
+			},
+			{
+				"verse": "Desde entonces comenzó Jesús a predicar, y a decir: Arrepentíos, porque el reino de los cielos se ha acercado.",
+				"number": 17
+			},
+			{
+				"verse": "Andando Jesús junto al mar de Galilea, vio a dos hermanos, Simón, llamado Pedro, y Andrés su hermano, que echaban la red en el mar; porque eran pescadores.",
+				"number": 18
+			},
+			{
+				"verse": "Y les dijo: Venid en pos de mí, y os haré pescadores de hombres.",
+				"number": 19
+			},
+			{
+				"verse": "Ellos entonces, dejando al instante las redes, le siguieron.",
+				"number": 20
+			},
+			{
+				"verse": "Pasando de allí, vio a otros dos hermanos, Jacobo hijo de Zebedeo, y Juan su hermano, en la barca con Zebedeo su padre, que remendaban sus redes; y los llamó.",
+				"number": 21
+			},
+			{
+				"verse": "Y ellos, dejando al instante la barca y a su padre, le siguieron.",
+				"number": 22
+			},
+			{
+				"verse": "Y recorrió Jesús toda Galilea, enseñando en las sinagogas de ellos, y predicando el evangelio del reino, y sanando toda enfermedad y toda dolencia en el pueblo.",
+				"number": 23
+			},
+			{
+				"verse": "Y se difundió su fama por toda Siria; y le trajeron todos los que tenían dolencias, los afligidos por diversas enfermedades y tormentos, los endemoniados, lunáticos y paralíticos; y los sanó.",
+				"number": 24
+			},
+			{
+				"verse": "Y le siguió mucha gente de Galilea, de Decápolis, de Jerusalén, de Judea y del otro lado del Jordán.",
+				"number": 25
+			}
+		]
+	},
+	{
+		"chapter": "5",
+		"vers": [
+			{
+				"verse": "Viendo la multitud, subió al monte; y sentándose, vinieron a él sus discípulos.",
+				"number": 1
+			},
+			{
+				"verse": "Y abriendo su boca les enseñaba, diciendo:",
+				"number": 2
+			},
+			{
+				"verse": "Bienaventurados los pobres en espíritu, porque de ellos es el reino de los cielos.",
+				"number": 3
+			},
+			{
+				"verse": "Bienaventurados los que lloran, porque ellos recibirán consolación.",
+				"number": 4
+			},
+			{
+				"verse": "Bienaventurados los mansos, porque ellos recibirán la tierra por heredad.",
+				"number": 5
+			},
+			{
+				"verse": "Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados.",
+				"number": 6
+			},
+			{
+				"verse": "Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia.",
+				"number": 7
+			},
+			{
+				"verse": "Bienaventurados los de limpio corazón, porque ellos verán a Dios.",
+				"number": 8
+			},
+			{
+				"verse": "Bienaventurados los pacificadores, porque ellos serán llamados hijos de Dios.",
+				"number": 9
+			},
+			{
+				"verse": "Bienaventurados los que padecen persecución por causa de la justicia, porque de ellos es el reino de los cielos.",
+				"number": 10
+			},
+			{
+				"verse": "Bienaventurados sois cuando por mi causa os vituperen y os persigan, y digan toda clase de mal contra vosotros, mintiendo.",
+				"number": 11
+			},
+			{
+				"verse": "Gozaos y alegraos, porque vuestro galardón es grande en los cielos; porque así persiguieron a los profetas que fueron antes de vosotros.",
+				"number": 12
+			},
+			{
+				"verse": "Vosotros sois la sal de la tierra; pero si la sal se desvaneciere, ¿con qué será salada? No sirve más para nada, sino para ser echada fuera y hollada por los hombres.",
+				"number": 13
+			},
+			{
+				"verse": "Vosotros sois la luz del mundo; una ciudad asentada sobre un monte no se puede esconder.",
+				"number": 14
+			},
+			{
+				"verse": "Ni se enciende una luz y se pone debajo de un almud, sino sobre el candelero, y alumbra a todos los que están en casa.",
+				"number": 15
+			},
+			{
+				"verse": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que están los cielos.",
+				"number": 16
+			},
+			{
+				"verse": "No penséis que he venido para abrogar la ley o los profetas; no he venido para abrogar, sino para cumplir.",
+				"number": 17
+			},
+			{
+				"verse": "Porque de cierto os digo que hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasará de la ley, hasta que todo se haya cumplido.",
+				"number": 18
+			},
+			{
+				"verse": "De manera que cualquiera que quebrante uno de estos mandamientos muy pequeños, y así enseñe a los hombres, muy pequeño será llamado en el reino de los cielos; mas cualquiera que los haga y los enseñe, éste será llamado grande en el reino de los cielos.",
+				"number": 19
+			},
+			{
+				"verse": "Porque os digo que si vuestra justicia no fuere mayor que la de los escribas y fariseos, no entraréis en el reino de los cielos.",
+				"number": 20
+			},
+			{
+				"verse": "Oísteis que fue dicho a los antiguos: No matarás;  y cualquiera que matare será culpable de juicio.",
+				"number": 21
+			},
+			{
+				"verse": "Pero yo os digo que cualquiera que se enoje contra su hermano, será culpable de juicio; y cualquiera que diga: Necio, a su hermano, será culpable ante el concilio; y cualquiera que le diga: Fatuo, quedará expuesto al infierno de fuego.",
+				"number": 22
+			},
+			{
+				"verse": "Por tanto, si traes tu ofrenda al altar, y allí te acuerdas de que tu hermano tiene algo contra ti,",
+				"number": 23
+			},
+			{
+				"verse": "deja allí tu ofrenda delante del altar, y anda, reconcíliate primero con tu hermano, y entonces ven y presenta tu ofrenda.",
+				"number": 24
+			},
+			{
+				"verse": "Ponte de acuerdo con tu adversario pronto, entre tanto que estás con él en el camino, no sea que el adversario te entregue al juez, y el juez al alguacil, y seas echado en la cárcel.",
+				"number": 25
+			},
+			{
+				"verse": "De cierto te digo que no saldrás de allí, hasta que pagues el último cuadrante.",
+				"number": 26
+			},
+			{
+				"verse": "Oísteis que fue dicho: No cometerás adulterio.",
+				"number": 27
+			},
+			{
+				"verse": "Pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón.",
+				"number": 28
+			},
+			{
+				"verse": "Por tanto, si tu ojo derecho te es ocasión de caer, sácalo, y échalo de ti; pues mejor te es que se pierda uno de tus miembros, y no que todo tu cuerpo sea echado al infierno.",
+				"number": 29
+			},
+			{
+				"verse": "Y si tu mano derecha te es ocasión de caer, córtala, y échala de ti; pues mejor te es que se pierda uno de tus miembros, y no que todo tu cuerpo sea echado al infierno.",
+				"number": 30
+			},
+			{
+				"verse": "También fue dicho: Cualquiera que repudie a su mujer, dele carta de divorcio.",
+				"number": 31
+			},
+			{
+				"verse": "Pero yo os digo que el que repudia a su mujer, a no ser por causa de fornicación, hace que ella adultere; y el que se casa con la repudiada, comete adulterio.",
+				"number": 32
+			},
+			{
+				"verse": "Además habéis oído que fue dicho a los antiguos: No perjurarás, sino cumplirás al Señor tus juramentos.",
+				"number": 33
+			},
+			{
+				"verse": "Pero yo os digo: No juréis en ninguna manera; ni por el cielo, porque es el trono de Dios;",
+				"number": 34
+			},
+			{
+				"verse": "ni por la tierra, porque es el estrado de sus pies; ni por Jerusalén, porque es la ciudad del gran Rey.",
+				"number": 35
+			},
+			{
+				"verse": "Ni por tu cabeza jurarás, porque no puedes hacer blanco o negro un solo cabello.",
+				"number": 36
+			},
+			{
+				"verse": "Pero sea vuestro hablar: Sí, sí; no, no; porque lo que es más de esto, de mal procede.",
+				"number": 37
+			},
+			{
+				"verse": "Oísteis que fue dicho: Ojo por ojo, y diente por diente.",
+				"number": 38
+			},
+			{
+				"verse": "Pero yo os digo: No resistáis al que es malo; antes, a cualquiera que te hiera en la mejilla derecha, vuélvele también la otra;",
+				"number": 39
+			},
+			{
+				"verse": "y al que quiera ponerte a pleito y quitarte la túnica, déjale también la capa;",
+				"number": 40
+			},
+			{
+				"verse": "y a cualquiera que te obligue a llevar carga por una milla, vecon él dos.",
+				"number": 41
+			},
+			{
+				"verse": "Al que te pida, dale; y al que quiera tomar de ti prestado, no se lo rehúses.",
+				"number": 42
+			},
+			{
+				"verse": "Oísteis que fue dicho: Amarás a tu prójimo, y aborrecerás a tu enemigo.",
+				"number": 43
+			},
+			{
+				"verse": "Pero yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen;",
+				"number": 44
+			},
+			{
+				"verse": "para que seáis hijos de vuestro Padre que está en los cielos, que hace salir su sol sobre malos y buenos, y que hace llover sobre justos e injustos.",
+				"number": 45
+			},
+			{
+				"verse": "Porque si amáis a los que os aman, ¿qué recompensa tendréis? ¿No hacen también lo mismo los publicanos?",
+				"number": 46
+			},
+			{
+				"verse": "Y si saludáis a vuestros hermanos solamente, ¿qué hacéis de más? ¿No hacen también así los gentiles?",
+				"number": 47
+			},
+			{
+				"verse": "Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto.",
+				"number": 48
+			}
+		]
+	},
+	{
+		"chapter": "6",
+		"vers": [
+			{
+				"verse": "Guardaos de hacer vuestra justicia delante de los hombres, para ser vistos de ellos; de otra manera no tendréis recompensa de vuestro Padre que está en los cielos.",
+				"number": 1
+			},
+			{
+				"verse": "Cuando, pues, des limosna, no hagas tocar trompeta delante de ti, como hacen los hipócritas en las sinagogas y en las calles, para ser alabados por los hombres; de cierto os digo que ya tienen su recompensa.",
+				"number": 2
+			},
+			{
+				"verse": "Mas cuando tú des limosna, no sepa tu izquierda lo que hace tu derecha,",
+				"number": 3
+			},
+			{
+				"verse": "para que sea tu limosna en secreto; y tu Padre que ve en lo secreto te recompensará en público.",
+				"number": 4
+			},
+			{
+				"verse": "Y cuando ores, no seas como los hipócritas; porque ellos aman el orar en pie en las sinagogas y en las esquinas de las calles, para ser vistos de los hombres; de cierto os digo que ya tienen su recompensa.",
+				"number": 5
+			},
+			{
+				"verse": "Mas tú, cuando ores, entra en tu aposento, y cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público.",
+				"number": 6
+			},
+			{
+				"verse": "Y orando, no uséis vanas repeticiones, como los gentiles, que piensan que por su palabrería serán oídos.",
+				"number": 7
+			},
+			{
+				"verse": "No os hagáis, pues, semejantes a ellos; porque vuestro Padre sabe de qué cosas tenéis necesidad, antes que vosotros le pidáis.",
+				"number": 8
+			},
+			{
+				"verse": "Vosotros, pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre.",
+				"number": 9
+			},
+			{
+				"verse": "Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra.",
+				"number": 10
+			},
+			{
+				"verse": "El pan nuestro de cada día, dánoslo hoy.",
+				"number": 11
+			},
+			{
+				"verse": "Y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores.",
+				"number": 12
+			},
+			{
+				"verse": "Y no nos metas en tentación, mas líbranos del mal; porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén.",
+				"number": 13
+			},
+			{
+				"verse": "Porque si perdonáis a los hombres sus ofensas, os perdonará también a vosotros vuestro Padre celestial;",
+				"number": 14
+			},
+			{
+				"verse": "mas si no perdonáis a los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas.",
+				"number": 15
+			},
+			{
+				"verse": "Cuando ayunéis, no seáis austeros, como los hipócritas; porque ellos demudan sus rostros para mostrar a los hombres que ayunan; de cierto os digo que ya tienen su recompensa.",
+				"number": 16
+			},
+			{
+				"verse": "Pero tú, cuando ayunes, unge tu cabeza y lava tu rostro,",
+				"number": 17
+			},
+			{
+				"verse": "para no mostrar a los hombres que ayunas, sino a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público.",
+				"number": 18
+			},
+			{
+				"verse": "No os hagáis tesoros en la tierra, donde la polilla y el orín corrompen, y donde ladrones minan y hurtan;",
+				"number": 19
+			},
+			{
+				"verse": "sino haceos tesoros en el cielo, donde ni la polilla ni el orín corrompen, y donde ladrones no minan ni hurtan.",
+				"number": 20
+			},
+			{
+				"verse": "Porque donde esté vuestro tesoro, allí estará también vuestro corazón.",
+				"number": 21
+			},
+			{
+				"verse": "La lámpara del cuerpo es el ojo; así que, si tu ojo es bueno, todo tu cuerpo estará lleno de luz;",
+				"number": 22
+			},
+			{
+				"verse": "pero si tu ojo es maligno, todo tu cuerpo estaráen tinieblas. Así que, si la luz que en ti hay es tinieblas, ¿cuántas no serán las mismas tinieblas?",
+				"number": 23
+			},
+			{
+				"verse": "Ninguno puede servir a dos señores; porque o aborrecerá al uno y amará al otro, o estimará al uno y menospreciará al otro. No podéis servir a Dios y a las riquezas.",
+				"number": 24
+			},
+			{
+				"verse": "Por tanto os digo: No os afanéis por vuestra vida, qué habéis de comer o qué habéis de beber; ni por vuestro cuerpo, qué habéis de vestir. ¿No es la vida más que el alimento, y el cuerpo más que el vestido?",
+				"number": 25
+			},
+			{
+				"verse": "Mirad las aves del cielo, que no siembran, ni siegan, ni recogen en graneros; y vuestro Padre celestial las alimenta. ¿No valéis vosotros mucho más que ellas?",
+				"number": 26
+			},
+			{
+				"verse": "¿Y quién de vosotros podrá, por mucho que se afane, añadir a su estatura un codo?",
+				"number": 27
+			},
+			{
+				"verse": "Y por el vestido, ¿por qué os afanáis? Considerad los lirios del campo, cómo crecen: no trabajan ni hilan;",
+				"number": 28
+			},
+			{
+				"verse": "pero os digo, que ni aun Salomón con toda su gloria se vistió así como uno de ellos.",
+				"number": 29
+			},
+			{
+				"verse": "Y si la hierba del campo que hoy es, y mañana se echa en el horno, Dios la viste así, ¿no hará mucho más a vosotros, hombres de poca fe?",
+				"number": 30
+			},
+			{
+				"verse": "No os afanéis, pues, diciendo: ¿Qué comeremos, o qué beberemos, o qué vestiremos?",
+				"number": 31
+			},
+			{
+				"verse": "Porque los gentiles buscan todas estas cosas; pero vuestro Padre celestial sabe que tenéis necesidad de todas estas cosas.",
+				"number": 32
+			},
+			{
+				"verse": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+				"number": 33
+			},
+			{
+				"verse": "Así que, no os afanéis por el día de mañana, porque el día de mañana traerá su afán. Basta a cada día su propio mal.",
+				"number": 34
+			}
+		]
+	},
+	{
+		"chapter": "7",
+		"vers": [
+			{
+				"verse": "No juzguéis, para que no seáis juzgados.",
+				"number": 1
+			},
+			{
+				"verse": "Porque con el juicio con que juzgáis, seréis juzgados, y con la medida con que medís, os será medido.",
+				"number": 2
+			},
+			{
+				"verse": "¿Y por qué miras la paja que está en el ojo de tu hermano, y no echas de ver la viga que está en tu propio ojo?",
+				"number": 3
+			},
+			{
+				"verse": "¿O cómo dirás a tu hermano: Déjame sacar la paja de tu ojo, y he aquí la viga en el ojo tuyo?",
+				"number": 4
+			},
+			{
+				"verse": "¡Hipócrita! saca primero la viga de tu propio ojo, y entonces verás bien para sacar la paja del ojo de tu hermano.",
+				"number": 5
+			},
+			{
+				"verse": "No deis lo santo a los perros, ni echéis vuestras perlas delante de los cerdos, no sea que las pisoteen, y se vuelvan y os despedacen.",
+				"number": 6
+			},
+			{
+				"verse": "Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.",
+				"number": 7
+			},
+			{
+				"verse": "Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá.",
+				"number": 8
+			},
+			{
+				"verse": "¿Qué hombre hay de vosotros, que si su hijo le pide pan, le dará una piedra?",
+				"number": 9
+			},
+			{
+				"verse": "¿O si le pide un pescado, le dará una serpiente?",
+				"number": 10
+			},
+			{
+				"verse": "Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre que está en los cielos dará buenas cosas a los que le pidan?",
+				"number": 11
+			},
+			{
+				"verse": "Así que, todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos; porque esto es la ley y los profetas.",
+				"number": 12
+			},
+			{
+				"verse": "Entrad por la puerta estrecha; porque ancha es la puerta, y espacioso el camino que lleva a la perdición, y muchos son los que entran por ella;",
+				"number": 13
+			},
+			{
+				"verse": "porque estrecha es la puerta, y angosto el camino que lleva a la vida, y pocos son los que la hallan.",
+				"number": 14
+			},
+			{
+				"verse": "Guardaos de los falsos profetas, que vienen a vosotros con vestidos de ovejas, pero por dentro son lobos rapaces.",
+				"number": 15
+			},
+			{
+				"verse": "Por sus frutos los conoceréis. ¿Acaso se recogen uvas de los espinos, o higos de los abrojos?",
+				"number": 16
+			},
+			{
+				"verse": "Así, todo buen árbol da buenos frutos, pero el árbol malo da frutos malos.",
+				"number": 17
+			},
+			{
+				"verse": "No puede el buen árbol dar malos frutos, ni el árbol malo dar frutos buenos.",
+				"number": 18
+			},
+			{
+				"verse": "Todo árbol que no da buen fruto, es cortado y echado en el fuego.",
+				"number": 19
+			},
+			{
+				"verse": "Así que, por sus frutos los conoceréis.",
+				"number": 20
+			},
+			{
+				"verse": "No todo el que me dice: Señor, Señor, entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos.",
+				"number": 21
+			},
+			{
+				"verse": "Muchos me dirán en aquel día: Señor, Señor, ¿no profetizamos en tu nombre, y en tu nombre echamos fuera demonios, y en tu nombre hicimos muchos milagros?",
+				"number": 22
+			},
+			{
+				"verse": "Y entonces les declararé: Nunca os conocí; apartaos de mí, hacedores de maldad.",
+				"number": 23
+			},
+			{
+				"verse": "Cualquiera, pues, que me oye estas palabras, y las hace, le compararé a un hombre prudente, que edificó su casa sobre la roca.",
+				"number": 24
+			},
+			{
+				"verse": "Descendió lluvia, y vinieron ríos, y soplaron vientos, y golpearon contra aquella casa; y no cayó, porque estaba fundada sobre la roca.",
+				"number": 25
+			},
+			{
+				"verse": "Pero cualquiera que me oye estas palabras y no las hace, le compararé a un hombre insensato, que edificó su casa sobre la arena;",
+				"number": 26
+			},
+			{
+				"verse": "y descendió lluvia, y vinieron ríos, y soplaron vientos, y dieron con ímpetu contra aquella casa; y cayó, y fue grande su ruina.",
+				"number": 27
+			},
+			{
+				"verse": "Y cuando terminó Jesús estas palabras, la gente se admiraba de su doctrina;",
+				"number": 28
+			},
+			{
+				"verse": "porque les enseñaba como quien tiene autoridad, y no como los escribas.",
+				"number": 29
+			}
+		]
+	},
+	{
+		"chapter": "8",
+		"vers": [
+			{
+				"verse": "Cuando descendió Jesús del monte, le seguía mucha gente.",
+				"number": 1
+			},
+			{
+				"verse": "Y he aquí vino un leproso y se postró ante él, diciendo: Señor, si quieres, puedes limpiarme.",
+				"number": 2
+			},
+			{
+				"verse": "Jesús extendió la mano y le tocó, diciendo: Quiero; sé limpio. Y al instante su lepra desapareció.",
+				"number": 3
+			},
+			{
+				"verse": "Entonces Jesús le dijo: Mira, no lo digas a nadie; sino ve, muéstrate al sacerdote, y presenta la ofrenda que ordenó Moisés, para testimonio a ellos.",
+				"number": 4
+			},
+			{
+				"verse": "Entrando Jesús en Capernaum, vino a él un centurión, rogándole,",
+				"number": 5
+			},
+			{
+				"verse": "y diciendo: Señor, mi criado está postrado en casa, paralítico, gravemente atormentado.",
+				"number": 6
+			},
+			{
+				"verse": "Y Jesús le dijo: Yo iré y le sanaré.",
+				"number": 7
+			},
+			{
+				"verse": "Respondió el centurión y dijo: Señor, no soy digno de que entres bajo mi techo; solamente dí la palabra, y mi criado sanará.",
+				"number": 8
+			},
+			{
+				"verse": "Porque también yo soy hombre bajo autoridad, y tengo bajo mis órdenes soldados; y digo a éste: Ve, y va; y al otro: Ven, y viene; y a mi siervo: Haz esto, y lo hace.",
+				"number": 9
+			},
+			{
+				"verse": "Al oírlo Jesús, se maravilló, y dijo a los que le seguían: De cierto os digo, que ni aun en Israel he hallado tanta fe.",
+				"number": 10
+			},
+			{
+				"verse": "Y os digo que vendrán muchos del oriente y del occidente, y se sentarán con Abraham e Isaac y Jacob en el reino de los cielos;",
+				"number": 11
+			},
+			{
+				"verse": "mas los hijos del reino serán echados a las tinieblas de afuera; allí será el lloro y el crujir de dientes.",
+				"number": 12
+			},
+			{
+				"verse": "Entonces Jesús dijo al centurión: Ve, y como creíste, te sea hecho. Y su criado fue sanado en aquella misma hora.",
+				"number": 13
+			},
+			{
+				"verse": "Vino Jesús a casa de Pedro, y vio a la suegra de éste postrada en cama, con fiebre.",
+				"number": 14
+			},
+			{
+				"verse": "Y tocó su mano, y la fiebre la dejó; y ella se levantó, y les servía.",
+				"number": 15
+			},
+			{
+				"verse": "Y cuando llegó la noche, trajeron a él muchos endemoniados; y con la palabra echó fuera a los demonios, y sanó a todos los enfermos;",
+				"number": 16
+			},
+			{
+				"verse": "para que se cumpliese lo dicho por el profeta Isaías, cuando dijo: El mismo tomó nuestras enfermedades, y llevó nuestras dolencias.",
+				"number": 17
+			},
+			{
+				"verse": "Viéndose Jesús rodeado de mucha gente, mandó pasar al otro lado.",
+				"number": 18
+			},
+			{
+				"verse": "Y vino un escriba y le dijo: Maestro, te seguiré adondequiera que vayas.",
+				"number": 19
+			},
+			{
+				"verse": "Jesús le dijo: Las zorras tienen guaridas, y las aves del cielo nidos; mas el Hijo del Hombre no tiene dónde recostar su cabeza.",
+				"number": 20
+			},
+			{
+				"verse": "Otro de sus discípulos le dijo: Señor, permíteme que vaya primero y entierre a mi padre.",
+				"number": 21
+			},
+			{
+				"verse": "Jesús le dijo: Sígueme; deja que los muertos entierren a sus muertos.",
+				"number": 22
+			},
+			{
+				"verse": "Y entrando él en la barca, sus discípulos le siguieron.",
+				"number": 23
+			},
+			{
+				"verse": "Y he aquí que se levantó en el mar una tempestad tan grande que las olas cubrían la barca; pero él dormía.",
+				"number": 24
+			},
+			{
+				"verse": "Y vinieron sus discípulos y le despertaron, diciendo: ¡Señor, sálvanos, que perecemos!",
+				"number": 25
+			},
+			{
+				"verse": "El les dijo: ¿Por qué teméis, hombres de poca fe? Entonces, levantándose, reprendió a los vientos y al mar; y se hizo grande bonanza.",
+				"number": 26
+			},
+			{
+				"verse": "Y los hombres se maravillaron, diciendo: ¿Qué hombre es éste, que aun los vientos y el mar le obedecen?",
+				"number": 27
+			},
+			{
+				"verse": "Cuando llegó a la otra orilla, a la tierra de los gadarenos, vinieron a su encuentro dos endemoniados que salían de los sepulcros, feroces en gran manera, tanto que nadie podía pasar por aquel camino.",
+				"number": 28
+			},
+			{
+				"verse": "Y clamaron diciendo: ¿Qué tienes con nosotros, Jesús, Hijo de Dios? ¿Has venido acá para atormentarnos antes de tiempo?",
+				"number": 29
+			},
+			{
+				"verse": "Estaba paciendo lejos de ellos un hato de muchos cerdos.",
+				"number": 30
+			},
+			{
+				"verse": "Y los demonios le rogaron diciendo: Si nos echas fuera, permítenos ir a aquel hato de cerdos.",
+				"number": 31
+			},
+			{
+				"verse": "El les dijo: Id. Y ellos salieron, y se fueron a aquel hato de cerdos; y he aquí, todo el hato de cerdos se precipitó en el mar por un despeñadero, y perecieron en las aguas.",
+				"number": 32
+			},
+			{
+				"verse": "Y los que los apacentaban huyeron, y viniendo a la ciudad, contaron todas las cosas, y lo que había pasado con los endemoniados.",
+				"number": 33
+			},
+			{
+				"verse": "Y toda la ciudad salió al encuentro de Jesús; y cuando le vieron, le rogaron que se fuera de sus contornos.",
+				"number": 34
+			}
+		]
+	},
+	{
+		"chapter": "9",
+		"vers": [
+			{
+				"verse": "Entonces, entrando Jesús en la barca, pasó al otro lado y vino a su ciudad.",
+				"number": 1
+			},
+			{
+				"verse": "Y sucedió que le trajeron un paralítico, tendido sobre una cama; y al ver Jesús la fe de ellos, dijo al paralítico: Ten ánimo, hijo; tus pecados te son perdonados.",
+				"number": 2
+			},
+			{
+				"verse": "Entonces algunos de los escribas decían dentro de sí: Este blasfema.",
+				"number": 3
+			},
+			{
+				"verse": "Y conociendo Jesús los pensamientos de ellos, dijo: ¿Por qué pensáis mal en vuestros corazones?",
+				"number": 4
+			},
+			{
+				"verse": "Porque, ¿qué es más fácil, decir: Los pecados te son perdonados, o decir: Levántate y anda?",
+				"number": 5
+			},
+			{
+				"verse": "Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar pecados (dice entonces al paralítico): Levántate, toma tu cama, y vete a tu casa.",
+				"number": 6
+			},
+			{
+				"verse": "Entonces él se levantó y se fue a su casa.",
+				"number": 7
+			},
+			{
+				"verse": "Y la gente, al verlo, se maravilló y glorificó a Dios, que había dado tal potestad a los hombres.",
+				"number": 8
+			},
+			{
+				"verse": "Pasando Jesús de allí, vio a un hombre llamado Mateo, que estaba sentado al banco de los tributos públicos, y le dijo: Sígueme. Y se levantó y le siguió.",
+				"number": 9
+			},
+			{
+				"verse": "Y aconteció que estando él sentado a la mesa en la casa, he aquí que muchos publicanos y pecadores, que habían venido, se sentaron juntamente a la mesa con Jesús y sus discípulos.",
+				"number": 10
+			},
+			{
+				"verse": "Cuando vieron esto los fariseos, dijeron a los discípulos: ¿Porqué come vuestro Maestro con los publicanos y pecadores?",
+				"number": 11
+			},
+			{
+				"verse": "Al oír esto Jesús, les dijo: Los sanos no tienen necesidad de médico, sino los enfermos.",
+				"number": 12
+			},
+			{
+				"verse": "Id, pues, y aprended lo que significa:  Misericordia quiero, y no sacrificio. Porque no he venido a llamar a justos, sino a pecadores, al arrepentimiento.",
+				"number": 13
+			},
+			{
+				"verse": "Entonces vinieron a él los discípulos de Juan, diciendo: ¿Por qué nosotros y los fariseos ayunamos muchas veces, y tus discípulos no ayunan?",
+				"number": 14
+			},
+			{
+				"verse": "Jesús les dijo: ¿Acaso pueden los que están de bodas tener luto entre tanto que el esposo está con ellos? Pero vendrán días cuando el esposo les será quitado, y entonces ayunarán.",
+				"number": 15
+			},
+			{
+				"verse": "Nadie pone remiendo de paño nuevo en vestido viejo; porque tal remiendo tira del vestido, y se hace peor la rotura.",
+				"number": 16
+			},
+			{
+				"verse": "Ni echan vino nuevo en odres viejos; de otra manera los odres se rompen, y el vino se derrama, y los odres se pierden; pero echan el vino nuevo en odres nuevos, y lo uno y lo otro se conservan juntamente.",
+				"number": 17
+			},
+			{
+				"verse": "Mientras él les decía estas cosas, vino un hombre principal y se postró ante él, diciendo: Mi hija acaba de morir; mas ven y pon tu mano sobre ella, y vivirá.",
+				"number": 18
+			},
+			{
+				"verse": "Y se levantó Jesús, y le siguió con sus discípulos.",
+				"number": 19
+			},
+			{
+				"verse": "Y he aquí una mujer enferma de flujo de sangre desde hacía doce años, se le acercó por detrás y tocó el borde de su manto;",
+				"number": 20
+			},
+			{
+				"verse": "porque decía dentro de sí: Si tocare solamente su manto, seré salva.",
+				"number": 21
+			},
+			{
+				"verse": "Pero Jesús, volviéndose y mirándola, dijo: Ten ánimo, hija; tu fe te ha salvado. Y la mujer fue salva desde aquella hora.",
+				"number": 22
+			},
+			{
+				"verse": "Al entrar Jesús en la casa del principal, viendo a los que tocaban flautas, y la gente que hacía alboroto,",
+				"number": 23
+			},
+			{
+				"verse": "les dijo: Apartaos, porque la niña no está muerta, sino duerme. Y se burlaban de él.",
+				"number": 24
+			},
+			{
+				"verse": "Pero cuando la gente había sido echada fuera, entró, y tomó de la mano a la niña, y ella se levantó.",
+				"number": 25
+			},
+			{
+				"verse": "Y se difundió la fama de esto por toda aquella tierra.",
+				"number": 26
+			},
+			{
+				"verse": "Pasando Jesús de allí, le siguieron dos ciegos, dando voces y diciendo: ¡Ten misericordia de nosotros, Hijo de David!",
+				"number": 27
+			},
+			{
+				"verse": "Y llegado a la casa, vinieron a él los ciegos; y Jesús les dijo: ¿Creéis que puedo hacer esto? Ellos dijeron: Sí, Señor.",
+				"number": 28
+			},
+			{
+				"verse": "Entonces les tocó los ojos, diciendo: Conforme a vuestra fe os sea hecho.",
+				"number": 29
+			},
+			{
+				"verse": "Y los ojos de ellos fueron abiertos. Y Jesús les encargó rigurosamente, diciendo: Mirad que nadie lo sepa.",
+				"number": 30
+			},
+			{
+				"verse": "Pero salidos ellos, divulgaron la fama de él por toda aquella tierra.",
+				"number": 31
+			},
+			{
+				"verse": "Mientras salían ellos, he aquí, le trajeron un mudo, endemoniado.",
+				"number": 32
+			},
+			{
+				"verse": "Y echado fuera el demonio, el mudo habló; y la gente se maravillaba, y decía: Nunca se ha visto cosa semejante en Israel.",
+				"number": 33
+			},
+			{
+				"verse": "Pero los fariseos decían: Por el príncipe de los demonios echa fuera los demonios.",
+				"number": 34
+			},
+			{
+				"verse": "Recorría Jesús todas las ciudades y aldeas, enseñando en las sinagogas de ellos, y predicando el evangelio del reino, y sanando toda enfermedad y toda dolencia en el pueblo.",
+				"number": 35
+			},
+			{
+				"verse": "Y al ver las multitudes, tuvo compasión de ellas; porque estaban desamparadas y dispersas como ovejas que no tienen pastor.",
+				"number": 36
+			},
+			{
+				"verse": "Entonces dijo a sus discípulos: A la verdad la mies es mucha, mas los obreros pocos.",
+				"number": 37
+			},
+			{
+				"verse": "Rogad, pues, al Señor de la mies, que envíe obreros a su mies.",
+				"number": 38
+			}
+		]
+	},
+	{
+		"chapter": "10",
+		"vers": [
+			{
+				"verse": "Entonces llamando a sus doce discípulos, les dio autoridad sobre los espíritus inmundos, para que los echasen fuera, y para sanar toda enfermedad y toda dolencia.",
+				"number": 1
+			},
+			{
+				"verse": "Los nombres de los doce apóstoles son estos: primero Simón, llamado Pedro, y Andrés su hermano; Jacobo hijo de Zebedeo, y Juan su hermano;",
+				"number": 2
+			},
+			{
+				"verse": "Felipe, Bartolomé, Tomás, Mateo el publicano, Jacobo hijo de Alfeo, Lebeo, por sobrenombre Tadeo,",
+				"number": 3
+			},
+			{
+				"verse": "Simón el cananista, y Judas Iscariote, el que también le entregó.",
+				"number": 4
+			},
+			{
+				"verse": "A estos doce envió Jesús, y les dio instrucciones, diciendo: Por camino de gentiles no vayáis, y en ciudad de samaritanos no entréis,",
+				"number": 5
+			},
+			{
+				"verse": "sino id antes a las ovejas perdidas de la casa de Israel.",
+				"number": 6
+			},
+			{
+				"verse": "Y yendo, predicad, diciendo: El reino de los cielos se ha acercado.",
+				"number": 7
+			},
+			{
+				"verse": "Sanad enfermos, limpiad leprosos, resucitad muertos, echad fuera demonios; de gracia recibisteis, dad de gracia.",
+				"number": 8
+			},
+			{
+				"verse": "No os proveáis de oro, ni plata, ni cobre en vuestros cintos;",
+				"number": 9
+			},
+			{
+				"verse": "ni de alforja para el camino, ni de dos túnicas, ni de calzado, ni de bordón; porque el obrero es digno de su alimento.",
+				"number": 10
+			},
+			{
+				"verse": "Mas en cualquier ciudad o aldea donde entréis, informaos quién en ella sea digno, y posad allí hasta que salgáis.",
+				"number": 11
+			},
+			{
+				"verse": "Y al entrar en la casa, saludadla.",
+				"number": 12
+			},
+			{
+				"verse": "Y si la casa fuere digna, vuestra paz vendrá sobre ella; mas si no fuere digna, vuestra paz se volverá a vosotros.",
+				"number": 13
+			},
+			{
+				"verse": "Y si alguno no os recibiere, ni oyere vuestras palabras, salid de aquella casa o ciudad, y sacudid el polvo de vuestros pies.",
+				"number": 14
+			},
+			{
+				"verse": "De cierto os digo que en el día del juicio, será más tolerable el castigo para la tierra de Sodoma y de Gomorra, que para aquella ciudad.",
+				"number": 15
+			},
+			{
+				"verse": "He aquí, yo os envío como a ovejas en medio de lobos; sed, pues, prudentes como serpientes, y sencillos como palomas.",
+				"number": 16
+			},
+			{
+				"verse": "Y guardaos de los hombres, porque os entregarán a los concilios, y en sus sinagogas os azotarán;",
+				"number": 17
+			},
+			{
+				"verse": "y aun ante gobernadores y reyes seréis llevados por causa de mí, para testimonio a ellos y a los gentiles.",
+				"number": 18
+			},
+			{
+				"verse": "Mas cuando os entreguen, no os preocupéis por cómo o qué hablaréis; porque en aquella hora os será dado lo que habéis de hablar.",
+				"number": 19
+			},
+			{
+				"verse": "Porque no sois vosotros los que habláis, sino el Espíritu de vuestro Padre que habla en vosotros.",
+				"number": 20
+			},
+			{
+				"verse": "El hermano entregará a la muerte al hermano, y el padre al hijo; y los hijos se levantarán contra los padres, y los harán morir.",
+				"number": 21
+			},
+			{
+				"verse": "Y seréis aborrecidos de todos por causa de mi nombre; mas el que persevere hasta el fin, éste será salvo.",
+				"number": 22
+			},
+			{
+				"verse": "Cuando os persigan en esta ciudad, huid a la otra; porque de cierto os digo, que no acabaréis de recorrer todas las ciudades de Israel, antes que venga el Hijo de Hombre.",
+				"number": 23
+			},
+			{
+				"verse": "El discípulo no es más que su maestro, ni el siervo más que su señor.",
+				"number": 24
+			},
+			{
+				"verse": "Bástale al discípulo ser como su maestro, y al siervo como su señor. Si al padre de familia llamaron Beelzeb, ¿cuánto más a los de su casa?",
+				"number": 25
+			},
+			{
+				"verse": "Así que, no los temáis; porque nada hay encubierto, que no haya de ser manifestado; ni oculto, que no haya de saberse.",
+				"number": 26
+			},
+			{
+				"verse": "Lo que os digo en tinieblas, decidlo en la luz; y lo que oís al oído, proclamadlo desde las azoteas.",
+				"number": 27
+			},
+			{
+				"verse": "Y no temáis a los que matan el cuerpo, mas el alma no pueden matar; temed más bien a aquel que puede destruir el alma y el cuerpo en el infierno.",
+				"number": 28
+			},
+			{
+				"verse": "¿No se venden dos pajarillos por un cuarto? Con todo, ni uno de ellos cae a tierra sin vuestro Padre.",
+				"number": 29
+			},
+			{
+				"verse": "Pues aun vuestros cabellos están todos contados.",
+				"number": 30
+			},
+			{
+				"verse": "Así que, no temáis; más valéis vosotros que muchos pajarillos.",
+				"number": 31
+			},
+			{
+				"verse": "A cualquiera, pues, que me confiese delante de los hombres, yo también le confesaré delante de mi Padre que está en los cielos.",
+				"number": 32
+			},
+			{
+				"verse": "Y a cualquiera que me niegue delante de los hombres, yo también le negaré delante de mi Padre que está en los cielos.",
+				"number": 33
+			},
+			{
+				"verse": "No penséis que he venido para traer paz a la tierra; no he venido para traer paz, sino espada.",
+				"number": 34
+			},
+			{
+				"verse": "Porque he venido para poner en disensión al hombre contra su padre, a la hija contra su madre, y a la nuera contra su suegra;",
+				"number": 35
+			},
+			{
+				"verse": "y los enemigos del hombre serán los de su casa.",
+				"number": 36
+			},
+			{
+				"verse": "El que ama a padre o madre más que a mí, no es digno de mí; el que ama a hijo o hija más que a mí, no es digno de mí;",
+				"number": 37
+			},
+			{
+				"verse": "y el que no toma su cruz y sigue en pos de mí, no es digno de mí.",
+				"number": 38
+			},
+			{
+				"verse": "El que halla su vida, la perderá; y el que pierde su vida por causa de mí, la hallará.",
+				"number": 39
+			},
+			{
+				"verse": "El que a vosotros recibe, a mí me recibe; y el que me recibe a mí, recibe al que me envió.",
+				"number": 40
+			},
+			{
+				"verse": "El que recibe a un profeta por cuanto es profeta, recompensa de profeta recibirá; y el que recibe a un justo por cuanto es justo, recompensa de justo recibirá.",
+				"number": 41
+			},
+			{
+				"verse": "Y cualquiera que dé a uno de estos pequeñitos un vaso de agua fría solamente, por cuanto es discípulo, de cierto os digo que no perderá su recompensa.",
+				"number": 42
+			}
+		]
+	},
+	{
+		"chapter": "11",
+		"vers": [
+			{
+				"verse": "Cuando Jesús terminó de dar instrucciones a sus doce discípulos, se fue de allí a enseñar y a predicar en las ciudades de ellos.",
+				"number": 1
+			},
+			{
+				"verse": "Y al oír Juan, en la cárcel, los hechos de Cristo, le envió dos de sus discípulos,",
+				"number": 2
+			},
+			{
+				"verse": "para preguntarle: ¿Eres tú aquel que había de venir, o esperaremos a otro?",
+				"number": 3
+			},
+			{
+				"verse": "Respondiendo Jesús, les dijo: Id, y haced saber a Juan las cosas que oís y veis.",
+				"number": 4
+			},
+			{
+				"verse": "Los ciegos ven, los cojos andan, los leprosos son limpiados, los sordos oyen, los muertos son resucitados, y a los pobres es anunciado el evangelio;",
+				"number": 5
+			},
+			{
+				"verse": "y bienaventurado es el que no halle tropiezo en mí.",
+				"number": 6
+			},
+			{
+				"verse": "Mientras ellos se iban, comenzó Jesús a decir de Juan a la gente: ¿Qué salisteis a ver al desierto? ¿Una caña sacudida por el viento?",
+				"number": 7
+			},
+			{
+				"verse": "¿O qué salisteis a ver? ¿A un hombre cubierto de vestiduras delicadas? He aquí, los que llevan vestiduras delicadas, en las casas de los reyes están.",
+				"number": 8
+			},
+			{
+				"verse": "Pero ¿qué salisteis a ver? ¿A un profeta? Sí, os digo, y más que profeta.",
+				"number": 9
+			},
+			{
+				"verse": "Porque éste es de quien está escrito: He aquí, yo envío mi mensajero delante de tu faz, El cual preparará tu camino delante de ti.",
+				"number": 10
+			},
+			{
+				"verse": "De cierto os digo: Entre los que nacen de mujer no se ha levantado otro mayor que Juan el Bautista; pero el más pequeño en el reino de los cielos, mayor es que él.",
+				"number": 11
+			},
+			{
+				"verse": "Desde los días de Juan el Bautista hasta ahora, el reino de los cielos sufre violencia, y los violentos lo arrebatan.",
+				"number": 12
+			},
+			{
+				"verse": "Porque todos los profetas y la ley profetizaron hasta Juan.",
+				"number": 13
+			},
+			{
+				"verse": "Y si queréis recibirlo, él es aquel Elías que había de venir.",
+				"number": 14
+			},
+			{
+				"verse": "El que tiene oídos para oír, oiga.",
+				"number": 15
+			},
+			{
+				"verse": "Mas ¿a qué compararé esta generación? Es semejante a los muchachos que se sientan en las plazas, y dan voces a sus compañeros,",
+				"number": 16
+			},
+			{
+				"verse": "diciendo: Os tocamos flauta, y no bailasteis; os endechamos, y no lamentasteis.",
+				"number": 17
+			},
+			{
+				"verse": "Porque vino Juan, que ni comía ni bebía, y dicen: Demonio tiene.",
+				"number": 18
+			},
+			{
+				"verse": "Vino el Hijo del Hombre, que come y bebe, y dicen: He aquí un hombre comilón, y bebedor de vino, amigo de publicanos y de pecadores. Pero la sabiduría es justificada por sus hijos.",
+				"number": 19
+			},
+			{
+				"verse": "Entonces comenzó a reconvenir a las ciudades en las cuales había hecho muchos de sus milagros, porque no se habían arrepentido, diciendo:",
+				"number": 20
+			},
+			{
+				"verse": "Ay de ti, Corazín! Ay de ti, Betsaida! Porque si en Tiro y en Sidón se hubieran hecho los milagros que han sido hechos en vosotras, tiempo ha que se hubieran arrepentido en cilicio y en ceniza.",
+				"number": 21
+			},
+			{
+				"verse": "Por tanto os digo que en el día del juicio, será más tolerable el castigo para Tiro y para Sidón, que para vosotras.",
+				"number": 22
+			},
+			{
+				"verse": "Y tú, Capernaum, que eres levantada hasta el cielo, hasta el Hades serás abatida; porque si en Sodoma se hubieran hecho los milagros que han sido hechos en ti, habría permanecido hasta el día de hoy.",
+				"number": 23
+			},
+			{
+				"verse": "Por tanto os digo que en el día del juicio, será más tolerable el castigo para la tierra de Sodoma, que para ti.",
+				"number": 24
+			},
+			{
+				"verse": "En aquel tiempo, respondiendo Jesús, dijo: Te alabo, Padre, Señor del cielo y de la tierra, porque escondiste estas cosas de los sabios y de los entendidos, y las revelaste a los niños.",
+				"number": 25
+			},
+			{
+				"verse": "Sí, Padre, porque así te agradó.",
+				"number": 26
+			},
+			{
+				"verse": "Todas las cosas me fueron entregadas por mi Padre; y nadie conoce al Hijo, sino el Padre, ni al Padre conoce alguno, sino el Hijo, y aquel a quien el Hijo lo quiera revelar.",
+				"number": 27
+			},
+			{
+				"verse": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.",
+				"number": 28
+			},
+			{
+				"verse": "Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas;",
+				"number": 29
+			},
+			{
+				"verse": "porque mi yugo es fácil, y ligera mi carga.",
+				"number": 30
+			}
+		]
+	},
+	{
+		"chapter": "12",
+		"vers": [
+			{
+				"verse": "En aquel tiempo iba Jesús por los sembrados en un día de reposo; y sus discípulos tuvieron hambre, y comenzaron a arrancar espigas y a comer.",
+				"number": 1
+			},
+			{
+				"verse": "Viéndolo los fariseos, le dijeron: He aquí tus discípulos hacen lo que no es lícito hacer en el día de reposo.",
+				"number": 2
+			},
+			{
+				"verse": "Pero él les dijo: ¿No habéis leído lo que hizo David, cuando él y los que con él estaban tuvieron hambre;",
+				"number": 3
+			},
+			{
+				"verse": "cómo entró en la casa de Dios, y comió los panes de la proposición, que no les era lícito comer ni a él ni a los que con él estaban, sino solamente a los sacerdotes?",
+				"number": 4
+			},
+			{
+				"verse": "¿O no habéis leído en la ley, cómo en el día de reposo los sacerdotes en el templo profanan el día de reposo, y son sin culpa?",
+				"number": 5
+			},
+			{
+				"verse": "Pues os digo que uno mayor que el templo está aquí.",
+				"number": 6
+			},
+			{
+				"verse": "Y si supieseis qué significa: Misericordia quiero, y no sacrificio, no condenaríais a los inocentes;",
+				"number": 7
+			},
+			{
+				"verse": "porque el Hijo del Hombre es Señor del día de reposo.",
+				"number": 8
+			},
+			{
+				"verse": "Pasando de allí, vino a la sinagoga de ellos.",
+				"number": 9
+			},
+			{
+				"verse": "Y he aquí había allí uno que tenía seca una mano; y preguntaron a Jesús, para poder acusarle: ¿Es lícito sanar en el día de reposo?",
+				"number": 10
+			},
+			{
+				"verse": "El les dijo: ¿Qué hombre habrá de vosotros, que tenga una oveja, y si ésta cayere en un hoyo en día de reposo, no le eche mano, y la levante?",
+				"number": 11
+			},
+			{
+				"verse": "Pues ¿cuánto más vale un hombre que una oveja? Por consiguiente, es lícito hacer el bien en los días de reposo.",
+				"number": 12
+			},
+			{
+				"verse": "Entonces dijo a aquel hombre: Extiende tu mano. Y él la extendió, y le fue restaurada sana como la otra.",
+				"number": 13
+			},
+			{
+				"verse": "Y salidos los fariseos, tuvieron consejo contra Jesús para destruirle.",
+				"number": 14
+			},
+			{
+				"verse": "Sabiendo esto Jesús, se apartó de allí; y le siguió mucha gente, y sanaba a todos,",
+				"number": 15
+			},
+			{
+				"verse": "y les encargaba rigurosamente que no le descubriesen;",
+				"number": 16
+			},
+			{
+				"verse": "para que se cumpliese lo dicho por el profeta Isaías, cuando dijo:",
+				"number": 17
+			},
+			{
+				"verse": "He aquí mi siervo, a quien he escogido; Mi Amado, en quien se agrada mi alma; Pondré mi Espíritu sobre él, Y a los gentiles anunciará juicio.",
+				"number": 18
+			},
+			{
+				"verse": "No contenderá, ni voceará, Ni nadie oirá en las calles su voz.",
+				"number": 19
+			},
+			{
+				"verse": "La caña cascada no quebrará, Y el pábilo que humea no apagará, Hasta que saque a victoria el juicio.",
+				"number": 20
+			},
+			{
+				"verse": "Y en su nombre esperarán los gentiles.",
+				"number": 21
+			},
+			{
+				"verse": "Entonces fue traído a él un endemoniado, ciego y mudo; y le sanó, de tal manera que el ciego y mudo veía y hablaba.",
+				"number": 22
+			},
+			{
+				"verse": "Y toda la gente estaba atónita, y decía: ¿Será éste aquel Hijo de David?",
+				"number": 23
+			},
+			{
+				"verse": "Mas los fariseos, al oírlo, decían: Este no echa fuera los demonios sino por Beelzebú, príncipe de los demonios.",
+				"number": 24
+			},
+			{
+				"verse": "Sabiendo Jesús los pensamientos de ellos, les dijo: Todo reino dividido contra sí mismo, es asolado, y toda ciudad o casa dividida contra sí misma, no permanecerá.",
+				"number": 25
+			},
+			{
+				"verse": "Y si Satanás echa fuera a Satanás, contra sí mismo está dividido; ¿cómo, pues, permanecerá su reino?",
+				"number": 26
+			},
+			{
+				"verse": "Y si yo echo fuera los demonios por Beelzebú, ¿por quién los echan vuestros hijos? Por tanto, ellos serán vuestros jueces.",
+				"number": 27
+			},
+			{
+				"verse": "Pero si yo por el Espíritu de Dios echo fuera los demonios, ciertamente ha llegado a vosotros el reino de Dios.",
+				"number": 28
+			},
+			{
+				"verse": "Porque ¿cómo puede alguno entrar en la casa del hombre fuerte, y saquear sus bienes, si primero no le ata? Y entonces podrá saquear su casa.",
+				"number": 29
+			},
+			{
+				"verse": "El que no es conmigo, contra mí es; y el que conmigo no recoge, desparrama.",
+				"number": 30
+			},
+			{
+				"verse": "Por tanto os digo: Todo pecado y blasfemia será perdonado a los hombres; mas la blasfemia contra el Espíritu no les será perdonada.",
+				"number": 31
+			},
+			{
+				"verse": "A cualquiera que dijere alguna palabra contra el Hijo del Hombre, le será perdonado; pero al que hable contra el Espíritu Santo, no le será perdonado, ni en este siglo ni en el venidero.",
+				"number": 32
+			},
+			{
+				"verse": "O haced el árbol bueno, y su fruto bueno, o haced el árbol malo, y su fruto malo; porque por el fruto se conoce el árbol.",
+				"number": 33
+			},
+			{
+				"verse": "¡Generación de víboras! ¿Cómo podéis hablar lo bueno, siendo malos? Porque de la abundancia del corazón habla la boca.",
+				"number": 34
+			},
+			{
+				"verse": "El hombre bueno, del buen tesoro del corazón saca buenas cosas; y el hombre malo, del mal tesoro saca malas cosas.",
+				"number": 35
+			},
+			{
+				"verse": "Mas yo os digo que de toda palabra ociosa que hablen los hombres, de ella darán cuenta en el día del juicio.",
+				"number": 36
+			},
+			{
+				"verse": "Porque por tus palabras serás justificado, y por tus palabras serás condenado.",
+				"number": 37
+			},
+			{
+				"verse": "Entonces respondieron algunos de los escribas y de los fariseos, diciendo: Maestro, deseamos ver de ti señal.",
+				"number": 38
+			},
+			{
+				"verse": "El respondió y les dijo: La generación mala y adúltera demanda señal; pero señal no le será dada, sino la señal del profeta Jonás.",
+				"number": 39
+			},
+			{
+				"verse": "Porque como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches.",
+				"number": 40
+			},
+			{
+				"verse": "Los hombres de Nínive se levantarán en el juicio con esta generación, y la condenarán; porque ellos se arrepintieron a la predicación de Jonás, y he aquí más que Jonás en este lugar.",
+				"number": 41
+			},
+			{
+				"verse": "La reina del Sur se levantaráen el juicio con esta generación, y la condenará; porque ella vino de los fines de la tierra para oír la sabiduría de Salomón, y he aquí más que Salomón en este lugar.",
+				"number": 42
+			},
+			{
+				"verse": "Cuando el espíritu inmundo sale del hombre, anda por lugares secos, buscando reposo, y no lo halla.",
+				"number": 43
+			},
+			{
+				"verse": "Entonces dice: Volveré a mi casa de donde salí; y cuando llega, la halla desocupada, barrida y adornada.",
+				"number": 44
+			},
+			{
+				"verse": "Entonces va, y toma consigo otros siete espíritus peores que él, y entrados, moran allí; y el postrer estado de aquel hombre viene a ser peor que el primero. Así también acontecerá a esta mala generación.",
+				"number": 45
+			},
+			{
+				"verse": "Mientras él aún hablaba a la gente, he aquí su madre y sus hermanos estaban afuera, y le querían hablar.",
+				"number": 46
+			},
+			{
+				"verse": "Y le dijo uno: He aquí tu madre y tus hermanos están afuera, y te quieren hablar.",
+				"number": 47
+			},
+			{
+				"verse": "Respondiendo él al que le decía esto, dijo: ¿Quién es mi madre, y quiénes son mis hermanos?",
+				"number": 48
+			},
+			{
+				"verse": "Y extendiendo su mano hacia sus discípulos, dijo: He aquí mi madre y mis hermanos.",
+				"number": 49
+			},
+			{
+				"verse": "Porque todo aquel que hace la voluntad de mi Padre que los cielos, ése es mi hermano, y hermana, y madre.",
+				"number": 50
+			}
+		]
+	},
+	{
+		"chapter": "13",
+		"vers": [
+			{
+				"verse": "Aquel día salió Jesús de la casa y se sentó unto al mar.",
+				"number": 1
+			},
+			{
+				"verse": "Y se le juntó mucha gente; y entrando él en la barca, se sentó, y toda la gente estaba en la playa.",
+				"number": 2
+			},
+			{
+				"verse": "Y les habló muchas cosas por parábolas, diciendo: He aquí, el sembrador salió a sembrar.",
+				"number": 3
+			},
+			{
+				"verse": "Y mientras sembraba, parte de la semilla cayó junto al camino; y vinieron las aves y la comieron.",
+				"number": 4
+			},
+			{
+				"verse": "Parte cayó en pedregales, donde no había mucha tierra; y brotó pronto, porque no tenía profundidad de tierra;",
+				"number": 5
+			},
+			{
+				"verse": "pero salido el sol, se quemó; y porque no tenía raíz, se secó.",
+				"number": 6
+			},
+			{
+				"verse": "Y parte cayó entre espinos; y los espinos crecieron, y la ahogaron.",
+				"number": 7
+			},
+			{
+				"verse": "Pero parte cayó en buena tierra, y dio fruto, cuál a ciento, cuál a sesenta, y cuál a treinta por uno.",
+				"number": 8
+			},
+			{
+				"verse": "El que tiene oídos para oír, oiga.",
+				"number": 9
+			},
+			{
+				"verse": "Entonces, acercándose los discípulos, le dijeron: ¿Por qué les hablas por parábolas?",
+				"number": 10
+			},
+			{
+				"verse": "El respondiendo, les dijo: Porque a vosotros os es dado saber los misterios del reino de los cielos; mas a ellos no les es dado.",
+				"number": 11
+			},
+			{
+				"verse": "Porque a cualquiera que tiene, se le dará, y tendrá más; pero al que no tiene, aun lo que tiene le será quitado.",
+				"number": 12
+			},
+			{
+				"verse": "Por eso les hablo por parábolas: porque viendo no ven, y oyendo no oyen, ni entienden.",
+				"number": 13
+			},
+			{
+				"verse": "De manera que se cumple en ellos la profecía de Isaías, que dijo: De oído oiréis, y no entenderéis; Y viendo veréis, y no percibiréis.",
+				"number": 14
+			},
+			{
+				"verse": "Porque el corazón de este pueblo se ha engrosado, Y con los oídos oyen pesadamente, Y han cerrado sus ojos; Para que no vean con los ojos, Y oigan con los oídos, Y con el corazón entiendan, Y se conviertan, Y yo los sane.",
+				"number": 15
+			},
+			{
+				"verse": "Pero bienaventurados vuestros ojos, porque ven; y vuestros oídos, porque oyen.",
+				"number": 16
+			},
+			{
+				"verse": "Porque de cierto os digo, que muchos profetas y justos desearon ver lo que veis, y no lo vieron; y oír lo que oís, y no lo oyeron.",
+				"number": 17
+			},
+			{
+				"verse": "Oíd, pues, vosotros la parábola del sembrador:",
+				"number": 18
+			},
+			{
+				"verse": "Cuando alguno oye la palabra del reino y no la entiende, viene el malo, y arrebata lo que fue sembrado en su corazón. Este es el que fue sembrado junto al camino.",
+				"number": 19
+			},
+			{
+				"verse": "Y el que fue sembrado en pedregales, éste es el que oye la palabra, y al momento la recibe con gozo;",
+				"number": 20
+			},
+			{
+				"verse": "pero no tiene raíz en sí, sino que es de corta duración, pues al venir la aflicción o la persecución por causa de la palabra, luego tropieza.",
+				"number": 21
+			},
+			{
+				"verse": "El que fue sembrado entre espinos, éste es el que oye la palabra, pero el afán de este siglo y el engaño de las riquezas ahogan la palabra, y se hace infructuosa.",
+				"number": 22
+			},
+			{
+				"verse": "Mas el que fue sembrado en buena tierra, éste es el que oye y entiende la palabra, y da fruto; y produce a ciento, a sesenta, y a treinta por uno.",
+				"number": 23
+			},
+			{
+				"verse": "Les refirió otra parábola, diciendo: El reino de los cielos es semejante a un hombre que sembró buena semilla en su campo;",
+				"number": 24
+			},
+			{
+				"verse": "pero mientras dormían los hombres, vino su enemigo y sembró cizaña entre el trigo, y se fue.",
+				"number": 25
+			},
+			{
+				"verse": "Y cuando salió la hierba y dio fruto, entonces apareció también la cizaña.",
+				"number": 26
+			},
+			{
+				"verse": "Vinieron entonces los siervos del padre de familia y le dijeron: Señor, ¿no sembraste buena semilla en tu campo? ¿De dónde, pues, tiene cizaña?",
+				"number": 27
+			},
+			{
+				"verse": "El les dijo: Un enemigo ha hecho esto. Y los siervos le dijeron: ¿Quieres, pues, que vayamos y la arranquemos?",
+				"number": 28
+			},
+			{
+				"verse": "El les dijo: No, no sea que al arrancar la cizaña, arranquéis también con ella el trigo.",
+				"number": 29
+			},
+			{
+				"verse": "Dejad crecer juntamente lo uno y lo otro hasta la siega; y al tiempo de la siega yo diré a los segadores: Recoged primero la cizaña, y atadla en manojos para quemarla; pero recoged el trigo en mi granero.",
+				"number": 30
+			},
+			{
+				"verse": "Otra parábola les refirió, diciendo: El reino de los cielos es semejante al grano de mostaza, que un hombre tomó y sembró en su campo;",
+				"number": 31
+			},
+			{
+				"verse": "el cual a la verdad es la más pequeña de todas las semillas; pero cuando ha crecido, es la mayor de las hortalizas, y se hace árbol, de tal manera que vienen las aves del cielo y hacen nidos en sus ramas.",
+				"number": 32
+			},
+			{
+				"verse": "Otra parábola les dijo: El reino de los cielos es semejante a la levadura que tomó una mujer, y escondió en tres medidas de harina, hasta que todo fue leudado.",
+				"number": 33
+			},
+			{
+				"verse": "Todo esto habló Jesús por parábolas a la gente, y sin parábolas no les hablaba;",
+				"number": 34
+			},
+			{
+				"verse": "para que se cumpliese lo dicho por el profeta, cuando dijo: Abriré en parábolas mi boca; Declararé cosas escondidas desde la fundación del mundo.",
+				"number": 35
+			},
+			{
+				"verse": "Entonces, despedida la gente, entró Jesús en la casa; y acercándose a él sus discípulos, le dijeron: Explícanos la parábola de la cizaña del campo.",
+				"number": 36
+			},
+			{
+				"verse": "Respondiendo él, les dijo: El que siembra la buena semilla es el Hijo del Hombre.",
+				"number": 37
+			},
+			{
+				"verse": "El campo es el mundo; la buena semilla son los hijos del reino, y la cizaña son los hijos del malo.",
+				"number": 38
+			},
+			{
+				"verse": "El enemigo que la sembróes el diablo; la siega es el fin del siglo; y los segadores son los ángeles.",
+				"number": 39
+			},
+			{
+				"verse": "De manera que como se arranca la cizaña, y se quema en el fuego, asíseráen el fin de este siglo.",
+				"number": 40
+			},
+			{
+				"verse": "Enviará el Hijo del Hombre a sus ángeles, y recogerán de su reino a todos los que sirven de tropiezo, y a los que hacen iniquidad,",
+				"number": 41
+			},
+			{
+				"verse": "y los echarán en el horno de fuego; allí será el lloro y el crujir de dientes.",
+				"number": 42
+			},
+			{
+				"verse": "Entonces los justos resplandecerán como el sol en el reino de su Padre. El que tiene oídos para oír, oiga.",
+				"number": 43
+			},
+			{
+				"verse": "Además, el reino de los cielos es semejante a un tesoro escondido en un campo, el cual un hombre halla, y lo esconde de nuevo; y gozoso por ello va y vende todo lo que tiene, y compra aquel campo.",
+				"number": 44
+			},
+			{
+				"verse": "También el reino de los cielos es semejante a un mercader que busca buenas perlas,",
+				"number": 45
+			},
+			{
+				"verse": "que habiendo hallado una perla preciosa, fue y vendió todo lo que tenía, y la compró.",
+				"number": 46
+			},
+			{
+				"verse": "Asimismo el reino de los cielos es semejante a una red, que echada en el mar, recoge de toda clase de peces;",
+				"number": 47
+			},
+			{
+				"verse": "y una vez llena, la sacan a la orilla; y sentados, recogen lo bueno en cestas, y lo malo echan fuera.",
+				"number": 48
+			},
+			{
+				"verse": "Asíserá al fin del siglo: saldrán los ángeles, y apartarán a los malos de entre los justos,",
+				"number": 49
+			},
+			{
+				"verse": "y los echarán en el horno de fuego; allí será el lloro y el crujir de dientes.",
+				"number": 50
+			},
+			{
+				"verse": "Jesús les dijo: ¿Habéis entendido todas estas cosas? Ellos respondieron: Sí, Señor.",
+				"number": 51
+			},
+			{
+				"verse": "El les dijo: Por eso todo escriba docto en el reino de los cielos es semejante a un padre de familia, que saca de su tesoro cosas nuevas y cosas viejas.",
+				"number": 52
+			},
+			{
+				"verse": "Aconteció que cuando terminó Jesús estas parábolas, se fue de allí.",
+				"number": 53
+			},
+			{
+				"verse": "Y venido a su tierra, les enseñaba en la sinagoga de ellos, de tal manera que se maravillaban, y decían: ¿De dónde tiene éste esta sabiduría y estos milagros?",
+				"number": 54
+			},
+			{
+				"verse": "¿No es éste el hijo del carpintero? ¿No se llama su madre María, y sus hermanos, Jacobo, José, Simón y Judas?",
+				"number": 55
+			},
+			{
+				"verse": "¿No están todas sus hermanas con nosotros? ¿De dónde, pues, tiene éste todas estas cosas?",
+				"number": 56
+			},
+			{
+				"verse": "Y se escandalizaban de él. Pero Jesús les dijo: No hay profeta sin honra, sino en su propia tierra y en su casa.",
+				"number": 57
+			},
+			{
+				"verse": "Y no hizo allí muchos milagros, a causa de la incredulidad de ellos.",
+				"number": 58
+			}
+		]
+	},
+	{
+		"chapter": "14",
+		"vers": [
+			{
+				"verse": "En aquel tiempo Herodes el tetrarca oyó la fama de Jesús,",
+				"number": 1
+			},
+			{
+				"verse": "y dijo a sus criados: Este es Juan el Bautista; ha resucitado de los muertos, y por eso actúan en él estos poderes.",
+				"number": 2
+			},
+			{
+				"verse": "Porque Herodes había prendido a Juan, y le había encadenado y metido en la cárcel, por causa de Herodías, mujer de Felipe su hermano;",
+				"number": 3
+			},
+			{
+				"verse": "porque Juan le decía: No te es lícito tenerla.",
+				"number": 4
+			},
+			{
+				"verse": "Y Herodes quería matarle, pero temía al pueblo; porque tenían a Juan por profeta.",
+				"number": 5
+			},
+			{
+				"verse": "Pero cuando se celebraba el cumpleaños de Herodes, la hija de Herodías danzó en medio, y agradó a Herodes,",
+				"number": 6
+			},
+			{
+				"verse": "por lo cual éste le prometió con juramento darle todo lo que pidiese.",
+				"number": 7
+			},
+			{
+				"verse": "Ella, instruida primero por su madre, dijo: Dame aquí en un plato la cabeza de Juan el Bautista.",
+				"number": 8
+			},
+			{
+				"verse": "Entonces el rey se entristeció; pero a causa del juramento, y de los que estaban con él a la mesa, mandó que se la diesen,",
+				"number": 9
+			},
+			{
+				"verse": "y ordenó decapitar a Juan en la cárcel.",
+				"number": 10
+			},
+			{
+				"verse": "Y fue traída su cabeza en un plato, y dada a la muchacha; y ella la presentó a su madre.",
+				"number": 11
+			},
+			{
+				"verse": "Entonces llegaron sus discípulos, y tomaron el cuerpo y lo enterraron; y fueron y dieron las nuevas a Jesús.",
+				"number": 12
+			},
+			{
+				"verse": "Oyéndolo Jesús, se apartó de allí en una barca a un lugar desierto y apartado; y cuando la gente lo oyó, le siguió a pie desde las ciudades.",
+				"number": 13
+			},
+			{
+				"verse": "Y saliendo Jesús, vio una gran multitud, y tuvo compasión de ellos, y sanó a los que de ellos estaban enfermos.",
+				"number": 14
+			},
+			{
+				"verse": "Cuando anochecía, se acercaron a él sus discípulos, diciendo: El lugar es desierto, y la hora ya pasada; despide a la multitud, para que vayan por las aldeas y compren de comer.",
+				"number": 15
+			},
+			{
+				"verse": "Jesús les dijo: No tienen necesidad de irse; dadles vosotros de comer.",
+				"number": 16
+			},
+			{
+				"verse": "Y ellos dijeron: No tenemos aquí sino cinco panes y dos peces.",
+				"number": 17
+			},
+			{
+				"verse": "El les dijo: Traédmelos acá.",
+				"number": 18
+			},
+			{
+				"verse": "Entonces mandóa la gente recostarse sobre la hierba; y tomando los cinco panes y los dos peces, y levantando los ojos al cielo, bendijo, y partió y dio los panes a los discípulos, y los discípulos a la multitud.",
+				"number": 19
+			},
+			{
+				"verse": "Y comieron todos, y se saciaron; y recogieron lo que sobró de los pedazos, doce cestas llenas.",
+				"number": 20
+			},
+			{
+				"verse": "Y los que comieron fueron como cinco mil hombres, sin contar las mujeres y los niños.",
+				"number": 21
+			},
+			{
+				"verse": "En seguida Jesús hizo a sus discípulos entrar en la barca e ir delante de él a la otra ribera, entre tanto que él despedía a la multitud.",
+				"number": 22
+			},
+			{
+				"verse": "Despedida la multitud, subió al monte a orar aparte; y cuando llegó la noche, estaba allí solo.",
+				"number": 23
+			},
+			{
+				"verse": "Y ya la barca estaba en medio del mar, azotada por las olas; porque el viento era contrario.",
+				"number": 24
+			},
+			{
+				"verse": "Mas a la cuarta vigilia de la noche, Jesús vino a ellos andando sobre el mar.",
+				"number": 25
+			},
+			{
+				"verse": "Y los discípulos, viéndole andar sobre el mar, se turbaron, diciendo: ¡Un fantasma! Y dieron voces de miedo.",
+				"number": 26
+			},
+			{
+				"verse": "Pero en seguida Jesús les habló, diciendo: ¡Tened ánimo; yo soy, no temáis!",
+				"number": 27
+			},
+			{
+				"verse": "Entonces le respondió Pedro, y dijo: Señor, si eres tú, manda que yo vaya a ti sobre las aguas.",
+				"number": 28
+			},
+			{
+				"verse": "Y él dijo: Ven. Y descendiendo Pedro de la barca, andaba sobre las aguas para ir a Jesús.",
+				"number": 29
+			},
+			{
+				"verse": "Pero al ver el fuerte viento, tuvo miedo; y comenzando a hundirse, dio voces, diciendo: ¡Señor, sálvame!",
+				"number": 30
+			},
+			{
+				"verse": "Al momento Jesús, extendiendo la mano, asió de él, y le dijo: ¡Hombre de poca fe! ¿Por qué dudaste?",
+				"number": 31
+			},
+			{
+				"verse": "Y cuando ellos subieron en la barca, se calmó el viento.",
+				"number": 32
+			},
+			{
+				"verse": "Entonces los que estaban en la barca vinieron y le adoraron, diciendo: Verdaderamente eres Hijo de Dios.",
+				"number": 33
+			},
+			{
+				"verse": "Y terminada la travesía, vinieron a tierra de Genesaret.",
+				"number": 34
+			},
+			{
+				"verse": "Cuando le conocieron los hombres de aquel lugar, enviaron noticia por toda aquella tierra alrededor, y trajeron a él todos los enfermos;",
+				"number": 35
+			},
+			{
+				"verse": "y le rogaban que les dejase tocar solamente el borde de su manto; y todos los que lo tocaron, quedaron sanos.",
+				"number": 36
+			}
+		]
+	},
+	{
+		"chapter": "15",
+		"vers": [
+			{
+				"verse": "Entonces se acercaron a Jesús ciertos escribas y fariseos de Jerusalén, diciendo:",
+				"number": 1
+			},
+			{
+				"verse": "¿Por qué tus discípulos quebrantan la tradición de los ancianos? Porque no se lavan las manos cuando comen pan.",
+				"number": 2
+			},
+			{
+				"verse": "Respondiendo él, les dijo: ¿Por qué también vosotros quebrantáis el mandamiento de Dios por vuestra tradición?",
+				"number": 3
+			},
+			{
+				"verse": "Porque Dios mandó diciendo: Honra a tu padre y a tu madre; y: El que maldiga al padre o a la madre, muera irremisiblemente.",
+				"number": 4
+			},
+			{
+				"verse": "Pero vosotros decís: Cualquiera que diga a su padre o a su madre: Es mi ofrenda a Dios todo aquello con que pudiera ayudarte,",
+				"number": 5
+			},
+			{
+				"verse": "ya no ha de honrar a su padre o a su madre. Así habéis invalidado el mandamiento de Dios por vuestra tradición.",
+				"number": 6
+			},
+			{
+				"verse": "Hipócritas, bien profetizó de vosotros Isaías, cuando dijo:",
+				"number": 7
+			},
+			{
+				"verse": "Este pueblo de labios me honra; Mas su corazón está lejos de mí.",
+				"number": 8
+			},
+			{
+				"verse": "Pues en vano me honran, Enseñando como doctrinas, mandamientos de hombres.",
+				"number": 9
+			},
+			{
+				"verse": "Y llamando a sí a la multitud, les dijo: Oíd, y entended:",
+				"number": 10
+			},
+			{
+				"verse": "No lo que entra en la boca contamina al hombre; mas lo que sale de la boca, esto contamina al hombre.",
+				"number": 11
+			},
+			{
+				"verse": "Entonces acercándose sus discípulos, le dijeron: ¿Sabes que los fariseos se ofendieron cuando oyeron esta palabra?",
+				"number": 12
+			},
+			{
+				"verse": "Pero respondiendo él, dijo: Toda planta que no plantó mi Padre celestial, será desarraigada.",
+				"number": 13
+			},
+			{
+				"verse": "Dejadlos; son ciegos guías de ciegos; y si el ciego guiare al ciego, ambos caerán en el hoyo.",
+				"number": 14
+			},
+			{
+				"verse": "Respondiendo Pedro, le dijo: Explícanos esta parábola.",
+				"number": 15
+			},
+			{
+				"verse": "Jesús dijo: ¿También vosotros sois aún sin entendimiento?",
+				"number": 16
+			},
+			{
+				"verse": "¿No entendéis que todo lo que entra en la boca va al vientre, y es echado en la letrina?",
+				"number": 17
+			},
+			{
+				"verse": "Pero lo que sale de la boca, del corazón sale; y esto contamina al hombre.",
+				"number": 18
+			},
+			{
+				"verse": "Porque del corazón salen los malos pensamientos, los homicidios, los adulterios, las fornicaciones, los hurtos, los falsos testimonios, las blasfemias.",
+				"number": 19
+			},
+			{
+				"verse": "Estas cosas son las que contaminan al hombre; pero el comer con las manos sin lavar no contamina al hombre.",
+				"number": 20
+			},
+			{
+				"verse": "Saliendo Jesús de allí, se fue a la región de Tiro y de Sidón.",
+				"number": 21
+			},
+			{
+				"verse": "Y he aquí una mujer cananea que había salido de aquella región clamaba, diciéndole: ¡Señor, Hijo de David, ten misericordia de mí! Mi hija es gravemente atormentada por un demonio.",
+				"number": 22
+			},
+			{
+				"verse": "Pero Jesús no le respondió palabra. Entonces acercándose sus discípulos, le rogaron, diciendo: Despídela, pues da voces tras nosotros.",
+				"number": 23
+			},
+			{
+				"verse": "El respondiendo, dijo: No soy enviado sino a las ovejas perdidas de la casa de Israel.",
+				"number": 24
+			},
+			{
+				"verse": "Entonces ella vino y se postró ante él, diciendo: ¡Señor, socórreme!",
+				"number": 25
+			},
+			{
+				"verse": "Respondiendo él, dijo: No está bien tomar el pan de los hijos, y echarlo a los perrillos.",
+				"number": 26
+			},
+			{
+				"verse": "Y ella dijo: Sí, Señor; pero aun los perrillos comen de las migajas que caen de la mesa de sus amos.",
+				"number": 27
+			},
+			{
+				"verse": "Entonces respondiendo Jesús, dijo: Oh mujer, grande es tu fe; hágase contigo como quieres. Y su hija fue sanada desde aquella hora.",
+				"number": 28
+			},
+			{
+				"verse": "Pasó Jesús de allí y vino junto al mar de Galilea; y subiendo al monte, se sentó allí.",
+				"number": 29
+			},
+			{
+				"verse": "Y se le acercó mucha gente que traía consigo a cojos, ciegos, mudos, mancos, y otros muchos enfermos; y los pusieron a los pies de Jesús, y los sanó;",
+				"number": 30
+			},
+			{
+				"verse": "de manera que la multitud se maravillaba, viendo a los mudos hablar, a los mancos sanados, a los cojos andar, y a los ciegos ver; y glorificaban al Dios de Israel.",
+				"number": 31
+			},
+			{
+				"verse": "Y Jesús, llamando a sus discípulos, dijo: Tengo compasión de la gente, porque ya hace tres días que están conmigo, y no tienen qué comer; y enviarlos en ayunas no quiero, no sea que desmayen en el camino.",
+				"number": 32
+			},
+			{
+				"verse": "Entonces sus discípulos le dijeron: ¿De dónde tenemos nosotros tantos panes en el desierto, para saciar a una multitud tan grande?",
+				"number": 33
+			},
+			{
+				"verse": "Jesús les dijo: ¿Cuántos panes tenéis? Y ellos dijeron: Siete, y unos pocos pececillos.",
+				"number": 34
+			},
+			{
+				"verse": "Y mandó a la multitud que se recostase en tierra.",
+				"number": 35
+			},
+			{
+				"verse": "Y tomando los siete panes y los peces, dio gracias, los partió y dio a sus discípulos, y los discípulos a la multitud.",
+				"number": 36
+			},
+			{
+				"verse": "Y comieron todos, y se saciaron; y recogieron lo que sobró de los pedazos, siete canastas llenas.",
+				"number": 37
+			},
+			{
+				"verse": "Y eran los que habían comido, cuatro mil hombres, sin contar las mujeres y los niños.",
+				"number": 38
+			},
+			{
+				"verse": "Entonces, despedida la gente, entró en la barca, y vino a la región de Magdala.",
+				"number": 39
+			}
+		]
+	},
+	{
+		"chapter": "16",
+		"vers": [
+			{
+				"verse": "Vinieron los fariseos y los saduceos para tentarle, y le pidieron que les mostrase señal del cielo.",
+				"number": 1
+			},
+			{
+				"verse": "Mas él respondiendo, les dijo: Cuando anochece, decís: Buen tiempo; porque el cielo tiene arreboles.",
+				"number": 2
+			},
+			{
+				"verse": "Y por la mañana: Hoy habrá tempestad; porque tiene arreboles el cielo nublado. ¡Hipócritas! que sabéis distinguir el aspecto del cielo, ¡mas las señales de los tiempos no podéis!",
+				"number": 3
+			},
+			{
+				"verse": "La generación mala y adúltera demanda señal; pero señal no le será dada, sino la señal del profeta Jonás. Y dejándolos, se fue.",
+				"number": 4
+			},
+			{
+				"verse": "Llegando sus discípulos al otro lado, se habían olvidado de traer pan.",
+				"number": 5
+			},
+			{
+				"verse": "Y Jesús les dijo: Mirad, guardaos de la levadura de los fariseos y de los saduceos.",
+				"number": 6
+			},
+			{
+				"verse": "Ellos pensaban dentro de sí, diciendo: Esto dice porque no trajimos pan.",
+				"number": 7
+			},
+			{
+				"verse": "Y entendiéndolo Jesús, les dijo: ¿Por qué pensáis dentro de vosotros, hombres de poca fe, que no tenéis pan?",
+				"number": 8
+			},
+			{
+				"verse": "¿No entendéis aún, ni os acordáis de los cinco panes entre cinco mil hombres, y cuántas cestas recogisteis?",
+				"number": 9
+			},
+			{
+				"verse": "¿Ni de los siete panes entre cuatro mil, y cuántas canastas recogisteis?",
+				"number": 10
+			},
+			{
+				"verse": "¿Cómo es que no entendéis que no fue por el pan que os dije que os guardaseis de la levadura de los fariseos y de los saduceos?",
+				"number": 11
+			},
+			{
+				"verse": "Entonces entendieron que no les había dicho que se guardasen de la levadura del pan, sino de la doctrina de los fariseos y de los saduceos.",
+				"number": 12
+			},
+			{
+				"verse": "Viniendo Jesús a la región de Cesarea de Filipo, preguntó a sus discípulos, diciendo: ¿Quién dicen los hombres que es el Hijo del Hombre?",
+				"number": 13
+			},
+			{
+				"verse": "Ellos dijeron: Unos, Juan el Bautista; otros, Elías; y otros, Jeremías, o alguno de los profetas.",
+				"number": 14
+			},
+			{
+				"verse": "El les dijo: Y vosotros, ¿quién decís que soy yo?",
+				"number": 15
+			},
+			{
+				"verse": "Respondiendo Simón Pedro, dijo: Tú eres el Cristo, el Hijo del Dios viviente.",
+				"number": 16
+			},
+			{
+				"verse": "Entonces le respondió Jesús: Bienaventurado eres, Simón, hijo de Jonás, porque no te lo reveló carne ni sangre, sino mi Padre que está en los cielos.",
+				"number": 17
+			},
+			{
+				"verse": "Y yo también te digo, que tú eres Pedro, y sobre esta roca edificaré mi iglesia; y las puertas del Hades no prevalecerán contra ella.",
+				"number": 18
+			},
+			{
+				"verse": "Y a ti te daré las llaves del reino de los cielos; y todo lo que atares en la tierra será atado en los cielos; y todo lo que desatares en la tierra será desatado en los cielos.",
+				"number": 19
+			},
+			{
+				"verse": "Entonces mandó a sus discípulos que a nadie dijesen que él era Jesús el Cristo.",
+				"number": 20
+			},
+			{
+				"verse": "Desde entonces comenzó Jesús a declarar a sus discípulos que le era necesario ir a Jerusalén y padecer mucho de los ancianos, de los principales sacerdotes y de los escribas; y ser muerto, y resucitar al tercer día.",
+				"number": 21
+			},
+			{
+				"verse": "Entonces Pedro, tomándolo aparte, comenzó a reconvenirle, diciendo: Señor, ten compasión de ti; en ninguna manera esto te acontezca.",
+				"number": 22
+			},
+			{
+				"verse": "Pero él, volviéndose, dijo a Pedro: ¡Quítate de delante de mí, Satanás!; me eres tropiezo, porque no pones la mira en las cosas de Dios, sino en las de los hombres.",
+				"number": 23
+			},
+			{
+				"verse": "Entonces Jesús dijo a sus discípulos: Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame.",
+				"number": 24
+			},
+			{
+				"verse": "Porque todo el que quiera salvar su vida, la perderá; y todo el que pierda su vida por causa de mí, la hallará.",
+				"number": 25
+			},
+			{
+				"verse": "Porque ¿qué aprovechará al hombre, si ganare todo el mundo, y perdiere su alma? ¿O qué recompensa dará el hombre por su alma?",
+				"number": 26
+			},
+			{
+				"verse": "Porque el Hijo del Hombre vendrá en la gloria de su Padre con sus ángeles, y entonces pagará a cada uno conforme a sus obras.",
+				"number": 27
+			},
+			{
+				"verse": "De cierto os digo que hay algunos de los que están aquí, que no gustarán la muerte, hasta que hayan visto al Hijo del Hombre viniendo en su reino.",
+				"number": 28
+			}
+		]
+	},
+	{
+		"chapter": "17",
+		"vers": [
+			{
+				"verse": "Seis días después, Jesús tomó a Pedro, a Jacobo y a Juan su hermano, y los llevó aparte a un monte alto;",
+				"number": 1
+			},
+			{
+				"verse": "y se transfiguró delante de ellos, y resplandeció su rostro como el sol, y sus vestidos se hicieron blancos como la luz.",
+				"number": 2
+			},
+			{
+				"verse": "Y he aquí les aparecieron Moisés y Elías, hablando con él.",
+				"number": 3
+			},
+			{
+				"verse": "Entonces Pedro dijo a Jesús: Señor, bueno es para nosotros que estemos aquí; si quieres, hagamos aquí tres enramadas: una para ti, otra para Moisés, y otra para Elías.",
+				"number": 4
+			},
+			{
+				"verse": "Mientras él aún hablaba, una nube de luz los cubrió; y he aquí una voz desde la nube, que decía: Este es mi Hijo amado, en quien tengo complacencia; a él oíd.",
+				"number": 5
+			},
+			{
+				"verse": "Al oír esto los discípulos, se postraron sobre sus rostros, y tuvieron gran temor.",
+				"number": 6
+			},
+			{
+				"verse": "Entonces Jesús se acercó y los tocó, y dijo: Levantaos, y no temáis.",
+				"number": 7
+			},
+			{
+				"verse": "Y alzando ellos los ojos, a nadie vieron sino a Jesús solo.",
+				"number": 8
+			},
+			{
+				"verse": "Cuando descendieron del monte, Jesús les mandó, diciendo: No digáis a nadie la visión, hasta que el Hijo del Hombre resucite de los muertos.",
+				"number": 9
+			},
+			{
+				"verse": "Entonces sus discípulos le preguntaron, diciendo: ¿Por qué, pues, dicen los escribas que es necesario que Elías venga primero?",
+				"number": 10
+			},
+			{
+				"verse": "Respondiendo Jesús, les dijo: A la verdad, Elías viene primero, y restaurará todas las cosas.",
+				"number": 11
+			},
+			{
+				"verse": "Mas os digo que Elías ya vino, y no le conocieron, sino que hicieron con él todo lo que quisieron; así también el Hijo del Hombre padecerá de ellos.",
+				"number": 12
+			},
+			{
+				"verse": "Entonces los discípulos comprendieron que les había hablado de Juan el Bautista.",
+				"number": 13
+			},
+			{
+				"verse": "Cuando llegaron al gentío, vino a él un hombre que se arrodilló delante de él, diciendo:",
+				"number": 14
+			},
+			{
+				"verse": "Señor, ten misericordia de mi hijo, que es lunático, y padece muchísimo; porque muchas veces cae en el fuego, y muchas en el agua.",
+				"number": 15
+			},
+			{
+				"verse": "Y lo he traído a tus discípulos, pero no le han podido sanar.",
+				"number": 16
+			},
+			{
+				"verse": "Respondiendo Jesús, dijo: ¡Oh generación incrédula y perversa! ¿Hasta cuándo he de estar con vosotros? ¿Hasta cuándo os he de soportar? Traédmelo acá.",
+				"number": 17
+			},
+			{
+				"verse": "Y reprendió Jesús al demonio, el cual salió del muchacho, y éste quedó sano desde aquella hora.",
+				"number": 18
+			},
+			{
+				"verse": "Viniendo entonces los discípulos a Jesús, aparte, dijeron: ¿Por qué nosotros no pudimos echarlo fuera?",
+				"number": 19
+			},
+			{
+				"verse": "Jesús les dijo: Por vuestra poca fe; porque de cierto os digo, que si tuviereis fe como un grano de mostaza, diréis a este monte: Pásate de aquí allá, y se pasará; y nada os será imposible.",
+				"number": 20
+			},
+			{
+				"verse": "Pero este género no sale sino con oración y ayuno.",
+				"number": 21
+			},
+			{
+				"verse": "Estando ellos en Galilea, Jesús les dijo: El Hijo del Hombre será entregado en manos de hombres,",
+				"number": 22
+			},
+			{
+				"verse": "y le matarán; mas al tercer día resucitará. Y ellos se entristecieron en gran manera.",
+				"number": 23
+			},
+			{
+				"verse": "Cuando llegaron a Capernaum, vinieron a Pedro los que cobraban las dos dracmas, y le dijeron: ¿Vuestro Maestro no paga las dos dracmas?",
+				"number": 24
+			},
+			{
+				"verse": "El dijo: Sí. Y al entrar él en casa, Jesús le habló primero, diciendo: ¿Qué te parece, Simón? Los reyes de la tierra, ¿de quiénes cobran los tributos o los impuestos? ¿De sus hijos, o de los extraños?",
+				"number": 25
+			},
+			{
+				"verse": "Pedro le respondió: De los extraños. Jesús le dijo: Luego los hijos están exentos.",
+				"number": 26
+			},
+			{
+				"verse": "Sin embargo, para no ofenderles, ve al mar, y echa el anzuelo, y el primer pez que saques, tómalo, y al abrirle la boca, hallarás un estatero; tómalo, y dáselo por mí y por ti.",
+				"number": 27
+			}
+		]
+	},
+	{
+		"chapter": "18",
+		"vers": [
+			{
+				"verse": "En aquel tiempo los discípulos vinieron a Jesús, diciendo: ¿Quién es el mayor en el reino de los cielos?",
+				"number": 1
+			},
+			{
+				"verse": "Y llamando Jesús a un niño, lo puso en medio de ellos,",
+				"number": 2
+			},
+			{
+				"verse": "y dijo: De cierto os digo, que si no os volvéis y os hacéis como niños, no entraréis en el reino de los cielos.",
+				"number": 3
+			},
+			{
+				"verse": "Así que, cualquiera que se humille como este niño, ése es el mayor en el reino de los cielos.",
+				"number": 4
+			},
+			{
+				"verse": "Y cualquiera que reciba en mi nombre a un niño como este, a mí me recibe.",
+				"number": 5
+			},
+			{
+				"verse": "Y cualquiera que haga tropezar a alguno de estos pequeños que creen en mí, mejor le fuera que se le colgase al cuello una piedra de molino de asno, y que se le hundiese en lo profundo del mar.",
+				"number": 6
+			},
+			{
+				"verse": "¡Ay del mundo por los tropiezos! porque es necesario que vengan tropiezos, pero ¡ay de aquel hombre por quien viene el tropiezo!",
+				"number": 7
+			},
+			{
+				"verse": "Por tanto, si tu mano o tu pie te es ocasión de caer, córtalo y échalo de ti; mejor te es entrar en la vida cojo o manco, que teniendo dos manos o dos pies ser echado en el fuego eterno.",
+				"number": 8
+			},
+			{
+				"verse": "Y si tu ojo te es ocasión de caer, sácalo y échalo de ti; mejor te es entrar con un solo ojo en la vida, que teniendo dos ojos ser echado en el infierno de fuego.",
+				"number": 9
+			},
+			{
+				"verse": "Mirad que no menospreciéis a uno de estos pequeños; porque os digo que sus ángeles en los cielos ven siempre el rostro de mi Padre que está en los cielos.",
+				"number": 10
+			},
+			{
+				"verse": "Porque el Hijo del Hombre ha venido para salvar lo que se había perdido.",
+				"number": 11
+			},
+			{
+				"verse": "¿Qué os parece? Si un hombre tiene cien ovejas, y se descarría una de ellas, ¿no deja las noventa y nueve y va por los montes a buscar la que se había descarriado?",
+				"number": 12
+			},
+			{
+				"verse": "Y si acontece que la encuentra, de cierto os digo que se regocija más por aquélla, que por las noventa y nueve que no se descarriaron.",
+				"number": 13
+			},
+			{
+				"verse": "Así, no es la voluntad de vuestro Padre que está en los cielos, que se pierda uno de estos pequeños.",
+				"number": 14
+			},
+			{
+				"verse": "Por tanto, si tu hermano peca contra ti, ve y repréndele estando tú y él solos; si te oyere, has ganado a tu hermano.",
+				"number": 15
+			},
+			{
+				"verse": "Mas si no te oyere, toma aún contigo a uno o dos, para que en boca de dos o tres testigos conste toda palabra.",
+				"number": 16
+			},
+			{
+				"verse": "Si no los oyere a ellos, dilo a la iglesia; y si no oyere a la iglesia, tenle por gentil y publicano.",
+				"number": 17
+			},
+			{
+				"verse": "De cierto os digo que todo lo que atéis en la tierra, será atado en el cielo; y todo lo que desatéis en la tierra, será desatado en el cielo.",
+				"number": 18
+			},
+			{
+				"verse": "Otra vez os digo, que si dos de vosotros se pusieren de acuerdo en la tierra acerca de cualquiera cosa que pidieren, les será hecho por mi Padre que está en los cielos.",
+				"number": 19
+			},
+			{
+				"verse": "Porque donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos.",
+				"number": 20
+			},
+			{
+				"verse": "Entonces se le acercó Pedro y le dijo: Señor, ¿cuántas veces perdonaré a mi hermano que peque contra mí? ¿Hasta siete?",
+				"number": 21
+			},
+			{
+				"verse": "Jesús le dijo: No te digo hasta siete, sino aun hasta setenta veces siete.",
+				"number": 22
+			},
+			{
+				"verse": "Por lo cual el reino de los cielos es semejante a un rey que quiso hacer cuentas con sus siervos.",
+				"number": 23
+			},
+			{
+				"verse": "Y comenzando a hacer cuentas, le fue presentado uno que le debía diez mil talentos",
+				"number": 24
+			},
+			{
+				"verse": "A éste, como no pudo pagar, ordenó su señor venderle, y a su mujer e hijos, y todo lo que tenía, para que se le pagase la deuda.",
+				"number": 25
+			},
+			{
+				"verse": "Entonces aquel siervo, postrado, le suplicaba, diciendo: Señor, ten paciencia conmigo, y yo te lo pagaré todo.",
+				"number": 26
+			},
+			{
+				"verse": "El señor de aquel siervo, movido a misericordia, le soltó y le perdonó la deuda.",
+				"number": 27
+			},
+			{
+				"verse": "Pero saliendo aquel siervo, halló a uno de sus consiervos, que le debía cien denarios; y asiendo de él, le ahogaba, diciendo: Págame lo que me debes.",
+				"number": 28
+			},
+			{
+				"verse": "Entonces su consiervo, postrándose a sus pies, le rogaba diciendo: Ten paciencia conmigo, y yo te lo pagaré todo.",
+				"number": 29
+			},
+			{
+				"verse": "Mas él no quiso, sino fue y le echó en la cárcel, hasta que pagase la deuda.",
+				"number": 30
+			},
+			{
+				"verse": "Viendo sus consiervos lo que pasaba, se entristecieron mucho, y fueron y refirieron a su señor todo lo que había pasado.",
+				"number": 31
+			},
+			{
+				"verse": "Entonces, llamándole su señor, le dijo: Siervo malvado, toda aquella deuda te perdoné, porque me rogaste.",
+				"number": 32
+			},
+			{
+				"verse": "¿No debías tú también tener misericordia de tu consiervo, como yo tuve misericordia de ti?",
+				"number": 33
+			},
+			{
+				"verse": "Entonces su señor, enojado, le entregó a los verdugos, hasta que pagase todo lo que le debía.",
+				"number": 34
+			},
+			{
+				"verse": "Así también mi Padre celestial hará con vosotros si no perdonáis de todo corazón cada uno a su hermano sus ofensas.",
+				"number": 35
+			}
+		]
+	},
+	{
+		"chapter": "19",
+		"vers": [
+			{
+				"verse": "Aconteció que cuando Jesús terminó estas palabras, se alejó de Galilea, y fue a las regiones de Judea al otro lado del Jordán.",
+				"number": 1
+			},
+			{
+				"verse": "Y le siguieron grandes multitudes, y los sanó allí.",
+				"number": 2
+			},
+			{
+				"verse": "Entonces vinieron a él los fariseos, tentándole y diciéndole: ¿Es lícito al hombre repudiar a su mujer por cualquier causa?",
+				"number": 3
+			},
+			{
+				"verse": "El, respondiendo, les dijo: ¿No habéis leído que el que los hizo al principio, varón y hembra los hizo,",
+				"number": 4
+			},
+			{
+				"verse": "y dijo: Por esto el hombre dejará padre y madre, y se unirá a su mujer, y los dos serán una sola carne?",
+				"number": 5
+			},
+			{
+				"verse": "Así que no son ya más dos, sino una sola carne; por tanto, lo que Dios juntó, no lo separe el hombre.",
+				"number": 6
+			},
+			{
+				"verse": "Le dijeron: ¿Por qué, pues, mandó Moisés dar carta de divorcio, y repudiarla?",
+				"number": 7
+			},
+			{
+				"verse": "El les dijo: Por la dureza de vuestro corazón Moisés os permitió repudiar a vuestras mujeres; mas al principio no fue así.",
+				"number": 8
+			},
+			{
+				"verse": "Y yo os digo que cualquiera que repudia a su mujer, salvo por causa de fornicación, y se casa con otra, adultera; y el que se casa con la repudiada, adultera.",
+				"number": 9
+			},
+			{
+				"verse": "Le dijeron sus discípulos: Si así es la condición del hombre con su mujer, no conviene casarse.",
+				"number": 10
+			},
+			{
+				"verse": "Entonces él les dijo: No todos son capaces de recibir esto, sino aquellos a quienes es dado.",
+				"number": 11
+			},
+			{
+				"verse": "Pues hay eunucos que nacieron así del vientre de su madre, y hay eunucos que son hechos eunucos por los hombres, y hay eunucos que a sí mismos se hicieron eunucos por causa del reino de los cielos. El que sea capaz de recibir esto, que lo reciba.",
+				"number": 12
+			},
+			{
+				"verse": "Entonces le fueron presentados unos niños, para que pusiese las manos sobre ellos, y orase; y los discípulos les reprendieron.",
+				"number": 13
+			},
+			{
+				"verse": "Pero Jesús dijo: Dejad a los niños venir a mí, y no se lo impidáis; porque de los tales es el reino de los cielos.",
+				"number": 14
+			},
+			{
+				"verse": "Y habiendo puesto sobre ellos las manos, se fue de allí.",
+				"number": 15
+			},
+			{
+				"verse": "Entonces vino uno y le dijo: Maestro bueno, ¿qué bien haré para tener la vida eterna?",
+				"number": 16
+			},
+			{
+				"verse": "El le dijo: ¿Por qué me llamas bueno? Ninguno hay bueno sino uno: Dios. Mas si quieres entrar en la vida, guarda los mandamientos.",
+				"number": 17
+			},
+			{
+				"verse": "Le dijo: ¿Cuáles? Y Jesús dijo: No matarás. No adulterarás. No hurtarás. No dirás falso testimonio.",
+				"number": 18
+			},
+			{
+				"verse": "Honra a tu padre y a tu madre; y, Amarás a tu prójimo como a ti mismo.",
+				"number": 19
+			},
+			{
+				"verse": "El joven le dijo: Todo esto lo he guardado desde mi juventud. ¿Qué más me falta?",
+				"number": 20
+			},
+			{
+				"verse": "Jesús le dijo: Si quieres ser perfecto, anda, vende lo que tienes, y dalo a los pobres, y tendrás tesoro en el cielo; y ven y sígueme.",
+				"number": 21
+			},
+			{
+				"verse": "Oyendo el joven esta palabra, se fue triste, porque tenía muchas posesiones.",
+				"number": 22
+			},
+			{
+				"verse": "Entonces Jesús dijo a sus discípulos: De cierto os digo, que difícilmente entrará un rico en el reino de los cielos.",
+				"number": 23
+			},
+			{
+				"verse": "Otra vez os digo, que es más fácil pasar un camello por el ojo de una aguja, que entrar un rico en el reino de Dios.",
+				"number": 24
+			},
+			{
+				"verse": "Sus discípulos, oyendo esto, se asombraron en gran manera, diciendo: ¿Quién, pues, podrá ser salvo?",
+				"number": 25
+			},
+			{
+				"verse": "Y mirándolos Jesús, les dijo: Para los hombres esto es imposible; mas para Dios todo es posible.",
+				"number": 26
+			},
+			{
+				"verse": "Entonces respondiendo Pedro, le dijo: He aquí, nosotros lo hemos dejado todo, y te hemos seguido; ¿qué, pues, tendremos?",
+				"number": 27
+			},
+			{
+				"verse": "Y Jesús les dijo: De cierto os digo que en la regeneración, cuando el Hijo del Hombre se siente en el trono de su gloria, vosotros que me habéis seguido también os sentaréis sobre doce tronos, para juzgar a las doce tribus de Israel.",
+				"number": 28
+			},
+			{
+				"verse": "Y cualquiera que haya dejado casas, o hermanos, o hermanas, o padre, o madre, o mujer, o hijos, o tierras, por mi nombre, recibirá cien veces más, y heredará la vida eterna.",
+				"number": 29
+			},
+			{
+				"verse": "Pero muchos primeros serán postreros, y postreros, primeros.",
+				"number": 30
+			}
+		]
+	},
+	{
+		"chapter": "20",
+		"vers": [
+			{
+				"verse": "Porque el reino de los cielos es semejante a un hombre, padre de familia, que salió por la mañana a contratar obreros para su viña.",
+				"number": 1
+			},
+			{
+				"verse": "Y habiendo convenido con los obreros en un denario al día, los envió a su viña.",
+				"number": 2
+			},
+			{
+				"verse": "Saliendo cerca de la hora tercera del día, vio a otros que estaban en la plaza desocupados;",
+				"number": 3
+			},
+			{
+				"verse": "y les dijo: Id también vosotros a mi viña, y os daré lo que sea justo. Y ellos fueron.",
+				"number": 4
+			},
+			{
+				"verse": "Salió otra vez cerca de las horas sexta y novena, e hizo lo mismo.",
+				"number": 5
+			},
+			{
+				"verse": "Y saliendo cerca de la hora undécima, halló a otros que estaban desocupados; y les dijo: ¿Por qué estáis aquí todo el día desocupados?",
+				"number": 6
+			},
+			{
+				"verse": "Le dijeron: Porque nadie nos ha contratado. El les dijo: Id también vosotros a la viña, y recibiréis lo que sea justo.",
+				"number": 7
+			},
+			{
+				"verse": "Cuando llegó la noche, el señor de la viña dijo a su mayordomo: Llama a los obreros y págales el jornal, comenzando desde los postreros hasta los primeros.",
+				"number": 8
+			},
+			{
+				"verse": "Y al venir los que habían ido cerca de la hora undécima, recibieron cada uno un denario.",
+				"number": 9
+			},
+			{
+				"verse": "Al venir también los primeros, pensaron que habían de recibir más; pero también ellos recibieron cada uno un denario.",
+				"number": 10
+			},
+			{
+				"verse": "Y al recibirlo, murmuraban contra el padre de familia,",
+				"number": 11
+			},
+			{
+				"verse": "diciendo: Estos postreros han trabajado una sola hora, y los has hecho iguales a nosotros, que hemos soportado la carga y el calor del día.",
+				"number": 12
+			},
+			{
+				"verse": "El, respondiendo, dijo a uno de ellos: Amigo, no te hago agravio; ¿no conviniste conmigo en un denario?",
+				"number": 13
+			},
+			{
+				"verse": "Toma lo que es tuyo, y vete; pero quiero dar a este postrero, como a ti.",
+				"number": 14
+			},
+			{
+				"verse": "¿No me es lícito hacer lo que quiero con lo mío? ¿O tienes tú envidia, porque yo soy bueno?",
+				"number": 15
+			},
+			{
+				"verse": "Así, los primeros serán postreros, y los postreros, primeros; porque muchos son llamados, mas pocos escogidos.",
+				"number": 16
+			},
+			{
+				"verse": "Subiendo Jesús a Jerusalén, tomó a sus doce discípulos aparte en el camino, y les dijo:",
+				"number": 17
+			},
+			{
+				"verse": "He aquí subimos a Jerusalén, y el Hijo del Hombre será entregado a los principales sacerdotes y a los escribas, y le condenarán a muerte;",
+				"number": 18
+			},
+			{
+				"verse": "y le entregarán a los gentiles para que le escarnezcan, le azoten, y le crucifiquen; mas al tercer día resucitará.",
+				"number": 19
+			},
+			{
+				"verse": "Entonces se le acercó la madre de los hijos de Zebedeo con sus hijos, postrándose ante él y pidiéndole algo.",
+				"number": 20
+			},
+			{
+				"verse": "El le dijo: ¿Qué quieres? Ella le dijo: Ordena que en tu reino se sienten estos dos hijos míos, el uno a tu derecha, y el otro a tu izquierda.",
+				"number": 21
+			},
+			{
+				"verse": "Entonces Jesús respondiendo, dijo: No sabéis lo que pedís. ¿Podéis beber del vaso que yo he de beber, y ser bautizados con el bautismo con que yo soy bautizado? Y ellos le dijeron: Podemos.",
+				"number": 22
+			},
+			{
+				"verse": "El les dijo: A la verdad, de mi vaso beberéis, y con el bautismo con que yo soy bautizado, seréis bautizados; pero el sentaros a mi derecha y a mi izquierda, no es mío darlo, sino a aquellos para quienes está preparado por mi Padre.",
+				"number": 23
+			},
+			{
+				"verse": "Cuando los diez oyeron esto, se enojaron contra los dos hermanos.",
+				"number": 24
+			},
+			{
+				"verse": "Entonces Jesús, llamándolos, dijo: Sabéis que los gobernantes de las naciones se enseñorean de ellas, y los que son grandes ejercen sobre ellas potestad.",
+				"number": 25
+			},
+			{
+				"verse": "Mas entre vosotros no será así, sino que el que quiera hacerse grande entre vosotros será vuestro servidor,",
+				"number": 26
+			},
+			{
+				"verse": "y el que quiera ser el primero entre vosotros será vuestro siervo;",
+				"number": 27
+			},
+			{
+				"verse": "como el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos.",
+				"number": 28
+			},
+			{
+				"verse": "Al salir ellos de Jericó, le seguía una gran multitud.",
+				"number": 29
+			},
+			{
+				"verse": "Y dos ciegos que estaban sentados junto al camino, cuando oyeron que Jesús pasaba, clamaron, diciendo: ¡Señor, Hijo de David, ten misericordia de nosotros!",
+				"number": 30
+			},
+			{
+				"verse": "Y la gente les reprendió para que callasen; pero ellos clamaban más, diciendo: ¡Señor, Hijo de David, ten misericordia de nosotros!",
+				"number": 31
+			},
+			{
+				"verse": "Y deteniéndose Jesús, los llamó, y les dijo: ¿Qué queréis que os haga?",
+				"number": 32
+			},
+			{
+				"verse": "Ellos le dijeron: Señor, que sean abiertos nuestros ojos.",
+				"number": 33
+			},
+			{
+				"verse": "Entonces Jesús, compadecido, les tocó los ojos, y en seguida recibieron la vista; y le siguieron.",
+				"number": 34
+			}
+		]
+	},
+	{
+		"chapter": "21",
+		"vers": [
+			{
+				"verse": "Cuando se acercaron a Jerusalén, y vinieron a Betfagé, al monte de los Olivos, Jesús envió dos discípulos,",
+				"number": 1
+			},
+			{
+				"verse": "diciéndoles: Id a la aldea que está enfrente de vosotros, y luego hallaréis una asna atada, y un pollino con ella; desatadla, y traédmelos.",
+				"number": 2
+			},
+			{
+				"verse": "Y si alguien os dijere algo, decid: El Señor los necesita; y luego los enviará.",
+				"number": 3
+			},
+			{
+				"verse": "Todo esto aconteció para que se cumpliese lo dicho por el profeta, cuando dijo:",
+				"number": 4
+			},
+			{
+				"verse": "Decid a la hija de Sion: He aquí, tu Rey viene a ti, Manso, y sentado sobre una asna, Sobre un pollino, hijo de animal de carga.",
+				"number": 5
+			},
+			{
+				"verse": "Y los discípulos fueron, e hicieron como Jesús les mandó;",
+				"number": 6
+			},
+			{
+				"verse": "y trajeron el asna y el pollino, y pusieron sobre ellos sus mantos; y él se sentó encima.",
+				"number": 7
+			},
+			{
+				"verse": "Y la multitud, que era muy numerosa, tendía sus mantos en el camino; y otros cortaban ramas de los árboles, y las tendían en el camino.",
+				"number": 8
+			},
+			{
+				"verse": "Y la gente que iba delante y la que iba detrás aclamaba, diciendo: ¡Hosanna al Hijo de David! ¡Bendito el que viene en el nombre del Señor! ¡Hosanna en las alturas!",
+				"number": 9
+			},
+			{
+				"verse": "Cuando entró él en Jerusalén, toda la ciudad se conmovió, diciendo: ¿Quién es éste?",
+				"number": 10
+			},
+			{
+				"verse": "Y la gente decía: Este es Jesús el profeta, de Nazaret de Galilea.",
+				"number": 11
+			},
+			{
+				"verse": "Y entró Jesús en el templo de Dios, y echó fuera a todos los que vendían y compraban en el templo, y volcó las mesas de los cambistas, y las sillas de los que vendían palomas;",
+				"number": 12
+			},
+			{
+				"verse": "y les dijo: Escrito está: Mi casa, casa de oración será llamada; mas vosotros la habéis hecho cueva de ladrones.",
+				"number": 13
+			},
+			{
+				"verse": "Y vinieron a él en el templo ciegos y cojos, y los sanó.",
+				"number": 14
+			},
+			{
+				"verse": "Pero los principales sacerdotes y los escribas, viendo las maravillas que hacía, y a los muchachos aclamando en el templo y diciendo: ¡Hosanna al Hijo de David! se indignaron,",
+				"number": 15
+			},
+			{
+				"verse": "y le dijeron: ¿Oyes lo que éstos dicen? Y Jesús les dijo: Sí; ¿nunca leísteis: De la boca de los niños y de los que maman Perfeccionaste la alabanza?",
+				"number": 16
+			},
+			{
+				"verse": "Y dejándolos, salió fuera de la ciudad a Betania, y posó allí.",
+				"number": 17
+			},
+			{
+				"verse": "Por la mañana, volviendo a la ciudad, tuvo hambre.",
+				"number": 18
+			},
+			{
+				"verse": "Y viendo una higuera cerca del camino, vino a ella, y no halló nada en ella, sino hojas solamente; y le dijo: Nunca jamás nazca de ti fruto. Y luego se secó la higuera.",
+				"number": 19
+			},
+			{
+				"verse": "Viendo esto los discípulos, decían maravillados: ¿Cómo es que se secó en seguida la higuera?",
+				"number": 20
+			},
+			{
+				"verse": "Respondiendo Jesús, les dijo: De cierto os digo, que si tuviereis fe, y no dudareis, no sólo haréis esto de la higuera, sino que si a este monte dijereis: Quítate y échate en el mar, será hecho.",
+				"number": 21
+			},
+			{
+				"verse": "Y todo lo que pidiereis en oración, creyendo, lo recibiréis.",
+				"number": 22
+			},
+			{
+				"verse": "Cuando vino al templo, los principales sacerdotes y los ancianos del pueblo se acercaron a él mientras enseñaba, y le dijeron: ¿Con qué autoridad haces estas cosas? ¿y quién te dio esta autoridad?",
+				"number": 23
+			},
+			{
+				"verse": "Respondiendo Jesús, les dijo: Yo también os haré una pregunta, y si me la contestáis, también yo os diré con qué autoridad hago estas cosas.",
+				"number": 24
+			},
+			{
+				"verse": "El bautismo de Juan, ¿de dónde era? ¿Del cielo, o de los hombres? Ellos entonces discutían entre sí, diciendo: Si decimos, del cielo, nos dirá: ¿Por qué, pues, no le creísteis?",
+				"number": 25
+			},
+			{
+				"verse": "Y si decimos, de los hombres, tememos al pueblo; porque todos tienen a Juan por profeta.",
+				"number": 26
+			},
+			{
+				"verse": "Y respondiendo a Jesús, dijeron: No sabemos. Y él también les dijo: Tampoco yo os digo con qué autoridad hago estas cosas.",
+				"number": 27
+			},
+			{
+				"verse": "Pero ¿qué os parece? Un hombre tenía dos hijos, y acercándose al primero, le dijo: Hijo, vé hoy a trabajar en mi viña.",
+				"number": 28
+			},
+			{
+				"verse": "Respondiendo él, dijo: No quiero; pero después, arrepentido, fue.",
+				"number": 29
+			},
+			{
+				"verse": "Y acercándose al otro, le dijo de la misma manera; y respondiendo él, dijo: Sí, señor, voy. Y no fue.",
+				"number": 30
+			},
+			{
+				"verse": "¿Cuál de los dos hizo la voluntad de su padre? Dijeron ellos: El primero. Jesús les dijo: De cierto os digo, que los publicanos y las rameras van delante de vosotros al reino de Dios.",
+				"number": 31
+			},
+			{
+				"verse": "Porque vino a vosotros Juan en camino de justicia, y no le creísteis; pero los publicanos y las rameras le creyeron; y vosotros, viendo esto, no os arrepentisteis después para creerle.",
+				"number": 32
+			},
+			{
+				"verse": "Oíd otra parábola: Hubo un hombre, padre de familia, el cual plantó una viña, la cercó de vallado, cavó en ella un lagar, edificó una torre, y la arrendó a unos labradores, y se fue lejos.",
+				"number": 33
+			},
+			{
+				"verse": "Y cuando se acercó el tiempo de los frutos, envió sus siervos a los labradores, para que recibiesen sus frutos.",
+				"number": 34
+			},
+			{
+				"verse": "Mas los labradores, tomando a los siervos, a uno golpearon, a otro mataron, y a otro apedrearon.",
+				"number": 35
+			},
+			{
+				"verse": "Envió de nuevo otros siervos, más que los primeros; e hicieron con ellos de la misma manera.",
+				"number": 36
+			},
+			{
+				"verse": "Finalmente les envió su hijo, diciendo: Tendrán respeto a mi hijo.",
+				"number": 37
+			},
+			{
+				"verse": "Mas los labradores, cuando vieron al hijo, dijeron entre sí: Este es el heredero; venid, matémosle, y apoderémonos de su heredad.",
+				"number": 38
+			},
+			{
+				"verse": "Y tomándole, le echaron fuera de la viña, y le mataron.",
+				"number": 39
+			},
+			{
+				"verse": "Cuando venga, pues, el señor de la viña, ¿qué hará a aquellos labradores?",
+				"number": 40
+			},
+			{
+				"verse": "Le dijeron: A los malos destruirá sin misericordia, y arrendará su viña a otros labradores, que le paguen el fruto a su tiempo.",
+				"number": 41
+			},
+			{
+				"verse": "Jesús les dijo: ¿Nunca leísteis en las Escrituras: La piedra que desecharon los edificadores, Ha venido a ser cabeza del ángulo. El Señor ha hecho esto, Y es cosa maravillosa a nuestros ojos?",
+				"number": 42
+			},
+			{
+				"verse": "Por tanto os digo, que el reino de Dios será quitado de vosotros, y será dado a gente que produzca los frutos de él.",
+				"number": 43
+			},
+			{
+				"verse": "Y el que cayere sobre esta piedra será quebrantado; y sobre quien ella cayere, le desmenuzará.",
+				"number": 44
+			},
+			{
+				"verse": "Y oyendo sus parábolas los principales sacerdotes y los fariseos, entendieron que hablaba de ellos.",
+				"number": 45
+			},
+			{
+				"verse": "Pero al buscar cómo echarle mano, temían al pueblo, porque éste le tenía por profeta.",
+				"number": 46
+			}
+		]
+	},
+	{
+		"chapter": "22",
+		"vers": [
+			{
+				"verse": "Respondiendo Jesús, les volvió a hablar en parábolas, diciendo:",
+				"number": 1
+			},
+			{
+				"verse": "El reino de los cielos es semejante a un rey que hizo fiesta de bodas a su hijo;",
+				"number": 2
+			},
+			{
+				"verse": "y envió a sus siervos a llamar a los convidados a las bodas; mas éstos no quisieron venir.",
+				"number": 3
+			},
+			{
+				"verse": "Volvió a enviar otros siervos, diciendo: Decid a los convidados: He aquí, he preparado mi comida; mis toros y animales engordados han sido muertos, y todo está dispuesto; venid a las bodas.",
+				"number": 4
+			},
+			{
+				"verse": "Mas ellos, sin hacer caso, se fueron, uno a su labranza, y otro a sus negocios;",
+				"number": 5
+			},
+			{
+				"verse": "y otros, tomando a los siervos, los afrentaron y los mataron.",
+				"number": 6
+			},
+			{
+				"verse": "Al oírlo el rey, se enojó; y enviando sus ejércitos, destruyó a aquellos homicidas, y quemó su ciudad.",
+				"number": 7
+			},
+			{
+				"verse": "Entonces dijo a sus siervos: Las bodas a la verdad están preparadas; mas los que fueron convidados no eran dignos.",
+				"number": 8
+			},
+			{
+				"verse": "Id, pues, a las salidas de los caminos, y llamad a las bodas a cuantos halléis.",
+				"number": 9
+			},
+			{
+				"verse": "Y saliendo los siervos por los caminos, juntaron a todos los que hallaron, juntamente malos y buenos; y las bodas fueron llenas de convidados.",
+				"number": 10
+			},
+			{
+				"verse": "Y entró el rey para ver a los convidados, y vio allí a un hombre que no estaba vestido de boda.",
+				"number": 11
+			},
+			{
+				"verse": "Y le dijo: Amigo, ¿cómo entraste aquí, sin estar vestido de boda? Mas él enmudeció.",
+				"number": 12
+			},
+			{
+				"verse": "Entonces el rey dijo a los que servían: Atadle de pies y manos, y echadle en las tinieblas de afuera; allí será el lloro y el crujir de dientes.",
+				"number": 13
+			},
+			{
+				"verse": "Porque muchos son llamados, y pocos escogidos.",
+				"number": 14
+			},
+			{
+				"verse": "Entonces se fueron los fariseos y consultaron cómo sorprenderle en alguna palabra.",
+				"number": 15
+			},
+			{
+				"verse": "Y le enviaron los discípulos de ellos con los herodianos, diciendo: Maestro, sabemos que eres amante de la verdad, y que enseñas con verdad el camino de Dios, y que no te cuidas de nadie, porque no miras la apariencia de los hombres.",
+				"number": 16
+			},
+			{
+				"verse": "Dinos, pues, qué te parece: ¿Es lícito dar tributo a César, o no?",
+				"number": 17
+			},
+			{
+				"verse": "Pero Jesús, conociendo la malicia de ellos, les dijo: ¿Por qué me tentáis, hipócritas?",
+				"number": 18
+			},
+			{
+				"verse": "Mostradme la moneda del tributo. Y ellos le presentaron un denario.",
+				"number": 19
+			},
+			{
+				"verse": "Entonces les dijo:¿De quién es esta imagen, y la inscripción?",
+				"number": 20
+			},
+			{
+				"verse": "Le dijeron: De César. Y les dijo: Dad, pues, a César lo que es de César, y a Dios lo que es de Dios.",
+				"number": 21
+			},
+			{
+				"verse": "Oyendo esto, se maravillaron, y dejándole, se fueron.",
+				"number": 22
+			},
+			{
+				"verse": "Aquel día vinieron a él los saduceos, que dicen que no hay resurrección, y le preguntaron,",
+				"number": 23
+			},
+			{
+				"verse": "diciendo: Maestro, Moisés dijo: Si alguno muriere sin hijos, su hermano se casará con su mujer, y levantará descendencia a su hermano.",
+				"number": 24
+			},
+			{
+				"verse": "Hubo, pues, entre nosotros siete hermanos; el primero se casó, y murió; y no teniendo descendencia, dejó su mujer a su hermano.",
+				"number": 25
+			},
+			{
+				"verse": "De la misma manera también el segundo, y el tercero, hasta el séptimo.",
+				"number": 26
+			},
+			{
+				"verse": "Y después de todos murió también la mujer.",
+				"number": 27
+			},
+			{
+				"verse": "En la resurrección, pues, ¿de cuál de los siete será ella mujer, ya que todos la tuvieron?",
+				"number": 28
+			},
+			{
+				"verse": "Entonces respondiendo Jesús, les dijo: Erráis, ignorando las Escrituras y el poder de Dios.",
+				"number": 29
+			},
+			{
+				"verse": "Porque en la resurrección ni se casarán ni se darán en casamiento, sino serán como los ángeles de Dios en el cielo.",
+				"number": 30
+			},
+			{
+				"verse": "Pero respecto a la resurrección de los muertos, ¿no habéis leído lo que os fue dicho por Dios, cuando dijo:",
+				"number": 31
+			},
+			{
+				"verse": "Yo soy el Dios de Abraham, el Dios de Isaac y el Dios de Jacob? Dios no es Dios de muertos, sino de vivos.",
+				"number": 32
+			},
+			{
+				"verse": "Oyendo esto la gente, se admiraba de su doctrina.",
+				"number": 33
+			},
+			{
+				"verse": "Entonces los fariseos, oyendo que había hecho callar a los saduceos, se juntaron a una.",
+				"number": 34
+			},
+			{
+				"verse": "Y uno de ellos, intérprete de la ley, preguntó por tentarle, diciendo:",
+				"number": 35
+			},
+			{
+				"verse": "Maestro, ¿cuál es el gran mandamiento en la ley?",
+				"number": 36
+			},
+			{
+				"verse": "Jesús le dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente.",
+				"number": 37
+			},
+			{
+				"verse": "Este es el primero y grande mandamiento.",
+				"number": 38
+			},
+			{
+				"verse": "Y el segundo es semejante: Amarás a tu prójimo como a ti mismo.",
+				"number": 39
+			},
+			{
+				"verse": "De estos dos mandamientos depende toda la ley y los profetas.",
+				"number": 40
+			},
+			{
+				"verse": "Y estando juntos los fariseos, Jesús les preguntó,",
+				"number": 41
+			},
+			{
+				"verse": "diciendo: ¿Qué pensáis del Cristo? ¿De quién es hijo? Le dijeron: De David.",
+				"number": 42
+			},
+			{
+				"verse": "El les dijo: ¿Pues cómo David en el Espíritu le llama Señor, diciendo:",
+				"number": 43
+			},
+			{
+				"verse": "Dijo el Señor a mi Señor: Siéntate a mi derecha, Hasta que ponga a tus enemigos por estrado de tus pies?",
+				"number": 44
+			},
+			{
+				"verse": "Pues si David le llama Señor, ¿cómo es su hijo?",
+				"number": 45
+			},
+			{
+				"verse": "Y nadie le podía responder palabra; ni osó alguno desde aquel día preguntarle más.",
+				"number": 46
+			}
+		]
+	},
+	{
+		"chapter": "23",
+		"vers": [
+			{
+				"verse": "Entonces habló Jesús a la gente y a sus discípulos, diciendo:",
+				"number": 1
+			},
+			{
+				"verse": "En la cátedra de Moisés se sientan los escribas y los fariseos.",
+				"number": 2
+			},
+			{
+				"verse": "Así que, todo lo que os digan que guardéis, guardadlo y hacedlo; mas no hagáis conforme a sus obras, porque dicen, y no hacen.",
+				"number": 3
+			},
+			{
+				"verse": "Porque atan cargas pesadas y difíciles de llevar, y las ponen sobre los hombros de los hombres; pero ellos ni con un dedo quieren moverlas.",
+				"number": 4
+			},
+			{
+				"verse": "Antes, hacen todas sus obras para ser vistos por los hombres. Pues ensanchan sus filacterias, y extienden los flecos de sus mantos;",
+				"number": 5
+			},
+			{
+				"verse": "y aman los primeros asientos en las cenas, y las primeras sillas en las sinagogas,",
+				"number": 6
+			},
+			{
+				"verse": "y las salutaciones en las plazas, y que los hombres los llamen: Rabí, Rabí.",
+				"number": 7
+			},
+			{
+				"verse": "Pero vosotros no queráis que os llamen Rabí; porque uno es vuestro Maestro, el Cristo, y todos vosotros sois hermanos.",
+				"number": 8
+			},
+			{
+				"verse": "Y no llaméis padre vuestro a nadie en la tierra; porque uno es vuestro Padre, el que está en los cielos.",
+				"number": 9
+			},
+			{
+				"verse": "Ni seáis llamados maestros; porque uno es vuestro Maestro, el Cristo.",
+				"number": 10
+			},
+			{
+				"verse": "El que es el mayor de vosotros, sea vuestro siervo.",
+				"number": 11
+			},
+			{
+				"verse": "Porque el que se enaltece será humillado, y el que se humilla será enaltecido.",
+				"number": 12
+			},
+			{
+				"verse": "Mas ¡ay de vosotros, escribas y fariseos, hipócritas! porque cerráis el reino de los cielos delante de los hombres; pues ni entráis vosotros, ni dejáis entrar a los que están entrando.",
+				"number": 13
+			},
+			{
+				"verse": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque devoráis las casas de las viudas, y como pretexto hacéis largas oraciones; por esto recibiréis mayor condenación.",
+				"number": 14
+			},
+			{
+				"verse": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque recorréis mar y tierra para hacer un prosélito, y una vez hecho, le hacéis dos veces más hijo del infierno que vosotros.",
+				"number": 15
+			},
+			{
+				"verse": "¡Ay de vosotros, guías ciegos! que decís: Si alguno jura por el templo, no es nada; pero si alguno jura por el oro del templo, es deudor.",
+				"number": 16
+			},
+			{
+				"verse": "¡Insensatos y ciegos! porque ¿cuál es mayor, el oro, o el templo que santifica al oro?",
+				"number": 17
+			},
+			{
+				"verse": "También decís: Si alguno jura por el altar, no es nada; pero si alguno jura por la ofrenda que está sobre él, es deudor.",
+				"number": 18
+			},
+			{
+				"verse": "¡Necios y ciegos! porque ¿cuál es mayor, la ofrenda, o el altar que santifica la ofrenda?",
+				"number": 19
+			},
+			{
+				"verse": "Pues el que jura por el altar, jura por él, y por todo lo que está sobre él;",
+				"number": 20
+			},
+			{
+				"verse": "y el que jura por el templo, jura por él, y por el que lo habita;",
+				"number": 21
+			},
+			{
+				"verse": "y el que jura por el cielo, jura por el trono de Dios, y por aquel que está sentado en él.",
+				"number": 22
+			},
+			{
+				"verse": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque diezmáis la menta y el eneldo y el comino, y dejáis lo más importante de la ley: la justicia, la misericordia y la fe. Esto era necesario hacer, sin dejar de hacer aquello.",
+				"number": 23
+			},
+			{
+				"verse": "¡Guías ciegos, que coláis el mosquito, y tragáis el camello!",
+				"number": 24
+			},
+			{
+				"verse": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque limpiáis lo de fuera del vaso y del plato, pero por dentro estáis llenos de robo y de injusticia.",
+				"number": 25
+			},
+			{
+				"verse": "¡Fariseo ciego! Limpia primero lo de dentro del vaso y del plato, para que también lo de fuera sea limpio.",
+				"number": 26
+			},
+			{
+				"verse": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque sois semejantes a sepulcros blanqueados, que por fuera, a la verdad, se muestran hermosos, mas por dentro están llenos de huesos de muertos y de toda inmundicia.",
+				"number": 27
+			},
+			{
+				"verse": "Así también vosotros por fuera, a la verdad, os mostráis justos a los hombres, pero por dentro estáis llenos de hipocresía e iniquidad.",
+				"number": 28
+			},
+			{
+				"verse": "¡Ay de vosotros, escribas y fariseos, hipócritas! porque edificáis los sepulcros de los profetas, y adornáis los monumentos de los justos,",
+				"number": 29
+			},
+			{
+				"verse": "y decís: Si hubiésemos vivido en los días de nuestros padres, no hubiéramos sido sus cómplices en la sangre de los profetas.",
+				"number": 30
+			},
+			{
+				"verse": "Así que dais testimonio contra vosotros mismos, de que sois hijos de aquellos que mataron a los profetas.",
+				"number": 31
+			},
+			{
+				"verse": "¡Vosotros también llenad la medida de vuestros padres!",
+				"number": 32
+			},
+			{
+				"verse": "¡Serpientes, generación de víboras! ¿Cómo escaparéis de la condenación del infierno?",
+				"number": 33
+			},
+			{
+				"verse": "Por tanto, he aquí yo os envío profetas y sabios y escribas; y de ellos, a unos mataréis y crucificaréis, y a otros azotaréis en vuestras sinagogas, y perseguiréis de ciudad en ciudad;",
+				"number": 34
+			},
+			{
+				"verse": "para que venga sobre vosotros toda la sangre justa que se ha derramado sobre la tierra, desde la sangre de Abel el justo hasta la sangre de Zacarías hijo de Berequías, a quien matasteis entre el templo y el altar.",
+				"number": 35
+			},
+			{
+				"verse": "De cierto os digo que todo esto vendrá sobre esta generación.",
+				"number": 36
+			},
+			{
+				"verse": "¡Jerusalén, Jerusalén, que matas a los profetas, y apedreas a los que te son enviados! ¡Cuántas veces quise juntar a tus hijos, como la gallina junta sus polluelos debajo de las alas, y no quisiste!",
+				"number": 37
+			},
+			{
+				"verse": "He aquí vuestra casa os es dejada desierta.",
+				"number": 38
+			},
+			{
+				"verse": "Porque os digo que desde ahora no me veréis, hasta que digáis: Bendito el que viene en el nombre del Señor.",
+				"number": 39
+			}
+		]
+	},
+	{
+		"chapter": "24",
+		"vers": [
+			{
+				"verse": "Cuando Jesús salió del templo y se iba, se acercaron sus discípulos para mostrarle los edificios del templo.",
+				"number": 1
+			},
+			{
+				"verse": "Respondiendo él, les dijo: ¿Veis todo esto? De cierto os digo, que no quedará aquí piedra sobre piedra, que no sea derribada.",
+				"number": 2
+			},
+			{
+				"verse": "Y estando él sentado en el monte de los Olivos, los discípulos se le acercaron aparte, diciendo: Dinos, ¿cuándo serán estas cosas, y qué señal habrá de tu venida, y del fin del siglo?",
+				"number": 3
+			},
+			{
+				"verse": "Respondiendo Jesús, les dijo: Mirad que nadie os engañe.",
+				"number": 4
+			},
+			{
+				"verse": "Porque vendrán muchos en mi nombre, diciendo: Yo soy el Cristo; y a muchos engañarán.",
+				"number": 5
+			},
+			{
+				"verse": "Y oiréis de guerras y rumores de guerras; mirad que no os turbéis, porque es necesario que todo esto acontezca; pero aún no es el fin.",
+				"number": 6
+			},
+			{
+				"verse": "Porque se levantará nación contra nación, y reino contra reino; y habrá pestes, y hambres, y terremotos en diferentes lugares.",
+				"number": 7
+			},
+			{
+				"verse": "Y todo esto será principio de dolores.",
+				"number": 8
+			},
+			{
+				"verse": "Entonces os entregarán a tribulación, y os matarán, y seréis aborrecidos de todas las gentes por causa de mi nombre.",
+				"number": 9
+			},
+			{
+				"verse": "Muchos tropezarán entonces, y se entregarán unos a otros, y unos a otros se aborrecerán.",
+				"number": 10
+			},
+			{
+				"verse": "Y muchos falsos profetas se levantarán, y engañarán a muchos;",
+				"number": 11
+			},
+			{
+				"verse": "y por haberse multiplicado la maldad, el amor de muchos se enfriará.",
+				"number": 12
+			},
+			{
+				"verse": "Mas el que persevere hasta el fin, éste será salvo.",
+				"number": 13
+			},
+			{
+				"verse": "Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin.",
+				"number": 14
+			},
+			{
+				"verse": "Por tanto, cuando veáis en el lugar santo la abominación desoladora de que habló el profeta Daniel (el que lee, entienda),",
+				"number": 15
+			},
+			{
+				"verse": "entonces los que estén en Judea, huyan a los montes.",
+				"number": 16
+			},
+			{
+				"verse": "El que esté en la azotea, no descienda para tomar algo de su casa;",
+				"number": 17
+			},
+			{
+				"verse": "y el que esté en el campo, no vuelva atrás para tomar su capa.",
+				"number": 18
+			},
+			{
+				"verse": "Mas ¡ay de las que estén encintas, y de las que críen en aquellos días!",
+				"number": 19
+			},
+			{
+				"verse": "Orad, pues, que vuestra huida no sea en invierno ni en día de reposo;",
+				"number": 20
+			},
+			{
+				"verse": "porque habrá entonces gran tribulación, cual no la ha habido desde el principio del mundo hasta ahora, ni la habrá.",
+				"number": 21
+			},
+			{
+				"verse": "Y si aquellos días no fuesen acortados, nadie sería salvo; mas por causa de los escogidos, aquellos días serán acortados.",
+				"number": 22
+			},
+			{
+				"verse": "Entonces, si alguno os dijere: Mirad, aquí está el Cristo, o mirad, allí está, no lo creáis.",
+				"number": 23
+			},
+			{
+				"verse": "Porque se levantarán falsos Cristos, y falsos profetas, y harán grandes señales y prodigios, de tal manera que engañarán, si fuere posible, aun a los escogidos.",
+				"number": 24
+			},
+			{
+				"verse": "Ya os lo he dicho antes.",
+				"number": 25
+			},
+			{
+				"verse": "Así que, si os dijeren: Mirad, está en el desierto, no salgáis; o mirad, está en los aposentos, no lo creáis.",
+				"number": 26
+			},
+			{
+				"verse": "Porque como el relámpago que sale del oriente y se muestra hasta el occidente, así será también la venida del Hijo del Hombre.",
+				"number": 27
+			},
+			{
+				"verse": "Porque dondequiera que estuviere el cuerpo muerto, allí se juntarán las águilas.",
+				"number": 28
+			},
+			{
+				"verse": "E inmediatamente después de la tribulación de aquellos días, el sol se oscurecerá, y la luna no dará su resplandor, y las estrellas caerán del cielo, y las potencias de los cielos serán conmovidas.",
+				"number": 29
+			},
+			{
+				"verse": "Entonces aparecerá la señal del Hijo del Hombre en el cielo; y entonces lamentarán todas las tribus de la tierra, y verán al Hijo del Hombre viniendo sobre las nubes del cielo, con poder y gran gloria.",
+				"number": 30
+			},
+			{
+				"verse": "Y enviará sus ángeles con gran voz de trompeta, y juntarán a sus escogidos, de los cuatro vientos, desde un extremo del cielo hasta el otro.",
+				"number": 31
+			},
+			{
+				"verse": "De la higuera aprended la parábola: Cuando ya su rama está tierna, y brotan las hojas, sabéis que el verano está cerca.",
+				"number": 32
+			},
+			{
+				"verse": "Así también vosotros, cuando veáis todas estas cosas, conoced que está cerca, a las puertas.",
+				"number": 33
+			},
+			{
+				"verse": "De cierto os digo, que no pasará esta generación hasta que todo esto acontezca.",
+				"number": 34
+			},
+			{
+				"verse": "El cielo y la tierra pasarán, pero mis palabras no pasarán.",
+				"number": 35
+			},
+			{
+				"verse": "Pero del día y la hora nadie sabe, ni aun los ángeles de los cielos, sino sólo mi Padre.",
+				"number": 36
+			},
+			{
+				"verse": "Mas como en los días de Noé, así será la venida del Hijo del Hombre.",
+				"number": 37
+			},
+			{
+				"verse": "Porque como en los días antes del diluvio estaban comiendo y bebiendo, casándose y dando en casamiento, hasta el día en que Noé entró en el arca,",
+				"number": 38
+			},
+			{
+				"verse": "y no entendieron hasta que vino el diluvio y se los llevó a todos, así será también la venida del Hijo del Hombre.",
+				"number": 39
+			},
+			{
+				"verse": "Entonces estarán dos en el campo; el uno será tomado, y el otro será dejado.",
+				"number": 40
+			},
+			{
+				"verse": "Dos mujeres estarán moliendo en un molino; la una será tomada, y la otra será dejada.",
+				"number": 41
+			},
+			{
+				"verse": "Velad, pues, porque no sabéis a qué hora ha de venir vuestro Señor.",
+				"number": 42
+			},
+			{
+				"verse": "Pero sabed esto, que si el padre de familia supiese a qué hora el ladrón habría de venir, velaría, y no dejaría minar su casa.",
+				"number": 43
+			},
+			{
+				"verse": "Por tanto, también vosotros estad preparados; porque el Hijo del Hombre vendrá a la hora que no pensáis.",
+				"number": 44
+			},
+			{
+				"verse": "¿Quién es, pues, el siervo fiel y prudente, al cual puso su señor sobre su casa para que les dé el alimento a tiempo?",
+				"number": 45
+			},
+			{
+				"verse": "Bienaventurado aquel siervo al cual, cuando su señor venga, le halle haciendo así.",
+				"number": 46
+			},
+			{
+				"verse": "De cierto os digo que sobre todos sus bienes le pondrá.",
+				"number": 47
+			},
+			{
+				"verse": "Pero si aquel siervo malo dijere en su corazón: Mi señor tarda en venir;",
+				"number": 48
+			},
+			{
+				"verse": "y comenzare a golpear a sus consiervos, y aun a comer y a beber con los borrachos,",
+				"number": 49
+			},
+			{
+				"verse": "vendrá el señor de aquel siervo en día que éste no espera, y a la hora que no sabe,",
+				"number": 50
+			},
+			{
+				"verse": "y lo castigará duramente, y pondrá su parte con los hipócritas; allí será el lloro y el crujir de dientes.",
+				"number": 51
+			}
+		]
+	},
+	{
+		"chapter": "25",
+		"vers": [
+			{
+				"verse": "Entonces el reino de los cielos será semejante a diez vírgenes que tomando sus lámparas, salieron a recibir al esposo.",
+				"number": 1
+			},
+			{
+				"verse": "Cinco de ellas eran prudentes y cinco insensatas.",
+				"number": 2
+			},
+			{
+				"verse": "Las insensatas, tomando sus lámparas, no tomaron consigo aceite;",
+				"number": 3
+			},
+			{
+				"verse": "mas las prudentes tomaron aceite en sus vasijas, juntamente con sus lámparas.",
+				"number": 4
+			},
+			{
+				"verse": "Y tardándose el esposo, cabecearon todas y se durmieron.",
+				"number": 5
+			},
+			{
+				"verse": "Y a la medianoche se oyó un clamor: ¡Aquí viene el esposo; salid a recibirle!",
+				"number": 6
+			},
+			{
+				"verse": "Entonces todas aquellas vírgenes se levantaron, y arreglaron sus lámparas.",
+				"number": 7
+			},
+			{
+				"verse": "Y las insensatas dijeron a las prudentes: Dadnos de vuestro aceite; porque nuestras lámparas se apagan.",
+				"number": 8
+			},
+			{
+				"verse": "Mas las prudentes respondieron diciendo: Para que no nos falte a nosotras y a vosotras, id más bien a los que venden, y comprad para vosotras mismas.",
+				"number": 9
+			},
+			{
+				"verse": "Pero mientras ellas iban a comprar, vino el esposo; y las que estaban preparadas entraron con él a las bodas; y se cerró la puerta.",
+				"number": 10
+			},
+			{
+				"verse": "Después vinieron también las otras vírgenes, diciendo: ¡Señor, señor, ábrenos!",
+				"number": 11
+			},
+			{
+				"verse": "Mas él, respondiendo, dijo: De cierto os digo, que no os conozco.",
+				"number": 12
+			},
+			{
+				"verse": "Velad, pues, porque no sabéis el día ni la hora en que el Hijo del Hombre ha de venir.",
+				"number": 13
+			},
+			{
+				"verse": "Porque el reino de los cielos es como un hombre que yéndose lejos, llamó a sus siervos y les entregó sus bienes.",
+				"number": 14
+			},
+			{
+				"verse": "A uno dio cinco talentos, y a otro dos, y a otro uno, a cada uno conforme a su capacidad; y luego se fue lejos.",
+				"number": 15
+			},
+			{
+				"verse": "Y el que había recibido cinco talentos fue y negoció con ellos, y ganó otros cinco talentos",
+				"number": 16
+			},
+			{
+				"verse": "Asimismo el que había recibido dos, ganó también otros dos.",
+				"number": 17
+			},
+			{
+				"verse": "Pero el que había recibido uno fue y cavó en la tierra, y escondió el dinero de su señor.",
+				"number": 18
+			},
+			{
+				"verse": "Después de mucho tiempo vino el señor de aquellos siervos, y arregló cuentas con ellos.",
+				"number": 19
+			},
+			{
+				"verse": "Y llegando el que había recibido cinco talentos, trajo otros cinco talentos, diciendo: Señor, cinco talentos me entregaste; aquí tienes, he ganado otros cinco talentos sobre ellos.",
+				"number": 20
+			},
+			{
+				"verse": "Y su señor le dijo: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor.",
+				"number": 21
+			},
+			{
+				"verse": "Llegando también el que había recibido dos talentos, dijo: Señor, dos talentos me entregaste; aquí tienes, he ganado otros dos talentos sobre ellos.",
+				"number": 22
+			},
+			{
+				"verse": "Su señor le dijo: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor.",
+				"number": 23
+			},
+			{
+				"verse": "Pero llegando también el que había recibido un talento, dijo: Señor, te conocía que eres hombre duro, que siegas donde no sembraste y recoges donde no esparciste;",
+				"number": 24
+			},
+			{
+				"verse": "por lo cual tuve miedo, y fui y escondí tu talento en la tierra; aquí tienes lo que es tuyo.",
+				"number": 25
+			},
+			{
+				"verse": "Respondiendo su señor, le dijo: Siervo malo y negligente, sabías que siego donde no sembré, y que recojo donde no esparcí.",
+				"number": 26
+			},
+			{
+				"verse": "Por tanto, debías haber dado mi dinero a los banqueros, y al venir yo, hubiera recibido lo que es mío con los intereses.",
+				"number": 27
+			},
+			{
+				"verse": "Quitadle, pues, el talento, y dadlo al que tiene diez talentos.",
+				"number": 28
+			},
+			{
+				"verse": "Porque al que tiene, le será dado, y tendrá más; y al que no tiene, aun lo que tiene le será quitado.",
+				"number": 29
+			},
+			{
+				"verse": "Y al siervo inútil echadle en las tinieblas de afuera; allí será el lloro y el crujir de dientes.",
+				"number": 30
+			},
+			{
+				"verse": "Cuando el Hijo del Hombre venga en su gloria, y todos los santos ángeles con él, entonces se sentará en su trono de gloria,",
+				"number": 31
+			},
+			{
+				"verse": "y serán reunidas delante de él todas las naciones; y apartarálos unos de los otros, como aparta el pastor las ovejas de los cabritos.",
+				"number": 32
+			},
+			{
+				"verse": "Y pondrá las ovejas a su derecha, y los cabritos a su izquierda.",
+				"number": 33
+			},
+			{
+				"verse": "Entonces el Rey dirá a los de su derecha: Venid, benditos de mi Padre, heredad el reino preparado para vosotros desde la fundación del mundo.",
+				"number": 34
+			},
+			{
+				"verse": "Porque tuve hambre, y me disteis de comer; tuve sed, y me disteis de beber; fui forastero, y me recogisteis;",
+				"number": 35
+			},
+			{
+				"verse": "estuve desnudo, y me cubristeis; enfermo, y me visitasteis; en la cárcel, y vinisteis a mí.",
+				"number": 36
+			},
+			{
+				"verse": "Entonces los justos le responderán diciendo: Señor, ¿cuándo te vimos hambriento, y te sustentamos, o sediento, y te dimos de beber?",
+				"number": 37
+			},
+			{
+				"verse": "¿Y cuándo te vimos forastero, y te recogimos, o desnudo, y te cubrimos?",
+				"number": 38
+			},
+			{
+				"verse": "¿O cuándo te vimos enfermo, o en la cárcel, y vinimos a ti?",
+				"number": 39
+			},
+			{
+				"verse": "Y respondiendo el Rey, les dirá: De cierto os digo que en cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis.",
+				"number": 40
+			},
+			{
+				"verse": "Entonces dirá también a los de la izquierda: Apartaos de mí, malditos, al fuego eterno preparado para el diablo y sus ángeles.",
+				"number": 41
+			},
+			{
+				"verse": "Porque tuve hambre, y no me disteis de comer; tuve sed, y no me disteis de beber;",
+				"number": 42
+			},
+			{
+				"verse": "fui forastero, y no me recogisteis; estuve desnudo, y no me cubristeis; enfermo, y en la cárcel, y no me visitasteis.",
+				"number": 43
+			},
+			{
+				"verse": "Entonces también ellos le responderán diciendo: Señor, ¿cuándo te vimos hambriento, sediento, forastero, desnudo, enfermo, o en la cárcel, y no te servimos?",
+				"number": 44
+			},
+			{
+				"verse": "Entonces les responderá diciendo: De cierto os digo que en cuanto no lo hicisteis a uno de estos más pequeños, tampoco a mí lo hicisteis.",
+				"number": 45
+			},
+			{
+				"verse": "E irán éstos al castigo eterno, y los justos a la vida eterna.",
+				"number": 46
+			}
+		]
+	},
+	{
+		"chapter": "26",
+		"vers": [
+			{
+				"verse": "Cuando hubo acabado Jesús todas estas palabras, dijo a sus discípulos:",
+				"number": 1
+			},
+			{
+				"verse": "Sabéis que dentro de dos días se celebra la pascua, y el Hijo del Hombre será entregado para ser crucificado.",
+				"number": 2
+			},
+			{
+				"verse": "Entonces los principales sacerdotes, los escribas, y los ancianos del pueblo se reunieron en el patio del sumo sacerdote llamado Caifás,",
+				"number": 3
+			},
+			{
+				"verse": "y tuvieron consejo para prender con engaño a Jesús, y matarle.",
+				"number": 4
+			},
+			{
+				"verse": "Pero decían: No durante la fiesta, para que no se haga alboroto en el pueblo.",
+				"number": 5
+			},
+			{
+				"verse": "Y estando Jesús en Betania, en casa de Simón el leproso,",
+				"number": 6
+			},
+			{
+				"verse": "vino a él una mujer, con un vaso de alabastro de perfume de gran precio, y lo derramó sobre la cabeza de él, estando sentado a la mesa.",
+				"number": 7
+			},
+			{
+				"verse": "Al ver esto, los discípulos se enojaron, diciendo: ¿Para qué este desperdicio?",
+				"number": 8
+			},
+			{
+				"verse": "Porque esto podía haberse vendido a gran precio, y haberse dado a los pobres.",
+				"number": 9
+			},
+			{
+				"verse": "Y entendiéndolo Jesús, les dijo: ¿Por qué molestáis a esta mujer? pues ha hecho conmigo una buena obra.",
+				"number": 10
+			},
+			{
+				"verse": "Porque siempre tendréis pobres con vosotros, pero a mí no siempre me tendréis.",
+				"number": 11
+			},
+			{
+				"verse": "Porque al derramar este perfume sobre mi cuerpo, lo ha hecho a fin de prepararme para la sepultura.",
+				"number": 12
+			},
+			{
+				"verse": "De cierto os digo que dondequiera que se predique este evangelio, en todo el mundo, también se contará lo que ésta ha hecho, para memoria de ella.",
+				"number": 13
+			},
+			{
+				"verse": "Entonces uno de los doce, que se llamaba Judas Iscariote, fue a los principales sacerdotes,",
+				"number": 14
+			},
+			{
+				"verse": "y les dijo: ¿Qué me queréis dar, y yo os lo entregaré? Y ellos le asignaron treinta piezas de plata.",
+				"number": 15
+			},
+			{
+				"verse": "Y desde entonces buscaba oportunidad para entregarle.",
+				"number": 16
+			},
+			{
+				"verse": "El primer día de la fiesta de los panes sin levadura, vinieron los discípulos a Jesús, diciéndole: ¿Dónde quieres que preparemos para que comas la pascua?",
+				"number": 17
+			},
+			{
+				"verse": "Y él dijo: Id a la ciudad a cierto hombre, y decidle: El Maestro dice: Mi tiempo está cerca; en tu casa celebraré la pascua con mis discípulos.",
+				"number": 18
+			},
+			{
+				"verse": "Y los discípulos hicieron como Jesús les mandó, y prepararon la pascua.",
+				"number": 19
+			},
+			{
+				"verse": "Cuando llegó la noche, se sentó a la mesa con los doce.",
+				"number": 20
+			},
+			{
+				"verse": "Y mientras comían, dijo: De cierto os digo, que uno de vosotros me va a entregar.",
+				"number": 21
+			},
+			{
+				"verse": "Y entristecidos en gran manera, comenzó cada uno de ellos a decirle: ¿Soy yo, Señor?",
+				"number": 22
+			},
+			{
+				"verse": "Entonces él respondiendo, dijo: El que mete la mano conmigo en el plato, ése me va a entregar.",
+				"number": 23
+			},
+			{
+				"verse": "A la verdad el Hijo del Hombre va, según está escrito de él, mas ¡ay de aquel hombre por quien el Hijo del Hombre es entregado! Bueno le fuera a ese hombre no haber nacido.",
+				"number": 24
+			},
+			{
+				"verse": "Entonces respondiendo Judas, el que le entregaba, dijo: ¿Soy yo, Maestro? Le dijo: Tú lo has dicho.",
+				"number": 25
+			},
+			{
+				"verse": "Y mientras comían, tomó Jesús el pan, y bendijo, y lo partió, y dio a sus discípulos, y dijo: Tomad, comed; esto es mi cuerpo.",
+				"number": 26
+			},
+			{
+				"verse": "Y tomando la copa, y habiendo dado gracias, les dio, diciendo: Bebed de ella todos;",
+				"number": 27
+			},
+			{
+				"verse": "porque esto es mi sangre del nuevo pacto, que por muchos es derramada para remisión de los pecados.",
+				"number": 28
+			},
+			{
+				"verse": "Y os digo que desde ahora no beberé más de este fruto de la vid, hasta aquel día en que lo beba nuevo con vosotros en el reino de mi Padre.",
+				"number": 29
+			},
+			{
+				"verse": "Y cuando hubieron cantado el himno, salieron al monte de los Olivos.",
+				"number": 30
+			},
+			{
+				"verse": "Entonces Jesús les dijo: Todos vosotros os escandalizaréis de mí esta noche; porque escrito está: Heriré al pastor, y las ovejas del rebaño serán dispersadas.",
+				"number": 31
+			},
+			{
+				"verse": "Pero después que haya resucitado, iré delante de vosotros a Galilea.",
+				"number": 32
+			},
+			{
+				"verse": "Respondiendo Pedro, le dijo: Aunque todos se escandalicen de ti, yo nunca me escandalizaré.",
+				"number": 33
+			},
+			{
+				"verse": "Jesús le dijo: De cierto te digo que esta noche, antes que el gallo cante, me negarás tres veces.",
+				"number": 34
+			},
+			{
+				"verse": "Pedro le dijo: Aunque me sea necesario morir contigo, no te negaré. Y todos los discípulos dijeron lo mismo.",
+				"number": 35
+			},
+			{
+				"verse": "Entonces llegó Jesús con ellos a un lugar que se llama Getsemaní, y dijo a sus discípulos: Sentaos aquí, entre tanto que voy allí y oro.",
+				"number": 36
+			},
+			{
+				"verse": "Y tomando a Pedro, y a los dos hijos de Zebedeo, comenzó a entristecerse y a angustiarse en gran manera.",
+				"number": 37
+			},
+			{
+				"verse": "Entonces Jesús les dijo: Mi alma está muy triste, hasta la muerte; quedaos aquí, y velad conmigo.",
+				"number": 38
+			},
+			{
+				"verse": "Yendo un poco adelante, se postró sobre su rostro, orando y diciendo: Padre mío, si es posible, pase de mí esta copa; pero no sea como yo quiero, sino como tú.",
+				"number": 39
+			},
+			{
+				"verse": "Vino luego a sus discípulos, y los halló durmiendo, y dijo a Pedro: ¿Así que no habéis podido velar conmigo una hora?",
+				"number": 40
+			},
+			{
+				"verse": "Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil.",
+				"number": 41
+			},
+			{
+				"verse": "Otra vez fue, y oró por segunda vez, diciendo: Padre mío, si no puede pasar de mí esta copa sin que yo la beba, hágase tu voluntad.",
+				"number": 42
+			},
+			{
+				"verse": "Vino otra vez y los halló durmiendo, porque los ojos de ellos estaban cargados de sueño.",
+				"number": 43
+			},
+			{
+				"verse": "Y dejándolos, se fue de nuevo, y oró por tercera vez, diciendo las mismas palabras.",
+				"number": 44
+			},
+			{
+				"verse": "Entonces vino a sus discípulos y les dijo: Dormid ya, y descansad. He aquí ha llegado la hora, y el Hijo del Hombre es entregado en manos de pecadores.",
+				"number": 45
+			},
+			{
+				"verse": "Levantaos, vamos; ved, se acerca el que me entrega.",
+				"number": 46
+			},
+			{
+				"verse": "Mientras todavía hablaba, vino Judas, uno de los doce, y con él mucha gente con espadas y palos, de parte de los principales sacerdotes y de los ancianos del pueblo.",
+				"number": 47
+			},
+			{
+				"verse": "Y el que le entregaba les había dado señal, diciendo: Al que yo besare, ése es; prendedle.",
+				"number": 48
+			},
+			{
+				"verse": "Y en seguida se acercó a Jesús y dijo: ¡Salve, Maestro! Y le besó.",
+				"number": 49
+			},
+			{
+				"verse": "Y Jesús le dijo: Amigo, ¿a qué vienes? Entonces se acercaron y echaron mano a Jesús, y le prendieron.",
+				"number": 50
+			},
+			{
+				"verse": "Pero uno de los que estaban con Jesús, extendiendo la mano, sacó su espada, e hiriendo a un siervo del sumo sacerdote, le quitó la oreja.",
+				"number": 51
+			},
+			{
+				"verse": "Entonces Jesús le dijo: Vuelve tu espada a su lugar; porque todos los que tomen espada, a espada perecerán.",
+				"number": 52
+			},
+			{
+				"verse": "¿Acaso piensas que no puedo ahora orar a mi Padre, y que él no me daría más de doce legiones de ángeles?",
+				"number": 53
+			},
+			{
+				"verse": "¿Pero cómo entonces se cumplirían las Escrituras, de que es necesario que así se haga?",
+				"number": 54
+			},
+			{
+				"verse": "En aquella hora dijo Jesús a la gente:¿Como contra un ladrón habéis salido con espadas y con palos para prenderme? Cada día me sentaba con vosotros enseñando en el templo, y no me prendisteis.",
+				"number": 55
+			},
+			{
+				"verse": "Mas todo esto sucede, para que se cumplan las Escrituras de los profetas.Entonces todos los discípulos, dejándole, huyeron.",
+				"number": 56
+			},
+			{
+				"verse": "Los que prendieron a Jesús le llevaron al sumo sacerdote Caifás, adonde estaban reunidos los escribas y los ancianos.",
+				"number": 57
+			},
+			{
+				"verse": "Mas Pedro le seguía de lejos hasta el patio del sumo sacerdote; y entrando, se sentó con los alguaciles, para ver el fin.",
+				"number": 58
+			},
+			{
+				"verse": "Y los principales sacerdotes y los ancianos y todo el concilio, buscaban falso testimonio contra Jesús, para entregarle a la muerte,",
+				"number": 59
+			},
+			{
+				"verse": "y no lo hallaron, aunque muchos testigos falsos se presentaban. Pero al fin vinieron dos testigos falsos,",
+				"number": 60
+			},
+			{
+				"verse": "que dijeron: Este dijo: Puedo derribar el templo de Dios, y en tres días reedificarlo.",
+				"number": 61
+			},
+			{
+				"verse": "Y levantándose el sumo sacerdote, le dijo: ¿No respondes nada? ¿Qué testifican éstos contra ti?",
+				"number": 62
+			},
+			{
+				"verse": "Mas Jesús callaba. Entonces el sumo sacerdote le dijo: Te conjuro por el Dios viviente, que nos digas si eres tú el Cristo, el Hijo de Dios.",
+				"number": 63
+			},
+			{
+				"verse": "Jesús le dijo: Tú lo has dicho; y además os digo, que desde ahora veréis al Hijo del Hombre sentado a la diestra del poder de Dios, y viniendo en las nubes del cielo.",
+				"number": 64
+			},
+			{
+				"verse": "Entonces el sumo sacerdote rasgó sus vestiduras, diciendo: ¡Ha blasfemado! ¿Qué más necesidad tenemos de testigos? He aquí, ahora mismo habéis oído su blasfemia.",
+				"number": 65
+			},
+			{
+				"verse": "¿Qué os parece? Y respondiendo ellos, dijeron: ¡Es reo de muerte!",
+				"number": 66
+			},
+			{
+				"verse": "Entonces le escupieron en el rostro, y le dieron de puñetazos, y otros le abofeteaban,",
+				"number": 67
+			},
+			{
+				"verse": "diciendo: Profetízanos, Cristo, quién es el que te golpeó.",
+				"number": 68
+			},
+			{
+				"verse": "Pedro estaba sentado fuera en el patio; y se le acercó una criada, diciendo: Tú también estabas con Jesús el galileo.",
+				"number": 69
+			},
+			{
+				"verse": "Mas él negó delante de todos, diciendo: No sé lo que dices.",
+				"number": 70
+			},
+			{
+				"verse": "Saliendo él a la puerta, le vio otra, y dijo a los que estaban allí: También éste estaba con Jesús el nazareno.",
+				"number": 71
+			},
+			{
+				"verse": "Pero él negó otra vez con juramento: No conozco al hombre.",
+				"number": 72
+			},
+			{
+				"verse": "Un poco después, acercándose los que por allí estaban, dijeron a Pedro: Verdaderamente también tú eres de ellos, porque aun tu manera de hablar te descubre.",
+				"number": 73
+			},
+			{
+				"verse": "Entonces él comenzó a maldecir, y a jurar: No conozco al hombre. Y en seguida cantó el gallo.",
+				"number": 74
+			},
+			{
+				"verse": "Entonces Pedro se acordó de las palabras de Jesús, que le había dicho:Antes que cante el gallo, me negarás tres veces. Y saliendo fuera, lloró amargamente.",
+				"number": 75
+			}
+		]
+	},
+	{
+		"chapter": "27",
+		"vers": [
+			{
+				"verse": "Venida la mañana, todos los principales sacerdotes y los ancianos del pueblo entraron en consejo contra Jesús, para entregarle a muerte.",
+				"number": 1
+			},
+			{
+				"verse": "Y le llevaron atado, y le entregaron a Poncio Pilato, el gobernador.",
+				"number": 2
+			},
+			{
+				"verse": "Entonces Judas, el que le había entregado, viendo que era condenado, devolvió arrepentido las treinta piezas de plata a los principales sacerdotes y a los ancianos,",
+				"number": 3
+			},
+			{
+				"verse": "diciendo: Yo he pecado entregando sangre inocente. Mas ellos dijeron: ¿Qué nos importa a nosotros? ¡Allá tú!",
+				"number": 4
+			},
+			{
+				"verse": "Y arrojando las piezas de plata en el templo, salió, y fue y se ahorcó.",
+				"number": 5
+			},
+			{
+				"verse": "Los principales sacerdotes, tomando las piezas de plata, dijeron: No es lícito echarlas en el tesoro de las ofrendas, porque es precio de sangre.",
+				"number": 6
+			},
+			{
+				"verse": "Y después de consultar, compraron con ellas el campo del alfarero, para sepultura de los extranjeros.",
+				"number": 7
+			},
+			{
+				"verse": "Por lo cual aquel campo se llama hasta el día de hoy: Campo de sangre.",
+				"number": 8
+			},
+			{
+				"verse": "Así se cumplió lo dicho por el profeta Jeremías, cuando dijo: Y tomaron las treinta piezas de plata, precio del apreciado, según precio puesto por los hijos de Israel;",
+				"number": 9
+			},
+			{
+				"verse": "y las dieron para el campo del alfarero, como me ordenó el Señor.",
+				"number": 10
+			},
+			{
+				"verse": "Jesús, pues, estaba en pie delante del gobernador; y éste le preguntó, diciendo: ¿Eres tú el Rey de los judíos? Y Jesús le dijo: Tú lo dices.",
+				"number": 11
+			},
+			{
+				"verse": "Y siendo acusado por los principales sacerdotes y por los ancianos, nada respondió.",
+				"number": 12
+			},
+			{
+				"verse": "Pilato entonces le dijo: ¿No oyes cuántas cosas testifican contra ti?",
+				"number": 13
+			},
+			{
+				"verse": "Pero Jesús no le respondió ni una palabra; de tal manera que el gobernador se maravillaba mucho.",
+				"number": 14
+			},
+			{
+				"verse": "Ahora bien, en el día de la fiesta acostumbraba el gobernador soltar al pueblo un preso, el que quisiesen.",
+				"number": 15
+			},
+			{
+				"verse": "Y tenían entonces un preso famoso llamado Barrabás.",
+				"number": 16
+			},
+			{
+				"verse": "Reunidos, pues, ellos, les dijo Pilato: ¿A quién queréis que os suelte: a Barrabás, o a Jesús, llamado el Cristo?",
+				"number": 17
+			},
+			{
+				"verse": "Porque sabía que por envidia le habían entregado.",
+				"number": 18
+			},
+			{
+				"verse": "Y estando él sentado en el tribunal, su mujer le mandó decir: No tengas nada que ver con ese justo; porque hoy he padecido mucho en sueños por causa de él.",
+				"number": 19
+			},
+			{
+				"verse": "Pero los principales sacerdotes y los ancianos persuadieron a la multitud que pidiese a Barrabás, y que Jesús fuese muerto.",
+				"number": 20
+			},
+			{
+				"verse": "Y respondiendo el gobernador, les dijo: ¿A cuál de los dos queréis que os suelte? Y ellos dijeron: A Barrabás.",
+				"number": 21
+			},
+			{
+				"verse": "Pilato les dijo: ¿Qué, pues, haré de Jesús, llamado el Cristo? Todos le dijeron: ¡Sea crucificado!",
+				"number": 22
+			},
+			{
+				"verse": "Y el gobernador les dijo: Pues ¿qué mal ha hecho? Pero ellos gritaban aún más, diciendo: ¡Sea crucificado!",
+				"number": 23
+			},
+			{
+				"verse": "Viendo Pilato que nada adelantaba, sino que se hacía más alboroto, tomó agua y se lavó las manos delante del pueblo, diciendo: Inocente soy yo de la sangre de este justo; allá vosotros.",
+				"number": 24
+			},
+			{
+				"verse": "Y respondiendo todo el pueblo, dijo: Su sangre sea sobre nosotros, y sobre nuestros hijos.",
+				"number": 25
+			},
+			{
+				"verse": "Entonces les soltó a Barrabás; y habiendo azotado a Jesús, le entregó para ser crucificado.",
+				"number": 26
+			},
+			{
+				"verse": "Entonces los soldados del gobernador llevaron a Jesús al pretorio, y reunieron alrededor de él a toda la compañía;",
+				"number": 27
+			},
+			{
+				"verse": "y desnudándole, le echaron encima un manto de escarlata,",
+				"number": 28
+			},
+			{
+				"verse": "y pusieron sobre su cabeza una corona tejida de espinas, y una caña en su mano derecha; e hincando la rodilla delante de él, le escarnecían, diciendo: ¡Salve, Rey de los judíos!",
+				"number": 29
+			},
+			{
+				"verse": "Y escupiéndole, tomaban la caña y le golpeaban en la cabeza.",
+				"number": 30
+			},
+			{
+				"verse": "Después de haberle escarnecido, le quitaron el manto, le pusieron sus vestidos, y le llevaron para crucificarle.",
+				"number": 31
+			},
+			{
+				"verse": "Cuando salían, hallaron a un hombre de Cirene que se llamaba Simón; a éste obligaron a que llevase la cruz.",
+				"number": 32
+			},
+			{
+				"verse": "Y cuando llegaron a un lugar llamado Gólgota, que significa: Lugar de la Calavera,",
+				"number": 33
+			},
+			{
+				"verse": "le dieron a beber vinagre mezclado con hiel; pero después de haberlo probado, no quiso beberlo.",
+				"number": 34
+			},
+			{
+				"verse": "Cuando le hubieron crucificado, repartieron entre sí sus vestidos, echando suertes, para que se cumpliese lo dicho por el profeta: Partieron entre sí mis vestidos, y sobre mi ropa echaron suertes.",
+				"number": 35
+			},
+			{
+				"verse": "Y sentados le guardaban allí.",
+				"number": 36
+			},
+			{
+				"verse": "Y pusieron sobre su cabeza su causa escrita: ESTE ES JESÚS, EL REY DE LOS JUDÍOS.",
+				"number": 37
+			},
+			{
+				"verse": "Entonces crucificaron con él a dos ladrones, uno a la derecha, y otro a la izquierda.",
+				"number": 38
+			},
+			{
+				"verse": "Y los que pasaban le injuriaban, meneando la cabeza,",
+				"number": 39
+			},
+			{
+				"verse": "y diciendo: Tú que derribas el templo, y en tres días lo reedificas, sálvate a ti mismo; si eres Hijo de Dios, desciende de la cruz.",
+				"number": 40
+			},
+			{
+				"verse": "De esta manera también los principales sacerdotes, escarneciéndole con los escribas y los fariseos y los ancianos, decían:",
+				"number": 41
+			},
+			{
+				"verse": "A otros salvó, a sí mismo no se puede salvar; si es el Rey de Israel, descienda ahora de la cruz, y creeremos en él.",
+				"number": 42
+			},
+			{
+				"verse": "Confió en Dios; líbrele ahora si le quiere; porque ha dicho: Soy Hijo de Dios.",
+				"number": 43
+			},
+			{
+				"verse": "Lo mismo le injuriaban también los ladrones que estaban crucificados con él.",
+				"number": 44
+			},
+			{
+				"verse": "Y desde la hora sexta hubo tinieblas sobre toda la tierra hasta la hora novena.",
+				"number": 45
+			},
+			{
+				"verse": "Cerca de la hora novena, Jesús clamó a gran voz, diciendo: Elí, Elí, ¿lama sabactani? Esto es: Dios mío, Dios mío, ¿por qué me has desamparado?",
+				"number": 46
+			},
+			{
+				"verse": "Algunos de los que estaban allí decían, al oírlo: A Elías llama éste.",
+				"number": 47
+			},
+			{
+				"verse": "Y al instante, corriendo uno de ellos, tomó una esponja, y la empapó de vinagre, y poniéndola en una caña, le dio a beber.",
+				"number": 48
+			},
+			{
+				"verse": "Pero los otros decían: Deja, veamos si viene Elías a librarle.",
+				"number": 49
+			},
+			{
+				"verse": "Mas Jesús, habiendo otra vez clamado a gran voz, entregó el espíritu.",
+				"number": 50
+			},
+			{
+				"verse": "Y he aquí, el velo del templo se rasgó en dos, de arriba abajo; y la tierra tembló, y las rocas se partieron;",
+				"number": 51
+			},
+			{
+				"verse": "y se abrieron los sepulcros, y muchos cuerpos de santos que habían dormido, se levantaron;",
+				"number": 52
+			},
+			{
+				"verse": "y saliendo de los sepulcros, después de la resurrección de él, vinieron a la santa ciudad, y aparecieron a muchos.",
+				"number": 53
+			},
+			{
+				"verse": "El centurión, y los que estaban con él guardando a Jesús, visto el terremoto, y las cosas que habían sido hechas, temieron en gran manera, y dijeron: Verdaderamente éste era Hijo de Dios.",
+				"number": 54
+			},
+			{
+				"verse": "Estaban allí muchas mujeres mirando de lejos, las cuales habían seguido a Jesús desde Galilea, sirviéndole,",
+				"number": 55
+			},
+			{
+				"verse": "entre las cuales estaban María Magdalena, María la madre de Jacobo y de José, y la madre de los hijos de Zebedeo.",
+				"number": 56
+			},
+			{
+				"verse": "Cuando llegó la noche, vino un hombre rico de Arimatea, llamado José, que también había sido discípulo de Jesús.",
+				"number": 57
+			},
+			{
+				"verse": "Este fue a Pilato y pidió el cuerpo de Jesús. Entonces Pilato mandó que se le diese el cuerpo.",
+				"number": 58
+			},
+			{
+				"verse": "Y tomando José el cuerpo, lo envolvió en una sábana limpia,",
+				"number": 59
+			},
+			{
+				"verse": "y lo puso en su sepulcro nuevo, que había labrado en la peña; y después de hacer rodar una gran piedra a la entrada del sepulcro, se fue.",
+				"number": 60
+			},
+			{
+				"verse": "Y estaban allí María Magdalena, y la otra María, sentadas delante del sepulcro.",
+				"number": 61
+			},
+			{
+				"verse": "Al día siguiente, que es después de la preparación, se reunieron los principales sacerdotes y los fariseos ante Pilato,",
+				"number": 62
+			},
+			{
+				"verse": "diciendo: Señor, nos acordamos que aquel engañador dijo, viviendo aún: Después de tres días resucitaré.",
+				"number": 63
+			},
+			{
+				"verse": "Manda, pues, que se asegure el sepulcro hasta el tercer día, no sea que vengan sus discípulos de noche, y lo hurten, y digan al pueblo: Resucitó de entre los muertos. Y será el postrer error peor que el primero.",
+				"number": 64
+			},
+			{
+				"verse": "Y Pilato les dijo: Ahí tenéis una guardia; id, aseguradlo como sabéis.",
+				"number": 65
+			},
+			{
+				"verse": "Entonces ellos fueron y aseguraron el sepulcro, sellando la piedra y poniendo la guardia.",
+				"number": 66
+			}
+		]
+	},
+	{
+		"chapter": "28",
+		"vers": [
+			{
+				"verse": "Pasado el día de reposo, al amanecer del primer día de la semana, vinieron María Magdalena y la otra María, a ver el sepulcro.",
+				"number": 1
+			},
+			{
+				"verse": "Y hubo un gran terremoto; porque un ángel del Señor, descendiendo del cielo y llegando, removió la piedra, y se sentó sobre ella.",
+				"number": 2
+			},
+			{
+				"verse": "Su aspecto era como un relámpago, y su vestido blanco como la nieve.",
+				"number": 3
+			},
+			{
+				"verse": "Y de miedo de él los guardas temblaron y se quedaron como muertos.",
+				"number": 4
+			},
+			{
+				"verse": "Mas el ángel, respondiendo, dijo a las mujeres: No temáis vosotras; porque yo sé que buscáis a Jesús, el que fue crucificado.",
+				"number": 5
+			},
+			{
+				"verse": "No está aquí, pues ha resucitado, como dijo. Venid, ved el lugar donde fue puesto el Señor.",
+				"number": 6
+			},
+			{
+				"verse": "E id pronto y decid a sus discípulos que ha resucitado de los muertos, y he aquí va delante de vosotros a Galilea; allí le veréis. He aquí, os lo he dicho.",
+				"number": 7
+			},
+			{
+				"verse": "Entonces ellas, saliendo del sepulcro con temor y gran gozo, fueron corriendo a dar las nuevas a sus discípulos. Y mientras iban a dar las nuevas a los discípulos,",
+				"number": 8
+			},
+			{
+				"verse": "he aquí, Jesús les salió al encuentro, diciendo: ¡Salve! Y ellas, acercándose, abrazaron sus pies, y le adoraron.",
+				"number": 9
+			},
+			{
+				"verse": "Entonces Jesús les dijo: No temáis; id, dad las nuevas a mis hermanos, para que vayan a Galilea, y allí me verán.",
+				"number": 10
+			},
+			{
+				"verse": "Mientras ellas iban, he aquí unos de la guardia fueron a la ciudad, y dieron aviso a los principales sacerdotes de todas las cosas que habían acontecido.",
+				"number": 11
+			},
+			{
+				"verse": "Y reunidos con los ancianos, y habido consejo, dieron mucho dinero a los soldados,",
+				"number": 12
+			},
+			{
+				"verse": "diciendo: Decid vosotros: Sus discípulos vinieron de noche, y lo hurtaron, estando nosotros dormidos.",
+				"number": 13
+			},
+			{
+				"verse": "Y si esto lo oyere el gobernador, nosotros le persuadiremos, y os pondremos a salvo.",
+				"number": 14
+			},
+			{
+				"verse": "Y ellos, tomando el dinero, hicieron como se les había instruido. Este dicho se ha divulgado entre los judíos hasta el día de hoy.",
+				"number": 15
+			},
+			{
+				"verse": "Pero los once discípulos se fueron a Galilea, al monte donde Jesús les había ordenado.",
+				"number": 16
+			},
+			{
+				"verse": "Y cuando le vieron, le adoraron; pero algunos dudaban.",
+				"number": 17
+			},
+			{
+				"verse": "Y Jesús se acercó y les habló diciendo: Toda potestad me es dada en el cielo y en la tierra.",
+				"number": 18
+			},
+			{
+				"verse": "Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo;",
+				"number": 19
+			},
+			{
+				"verse": "enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén.",
+				"number": 20
+			}
+		]
+	}
+]
