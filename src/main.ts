@@ -18,10 +18,11 @@ app.get("/", async (c: Context) => {
   const books = []
 
   for await (const entry of Deno.readDir(`${Deno.cwd()}/books/oldTestament`)) {
+    const name = entry.name.replaceAll(".json", "")
     const book = {
-      name: entry.name,
-      endpoint: `/book/${entry.name}/`,
-      byChapter: `/book/${entry.name}/1`
+      name,
+      endpoint: `/book/${name}/`,
+      byChapter: `/book/${name}/1`
     }
     books.push(book)
   }
