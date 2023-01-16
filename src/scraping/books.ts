@@ -1,7 +1,7 @@
 import * as cherio from "cherio";
 
 const Testaments = ["Antiguo Testamento", "Nuevo Testamento"] as const;
-type Testament = typeof Testaments[number]
+export type Testament = typeof Testaments[number]
 
 interface Book {
   name: string;
@@ -351,7 +351,6 @@ const getUrls = (book: string, chapters: number) => {
 export default async function scrapeBook(book: Book) {
 
   const { name, chapters } = book
-  const testamentFolder = book.testament === "Antiguo Testamento" ? "oldTestament" : "newTestament"
 
   const acc = [];
   const urls = getUrls(name, chapters)
@@ -387,21 +386,22 @@ export default async function scrapeBook(book: Book) {
     });
 
     acc.push({ chapter, vers })
+    console.log({ chapter, study, book })
 
     try {
 
-      await Deno.writeTextFile(
-        `books/${testamentFolder}/${name.toLowerCase()}/cap${i}.json`,
-        JSON.stringify(vers, null, "\t"),
-      )
+      // await Deno.writeTextFile(
+      //   `books/${testamentFolder}/${name.toLowerCase()}/cap${i}.json`,
+      //   JSON.stringify(vers, null, "\t"),
+      // )
 
 
     } catch {
-      await Deno.mkdir(`${Deno.cwd()}/books/${testamentFolder}/${name.toLowerCase()}`)
-      await Deno.writeTextFile(
-        `books/oldTestament/${name.toLowerCase()}/cap${i}.json`,
-        JSON.stringify(vers, null, "\t"),
-      )
+      // await Deno.mkdir(`${Deno.cwd()}/books/${testamentFolder}/${name.toLowerCase()}`)
+      // await Deno.writeTextFile(
+      //   `books/oldTestament/${name.toLowerCase()}/cap${i}.json`,
+      //   JSON.stringify(vers, null, "\t"),
+      // )
     }
     i++
   }
@@ -416,11 +416,12 @@ const main = async () => {
     let Bookverses;
     try {
       Bookverses = await scrapeBook(book)
-      await Deno.writeTextFile(`${Deno.cwd()}/books/${testamentFolder}/${book.name.toLocaleLowerCase()}/${book.name.toLowerCase()}.json`, JSON.stringify(Bookverses, null, '\t'))
+      await Deno.writeTextFile(`${Deno.cwd()}/books/${testamentFolder}/${book.name.toLowerCase()}.json`, JSON.stringify(Bookverses, null, '\t'))
     } catch (_error) {
-      await Deno.mkdir(`${Deno.cwd()}/books/${testamentFolder}/${book.name.toLocaleLowerCase()}`)
+
+      await Deno.mkdir(`${Deno.cwd()}/books/${testamentFolder}/`)
       Bookverses = await scrapeBook(book)
-      await Deno.writeTextFile(`${Deno.cwd()}/books/${testamentFolder}/${book.name.toLocaleLowerCase()}/${book.name.toLowerCase()}.json`, JSON.stringify(Bookverses, null, '\t'))
+      await Deno.writeTextFile(`${Deno.cwd()}/books/${testamentFolder}/${book.name.toLowerCase()}.json`, JSON.stringify(Bookverses, null, '\t'))
     }
 
     Bookverses = []
