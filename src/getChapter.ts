@@ -14,10 +14,9 @@ export const getChapter = async (
     ? "newTestament"
     : "oldTestament";
 
-  const path = `${Deno.cwd()}/books/${testamentFolder}/${bookName}.json`;
+  const path = `${Deno.cwd()}/db/rv1960/${testamentFolder}/${bookName}.json`;
 
   const book = await Deno.readTextFile(path);
-  console.log(number);
   const chapter = number - 1;
   const numChapters = JSON.parse(book).length;
 
