@@ -1,4 +1,4 @@
-import { scrapeRV60 } from "./RVR1960.ts";
+import { scrapeReinaValera60 } from "./reinaValera60.ts";
 
 const Testaments = ["Antiguo Testamento", "Nuevo Testamento"] as const;
 export type Testament = typeof Testaments[number];
@@ -340,5 +340,5 @@ export const books: Book[] = [
 ];
 
 if (import.meta.main) {
-  scrapeRV60();
+  scrapeReinaValera60();
 }

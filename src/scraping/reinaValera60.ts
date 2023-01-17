@@ -1,9 +1,17 @@
 import { Book, books } from "./books.ts";
-
 import * as cherio from "cherio";
 const RVR1960 = "https://www.biblia.es/biblia-buscar-libros-1.php";
 
-const getRv60Urls = (book: string, chapters: number) => {
+const existDir = (dir: string): boolean => {
+  try {
+    const _entries = Deno.readDirSync(dir);
+    return true;
+  } catch (_err) {
+    return false;
+  }
+};
+
+const getReinaValera60Urls = (book: string, chapters: number) => {
   const urls = [];
   for (let i = 1; i <= chapters; i++) {
     urls.push(
@@ -14,11 +22,11 @@ const getRv60Urls = (book: string, chapters: number) => {
   return urls;
 };
 
-const scrapeRv60Book = async (book: Book) => {
+const scrapeReinaValera60Book = async (book: Book) => {
   const { name, chapters } = book;
 
   const acc = [];
-  const urls = getRv60Urls(name, chapters);
+  const urls = getReinaValera60Urls(name, chapters);
 
   const requests = urls.map((url) => fetch(url));
 
@@ -59,27 +67,42 @@ const scrapeRv60Book = async (book: Book) => {
   return acc;
 };
 
-export async function scrapeRV60() {
+export async function scrapeReinaValera60() {
+  const dir = `${Deno.cwd()}/db`;
+  const existPath = existDir(dir);
+  if (!existPath) {
+    Deno.mkdir(dir);
+  }
+  const rv60Path = `${Deno.cwd()}/db/rv1960`;
+  const existRv60Folder = existDir(rv60Path);
+  if (!existRv60Folder) {
+    Deno.mkdir(rv60Path);
+  }
+
   for await (const book of books) {
     const testamentFolder = book.testament === "Antiguo Testamento"
       ? "oldTestament"
       : "newTestament";
     let Bookverses;
     try {
-      Bookverses = await scrapeRv60Book(book);
+      Bookverses = await scrapeReinaValera60Book(book);
       await Deno.writeTextFile(
-        `${Deno.cwd()}/books/${testamentFolder}/${book.name.toLowerCase()}.json`,
+        `${Deno.cwd()}/db/rv1960/${testamentFolder}/${book.name.toLowerCase()}.json`,
         JSON.stringify(Bookverses, null, "\t"),
       );
     } catch (_error) {
-      await Deno.mkdir(`${Deno.cwd()}/books/${testamentFolder}/`);
-      Bookverses = await scrapeRv60Book(book);
+      await Deno.mkdir(`${Deno.cwd()}/db/rv1960/${testamentFolder}/`);
+      Bookverses = await scrapeReinaValera60Book(book);
       await Deno.writeTextFile(
-        `${Deno.cwd()}/books/${testamentFolder}/${book.name.toLowerCase()}.json`,
+        `${Deno.cwd()}/db/rv1960/${testamentFolder}/${book.name.toLowerCase()}.json`,
         JSON.stringify(Bookverses, null, "\t"),
       );
     }
 
     Bookverses = [];
   }
+}
+
+if (import.meta.main) {
+  scrapeReinaValera60();
 }
