@@ -1,7 +1,7 @@
 import { Hono } from "hono";
 import { cors } from "middleware";
 import { serve } from "server";
-import { books } from "$/scraping/books.ts";
+import { books } from "$/scraping/index.ts";
 import reinaValera1960 from "$/versions/reinaValera60.ts";
 
 const app = new Hono();
