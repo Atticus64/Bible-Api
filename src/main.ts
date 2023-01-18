@@ -23,7 +23,14 @@ export const isInNewTestament = (book: string) => {
 
 app.use("*", cors({ origin: "*" }));
 
-app.get("/", (c) => c.text("Hola!"));
+app.get("/", (c) => {
+  return c.json({
+    versions: ["rv1960"],
+    endpoints: [
+      "/rv1960/book/genesis/1",
+    ],
+  });
+});
 
 app.route("/rv1960", reinaValera1960);
 

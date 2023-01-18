@@ -32,6 +32,11 @@ export const books: Book[] = [
     testament: "Antiguo Testamento",
   },
   {
+    name: "Numeros",
+    chapters: 36,
+    testament: "Antiguo Testamento",
+  },
+  {
     name: "Deuteronomio",
     chapters: 34,
     testament: "Antiguo Testamento",
