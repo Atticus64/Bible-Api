@@ -1,7 +1,10 @@
 {
   "tasks": {
     "dev": "deno run --allow-read --allow-net --watch src/main.ts",
-    "scrape": "deno run --allow-write --allow-read --allow-net src/scraping/books.ts",
+    "scrape:all": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts",
+    "scrape:r60": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts --version rv60",
+    "scrape:tla": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts --version tla",
+    "scrape:r09": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts --version rv09",
     "test": "deno test"
   },
   "importMap": "./import_map.json"

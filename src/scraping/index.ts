@@ -1,4 +1,13 @@
+import { parse } from "flags";
 import { scrapeReinaValera60 } from "./reinaValera60.ts";
+import scrapeVersion from "./versions.ts";
+import { versions } from './versions.ts';
+
+const flags = parse(Deno.args, {
+  boolean: ["help"],
+  string: ["version"],
+  default: { help: false },
+});
 
 const Testaments = ["Antiguo Testamento", "Nuevo Testamento"] as const;
 export type Testament = typeof Testaments[number];
@@ -416,6 +425,25 @@ export const books: Book[] = [
   },
 ];
 
+
+
 if (import.meta.main) {
-  scrapeReinaValera60();
+  if (!flags.version) {
+    console.log('Scraping all')
+    await scrapeReinaValera60();
+    await scrapeVersion(versions.RVR09);
+    await scrapeVersion(versions.TLA);
+  }
+
+  if (flags.version === "rv60" || flags.version === "rv1960") {
+    scrapeReinaValera60();
+  }
+
+  if (flags.version === "rv09" || flags.version === "rv1909") {
+    scrapeVersion(versions.RVR09);
+  }
+
+  if (flags.version === "tla") {
+    scrapeVersion(versions.TLA);
+  }
 }

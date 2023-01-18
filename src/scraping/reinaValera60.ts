@@ -1,8 +1,8 @@
-import { Book, books } from "./books.ts";
+import { Book, books } from "./index.ts";
 import * as cherio from "cherio";
 const RVR1960 = "https://www.biblia.es/biblia-buscar-libros-1.php";
 
-const existDir = (dir: string): boolean => {
+export const existDir = (dir: string): boolean => {
   try {
     const _entries = Deno.readDirSync(dir);
     return true;

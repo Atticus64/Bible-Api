@@ -2,8 +2,9 @@
   "imports": {
     "cherio": "https://esm.sh/cheerio@1.0.0-rc.12",
     "server": "https://deno.land/std@0.171.0/http/server.ts",
-		"middleware": "https://deno.land/x/hono@v2.7.2/middleware.ts",
+    "middleware": "https://deno.land/x/hono@v2.7.2/middleware.ts",
     "hono": "https://deno.land/x/hono@v2.7.2/mod.ts",
+    "flags": "https://deno.land/std@0.168.0/flags/mod.ts",
     "$/": "./src/"
   }
 }
