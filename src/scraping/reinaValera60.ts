@@ -1,5 +1,6 @@
 import { Book, books } from "./index.ts";
 import * as cherio from "cherio";
+import { log } from "$/scraping/versions.ts"
 const RVR1960 = "https://www.biblia.es/biblia-buscar-libros-1.php";
 
 export const existDir = (dir: string): boolean => {
@@ -59,7 +60,7 @@ const scrapeReinaValera60Book = async (book: Book) => {
     });
 
     acc.push({ chapter, vers });
-    console.log({ chapter, study, book });
+    // log(`${chapter}, ${study}, ${book} }`);
 
     i++;
   }
@@ -99,6 +100,7 @@ export async function scrapeReinaValera60() {
       );
     }
 
+    log(`Scraped ${book.name}`, "info");
     Bookverses = [];
   }
 }

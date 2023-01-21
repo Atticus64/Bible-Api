@@ -10,28 +10,26 @@ interface Version {
   folderName: string;
 }
 
-const colors = [
-  "#C58C71",
-  "#F1948A",
-  "#82E0AA",
-  "#73C6B6",
-  "#5499C7",
-  "#F7DC6F",
-  "#F5B041",
-  "#839192",
-  "#2E86C1",
-  "#EDBB99",
-  "#D7BDE2",
-  "#D5F5E3",
-  "#E59866",
-  "#7DCEA0",
-  "#F8C471",
-  "#D3F351",
-  "#65F6D5",
-  "#2CF1E9",
-  "#F1D02C",
-  "#6BEC90",
-];
+interface Logger {
+  color: string,
+  name: string
+}
+
+interface Loggers {
+  info: Logger
+  error: Logger
+}
+
+const loggers = {
+  info: {
+    color: "#82E0AA",
+    name: "INFO"
+  },
+  error: {
+    color: "#F93610",
+    name: "ERROR"
+  },
+};
 
 interface Versions {
   TLA: Version;
@@ -57,21 +55,22 @@ export const versions: Versions = {
   },
 };
 
-const getColor = () => {
-  const n = Math.random() * 20;
-  const num = Math.floor(n);
-  const color = colors[num];
-  return color;
+const getColor = (key: string) => {
+
+  const logger: Logger = loggers[key as keyof Loggers];
+
+  return logger;
 };
 
-const log = (message: string) => {
-  const color = getColor();
-  console.log(`%c${message}`, `color: ${color}`);
+export const log = (message: string, type: keyof Loggers) => {
+  const logger = getColor(type);
+
+  console.log(`%c[${logger.name}] %c${message}`, `color: ${logger.color}`, 'color: #ffffff');
 };
 
 const sleep = (secs: number) => {
   const milis = secs * 1000;
-  setTimeout(() => {}, milis);
+  setTimeout(() => { }, milis);
 };
 
 const isUpperCase = (str: string) => {
@@ -234,7 +233,7 @@ export default async function scrapeVersion(version: Version) {
           `${Deno.cwd()}/db/${version.folderName}/${testamentFolder}/${book.name.toLowerCase()}.json`,
           JSON.stringify(rawBook, null, "\t"),
         );
-        log(`Scraped ${book.name}`);
+        log(`Scraped ${book.name}`, "info");
         continue;
       }
       Bookverses = await scrapeBook(book, version.name);
@@ -255,7 +254,7 @@ export default async function scrapeVersion(version: Version) {
         JSON.stringify(Bookverses, null, "\t"),
       );
     }
-    log(`Scraped ${book.name}`);
+    log(`Scraped ${book.name}`, "info");
 
     Bookverses = [];
   }
