@@ -3,6 +3,7 @@ import { cors } from "middleware";
 import { serve } from "server";
 import { books } from "$/scraping/index.ts";
 import reinaValera1960 from "$/versions/reinaValera60.ts";
+import reinaValera1909 from "$/versions/reinaValera09.ts";
 
 const app = new Hono();
 
@@ -33,6 +34,8 @@ app.get("/", (c) => {
 });
 
 app.route("/rv1960", reinaValera1960);
+
+app.route("/rv1909", reinaValera1909);
 
 app.notFound((c) => {
   const { pathname } = new URL(c.req.url);

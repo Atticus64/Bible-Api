@@ -4,7 +4,7 @@ import { existDir } from "$/scraping/reinaValera60.ts";
 
 const url = `https://www.bible.com/bible`;
 
-interface Version {
+export interface Version {
   urlNumber: number;
   name: string;
   folderName: string;
@@ -31,7 +31,7 @@ const loggers = {
   },
 };
 
-interface Versions {
+export interface Versions {
   TLA: Version;
   RVR09: Version;
   RVR60: Version;
@@ -243,7 +243,7 @@ export default async function scrapeVersion(version: Version) {
       );
     } catch (error) {
       if (!(error instanceof Deno.errors.NotFound)) {
-        throw error;
+        log(error, "error");
       }
       await Deno.mkdir(
         `${Deno.cwd()}/db/${version.folderName}/${testamentFolder}/`,

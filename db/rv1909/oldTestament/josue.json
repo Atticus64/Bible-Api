@@ -1,0 +1,2762 @@
+[
+	{
+		"chapter": 1,
+		"verses": [
+			{
+				"verse": "Y Aconteció después de la muerte de Moisés siervo de Jehová, que Jehová habló á Josué hijo de Nun, ministro de Moisés, diciendo:",
+				"number": 1
+			},
+			{
+				"verse": "Mi siervo Moisés es muerto: levántate pues ahora, y pasa este Jordán, tú y todo este pueblo, á la tierra que yo les doy á los hijos de Israel.",
+				"number": 2
+			},
+			{
+				"verse": "Yo os he entregado, como lo había dicho á Moisés, todo lugar que pisare la planta de vuestro pie.",
+				"number": 3
+			},
+			{
+				"verse": "Desde el desierto y este Líbano hasta el gran río Eufrates, toda la tierra de los Hetheos hasta la gran mar del poniente del sol, será vuestro término.",
+				"number": 4
+			},
+			{
+				"verse": "Nadie te podrá hacer frente en todos los días de tu vida: como yo fuí con Moisés, seré contigo; no te dejaré, ni te desampararé.",
+				"number": 5
+			},
+			{
+				"verse": "Esfuérzate y sé valiente: porque tú repartirás á este pueblo por heredad la tierra, de la cual juré á sus padres que la daría á ellos.",
+				"number": 6
+			},
+			{
+				"verse": "Solamente te esfuerces, y seas muy valiente, para cuidar de hacer conforme á toda la ley que mi siervo Moisés te mandó: no te apartes de ella ni á diestra ni á siniestra, para que seas prosperado en todas las cosas que emprendieres.",
+				"number": 7
+			},
+			{
+				"verse": "El libro de aquesta ley nunca se apartará de tu boca: antes de día y de noche meditarás en él, para que guardes y hagas conforme á todo lo que en él está escrito: porque entonces harás prosperar tu camino, y todo te saldrá bien.",
+				"number": 8
+			},
+			{
+				"verse": "Mira que te mando que te esfuerces y seas valiente: no temas ni desmayes, porque Jehová tu Dios será contigo en donde quiera que fueres.",
+				"number": 9
+			},
+			{
+				"verse": "Y josué mandó á los oficiales del pueblo, diciendo:",
+				"number": 10
+			},
+			{
+				"verse": "Pasad por medio del campo, y mandad al pueblo, diciendo: Preveníos de comida; porque dentro de tres días pasaréis el Jordán, para que entréis á poseer la tierra que Jehová vuestro Dios os da para que la poseáis.",
+				"number": 11
+			},
+			{
+				"verse": "También habló Josué á los Rubenitas y Gaditas, y á la media tribu de Manasés, diciendo:",
+				"number": 12
+			},
+			{
+				"verse": "Acordaos de la palabra que Moisés, siervo de Jehová, os mandó diciendo: Jehová vuestro Dios os ha dado reposo, y os ha dado esta tierra.",
+				"number": 13
+			},
+			{
+				"verse": "Vuestras mujeres y vuestros niños y vuestras bestias, quedarán en la tierra que Moisés os ha dado de esta parte del Jordán; mas vosotros, todos los valientes y fuertes, pasaréis armados delante de vuestros hermanos, y les ayudaréis;",
+				"number": 14
+			},
+			{
+				"verse": "Hasta tanto que Jehová haya dado reposo á vuestros hermanos como á vosotros, y que ellos también posean la tierra que Jehová vuestro Dios les da: y después volveréis vosotros á la tierra de vuestra herencia, la cual Moisés siervo de Jehová os ha dado, de esta parte del Jordán hacia donde nace el sol; y la poseeréis.",
+				"number": 15
+			},
+			{
+				"verse": "Entonces respondieron á Josué, diciendo: Nosotros haremos todas las cosas que nos has mandado, é iremos adonde quiera que nos mandares.",
+				"number": 16
+			},
+			{
+				"verse": "De la manera que obedecimos á Moisés en todas las cosas, así te obedeceremos á ti: solamente Jehová tu Dios sea contigo, como fué con Moisés.",
+				"number": 17
+			},
+			{
+				"verse": "Cualquiera que fuere rebelde á tu mandamiento, y no obedeciere á tus palabras en todas las cosas que le mandares, que muera; solamente que te esfuerces, y seas valiente.",
+				"number": 18
+			}
+		]
+	},
+	{
+		"chapter": 2,
+		"verses": [
+			{
+				"verse": "Y Josué, hijo de Nun, envió desde Sittim dos espías secretamente, diciéndoles: Andad, reconoced la tierra, y á Jericó. Los cuales fueron, y entráronse en casa de una mujer ramera que se llamaba Rahab, y posaron allí.",
+				"number": 1
+			},
+			{
+				"verse": "Y fué dado aviso al rey de jericó, diciendo: he aquí que hombres de los hijos de israel han venido aquí esta noche á espiar la tierra.",
+				"number": 2
+			},
+			{
+				"verse": "Entonces el rey de Jericó, envió á decir á Rahab: Saca fuera los hombres que han venido á ti, y han entrado en tu casa; porque han venido á espiar toda la tierra.",
+				"number": 3
+			},
+			{
+				"verse": "Mas la mujer había tomado los dos hombres, y los había escondido; y dijo: Verdad que hombres vinieron á mí, mas no supe de dónde eran:",
+				"number": 4
+			},
+			{
+				"verse": "Y al cerrarse la puerta, siendo ya oscuro, esos hombres se salieron, y no sé á dónde se han ido: seguidlos apriesa, que los alcanzaréis.",
+				"number": 5
+			},
+			{
+				"verse": "Mas ella los había hecho subir al terrado, y habíalos escondido entre tascos de lino que en aquel terrado tenía puestos.",
+				"number": 6
+			},
+			{
+				"verse": "Y los hombres fueron tras ellos por el camino del jordán, hasta los vados: y la puerta fué cerrada después que salieron los que tras ellos iban.",
+				"number": 7
+			},
+			{
+				"verse": "Mas antes que ellos durmiesen, ella subió á ellos al terrado, y díjoles:",
+				"number": 8
+			},
+			{
+				"verse": "Sé que Jehová os ha dado esta tierra; porque el temor de vosotros ha caído sobre nosotros, y todos los moradores del país están desmayados por causa de vosotros;",
+				"number": 9
+			},
+			{
+				"verse": "Porque hemos oído que Jehová hizo secar las aguas del mar Bermejo delante de vosotros, cuando salisteis de Egipto, y lo que habéis hecho á los dos reyes de los Amorrheos que estaban de la parte allá del Jordán, á Sehón y á Og, á los cuales habéis destruído.",
+				"number": 10
+			},
+			{
+				"verse": "Oyendo esto, ha desmayado nuestro corazón; ni ha quedado más espíritu en alguno por causa de vosotros: porque Jehová vuestro Dios es Dios arriba en los cielos y abajo en la tierra.",
+				"number": 11
+			},
+			{
+				"verse": "Ruégoos pues ahora, me juréis por Jehová, que como he hecho misericordia con vosotros, así la haréis vosotros con la casa de mi padre, de lo cual me daréis una señal cierta;",
+				"number": 12
+			},
+			{
+				"verse": "Y que salvaréis la vida á mi padre y á mi madre, y á mis hermanos y hermanas, y á todo lo que es suyo; y que libraréis nuestras vidas de la muerte.",
+				"number": 13
+			},
+			{
+				"verse": "Y ellos le respondieron: nuestra alma por vosotros hasta la muerte, si no denunciareis este nuestro negocio: y cuando jehová nos hubiere dado la tierra, nosotros haremos contigo misericordia y verdad.",
+				"number": 14
+			},
+			{
+				"verse": "Entonces ella los hizo descender con una cuerda por la ventana; porque su casa estaba á la pared del muro, y ella vivía en el muro.",
+				"number": 15
+			},
+			{
+				"verse": "Y díjoles: marchaos al monte, porque los que fueron tras vosotros no os encuentren; y estad escondidos allí tres días, hasta que los que os siguen hayan vuelto; y después os iréis vuestro camino.",
+				"number": 16
+			},
+			{
+				"verse": "Y ellos le dijeron: nosotros seremos desobligados de este juramento con que nos has conjurado.",
+				"number": 17
+			},
+			{
+				"verse": "He aquí, cuando nosotros entráremos en la tierra, tú atarás este cordón de grana á la ventana por la cual nos descolgaste: y tú juntarás en tu casa tu padre y tu madre, tus hermanos y toda la familia de tu padre.",
+				"number": 18
+			},
+			{
+				"verse": "Cualquiera que saliere fuera de las puertas de tu casa, su sangre será sobre su cabeza, y nosotros sin culpa. Mas cualquiera que se estuviere en casa contigo, su sangre será sobre nuestra cabeza, si mano le tocare.",
+				"number": 19
+			},
+			{
+				"verse": "Y si tú denunciares este nuestro negocio, nosotros seremos desobligados de este tu juramento con que nos has juramentado.",
+				"number": 20
+			},
+			{
+				"verse": "Y ella respondió: sea así como habéis dicho. luego los despidió, y se fueron: y ella ató el cordón de grana á la ventana.",
+				"number": 21
+			},
+			{
+				"verse": "Y caminando ellos, llegaron al monte, y estuvieron allí tres días, hasta que los que los seguían se hubiesen vuelto: y los que los siguieron, buscaron por todo el camino, mas no los hallaron.",
+				"number": 22
+			},
+			{
+				"verse": "Y tornándose los dos varones, descendieron del monte, y pasaron, y vinieron á josué hijo de nun, y contáronle todas las cosas que les habían acontecido.",
+				"number": 23
+			},
+			{
+				"verse": "Y dijeron á Josué: Jehová ha entregado toda la tierra en nuestras manos; y también todos los moradores del país están desmayados delante de nosotros.",
+				"number": 24
+			}
+		]
+	},
+	{
+		"chapter": 3,
+		"verses": [
+			{
+				"verse": "Y Levantóse Josué de mañana, y partieron de Sittim, y vinieron hasta el Jordán, él y todos los hijos de Israel, y reposaron allí antes que pasasen.",
+				"number": 1
+			},
+			{
+				"verse": "Y pasados tres días, los oficiales atravesaron por medio del campo,",
+				"number": 2
+			},
+			{
+				"verse": "Y mandaron al pueblo, diciendo: cuando viereis el arca del pacto de jehová vuestro dios, y los sacerdotes y levitas que la llevan, vosotros partiréis de vuestro lugar, y marcharéis en pos de ella.",
+				"number": 3
+			},
+			{
+				"verse": "Empero entre vosotros y ella haya distancia como de la medida de dos mil codos: y no os acercaréis á ella, á fin de que sepáis el camino por donde habéis de ir: por cuanto vosotros no habéis pasado antes de ahora por este camino.",
+				"number": 4
+			},
+			{
+				"verse": "Y josué dijo al pueblo: santificaos, porque jehová hará mañana entre vosotros maravillas.",
+				"number": 5
+			},
+			{
+				"verse": "Y habló josué á los sacerdotes, diciendo: tomad el arca del pacto, y pasad delante del pueblo. y ellos tomaron el arca del pacto, y fueron delante del pueblo.",
+				"number": 6
+			},
+			{
+				"verse": "Entonces Jehová dijo á Josué: Desde aqueste día comenzaré á hacerte grande delante de los ojos de todo Israel, para que entiendan que como fuí con Moisés, así seré contigo.",
+				"number": 7
+			},
+			{
+				"verse": "Tú, pues, mandarás á los sacerdotes que llevan el arca del pacto, diciendo: Cuando hubiereis entrado hasta el borde del agua del Jordán, pararéis en el Jordán.",
+				"number": 8
+			},
+			{
+				"verse": "Y josué dijo á los hijos de israel: llegaos acá, y escuchad las palabras de jehová vuestro dios.",
+				"number": 9
+			},
+			{
+				"verse": "Y añadió josué: en esto conoceréis que el dios viviente está en medio de vosotros, y que él echará de delante de vosotros al cananeo, y al heteo, y al heveo, y al pherezeo, y al gergeseo, y al amorrheo, y al jebuseo.",
+				"number": 10
+			},
+			{
+				"verse": "He aquí, el arca del pacto del Señoreador de toda la tierra pasa el Jordán delante de vosotros.",
+				"number": 11
+			},
+			{
+				"verse": "Tomad, pues, ahora doce hombres de las tribus de Israel, de cada tribu uno.",
+				"number": 12
+			},
+			{
+				"verse": "Y cuando las plantas de los pies de los sacerdotes que llevan el arca de jehová señoreador de toda la tierra, fueren asentadas sobre las aguas del jordán, las aguas del jordán se partirán: porque las aguas que vienen de arriba se detendrán en un montón.",
+				"number": 13
+			},
+			{
+				"verse": "Y aconteció, que partiendo el pueblo de sus tiendas para pasar el jordán, y los sacerdotes delante del pueblo llevando el arca del pacto,",
+				"number": 14
+			},
+			{
+				"verse": "Cuando los que llevaban el arca entraron en el Jordán, así como los pies de los sacerdotes que llevaban el arca fueron mojados á la orilla del agua, (porque el Jordán suele reverter sobre todos sus bordes todo el tiempo de la siega,)",
+				"number": 15
+			},
+			{
+				"verse": "Las aguas que venían de arriba, se pararon como en un montón bien lejos de la ciudad de Adam, que está al lado de Sarethán; y las que descendían á la mar de los llanos, al mar Salado, se acabaron y fueron partidas; y el pueblo pasó en derecho de Jericó.",
+				"number": 16
+			},
+			{
+				"verse": "Mas los sacerdotes que llevaban el arca del pacto de Jehová, estuvieron en seco, firmes en medio del Jordán, hasta que todo el pueblo hubo acabado de pasar el Jordán; y todo Israel pasó en seco.",
+				"number": 17
+			}
+		]
+	},
+	{
+		"chapter": 4,
+		"verses": [
+			{
+				"verse": "Y Cuando toda la gente hubo acabado de pasar el Jordán, Jehová habló á Josué, diciendo:",
+				"number": 1
+			},
+			{
+				"verse": "Tomad del pueblo doce hombres, de cada tribu uno,",
+				"number": 2
+			},
+			{
+				"verse": "Y mandadles, diciendo: tomaos de aquí del medio del jordán, del lugar donde están firmes los pies de los sacerdotes, doce piedras, las cuales pasaréis con vosotros, y las asentaréis en el alojamiento donde habéis de tener la noche.",
+				"number": 3
+			},
+			{
+				"verse": "Entonces Josué llamó á los doce hombres, los cuales había el ordenado de entre los hijos de Israel, de cada tribu uno;",
+				"number": 4
+			},
+			{
+				"verse": "Y díjoles josué: pasad delante del arca de jehová vuestro dios al medio del jordán; y cada uno de vosotros tome una piedra sobre su hombro, conforme al número de las tribus de los hijos de israel;",
+				"number": 5
+			},
+			{
+				"verse": "Para que esto sea señal entre vosotros; y cuando vuestros hijos preguntaren á sus padres mañana, diciendo: ¿Qué os significan estas piedras?",
+				"number": 6
+			},
+			{
+				"verse": "Les responderéis: Que las aguas del Jordán fueron partidas delante del arca del pacto de Jehová; cuando ella pasó el Jordán, las aguas del Jordán se partieron: y estas piedras serán por memoria á los hijos de Israel para siempre.",
+				"number": 7
+			},
+			{
+				"verse": "Y los hijos de israel lo hicieron así como josué les mandó: que levantaron doce piedras del medio del jordán, como jehová lo había dicho á josué, conforme al número de las tribus de los hijos de israel, y pasáronlas consigo al alojamiento, y las asentaron allí.",
+				"number": 8
+			},
+			{
+				"verse": "Josué también levantó doce piedras en medio del Jordán, en el lugar donde estuvieron los pies de los sacerdotes que llevaban el arca del pacto; y han estado allí hasta hoy.",
+				"number": 9
+			},
+			{
+				"verse": "Y los sacerdotes que llevaban el arca se pararon en medio del jordán, hasta tanto que se acabó todo lo que jehová había mandado á josué que hablase al pueblo, conforme á todas las cosas que moisés había á josué mandado: y el pueblo se dió priesa y pasó.",
+				"number": 10
+			},
+			{
+				"verse": "Y cuando todo el pueblo acabó de pasar, pasó también el arca de jehová, y los sacerdotes, en presencia del pueblo.",
+				"number": 11
+			},
+			{
+				"verse": "También los hijos de Rubén y los hijos de Gad, y la media tribu de Manasés, pasaron armados delante de los hijos de Israel, según Moisés les había dicho:",
+				"number": 12
+			},
+			{
+				"verse": "Como cuarenta mil hombres armados á punto pasaron hacia la campiña de Jericó delante de Jehová á la guerra.",
+				"number": 13
+			},
+			{
+				"verse": "En aquel día Jehová engrandeció á Josué en ojos de todo Israel: y temiéronle, como habían temido á Moisés, todos los días de su vida.",
+				"number": 14
+			},
+			{
+				"verse": "Y jehová habló á josué, diciendo:",
+				"number": 15
+			},
+			{
+				"verse": "Manda á los sacerdotes que llevan el arca del testimonio, que suban del Jordán.",
+				"number": 16
+			},
+			{
+				"verse": "Y josué mandó á los sacerdotes, diciendo: subid del jordán.",
+				"number": 17
+			},
+			{
+				"verse": "Y aconteció que como los sacerdotes que llevaban el arca del pacto de jehová, subieron del medio del jordán, y las plantas de los pies de los sacerdotes estuvieron en seco, las aguas del jordán se volvieron á su lugar, corriendo como antes sobre todos sus bordes.",
+				"number": 18
+			},
+			{
+				"verse": "Y el pueblo subió del jordán el diez del mes primero, y asentaron el campo en gilgal, al lado oriental de jericó.",
+				"number": 19
+			},
+			{
+				"verse": "Y josué erigió en gilgal las doce piedras que habían traído del jordán.",
+				"number": 20
+			},
+			{
+				"verse": "Y habló á los hijos de israel, diciendo: cuando mañana preguntaren vuestros hijos á sus padres, y dijeren: ¿qué os significan estas piedras?",
+				"number": 21
+			},
+			{
+				"verse": "Declararéis á vuestros hijos, diciendo: Israel pasó en seco por este Jordán.",
+				"number": 22
+			},
+			{
+				"verse": "Porque Jehová vuestro Dios secó las aguas del Jordán delante de vosotros, hasta que habíais pasado, á la manera que Jehová vuestro Dios lo había hecho en el mar Bermejo, al cual secó delante de nosotros hasta que pasamos:",
+				"number": 23
+			},
+			{
+				"verse": "Para que todos los pueblos de la tierra conozcan la mano de Jehová, que es fuerte; para que temáis á Jehová vuestro Dios todos los días.",
+				"number": 24
+			}
+		]
+	},
+	{
+		"chapter": 5,
+		"verses": [
+			{
+				"verse": "Y Cuando todos los reyes de los Amorrheos, que estaban de la otra parte del Jordán al occidente, y todos los reyes de los Cananeos, que estaban cerca de la mar, oyeron como Jehová había secado las aguas del Jordán delante de los hijos de Israel hasta que hubieron pasado, desfalleció su corazón, y no hubo más espíritu en ellos delante de los hijos de Israel.",
+				"number": 1
+			},
+			{
+				"verse": "En aquel tiempo Jehová dijo á Josué: Hazte cuchillos afilados, y vuelve á circuncidar la segunda vez á los hijos de Israel.",
+				"number": 2
+			},
+			{
+				"verse": "Y josué se hizo cuchillos afilados, y circuncidó á los hijos de israel en el monte de los prepucios.",
+				"number": 3
+			},
+			{
+				"verse": "Esta es la causa por la cual Josué los circuncidó: todo el pueblo que había salido de Egipto, los varones, todos los hombres de guerra, habían muerto en el desierto por el camino, después que salieron de Egipto.",
+				"number": 4
+			},
+			{
+				"verse": "Porque todos los del pueblo que habían salido, estaban circuncidados: mas todo el pueblo que había nacido en el desierto por el camino, después que salieron de Egipto, no estaban circuncidados.",
+				"number": 5
+			},
+			{
+				"verse": "Porque los hijos de Israel anduvieron por el desierto cuarenta años, hasta que toda la gente de los hombres de guerra que habían salido de Egipto, fué consumida, por cuanto no obedecieron á la voz de Jehová; por lo cual Jehová les juró que no les dejaría ver la tierra, de la cual Jehová había jurado á sus padres que nos la daría, tierra que fluye leche y miel.",
+				"number": 6
+			},
+			{
+				"verse": "Y los hijos de ellos, que él había hecho suceder en su lugar, josué los circuncidó; pues eran incircuncisos, porque no habían sido circuncidados por el camino.",
+				"number": 7
+			},
+			{
+				"verse": "Y cuando hubieron acabado de circuncidar toda la gente, quedáronse en el mismo lugar en el campo, hasta que sanaron.",
+				"number": 8
+			},
+			{
+				"verse": "Y jehová dijo á josué: hoy he quitado de vosotros el oprobio de egipto: por lo cual el nombre de aquel lugar fué llamado gilgal, hasta hoy.",
+				"number": 9
+			},
+			{
+				"verse": "Y los hijos de israel asentaron el campo en gilgal, y celebraron la pascua a los catorce días del mes, por la tarde, en los llanos de jericó.",
+				"number": 10
+			},
+			{
+				"verse": "Y al otro día de la pascua comieron del fruto de la tierra los panes sin levadura, y en el mismo día espigas nuevas tostadas.",
+				"number": 11
+			},
+			{
+				"verse": "Y el maná cesó el día siguiente, desde que comenzaron á comer del fruto de la tierra: y los hijos de israel nunca más tuvieron maná, sino que comieron de los frutos de la tierra de canaán aquel año.",
+				"number": 12
+			},
+			{
+				"verse": "Y estando josué cerca de jericó, alzó sus ojos, y vió un varón que estaba delante de él, el cual tenía una espada desnuda en su mano. y josué yéndose hacia él, le dijo: ¿eres de los nuestros, ó de nuestros enemigos?",
+				"number": 13
+			},
+			{
+				"verse": "Y él respondió: no; mas príncipe del ejército de jehová, ahora he venido. entonces josué postrándose sobre su rostro en tierra le adoró; y díjole: ¿qué dice mi señor á su siervo?",
+				"number": 14
+			},
+			{
+				"verse": "Y el Príncipe del ejército de Jehová repondió á Josué: Quita tus zapatos de tus pies; porque el lugar donde estás es santo. Y Josué lo hizo así.",
+				"number": 15
+			}
+		]
+	},
+	{
+		"chapter": 6,
+		"verses": [
+			{
+				"verse": "Empero jericó estaba cerrada, bien cerrada, á causa de los hijos de israel: nadie entraba, ni salía.",
+				"number": 1
+			},
+			{
+				"verse": "Mas Jehová dijo á Josué: Mira, yo he entregado en tu mano á Jericó y á su rey, con sus varones de guerra.",
+				"number": 2
+			},
+			{
+				"verse": "Cercaréis pues la ciudad todos los hombres de guerra, yendo alrededor de la ciudad una vez: y esto haréis seis días.",
+				"number": 3
+			},
+			{
+				"verse": "Y siete sacerdotes llevarán siete bocinas de cuernos de carneros delante del arca; y al séptimo día daréis siete vueltas á la ciudad, y los sacerdotes tocarán las bocinas.",
+				"number": 4
+			},
+			{
+				"verse": "Y cuando tocaren prolongadamente el cuerno de carnero, así que oyereis el sonido de la bocina, todo el pueblo gritará á gran voz, y el muro de la ciudad caerá debajo de sí: entonces el pueblo subirá cada uno en derecho de sí.",
+				"number": 5
+			},
+			{
+				"verse": "Y llamando josué hijo de nun á los sacerdotes, les dijo: llevad el arca del pacto, y siete sacerdotes lleven bocinas de cuernos de carneros delante del arca de jehová.",
+				"number": 6
+			},
+			{
+				"verse": "Y dijo al pueblo: pasad, y rodead la ciudad; y los que están armados pasarán delante del arca de jehová.",
+				"number": 7
+			},
+			{
+				"verse": "Y así que josué hubo hablado al pueblo, los siete sacerdotes, llevando las siete bocinas de cuernos de carneros, pasaron delante del arca de jehová, y tocaron las bocinas: y el arca del pacto de jehová los seguía.",
+				"number": 8
+			},
+			{
+				"verse": "Y los armados iban delante de los sacerdotes que tocaban las bocinas, y la gente reunida iba detrás del arca, andando y tocando bocinas.",
+				"number": 9
+			},
+			{
+				"verse": "Y josué mandó al pueblo, diciendo: vosotros no daréis grita, ni se oirá vuestra voz, ni saldrá palabra de vuestra boca, hasta el día que yo os diga: gritad: entonces daréis grita.",
+				"number": 10
+			},
+			{
+				"verse": "El arca pues de Jehová dió una vuelta alrededor de la ciudad, y viniéronse al real, en el cual tuvieron la noche.",
+				"number": 11
+			},
+			{
+				"verse": "Y josué se levantó de mañana, y los sacerdotes tomaron el arca de jehová.",
+				"number": 12
+			},
+			{
+				"verse": "Y los siete sacerdotes, llevando las siete bocinas de cuernos de carneros, fueron delante del arca de jehová, andando siempre y tocando las bocinas; y los armados iban delante de ellos, y la gente reunida iba detrás del arca de jehová, andando y tocando las bocinas.",
+				"number": 13
+			},
+			{
+				"verse": "Así dieron otra vuelta á la ciudad el segundo día, y volviéronse al real: de esta manera hicieron por seis días.",
+				"number": 14
+			},
+			{
+				"verse": "Y al séptimo día levantáronse cuando subía el alba, y dieron vuelta á la ciudad de la misma manera siete veces: solamente este día dieron vuelta alrededor de ella siete veces.",
+				"number": 15
+			},
+			{
+				"verse": "Y como los sacerdotes hubieron tocado las bocinas la séptima vez, josué dijo al pueblo: dad grita, porque jehová os ha entregado la ciudad.",
+				"number": 16
+			},
+			{
+				"verse": "Mas la ciudad será anatema á Jehová, ella con todas las cosas que están en ella: solamente Rahab la ramera vivirá, con todos los que estuvieren en casa con ella, por cuanto escondió los mensajeros que enviamos.",
+				"number": 17
+			},
+			{
+				"verse": "Empero guardaos vosotros del anatema, que ni toquéis, ni toméis alguna cosa del anatema, porque no hagáis anatema el campo de Israel, y lo turbéis.",
+				"number": 18
+			},
+			{
+				"verse": "Mas toda la plata, y el oro, y vasos de metal y de hierro, sea consagrado á Jehová, y venga al tesoro de Jehová.",
+				"number": 19
+			},
+			{
+				"verse": "Entonces el pueblo dió grita, y los sacerdotes tocaron las bocinas: y aconteció que como el pueblo hubo oído el sonido de la bocina, dió el pueblo grita con gran vocerío, y el muro cayó á plomo. El pueblo subió luego á la ciudad, cada uno en derecho de sí, y tomáronla.",
+				"number": 20
+			},
+			{
+				"verse": "Y destruyeron todo lo que en la ciudad había; hombres y mujeres, mozos y viejos, hasta los bueyes, y ovejas, y asnos, á filo de espada.",
+				"number": 21
+			},
+			{
+				"verse": "Mas Josué dijo á los dos hombres que habían reconocido la tierra: Entrad en casa de la mujer ramera, y haced salir de allá á la mujer, y á todo lo que fuere suyo, como lo jurasteis.",
+				"number": 22
+			},
+			{
+				"verse": "Y los mancebos espías entraron, y sacaron á rahab, y á su padre, y á su madre, y á sus hermanos, y todo lo que era suyo; y también sacaron á toda su parentela, y pusiéronlos fuera del campo de israel.",
+				"number": 23
+			},
+			{
+				"verse": "Y consumieron con fuego la ciudad, y todo lo que en ella había: solamente pusieron en el tesoro de la casa de jehová la plata, y el oro, y los vasos de metal y de hierro.",
+				"number": 24
+			},
+			{
+				"verse": "Mas Josué salvó la vida á Rahab la ramera, y á la casa de su padre, y á todo lo que ella tenía: y habitó ella entre los Israelitas hasta hoy; por cuanto escondió los mensajeros que Josué envió á reconocer á Jericó.",
+				"number": 25
+			},
+			{
+				"verse": "Y en aquel tiempo josué les juramentó diciendo: maldito delante de jehová el hombre que se levantare y reedificare esta ciudad de jericó. en su primogénito eche sus cimientos, y en su menor asiente sus puertas.",
+				"number": 26
+			},
+			{
+				"verse": "Fué pues Jehová con Josué, y su nombre se divulgó por toda la tierra.",
+				"number": 27
+			}
+		]
+	},
+	{
+		"chapter": 7,
+		"verses": [
+			{
+				"verse": "Empero los hijos de israel cometieron prevaricación en el anatema: porque achân, hijo de carmi, hijo de zabdi, hijo de zera, de la tribu de judá, tomó del anatema; y la ira de jehová se encendió contra los hijos de israel.",
+				"number": 1
+			},
+			{
+				"verse": "Y josué envió hombres desde jericó á hai, que estaba junto á beth-aven hacia el oriente de beth-el; y hablóles diciendo: subid, y reconoced la tierra. y ellos subieron, y reconocieron á hai.",
+				"number": 2
+			},
+			{
+				"verse": "Y volviendo á josué, dijéronle: no suba todo el pueblo, mas suban como dos mil ó como tres mil hombres, y tomarán á hai: no fatigues á todo el pueblo allí, porque son pocos.",
+				"number": 3
+			},
+			{
+				"verse": "Y subieron allá del pueblo como tres mil hombres, los cuales huyeron delante de los de hai.",
+				"number": 4
+			},
+			{
+				"verse": "Y los de hai hirieron de ellos como treinta y seis hombres, y siguiéronlos desde la puerta hasta sebarim, y los rompieron en la bajada: por lo que se disolvió el corazón del pueblo, y vino á ser como agua.",
+				"number": 5
+			},
+			{
+				"verse": "Entonces Josué rompió sus vestidos, y postróse en tierra sobre su rostro delante del arca de Jehová hasta la tarde, él y los ancianos de Israel; y echaron polvo sobre sus cabezas.",
+				"number": 6
+			},
+			{
+				"verse": "Y josué dijo: ¡ah, señor jehová! ¿por qué hiciste pasar á este pueblo el jordán, para entregarnos en las manos de los amorrheos, que nos destruyan? ¡ojalá nos hubiéramos quedado de la otra parte del jordán!",
+				"number": 7
+			},
+			{
+				"verse": "¡Ay Señor! ¿qué diré, ya que Israel ha vuelto las espaldas delante de sus enemigos?",
+				"number": 8
+			},
+			{
+				"verse": "Porque los Cananeos y todos los moradores de la tierra oirán, y nos cercarán, y raerán nuestro nombre de sobre la tierra: entonces ¿qué harás tú á tu grande nombre?",
+				"number": 9
+			},
+			{
+				"verse": "Y jehová dijo á josué: levántate; ¿por qué te postras así sobre tu rostro?",
+				"number": 10
+			},
+			{
+				"verse": "Israel ha pecado, y aun han quebrantado mi pacto que yo les había mandado; pues aun han tomado del anatema, y hasta han hurtado, y también han mentido, y aun lo han guardado entre sus enseres.",
+				"number": 11
+			},
+			{
+				"verse": "Por esto los hijos de Israel no podrán estar delante de sus enemigos, sino que delante de sus enemigos volverán las espaldas; por cuanto han venido á ser anatema: ni seré más con vosotros, si no destruyereis el anatema de en medio de vosotros.",
+				"number": 12
+			},
+			{
+				"verse": "Levántate, santifica al pueblo, y di: Santificaos para mañana, porque Jehová el Dios de Israel dice así: Anatema hay en medio de ti, Israel; no podrás estar delante de tus enemigos, hasta tanto que hayáis quitado el anatema de en medio de vosotros.",
+				"number": 13
+			},
+			{
+				"verse": "Os allegaréis, pues, mañana por vuestras tribus; y la tribu que Jehová tomare, se allegará por sus familias; y la familia que Jehová tomare, se allegará por sus casas; y la casa que Jehová tomare, allegaráse por los varones;",
+				"number": 14
+			},
+			{
+				"verse": "Y el que fuere cogido en el anatema, será quemado á fuego, él y todo lo que tiene, por cuanto ha quebrantado el pacto de jehová, y ha cometido maldad en israel.",
+				"number": 15
+			},
+			{
+				"verse": "Josué, pues, levantándose de mañana, hizo allegar á Israel por sus tribus; y fué tomada la tribu de Judá;",
+				"number": 16
+			},
+			{
+				"verse": "Y haciendo allegar la tribu de judá, fué tomada la familia de los de zera; haciendo luego allegar la familia de los de zera por los varones, fué tomado zabdi;",
+				"number": 17
+			},
+			{
+				"verse": "E hizo allegar su casa por los varones, y fué tomado achân, hijo de carmi, hijo de zabdi, hijo de zera, de la tribu de judá.",
+				"number": 18
+			},
+			{
+				"verse": "Entonces Josué dijo á Achân: Hijo mío, da gloria ahora á Jehová el Dios de Israel, y dale alabanza, y declárame ahora lo que has hecho; no me lo encubras.",
+				"number": 19
+			},
+			{
+				"verse": "Y achân respondió á josué, diciendo: verdaderamente yo he pecado contra jehová el dios de israel, y he hecho así y así:",
+				"number": 20
+			},
+			{
+				"verse": "Que vi entre los despojos un manto babilónico muy bueno, y doscientos siclos de plata, y un changote de oro de peso de cincuenta siclos; lo cual codicié, y tomé: y he aquí que está escondido debajo de tierra en el medio de mi tienda, y el dinero debajo de ello.",
+				"number": 21
+			},
+			{
+				"verse": "Josué entonces envió mensajeros, los cuales fueron corriendo á la tienda; y he aquí estaba escondido en su tienda, y el dinero debajo de ello:",
+				"number": 22
+			},
+			{
+				"verse": "Y tomándolo de en medio de la tienda, trajéronlo á josué y á todos los hijos de israel, y pusiéronlo delante de jehová.",
+				"number": 23
+			},
+			{
+				"verse": "Entonces Josué, y todo Israel con él, tomó á Achân hijo de Zera, y el dinero, y el manto, y el changote de oro, y sus hijos, y sus hijas, y sus bueyes, y sus asnos, y sus ovejas, y su tienda, y todo cuanto tenía, y lleváronlo todo al valle de Achôr;",
+				"number": 24
+			},
+			{
+				"verse": "Y dijo josué: ¿por qué nos has turbado? túrbete jehová en este día. y todos los israelitas los apedrearon, y los quemaron á fuego, después de apedrearlos con piedras;",
+				"number": 25
+			},
+			{
+				"verse": "Y levantaron sobre él un gran montón de piedras, hasta hoy. Y Jehová se tornó de la ira de su furor. Y por esto fué llamado aquel lugar el Valle de Achôr, hasta hoy.",
+				"number": 26
+			}
+		]
+	},
+	{
+		"chapter": 8,
+		"verses": [
+			{
+				"verse": "Y Jehová dijo á Josué: No temas, ni desmayes; toma contigo toda la gente de guerra, y levántate y sube á Hai. Mira, yo he entregado en tu mano al rey de Hai, y á su pueblo, á su ciudad, y á su tierra.",
+				"number": 1
+			},
+			{
+				"verse": "Y harás á hai y á su rey como hiciste á jericó y á su rey: sólo que sus despojos y sus bestias tomaréis para vosotros. pondrás, pues, emboscadas á la ciudad detrás de ella.",
+				"number": 2
+			},
+			{
+				"verse": "Y levantóse josué, y toda la gente de guerra, para subir contra hai: y escogió josué treinta mil hombres fuertes, los cuales envió de noche.",
+				"number": 3
+			},
+			{
+				"verse": "Y mandóles, diciendo: mirad, pondréis emboscada á la ciudad detrás de ella: no os alejaréis mucho de la ciudad, y estaréis todos apercibidos.",
+				"number": 4
+			},
+			{
+				"verse": "Y yo, y todo el pueblo que está conmigo, nos acercaremos á la ciudad; y cuando saldrán ellos contra nosotros, como hicieron antes, huiremos delante de ellos.",
+				"number": 5
+			},
+			{
+				"verse": "Y ellos saldrán tras nosotros, hasta que los arranquemos de la ciudad; porque ellos dirán: huyen de nosotros como la primera vez. huiremos, pues, delante de ellos.",
+				"number": 6
+			},
+			{
+				"verse": "Entonces vosotros os levantaréis de la emboscada, y os echaréis sobre la ciudad; pues Jehová vuestro Dios la entregará en vuestras manos.",
+				"number": 7
+			},
+			{
+				"verse": "Y cuando la hubiereis tomado, le prenderéis fuego. haréis conforme á la palabra de jehová. mirad que os lo he mandado.",
+				"number": 8
+			},
+			{
+				"verse": "Entonces Josué los envió; y ellos se fueron á la emboscada, y pusiéronse entre Beth-el y Hai, al occidente de Hai: y Josué se quedó aquella noche en medio del pueblo.",
+				"number": 9
+			},
+			{
+				"verse": "Y levantándose josué muy de mañana, revistó al pueblo, y subió él, con los ancianos de israel, delante del pueblo contra hai.",
+				"number": 10
+			},
+			{
+				"verse": "Y toda la gente de guerra que con él estaba, subió, y acercóse, y llegaron delante de la ciudad, y asentaron el campo á la parte del norte de hai: y el valle estaba entre él y hai.",
+				"number": 11
+			},
+			{
+				"verse": "Y tomó como cinco mil hombres, y púsolos en emboscada entre beth-el y hai, á la parte occidental de la ciudad.",
+				"number": 12
+			},
+			{
+				"verse": "Y el pueblo, todo el campo que estaba á la parte del norte de la ciudad, colocado ya cerca, y su emboscada al occidente de la ciudad, vínose josué aquella noche al medio del valle.",
+				"number": 13
+			},
+			{
+				"verse": "Lo cual como viese el rey de Hai, levantóse prestamente de mañana, y salió con la gente de la ciudad contra Israel, él y todo su pueblo, para combatir por el llano al tiempo señalado, no sabiendo que le estaba puesta emboscada á las espaldas de la ciudad.",
+				"number": 14
+			},
+			{
+				"verse": "Entonces Josué y todo Israel, haciéndose vencidos, huyeron delante de ellos por el camino del desierto.",
+				"number": 15
+			},
+			{
+				"verse": "Y todo el pueblo que estaba en hai se juntó para seguirlos: y siguieron á josué, siendo así arrancados de la ciudad.",
+				"number": 16
+			},
+			{
+				"verse": "Y no quedó hombre en hai y beth-el, que no saliera tras de israel; y por seguir á israel dejaron la ciudad abierta.",
+				"number": 17
+			},
+			{
+				"verse": "Entonces Jehová dijo á Josué: Levanta la lanza que tienes en tu mano hacia Hai, porque yo la entregaré en tu mano. Y Josué levantó hacia la ciudad la lanza que en su mano tenía.",
+				"number": 18
+			},
+			{
+				"verse": "Y levantándose prestamente de su lugar los que estaban en la emboscada, corrieron luego que él alzó su mano, y vinieron á la ciudad, y la tomaron, y apresuráronse á prenderle fuego.",
+				"number": 19
+			},
+			{
+				"verse": "Y como los de la ciudad miraron atrás, observaron, y he aquí el humo de la ciudad que subía al cielo, y no tuvieron arbitrio para huir ni á una parte ni á otra: y el pueblo que iba huyendo hacia el desierto, se volvió contra los que le seguían.",
+				"number": 20
+			},
+			{
+				"verse": "Josué y todo Israel, viendo que los de la emboscada habían tomado la ciudad, y que el humo de la ciudad subía, tornaron, é hirieron á los de Hai.",
+				"number": 21
+			},
+			{
+				"verse": "Y los otros salieron de la ciudad á su encuentro: y así fueron encerrados en medio de israel, los unos de la una parte, y los otros de la otra. y los hirieron hasta que no quedó ninguno de ellos que escapase.",
+				"number": 22
+			},
+			{
+				"verse": "Y tomaron vivo al rey de hai, y trajéronle á josué.",
+				"number": 23
+			},
+			{
+				"verse": "Y cuando los israelitas acabaron de matar á todos los moradores de hai en el campo, en el desierto, donde ellos los habían perseguido, y que todos habían caído á filo de espada hasta ser consumidos, todos los israelitas se tornaron á hai, y también la pusieron á cuchillo.",
+				"number": 24
+			},
+			{
+				"verse": "Y el número de los que cayeron aquel día, hombres y mujeres, fué doce mil, todos los de hai.",
+				"number": 25
+			},
+			{
+				"verse": "Y josué no retrajo su mano que había extendido con la lanza, hasta que hubo destruído á todos los moradores de hai.",
+				"number": 26
+			},
+			{
+				"verse": "Empero los Israelitas tomaron para sí las bestias y los despojos de la ciudad, conforme á la palabra de Jehová que él había mandado á Josué.",
+				"number": 27
+			},
+			{
+				"verse": "Y josué quemó á hai y redújola á un montón perpetuo, asolado hasta hoy.",
+				"number": 28
+			},
+			{
+				"verse": "Mas al rey de Hai colgó de un madero hasta la tarde: y como el sol se puso, mandó Josué que quitasen del madero su cuerpo, y lo echasen á la puerta de la ciudad: y levantaron sobre él un gran montón de piedras, hasta hoy.",
+				"number": 29
+			},
+			{
+				"verse": "Entonces Josué edificó un altar á Jehová Dios de Israel en el monte de Ebal,",
+				"number": 30
+			},
+			{
+				"verse": "Como Moisés, siervo de Jehová, lo había mandado á los hijos de Israel, como está escrito en el libro de la ley de Moisés, un altar de piedras enteras sobre las cuales nadie alzó hierro: y ofrecieron sobre él holocaustos á Jehová, y sacrificaron víctimas pacíficas.",
+				"number": 31
+			},
+			{
+				"verse": "También escribió allí en piedras la repetición de la ley de Moisés, la cual él había escrito delante de los hijos de Israel.",
+				"number": 32
+			},
+			{
+				"verse": "Y todo israel, y sus ancianos, oficiales, y jueces, estaban de la una y de la otra parte junto al arca, delante de los sacerdotes levitas que llevan el arca del pacto de jehová; así extranjeros como naturales, la mitad de ellos estaba hacia el monte de gerizim, y la otra mitad hacia el monte de ebal; de la manera que moisés, siervo de jehová, lo había mandado antes, para que bendijesen primeramente al pueblo de israel.",
+				"number": 33
+			},
+			{
+				"verse": "Después de esto, leyó todas las palabras de la ley, las bendiciones y las maldiciones, conforme á todo lo que está escrito en el libro de la ley.",
+				"number": 34
+			},
+			{
+				"verse": "No hubo palabra alguna de todas las cosas que mandó Moisés, que Josué no hiciese leer delante de toda la congregación de Israel, mujeres y niños, y extranjeros que andaban entre ellos.",
+				"number": 35
+			}
+		]
+	},
+	{
+		"chapter": 9,
+		"verses": [
+			{
+				"verse": "Y Aconteció que como oyeron estas cosas todos los reyes que estaban de esta parte del Jordán, así en las montañas como en los llanos, y en toda la costa de la gran mar delante del Líbano, los Hetheos, Amorrheos, Cananeos, Pherezeos, Heveos, y Jebuseos;",
+				"number": 1
+			},
+			{
+				"verse": "Juntáronse á una, de un acuerdo, para pelear contra Josué é Israel.",
+				"number": 2
+			},
+			{
+				"verse": "Mas los moradores de Gabaón, como oyeron lo que Josué había hecho á Jericó y á Hai,",
+				"number": 3
+			},
+			{
+				"verse": "Ellos usaron también de astucia; pues fueron y fingiéronse embajadores, y tomaron sacos viejos sobre sus asnos, y cueros viejos de vino, rotos y remendados,",
+				"number": 4
+			},
+			{
+				"verse": "Y zapatos viejos y recosidos en sus pies, con vestidos viejos sobre sí; y todo el pan que traían para el camino, seco y mohoso.",
+				"number": 5
+			},
+			{
+				"verse": "Así vinieron á Josué al campo en Gilgal, y dijéronle á él y á los de Israel: Nosotros venimos de tierra muy lejana: haced pues ahora con nosotros alianza.",
+				"number": 6
+			},
+			{
+				"verse": "Y los de israel respondieron á los heveos: quizás vosotros habitáis en medio de nosotros: ¿cómo pues podremos nosotros hacer alianza con vosotros?",
+				"number": 7
+			},
+			{
+				"verse": "Y ellos respondieron á josué: nosotros somos tus siervos. y josué les dijo: ¿quién sois vosotros y de dónde venís?",
+				"number": 8
+			},
+			{
+				"verse": "Y ellos respondieron: tus siervos han venido de muy lejanas tierras, por la fama de jehová tu dios; porque hemos oído su fama, y todas las cosas que hizo en egipto,",
+				"number": 9
+			},
+			{
+				"verse": "Y todo lo que hizo á los dos reyes de los amorrheos que estaban de la otra parte del jordán; á sehón rey de hesbón, y á og rey de basán, que estaba en astaroth.",
+				"number": 10
+			},
+			{
+				"verse": "Por lo cual nuestros ancianos y todos los moradores de nuestra tierra nos dijeron: Tomad en vuestras manos provisión para el camino, é id al encuentro de ellos, y decidles: Nosotros somos vuestros siervos, y haced ahora con nosotros alianza.",
+				"number": 11
+			},
+			{
+				"verse": "Este nuestro pan tomamos caliente de nuestras casas para el camino el día que salimos para venir á vosotros; y helo aquí ahora que está seco y mohoso:",
+				"number": 12
+			},
+			{
+				"verse": "Estos cueros de vino también los henchimos nuevos; helos aquí ya rotos: también estos nuestros vestidos y nuestros zapatos están ya viejos á causa de lo muy largo del camino.",
+				"number": 13
+			},
+			{
+				"verse": "Y los hombres de israel tomaron de su provisión del camino, y no preguntaron á la boca de jehová.",
+				"number": 14
+			},
+			{
+				"verse": "Y josué hizo paz con ellos, y concertó con ellos que les dejaría la vida: también los príncipes de la congregación les juraron.",
+				"number": 15
+			},
+			{
+				"verse": "Pasados tres días después que hicieron con ellos el concierto, oyeron como eran sus vecinos, y que habitaban en medio de ellos.",
+				"number": 16
+			},
+			{
+				"verse": "Y partiéronse los hijos de israel, y al tercer día llegaron á sus ciudades: y sus ciudades eran gabaón, caphira, beeroth, y chiriath-jearim.",
+				"number": 17
+			},
+			{
+				"verse": "Y no los hirieron los hijos de israel, por cuanto los príncipes de la congregación les habían jurado por jehová el dios de israel. y toda la congregación murmuraba contra los príncipes.",
+				"number": 18
+			},
+			{
+				"verse": "Mas todos los príncipes respondieron á toda la congregación: Nosotros les hemos jurado por Jehová Dios de Israel; por tanto, ahora no les podemos tocar.",
+				"number": 19
+			},
+			{
+				"verse": "Esto haremos con ellos: les dejaremos vivir, porque no venga ira sobre nosotros á causa del juramento que les hemos hecho.",
+				"number": 20
+			},
+			{
+				"verse": "Y los príncipes les dijeron: vivan; mas sean leñadores y aguadores para toda la congregación, como los príncipes les han dicho.",
+				"number": 21
+			},
+			{
+				"verse": "Y llamándolos josué, les habló diciendo: ¿por qué nos habéis engañado, diciendo, habitamos muy lejos de vosotros; una vez que moráis en medio de nosotros?",
+				"number": 22
+			},
+			{
+				"verse": "Vosotros pues ahora sois malditos, y no faltará de vosotros siervo, y quien corte la leña y saque el agua para la casa de mi Dios.",
+				"number": 23
+			},
+			{
+				"verse": "Y ellos respondieron á josué, y dijeron: como fué dado á entender á tus siervos, que jehová tu dios había mandado á moisés su siervo que os había de dar toda la tierra, y que había de destruir todos los moradores de la tierra delante de vosotros, por esto temimos en gran manera de vosotros por nuestras vidas, é hicimos esto.",
+				"number": 24
+			},
+			{
+				"verse": "Ahora pues, henos aquí en tu mano: lo que te pareciere bueno y recto hacer de nosotros, hazlo.",
+				"number": 25
+			},
+			{
+				"verse": "Y él lo hizo así; que los libró de la mano de los hijos de israel, para que no los matasen.",
+				"number": 26
+			},
+			{
+				"verse": "Y constituyólos Josué aquel día por leñadores y aguadores para la congregación y para el altar de Jehová, en el lugar que él escogiese: lo que son hasta hoy.",
+				"number": 27
+			}
+		]
+	},
+	{
+		"chapter": 10,
+		"verses": [
+			{
+				"verse": "Y Como Adonisedec rey de Jerusalem oyó que Josué había tomado á Hai, y que la habían asolado, (como había hecho a Jericó y á su rey, así hizo á Hai y á su rey;) y que los moradores de Gabaón habían hecho paz con los Israelitas, y que estaban entre ellos;",
+				"number": 1
+			},
+			{
+				"verse": "Tuvieron muy gran temor; porque Gabaón era una gran ciudad, como una de las ciudades reales, y mayor que Hai, y todos sus hombres fuertes.",
+				"number": 2
+			},
+			{
+				"verse": "Envió pues á decir Adonisedec rey de Jerusalem, á Oham rey de Hebrón, y á Phiream rey de Jerimoth, y á Japhia rey de Lachîs, y á Debir rey de Eglón:",
+				"number": 3
+			},
+			{
+				"verse": "Subid á mí, y ayudadme, y combatamos á Gabaón: porque ha hecho paz con Josué y con los hijos de Israel.",
+				"number": 4
+			},
+			{
+				"verse": "Y cinco reyes de los amorrheos, el rey de jerusalem, el rey de hebrón, el rey de jerimoth, el rey de lachîs, el rey de eglón, se juntaron y subieron, ellos con todos sus ejércitos, y asentaron campo sobre gabaón, y pelearon contra ella.",
+				"number": 5
+			},
+			{
+				"verse": "Y los moradores de gabaón enviaron á decir á josué al campo en gilgal: no encojas tus manos de tus siervos; sube prestamente á nosotros para guardarnos y ayudarnos: porque todos los reyes de los amorrheos que habitan en las montañas, se han juntado contra nosotros.",
+				"number": 6
+			},
+			{
+				"verse": "Y subió josué de gilgal, él y todo el pueblo de guerra con él, y todos los hombres valientes.",
+				"number": 7
+			},
+			{
+				"verse": "Y jehová dijo á josué: no tengas temor de ellos: porque yo los he entregado en tu mano, y ninguno de ellos parará delante de ti.",
+				"number": 8
+			},
+			{
+				"verse": "Y josué vino á ellos de repente, toda la noche subió desde gilgal.",
+				"number": 9
+			},
+			{
+				"verse": "Y jehová los turbó delante de israel, é hiriólos con gran mortandad en gabaón: y siguiólos por el camino que sube á beth-oron, é hiriólos hasta azeca y maceda.",
+				"number": 10
+			},
+			{
+				"verse": "Y como iban huyendo de los israelitas, á la bajada de beth-oron, jehová echó sobre ellos del cielo grandes piedras hasta azeca, y murieron: muchos más murieron de las piedras del granizo, que los que los hijos de israel habían muerto á cuchillo.",
+				"number": 11
+			},
+			{
+				"verse": "Entonces Josué habló á Jehová el día que Jehová entregó al Amorrheo delante de los hijos de Israel, y dijo en presencia de los Israelitas:",
+				"number": 12
+			},
+			{
+				"verse": "Sol, detente en Gabaón; Y tú, Luna, en el valle de Ajalón.",
+				"number": 13
+			},
+			{
+				"verse": "Y el sol se detuvo y la luna se paró, hasta tanto que la gente se hubo vengado de sus enemigos. ¿no está aquesto escrito en el libro de jasher? y el sol se paró en medio del cielo, y no se apresuró á ponerse casi un día entero.",
+				"number": 14
+			},
+			{
+				"verse": "Y nunca fué tal día antes ni después de aquél, habiendo atendido jehová á la voz de un hombre: porque jehová peleaba por israel.",
+				"number": 15
+			},
+			{
+				"verse": "Y josué, y todo israel con él, volvíase al campo en gilgal.",
+				"number": 16
+			},
+			{
+				"verse": "Pero los cinco reyes huyeron, y se escondieron en una cueva en Maceda.",
+				"number": 17
+			},
+			{
+				"verse": "Y fué dicho á josué que los cinco reyes habían sido hallados en una cueva en maceda.",
+				"number": 18
+			},
+			{
+				"verse": "Entonces Josué dijo: Rodad grandes piedras á la boca de la cueva, y poned hombres junto á ella que los guarden;",
+				"number": 19
+			},
+			{
+				"verse": "Y vosotros no os paréis, sino seguid á vuestros enemigos, y heridles la retaguardia, sin dejarles entrar en sus ciudades; porque jehová vuestro dios los ha entregado en vuestra mano.",
+				"number": 20
+			},
+			{
+				"verse": "Y aconteció que como josué y los hijos de israel hubieron acabado de herirlos con mortandad muy grande, hasta destruirlos, los que quedaron de ellos se metieron en las ciudades fuertes.",
+				"number": 21
+			},
+			{
+				"verse": "Y todo el pueblo se volvió salvo al campo á josué en maceda; que no hubo quien moviese su lengua contra los hijos de israel.",
+				"number": 22
+			},
+			{
+				"verse": "Entonces dijo Josué: Abrid la boca de la cueva, y sacadme de ella á estos cinco reyes.",
+				"number": 23
+			},
+			{
+				"verse": "E hiciéronlo así, y sacáronle de la cueva aquellos cinco reyes: al rey de jerusalem, al rey de hebrón, al rey de jerimoth, al rey de lachîs, al rey de eglón.",
+				"number": 24
+			},
+			{
+				"verse": "Y cuando hubieron sacado estos reyes á josué, llamó josué á todos los varones de israel, y dijo á los principales de la gente de guerra que habían venido con él: llegad y poned vuestros pies sobre los pescuezos de aquestos reyes. y ellos se llegaron, y pusieron sus pies sobre los pescuezos de ellos.",
+				"number": 25
+			},
+			{
+				"verse": "Y josué les dijo: no temáis, ni os atemoricéis; sed fuertes y valientes: porque así hará jehová á todos vuestros enemigos contra los cuales peleáis.",
+				"number": 26
+			},
+			{
+				"verse": "Y después de esto josué los hirió y los mató, é hízolos colgar en cinco maderos: y quedaron colgados en los maderos hasta la tarde.",
+				"number": 27
+			},
+			{
+				"verse": "Y cuando el sol se iba á poner, mandó josué que los quitasen de los maderos, y los echasen en la cueva donde se habían escondido: y pusieron grandes piedras á la boca de la cueva, hasta hoy.",
+				"number": 28
+			},
+			{
+				"verse": "En aquel mismo día tomó Josué á Maceda, y la puso á cuchillo, y mató á su rey; á ellos y á todo lo que en ella tenía vida, sin quedar nada: mas al rey de Maceda hizo como había hecho al rey de Jericó.",
+				"number": 29
+			},
+			{
+				"verse": "Y de maceda pasó josué, y todo israel con él, a libna; y peleó contra libna:",
+				"number": 30
+			},
+			{
+				"verse": "Y jehová la entregó también á ella, y á su rey, en manos de israel; y metióla á filo de espada, con todo lo que en ella había vivo, sin quedar nada: mas á su rey hizo de la manera que había hecho al rey de jericó.",
+				"number": 31
+			},
+			{
+				"verse": "Y josué, y todo israel con él, pasó de libna á lachîs, y puso campo contra ella, y combatióla:",
+				"number": 32
+			},
+			{
+				"verse": "Y jehová entregó á lachîs en mano de israel, y tomóla al día siguiente, y metióla á cuchillo, con todo lo que en ella había vivo, como había hecho en libna.",
+				"number": 33
+			},
+			{
+				"verse": "Entonces Horam, rey de Gezer, subió en ayuda de Lachîs; mas á él y á su pueblo hirió Josué, hasta no quedar ninguno de ellos.",
+				"number": 34
+			},
+			{
+				"verse": "De Lachîs pasó Josué, y todo Israel con él, á Eglón: y pusieron campo contra ella, y combatiéronla:",
+				"number": 35
+			},
+			{
+				"verse": "Y la tomaron el mismo día, y metiéronla á cuchillo; y aquel día mató á todo lo que en ella había vivo, como había hecho en lachîs.",
+				"number": 36
+			},
+			{
+				"verse": "Subió luego Josué, y todo Israel con él, de Eglón á Hebrón, y combatiéronla;",
+				"number": 37
+			},
+			{
+				"verse": "Y tomándola, la metieron á cuchillo, á su rey y á todas su ciudades, con todo lo que en ella había vivo, sin quedar nada: como habían hecho á eglón, así la destruyeron con todo lo que en ella había vivo.",
+				"number": 38
+			},
+			{
+				"verse": "Y volviéndose josué, y todo israel con él, sobre debir, combatióla;",
+				"number": 39
+			},
+			{
+				"verse": "Y tomóla, y á su rey, y á todas sus villas; y metiéronlos á cuchillo, y destruyeron todo lo que allí dentro había vivo, sin quedar nada; como había hecho á hebrón, así hizo á debir y á su rey; y como había hecho á libna y á su rey.",
+				"number": 40
+			},
+			{
+				"verse": "Hirió pues Josué toda la región de las montañas, y del mediodía, y de los llanos, y de las cuestas, y á todos sus reyes, sin quedar nada; todo lo que tenía vida mató, al modo que Jehová Dios de Israel lo había mandado.",
+				"number": 41
+			},
+			{
+				"verse": "E hiriólos josué desde cades-barnea hasta gaza, y toda la tierra de gosén hasta gabaón.",
+				"number": 42
+			},
+			{
+				"verse": "Todos estos reyes y sus tierras tomó Josué de una vez; porque Jehová el Dios de Israel peleaba por Israel.",
+				"number": 43
+			},
+			{
+				"verse": "Y tornóse Josué, y todo Israel con él, al campo en Gilgal.",
+				"number": 44
+			}
+		]
+	},
+	{
+		"chapter": 11,
+		"verses": [
+			{
+				"verse": "Oyendo esto jabín rey de hasor, envió mensaje á jobab rey de madón, y al rey de simrom, y al rey de achsaph,",
+				"number": 1
+			},
+			{
+				"verse": "Y á los reyes que estaban á la parte del norte en las montañas, y en el llano al mediodía de cinneroth, y en los llanos, y en las regiones de dor al occidente;",
+				"number": 2
+			},
+			{
+				"verse": "Y al cananeo que estaba al oriente y al occidente, y al amorrheo, y al hetheo, y al pherezeo, y al jebuseo en las montañas, y al heveo debajo de hermón en tierra de mizpa.",
+				"number": 3
+			},
+			{
+				"verse": "Estos salieron, y con ellos todos sus ejércitos, pueblo mucho en gran manera, como la arena que está á la orilla del mar, con gran muchedumbre de caballos y carros.",
+				"number": 4
+			},
+			{
+				"verse": "Todos estos reyes se juntaron, y viniendo reunieron los campos junto á las aguas de Merom, para pelear contra Israel.",
+				"number": 5
+			},
+			{
+				"verse": "Mas Jehová dijo á Josué: No tengas temor de ellos, que mañana á esta hora yo entregaré á todos éstos, muertos delante de Israel: á sus caballos desjarretarás, y sus carros quemarás al fuego.",
+				"number": 6
+			},
+			{
+				"verse": "Y vino josué, y con él todo el pueblo de guerra, contra ellos, y dió de repente sobre ellos junto á las aguas de merom.",
+				"number": 7
+			},
+			{
+				"verse": "Y entrególos jehová en manos de israel, los cuales los hirieron y siguieron hasta sidón la grande, y hasta las aguas calientes, y hasta el llano de mizpa al oriente, hiriéndolos hasta que no les dejaron ninguno.",
+				"number": 8
+			},
+			{
+				"verse": "Y josué hizo con ellos como jehová le había mandado: desjarretó sus caballos, y sus carros quemó al fuego.",
+				"number": 9
+			},
+			{
+				"verse": "Y tornándose josué, tomó en el mismo tiempo á hasor, é hirió á cuchillo á su rey: la cual hasor había sido antes cabeza de todos estos reinos.",
+				"number": 10
+			},
+			{
+				"verse": "E hirieron á cuchillo todo cuanto en ella había vivo, destruyendo y no dejando cosa con vida; y á asor pusieron á fuego.",
+				"number": 11
+			},
+			{
+				"verse": "Asimismo tomó Josué todas las ciudades de aquestos reyes, y á todos los reyes de ellas, y los metió á cuchillo, y los destruyó, como Moisés siervo de Jehová lo había mandado.",
+				"number": 12
+			},
+			{
+				"verse": "Empero todas las ciudades que estaban en sus cabezos, no las quemó Israel, sacando á sola Asor, la cual quemó Josué.",
+				"number": 13
+			},
+			{
+				"verse": "Y los hijos de israel tomaron para sí todos los despojos y bestias de aquestas ciudades: pero á todos los hombres metieron á cuchillo hasta destruirlos, sin dejar alguno con vida.",
+				"number": 14
+			},
+			{
+				"verse": "De la manera que Jehová lo había mandado á Moisés su siervo, así Moisés lo mandó á Josué: y así Josué lo hizo, sin quitar palabra de todo lo que Jehová había mandado á Moisés.",
+				"number": 15
+			},
+			{
+				"verse": "Tomó pues Josué toda aquella tierra, las montañas, y toda la región del mediodía, y toda la tierra de Gosén, y los bajos y los llanos, y la montaña de Israel y sus valles.",
+				"number": 16
+			},
+			{
+				"verse": "Desde el monte de Halac, que sube hasta Seir, hasta Baal-gad en la llanura del Líbano, á las raíces del monte Hermón: tomó asimismo todos sus reyes, los cuales hirió y mató.",
+				"number": 17
+			},
+			{
+				"verse": "Por muchos días tuvo guerra Josué con estos reyes.",
+				"number": 18
+			},
+			{
+				"verse": "No hubo ciudad que hiciese paz con los hijos de Israel, sacados los Heveos, que moraban en Gabaón: todo lo tomaron por guerra.",
+				"number": 19
+			},
+			{
+				"verse": "Porque esto vino de Jehová, que endurecía el corazón de ellos para que resistiesen con guerra á Israel, para destruirlos, y que no les fuese hecha misericordia, antes fuesen desarraigados, como Jehová lo había mandado á Moisés.",
+				"number": 20
+			},
+			{
+				"verse": "También en el mismo tiempo vino Josué y destruyó los Anaceos de los montes, de Hebrón, de Debir, y de Anab, y de todos los montes de Judá, y de todos los montes de Israel: Josué los destruyó á ellos y á sus ciudades.",
+				"number": 21
+			},
+			{
+				"verse": "Ninguno de los Anaceos quedó en la tierra de los hijos de Israel; solamente quedaron en Gaza, en Gath, y en Asdod.",
+				"number": 22
+			},
+			{
+				"verse": "Tomó, pues, Josué toda la tierra, conforme á todo lo que Jehová había dicho á Moisés; y entrególa Josué á los Israelitas por herencia, conforme á sus repartimientos de sus tribus: y la tierra reposó de guerra.",
+				"number": 23
+			}
+		]
+	},
+	{
+		"chapter": 12,
+		"verses": [
+			{
+				"verse": "Estos son los reyes de la tierra que los hijos de israel hirieron, y cuya tierra poseyeron de la otra parte del jordán al nacimiento del sol, desde el arroyo de arnón hasta el monte hermón, y toda la llanura oriental:",
+				"number": 1
+			},
+			{
+				"verse": "Sehón rey de los Amorrheos, que habitaba en Hesbón, y señoreaba desde Aroer, que está á la ribera del arroyo de Arnón, y desde en medio del arroyo, y la mitad de Galaad, hasta el arroyo Jaboc, el término de los hijos de Ammón;",
+				"number": 2
+			},
+			{
+				"verse": "Y desde la campiña hasta la mar de cinneroth, al oriente; y hasta la mar de la llanura, el mar salado, al oriente, por el camino de beth-jesimoth; y desde el mediodía debajo de las vertientes del pisga.",
+				"number": 3
+			},
+			{
+				"verse": "Y los términos de og rey de basán, que había quedado de los rapheos, el cual habitaba en astaroth y en edrei,",
+				"number": 4
+			},
+			{
+				"verse": "Y señoreaba en el monte de hermón, y en salca, y en todo basán hasta los términos de gessuri y de maachâti, y la mitad de galaad, término de sehón rey de hesbón.",
+				"number": 5
+			},
+			{
+				"verse": "A estos hirieron moisés siervo de jehová y los hijos de israel; y moisés siervo de jehová dió aquella tierra en posesión á los rubenitas, gaditas, y á la media tribu de manasés.",
+				"number": 6
+			},
+			{
+				"verse": "Y estos son los reyes de la tierra que hirió josué con los hijos de israel, de esta parte del jordán al occidente, desde baal-gad en el llano del líbano hasta el monte de halac que sube á seir; la cual tierra dió josué en posesión á las tribus de israel, conforme á sus repartimientos;",
+				"number": 7
+			},
+			{
+				"verse": "En montes y en valles, en llanos y en vertientes, al desierto y al mediodía; el Hetheo, y el Amorrheo, y el Cananeo, y el Pherezeo, y el Heveo, y el Jebuseo.",
+				"number": 8
+			},
+			{
+				"verse": "El rey de Jericó, uno: el rey de Hai, que está al lado de Beth-el, otro:",
+				"number": 9
+			},
+			{
+				"verse": "El rey de Jerusalem, otro: el rey de Hebrón, otro:",
+				"number": 10
+			},
+			{
+				"verse": "El rey de Jarmuth, otro: el rey de Lachîs, otro:",
+				"number": 11
+			},
+			{
+				"verse": "El rey de Eglón, otro: el rey de Gezer, otro:",
+				"number": 12
+			},
+			{
+				"verse": "El rey de Debir, otro: el rey de Geder, otro:",
+				"number": 13
+			},
+			{
+				"verse": "El rey de Horma, otro: el rey de Arad, otro:",
+				"number": 14
+			},
+			{
+				"verse": "El rey de Libna, otro: el rey de Adullam, otro:",
+				"number": 15
+			},
+			{
+				"verse": "El rey de Maceda, otro: el rey de Beth-el, otro:",
+				"number": 16
+			},
+			{
+				"verse": "El rey de Tappua, otro: el rey de Hepher, otro:",
+				"number": 17
+			},
+			{
+				"verse": "El rey de Aphec, otro: el rey de Lasarón, otro:",
+				"number": 18
+			},
+			{
+				"verse": "El rey de Madón, otro: el rey de Hasor, otro:",
+				"number": 19
+			},
+			{
+				"verse": "El rey de Simrom-meron, otro: el rey de Achsaph, otro:",
+				"number": 20
+			},
+			{
+				"verse": "El rey de Taanach, otro: el rey de Megiddo, otro:",
+				"number": 21
+			},
+			{
+				"verse": "El rey de Chêdes, otro: el rey de Jocneam de Carmel, otro:",
+				"number": 22
+			},
+			{
+				"verse": "El rey de Dor, de la provincia de Dor, otro; el rey de Gentes en Gilgal, otro:",
+				"number": 23
+			},
+			{
+				"verse": "El rey de Tirsa, otro: treinta y un reyes en todo.",
+				"number": 24
+			}
+		]
+	},
+	{
+		"chapter": 13,
+		"verses": [
+			{
+				"verse": "Y Siendo Josué ya viejo, entrado en días, Jehová le dijo: Tú eres ya viejo, de edad avanzada, y queda aún muy mucha tierra por poseer.",
+				"number": 1
+			},
+			{
+				"verse": "Esta es la tierra que queda; todos los términos de los Philisteos, y toda Gessuri;",
+				"number": 2
+			},
+			{
+				"verse": "Desde Sihor, que está delante de Egipto, hasta el término de Accarón al norte, repútase de los Cananeos: cinco provincias de los Philisteos; los Gazeos, Asdodios, Ascalonitas, Getheos, y Accaronitas; y los Heveos;",
+				"number": 3
+			},
+			{
+				"verse": "Al mediodía toda la tierra de los Cananeos, y Mehara que es de los Sidonios, hasta Aphec, hasta el término del Amorrheo;",
+				"number": 4
+			},
+			{
+				"verse": "Y la tierra de los gibleos, y todo el líbano hacia donde sale el sol, desde baal-gad á las raíces del monte hermón, hasta entrar en hamath;",
+				"number": 5
+			},
+			{
+				"verse": "Todos los que habitan en las montañas desde el Líbano hasta las aguas calientes, todos los Sidonios; yo los desarraigaré delante de lo hijos de Israel: solamente repartirás tú por suerte el país á los Israelitas por heredad, como te he mandado.",
+				"number": 6
+			},
+			{
+				"verse": "Parte, pues, tú ahora esta tierra en heredad á las nueve tribus, y á la media tribu de Manasés.",
+				"number": 7
+			},
+			{
+				"verse": "Porque la otra media recibió su heredad con los Rubenitas y Gaditas, la cual les dió Moisés de la otra parte del Jordán al oriente, según que se la dió Moisés siervo de Jehová:",
+				"number": 8
+			},
+			{
+				"verse": "Desde Aroer, que está á la orilla del arroyo de Arnón, y la ciudad que está en medio del arroyo, y toda la campiña de Medeba, hasta Dibón;",
+				"number": 9
+			},
+			{
+				"verse": "Y todas las ciudades de sehón rey de los amorrheos, el cual reinó en hesbón, hasta los términos de los hijos de ammón;",
+				"number": 10
+			},
+			{
+				"verse": "Y galaad, y los términos de gessuri, y de maachâti, y todo el monte de hermón, y toda la tierra de basán hasta salchâ:",
+				"number": 11
+			},
+			{
+				"verse": "Todo el reino de Og en Basán, el cual reinó en Astaroth y Edrei, el cual había quedado del residuo de los Rapheos; pues Moisés los hirió, y echó.",
+				"number": 12
+			},
+			{
+				"verse": "Mas á los de Gessuri y Maachâti no echaron los hijos de Israel; antes Gessur y Maachât habitaron entre los Israelitas hasta hoy.",
+				"number": 13
+			},
+			{
+				"verse": "Empero á la tribu de Leví no dió heredad: los sacrificios de Jehová Dios de Israel son su heredad, como él les había dicho.",
+				"number": 14
+			},
+			{
+				"verse": "Dió, pues, Moisés á la tribu de los hijos de Rubén conforme á sus familias:",
+				"number": 15
+			},
+			{
+				"verse": "Y fué el término de ellos desde aroer, que está á la orilla del arroyo de arnón, y la ciudad que está en medio del arroyo, y toda la campiña, hasta medeba;",
+				"number": 16
+			},
+			{
+				"verse": "Hesbón, con todas sus villas que están en la llanura; Dibón, y Bamoth-baal, y Beth-baal-meón;",
+				"number": 17
+			},
+			{
+				"verse": "Y jaas, y keddemoth, y mephaath,",
+				"number": 18
+			},
+			{
+				"verse": "Y chîriataim, y sibma, y zerethshahar en el monte del valle;",
+				"number": 19
+			},
+			{
+				"verse": "Y beth-peor, y asdoth-pisga, y beth-jesimoth;",
+				"number": 20
+			},
+			{
+				"verse": "Y todas las ciudades de la campiña, y todo el reino de sehón rey de los amorrheos, que reinó en hesbón, al cual hirió moisés, y á los príncipes de madián, hevi, recem, y sur, y hur, y reba, príncipes de sehón que habitaban en aquella tierra.",
+				"number": 21
+			},
+			{
+				"verse": "También mataron á cuchillo los hijos de Israel á Balaam adivino, hijo de Beor, con los demás que mataron.",
+				"number": 22
+			},
+			{
+				"verse": "Y fueron los términos de los hijos de rubén el jordán con su término. esta fué la herencia de los hijos de rubén conforme á sus familias, estas ciudades con sus villas.",
+				"number": 23
+			},
+			{
+				"verse": "Dió asimismo Moisés á la tribu de Gad, á los hijos de Gad, conforme á sus familias.",
+				"number": 24
+			},
+			{
+				"verse": "Y el término de ellos fué jacer, y todas las ciudades de galaad, y la mitad de la tierra de los hijos de ammón hasta aroer, que está delante de rabba.",
+				"number": 25
+			},
+			{
+				"verse": "Y desde hesbón hasta ramath-mispe, y betonim; y desde mahanaim hasta el término de debir:",
+				"number": 26
+			},
+			{
+				"verse": "Y la campiña de beth-aram, y beth-nimra, y sucoth, y saphón, resto del reino de sehón, rey en hesbón: el jordán y su término hasta el cabo de la mar de cinnereth de la otra parte del jordán al oriente.",
+				"number": 27
+			},
+			{
+				"verse": "Esta es la herencia de los hijos de Gad, por sus familias, estas ciudades con sus villas.",
+				"number": 28
+			},
+			{
+				"verse": "También dió Moisés herencia á la media tribu de Manasés: y fué de la media tribu de los hijos de Manasés, conforme á sus familias.",
+				"number": 29
+			},
+			{
+				"verse": "El término de ellos fué desde Mahanaim, todo Basán, todo el reino de Og rey de Basán, y todas las aldeas de Jair que están en Basán, sesenta poblaciones.",
+				"number": 30
+			},
+			{
+				"verse": "Dióse además la mitad de Galaad, y Astaroth, y Edrei, ciudades del reino de Og en Basán, á los hijos de Machîr, hijo de Manasés, á la mitad de los hijos de Machîr conforme á sus familias.",
+				"number": 31
+			},
+			{
+				"verse": "Esto es lo que Moisés repartió en heredad en los llanos de Moab, de la otra parte del Jordán de Jericó, al oriente.",
+				"number": 32
+			},
+			{
+				"verse": "Mas á la tribu de Leví no dió Moisés heredad: Jehová Dios de Israel es la heredad de ellos como él les había dicho.",
+				"number": 33
+			}
+		]
+	},
+	{
+		"chapter": 14,
+		"verses": [
+			{
+				"verse": "Esto pues es lo que los hijos de israel tomaron por heredad en la tierra de canaán, lo cual les repartieron eleazar sacerdote, y josué hijo de nun, y los principales de los padres de las tribus de los hijos de israel.",
+				"number": 1
+			},
+			{
+				"verse": "Por suerte dióseles su heredad, como Jehová lo había mandado por Moisés, que diese á las nueve tribus y á la media tribu.",
+				"number": 2
+			},
+			{
+				"verse": "Porque á las dos tribus, y á la media tribu, les había Moisés dado heredad de la otra parte del Jordán: mas á los Levitas no dió heredad entre ellos.",
+				"number": 3
+			},
+			{
+				"verse": "Porque los hijos de José fueron dos tribus, Manasés y Ephraim: y no dieron parte á los Levitas en la tierra, sino ciudades en que morasen, con sus ejidos para sus ganados y rebaños.",
+				"number": 4
+			},
+			{
+				"verse": "De la manera que Jehová lo había mandado á Moisés, así lo hicieron los hijos de Israel en el repartimiento de la tierra.",
+				"number": 5
+			},
+			{
+				"verse": "Y los hijos de judá vinieron á josué en gilgal; y caleb, hijo de jephone cenezeo, le dijo: tú sabes lo que jehová dijo á moisés, varón de dios, en cades-barnea, tocante á mí y á ti.",
+				"number": 6
+			},
+			{
+				"verse": "Yo era de edad de cuarenta años, cuando Moisés siervo de Jehová me envió de Cades-barnea á reconocer la tierra; y yo le referí el negocio como lo tenía en mi corazón:",
+				"number": 7
+			},
+			{
+				"verse": "Mas mis hermanos, los que habían subido conmigo, menguaron el corazón del pueblo; empero yo cumplí siguiendo á Jehová mi Dios.",
+				"number": 8
+			},
+			{
+				"verse": "Entonces Moisés juró, diciendo: Si la tierra que holló tu pie no fuere para ti, y para tus hijos en herencia perpetua: por cuanto cumpliste siguiendo á Jehová mi Dios.",
+				"number": 9
+			},
+			{
+				"verse": "Ahora bien, Jehová me ha hecho vivir, como él dijo, estos cuarenta y cinco años, desde el tiempo que Jehová habló estas palabras á Moisés, cuando Israel andaba por el desierto: y ahora, he aquí soy hoy día de ochenta y cinco años:",
+				"number": 10
+			},
+			{
+				"verse": "Pero aun hoy estoy tan fuerte como el día que Moisés me envió: cual era entonces mi fuerza, tal es ahora, para la guerra, y para salir y para entrar.",
+				"number": 11
+			},
+			{
+				"verse": "Dame, pues, ahora este monte, del cual habló Jehová aquel día; porque tú oíste en aquel día que los Anaceos están allí, y grandes y fuertes ciudades. Quizá Jehová será conmigo, y los echaré como Jehová ha dicho.",
+				"number": 12
+			},
+			{
+				"verse": "Josué entonces le bendijo, y dió á Caleb hijo de Jephone á Hebrón por heredad.",
+				"number": 13
+			},
+			{
+				"verse": "Por tanto Hebrón fué de Caleb, hijo de Jephone Cenezeo, en heredad hasta hoy; porque cumplió siguiendo á Jehová Dios de Israel.",
+				"number": 14
+			},
+			{
+				"verse": "Mas Hebrón fué antes llamada Chîriath-arba; fué Arba un hombre grande entre los Anaceos. Y la tierra tuvo reposo de las guerras.",
+				"number": 15
+			}
+		]
+	},
+	{
+		"chapter": 15,
+		"verses": [
+			{
+				"verse": "Y Fué la suerte de la tribu de los hijos de Judá, por sus familias, junto al término de Edom, del desierto de Zin al mediodía, al lado del sur.",
+				"number": 1
+			},
+			{
+				"verse": "Y su término de la parte del mediodía fué desde la costa del mar salado, desde la lengua que mira hacia el mediodía;",
+				"number": 2
+			},
+			{
+				"verse": "Y salía hacia el mediodía á la subida de acrabim, pasando hasta zin; y subiendo por el mediodía hasta cades-barnea, pasaba á hebrón, y subiendo por addar daba vuelta á carca;",
+				"number": 3
+			},
+			{
+				"verse": "De allí pasaba á Azmón, y salía al arroyo de Egipto; y sale este término al occidente. Este pues os será el término del mediodía.",
+				"number": 4
+			},
+			{
+				"verse": "El término del oriente es el mar Salado hasta el fin del Jordán. Y el término de la parte del norte, desde la lengua del mar, desde el fin del Jordán:",
+				"number": 5
+			},
+			{
+				"verse": "Y sube este término por beth-hogla, y pasa del norte á beth-araba, y de aquí sube este término á la piedra de bohán, hijo de rubén.",
+				"number": 6
+			},
+			{
+				"verse": "Y torna á subir este término á debir desde el valle de achôr: y al norte mira sobre gilgal, que está delante de la subida de adumin, la cual está al mediodía del arroyo: y pasa este término á las aguas de en-semes, y sale á la fuente de rogel:",
+				"number": 7
+			},
+			{
+				"verse": "Y sube este término por el valle del hijo de hinnom al lado del jebuseo al mediodía: esta es jerusalem. luego sube este término por la cumbre del monte que está delante del valle de hinnom hacia el occidente, el cual está al cabo del valle de los gigantes al norte:",
+				"number": 8
+			},
+			{
+				"verse": "Y rodea este término desde la cumbre del monte hasta la fuente de las aguas de nephtoa, y sale á la ciudades del monte de ephrón, rodeando luego el mismo término á baala, la cual es chîriath-jearim.",
+				"number": 9
+			},
+			{
+				"verse": "Después torna este término desde Baala hacia el occidente al monte de Seir: y pasa al lado del monte de Jearim hacia el norte, esta es Chesalón, y desciende á Beth-semes, y pasa á Timna.",
+				"number": 10
+			},
+			{
+				"verse": "Sale luego este término al lado de Ecrón hacia el norte; y rodea el mismo término á Sichêron, y pasa por el monte de Baala, y sale á Jabneel: y sale este término á la mar.",
+				"number": 11
+			},
+			{
+				"verse": "El término del occidente es la mar grande. Este pues, es el término de los hijos de Judá en derredor, por sus familias.",
+				"number": 12
+			},
+			{
+				"verse": "Mas á Caleb, hijo de Jephone, dió parte entre los hijos de Judá, conforme al mandamiento de Jehová á Josué: esto es, á Chîriath-arba, del padre de Anac, que es Hebrón.",
+				"number": 13
+			},
+			{
+				"verse": "Y caleb echó de allí tres hijos de anac, á sesai, aiman, y talmai, hijos de anac.",
+				"number": 14
+			},
+			{
+				"verse": "De aquí subió á los que moraban en Debir: y el nombre de Debir era antes Chîriath-sepher.",
+				"number": 15
+			},
+			{
+				"verse": "Y dijo caleb: al que hiriere á chîriath-sepher, y la tomare, yo le daré á mi hija axa por mujer.",
+				"number": 16
+			},
+			{
+				"verse": "Y tomóla othoniel, hijo de cenez, hermano de caleb; y él le dió por mujer á su hija axa.",
+				"number": 17
+			},
+			{
+				"verse": "Y aconteció que cuando la llevaba, él la persuadió que pidiese á su padre tierras para labrar. ella entonces se apeó del asno. y caleb le dijo: ¿qué tienes?",
+				"number": 18
+			},
+			{
+				"verse": "Y ella respondió: dame bendición: pues que me has dado tierra de secadal, dame también fuentes de aguas. el entonces le dió las fuentes de arriba, y las de abajo.",
+				"number": 19
+			},
+			{
+				"verse": "Esta pues es la herencia de la tribu de los hijos de Judá por sus familias.",
+				"number": 20
+			},
+			{
+				"verse": "Y fueron las ciudades del término de la tribu de los hijos de judá hacia el término de edom al mediodía: cabseel, y eder, y jagur,",
+				"number": 21
+			},
+			{
+				"verse": "Y cina, y dimona, y adada,",
+				"number": 22
+			},
+			{
+				"verse": "Y cedes, y asor, é itnán,",
+				"number": 23
+			},
+			{
+				"verse": "Ziph, y Telem, y Bealoth,",
+				"number": 24
+			},
+			{
+				"verse": "Y asor-hadatta, y chêrioth-hesron, que es asor,",
+				"number": 25
+			},
+			{
+				"verse": "Amam, y Sema, y Molada,",
+				"number": 26
+			},
+			{
+				"verse": "Y asar-gadda, y hesmón, y beth-pelet,",
+				"number": 27
+			},
+			{
+				"verse": "Y hasar-sual, beersebah, y bizotia,",
+				"number": 28
+			},
+			{
+				"verse": "Baala, é Iim, y Esem,",
+				"number": 29
+			},
+			{
+				"verse": "Y eltolad, y cesil, y horma,",
+				"number": 30
+			},
+			{
+				"verse": "Y siclag, y madmanna, sansana,",
+				"number": 31
+			},
+			{
+				"verse": "Y lebaoth, silim, y aín, y rimmón; en todas veintinueve ciudades con sus aldeas.",
+				"number": 32
+			},
+			{
+				"verse": "En las llanuras, Estaol, y Sorea, y Asena,",
+				"number": 33
+			},
+			{
+				"verse": "Y zanoa, y engannim, tappua, y enam,",
+				"number": 34
+			},
+			{
+				"verse": "Jerimoth, y Adullam, Sochô, y Aceca,",
+				"number": 35
+			},
+			{
+				"verse": "Y saraim, y adithaim, y gedera, y gederothaim; catorce ciudades con sus aldeas.",
+				"number": 36
+			},
+			{
+				"verse": "Senán, y Hadasa, y Migdalgad,",
+				"number": 37
+			},
+			{
+				"verse": "Y dilán, y mizpa, y jocteel,",
+				"number": 38
+			},
+			{
+				"verse": "Lachîs, y Boscath, y Eglón,",
+				"number": 39
+			},
+			{
+				"verse": "Y cabón, y lamas, y chîtlis,",
+				"number": 40
+			},
+			{
+				"verse": "Y gederoh, beth-dagón, y naama, y maceda; dieciséis ciudades con sus aldeas.",
+				"number": 41
+			},
+			{
+				"verse": "Libna, y Ether, y Asán,",
+				"number": 42
+			},
+			{
+				"verse": "Y jiphta, y asna, y nesib,",
+				"number": 43
+			},
+			{
+				"verse": "Y ceila, y achzib, y maresa; nueve ciudades con sus aldeas.",
+				"number": 44
+			},
+			{
+				"verse": "Ecrón con sus villas y sus aldeas:",
+				"number": 45
+			},
+			{
+				"verse": "Desde Ecrón hasta la mar, todas las que están á la costa de Asdod con sus aldeas.",
+				"number": 46
+			},
+			{
+				"verse": "Asdod con sus villas y sus aldeas: Gaza con sus villas y sus aldeas hasta el río de Egipto, y la gran mar con sus términos.",
+				"number": 47
+			},
+			{
+				"verse": "Y en las montañas, samir, y jattir, y succoth,",
+				"number": 48
+			},
+			{
+				"verse": "Y danna, y chîriath-sanna, que es debir,",
+				"number": 49
+			},
+			{
+				"verse": "Y anab, y estemo, y anim,",
+				"number": 50
+			},
+			{
+				"verse": "Y gosén, y olón, y gilo; once ciudades con sus aldeas.",
+				"number": 51
+			},
+			{
+				"verse": "Arab, y Dumah, y Esán,",
+				"number": 52
+			},
+			{
+				"verse": "Y janum, y beth-tappua, y apheca,",
+				"number": 53
+			},
+			{
+				"verse": "Y humta, y chîriath-arba, que es hebrón, y sior; nueve ciudades con sus aldeas.",
+				"number": 54
+			},
+			{
+				"verse": "Maón, Carmel, y Ziph, y Juta,",
+				"number": 55
+			},
+			{
+				"verse": "E izreel, jocdeam, y zanoa,",
+				"number": 56
+			},
+			{
+				"verse": "Caín, Gibea, y Timna; diez ciudades con sus aldeas.",
+				"number": 57
+			},
+			{
+				"verse": "Halhul, y Bethfur, y Gedor,",
+				"number": 58
+			},
+			{
+				"verse": "Y maarath, y beth-anoth, y eltecón; seis ciudades con sus aldeas.",
+				"number": 59
+			},
+			{
+				"verse": "Chîriath-baal, que es Chîriath-jearim, y Rabba; dos ciudades con sus aldeas.",
+				"number": 60
+			},
+			{
+				"verse": "En el desierto, Beth-araba, Middín, y Sechâchâ,",
+				"number": 61
+			},
+			{
+				"verse": "Y nibsan, y la ciudad de la sal, y engedi; seis ciudades con sus aldeas.",
+				"number": 62
+			},
+			{
+				"verse": "Mas á los Jebuseos que habitaban en Jerusalem, los hijos de Judá no los pudieron desarraigar; antes quedó el Jebuseo en Jerusalem con los hijos de Judá, hasta hoy.",
+				"number": 63
+			}
+		]
+	},
+	{
+		"chapter": 16,
+		"verses": [
+			{
+				"verse": "Y La suerte del los hijos de José salió desde el Jordán de Jericó hasta las aguas de Jericó hacia el oriente, al desierto que sube de Jericó al monte de Beth-el:",
+				"number": 1
+			},
+			{
+				"verse": "Y de beth-el sale á luz, y pasa al término de archi en ataroth;",
+				"number": 2
+			},
+			{
+				"verse": "Y torna á descender hacia la mar al término de japhlet, hasta el término de beth-oron la de abajo, y hasta gezer; y sale á la mar.",
+				"number": 3
+			},
+			{
+				"verse": "Recibieron pues heredad los hijos de José, Manasés y Ephraim.",
+				"number": 4
+			},
+			{
+				"verse": "Y fué el término de los hijos de ephraim por sus familias, fué el término de su herencia á la parte oriental, desde ataroth-addar hasta beth-oron la de arriba:",
+				"number": 5
+			},
+			{
+				"verse": "Y sale este término á la mar, y á michmetat al norte, y da vuelta este término hacia el oriente á tanath-silo, y de aquí pasa al oriente á janoa:",
+				"number": 6
+			},
+			{
+				"verse": "Y de janoa desciende á ataroth, y á naaratha, y toca en jericó, y sale al jordán.",
+				"number": 7
+			},
+			{
+				"verse": "Y de tappua torna este término hacia la mar al arroyo de cana, y sale á la mar. esta es la heredad de la tribu de los hijos de ephraim por sus familias.",
+				"number": 8
+			},
+			{
+				"verse": "Hubo también ciudades que se apartaron para los hijos de Ephraim en medio de la herencia de los hijos de Manasés, todas ciudades con sus aldeas.",
+				"number": 9
+			},
+			{
+				"verse": "Y no echaron al Cananeo que habitaba en Gezer; antes quedó el Cananeo en medio de Ephraim, hasta hoy, y fué tributario.",
+				"number": 10
+			}
+		]
+	},
+	{
+		"chapter": 17,
+		"verses": [
+			{
+				"verse": "Y Tuvo también suerte la tribu de Manasés, porque fué primogénito de José. Machîr, primogénito de Manasés, y padre de Galaad, el cual fué hombre de guerra, tuvo á Galaad y á Basán.",
+				"number": 1
+			},
+			{
+				"verse": "Tuvieron también suerte",
+				"number": 2
+			},
+			{
+				"verse": "los otros hijos de Manasés conforme á sus familias: los hijos de Abiezer, y los hijos de Helec, y los hijos de Esriel, y los hijos de Sichêm, y los hijos de Hepher, y los hijos de Semida; estos fueron los hijos varones de Manasés hijo de José, por sus familias.",
+				"number": 3
+			},
+			{
+				"verse": "Pero Salphaad, hijo de Hepher, hijo de Galaad, hijo de Machîr, hijo de Manasés, no tuvo hijos, sino hijas, los nombres de las cuales son estos: Maala, Noa, Hogla, Milchâ, y Tirsa.",
+				"number": 4
+			},
+			{
+				"verse": "Estas vinieron delante de Eleazar sacerdote, y de Josué hijo de Nun, y de los príncipes, y dijeron: Jehová mandó á Moisés que nos diese herencia entre nuestros hermanos. Y él les dió herencia entre los hermanos del padre de ellas, conforme al dicho de Jehová.",
+				"number": 5
+			},
+			{
+				"verse": "Y cayeron a manasés diez suertes a más de la tierra de galaad y de basán, que está de la otra parte del jordán:",
+				"number": 6
+			},
+			{
+				"verse": "Porque las hijas de Manasés poseyeron herencia entre sus hijos: y la tierra de Galaad fué de los otros hijos de Manasés.",
+				"number": 7
+			},
+			{
+				"verse": "Y fué el término de manasés desde aser hasta michmetat, la cual está delante de sichêm; y va este término á la mano derecha, á los que habitan en tappua.",
+				"number": 8
+			},
+			{
+				"verse": "Y la tierra de tappua fué de manasés; pero tappua, que está junto al término de manasés, es de los hijos de ephraim.",
+				"number": 9
+			},
+			{
+				"verse": "Y desciende este término al arroyo de cana, hacia el mediodía del arroyo. estas ciudades de ephraim están entre las ciudades de manasés: y el término de manasés es desde el norte del mismo arroyo, y sus salidas son á la mar.",
+				"number": 10
+			},
+			{
+				"verse": "Ephraim al mediodía, y Manasés al norte, y la mar es su término: y encuéntranse con Aser á la parte del norte, y con Issachâr al oriente.",
+				"number": 11
+			},
+			{
+				"verse": "Tuvo también Manasés en Issachâr y en Aser a Beth-san y sus aldeas, é Ibleam y sus aldeas, y los moradores de Dor y sus aldeas, y los moradores de Endor y sus aldeas, y los moradores de Taanach y sus aldeas, y los moradores de Megiddo y sus aldeas: tres provincias.",
+				"number": 12
+			},
+			{
+				"verse": "Mas los hijos de Manasés no pudieron echar á los de aquellas ciudades; antes el Cananeo quiso habitar en la tierra.",
+				"number": 13
+			},
+			{
+				"verse": "Empero cuando los hijos de Israel tomaron fuerzas, hicieron tributario al Cananeo, mas no lo echaron.",
+				"number": 14
+			},
+			{
+				"verse": "Y los hijos de josé hablaron á josué, diciendo: ¿por qué me has dado por heredad una sola suerte y una sola parte, siendo yo un pueblo tan grande y que jehová me ha así bendecido hasta ahora?",
+				"number": 15
+			},
+			{
+				"verse": "Y josué les respondió: si eres pueblo tan grande, sube tú al monte, y corta para ti allí en la tierra del pherezeo y de los gigantes, pues que el monte de ephraim es angosto para ti.",
+				"number": 16
+			},
+			{
+				"verse": "Y los hijos de josé dijeron: no nos bastará á nosotros este monte: y todos los cananeos que habitan la tierra de la campiña, tienen carros herrados; los que están en beth-san y en sus aldeas, y los que están en el valle de jezreel.",
+				"number": 17
+			},
+			{
+				"verse": "Entonces Josué respondió á la casa de José, á Ephraim y Manasés, diciendo: Tú eres gran pueblo, y tienes gran fuerza; no tendrás una sola suerte;",
+				"number": 18
+			},
+			{
+				"verse": "Mas aquel monte será tuyo; que bosque es, y tú lo cortarás, y serán tuyos sus términos: porque tú echarás al Cananeo, aunque tenga carros herrados, y aunque sea fuerte.",
+				"number": 19
+			}
+		]
+	},
+	{
+		"chapter": 18,
+		"verses": [
+			{
+				"verse": "Y Toda la congregación de los hijos de Israel se juntó en Silo, y asentaron allí el tabernáculo del testimonio, después que la tierra les fué sujeta.",
+				"number": 1
+			},
+			{
+				"verse": "Mas habían quedado en los hijos de Israel siete tribus, á las cuales aun no habían repartido su posesión.",
+				"number": 2
+			},
+			{
+				"verse": "Y josué dijo á los hijos de israel: ¿hasta cuando seréis negligentes para venir á poseer la tierra que os ha dado jehová el dios de vuestros padres?",
+				"number": 3
+			},
+			{
+				"verse": "Señalad tres varones de cada tribu, para que yo los envíe, y que ellos se levanten, y recorran la tierra, y la describan conforme á sus heredades, y se tornen á mí.",
+				"number": 4
+			},
+			{
+				"verse": "Y la dividirán en siete partes: y judá estará en su término al mediodía, y los de la casa de josé estarán en el suyo al norte.",
+				"number": 5
+			},
+			{
+				"verse": "Vosotros, pues, delinearéis la tierra en siete partes, y me traeréis la descripción aquí, y yo os echaré las suertes aquí delante de Jehová nuestro Dios.",
+				"number": 6
+			},
+			{
+				"verse": "Empero los Levitas ninguna parte tienen entre vosotros; porque el sacerdocio de Jehová es la heredad de ellos: Gad también y Rubén, y la media tribu de Manasés, ya han recibido su heredad de la otra parte del Jordán al oriente, la cual les dió Moisés siervo de Jehová.",
+				"number": 7
+			},
+			{
+				"verse": "Levantándose pues aquellos varones, fueron: y mandó Josué á los que iban para delinear la tierra, diciéndoles: Id, recorred la tierra, y delineadla, y tornad á mí, para que yo os eche las suertes aquí delante de Jehová en Silo.",
+				"number": 8
+			},
+			{
+				"verse": "Fueron pues aquellos varones y pasearon la tierra, delineándola por ciudades en siete partes en un libro, y tornaron á Josué al campo en Silo.",
+				"number": 9
+			},
+			{
+				"verse": "Y josué les echó las suertes delante de jehová en silo; y allí repartió josué la tierra á los hijos de israel por sus porciones.",
+				"number": 10
+			},
+			{
+				"verse": "Y sacóse la suerte de la tribu de los hijos de benjamín por sus familias: y salió el término de su suerte entre los hijos de judá y los hijos de josé.",
+				"number": 11
+			},
+			{
+				"verse": "Y fué el término de ellos al lado del norte desde el jordán: y sube aquel término al lado de jericó al norte; sube después al monte hacia el occidente, y viene á salir al desierto de beth-aven:",
+				"number": 12
+			},
+			{
+				"verse": "Y de allí pasa aquel término á luz, por el lado de luz (esta es beth-el) hacia el mediodía. y desciende este término de ataroth-addar al monte que está al mediodía de beth-oron la de abajo.",
+				"number": 13
+			},
+			{
+				"verse": "Y torna este término, y da vuelta al lado de la mar, al mediodía hasta el monte que está delante de beth-oron al mediodía; y viene á salir á chîriath-baal, que es chîriath-jearim, ciudad de los hijos de judá. este es el lado del occidente.",
+				"number": 14
+			},
+			{
+				"verse": "Y el lado del mediodía es desde el cabo de chîriath-jearim, y sale el término al occidente, y sale á la fuente de las aguas de nephtoa:",
+				"number": 15
+			},
+			{
+				"verse": "Y desciende aqueste término al cabo del monte que está delante del valle del hijo de hinnom, que está en la campiña de los gigantes hacia el norte: desciende luego al valle de hinnom, al lado del jebuseo al mediodía, y de allí desciende a la fuente de rogel:",
+				"number": 16
+			},
+			{
+				"verse": "Y del norte torna y sale á ensemes, y de allí sale á geliloth, que está delante de la subida de adummim, y descendía á la piedra de bohan, hijo de rubén:",
+				"number": 17
+			},
+			{
+				"verse": "Y pasa al lado que está delante de la campiña del norte, y desciende á los llanos:",
+				"number": 18
+			},
+			{
+				"verse": "Y torna á pasar este término por el lado de beth-hogla hacia el norte, y viene á salir el término á la lengua del mar salado al norte, al cabo del jordán al mediodía. este es el término de hacia el mediodía.",
+				"number": 19
+			},
+			{
+				"verse": "Y el jordán acaba aqueste término al lado del oriente. esta es la heredad de los hijos de benjamín por sus términos alrededor, conforme á sus familias.",
+				"number": 20
+			},
+			{
+				"verse": "Las ciudades de la tribu de los hijos de Benjamín, por sus familias, fueron Jericó, Beth-hogla, y el valle de Casis,",
+				"number": 21
+			},
+			{
+				"verse": "Beth-araba, Samaraim, y Beth-el;",
+				"number": 22
+			},
+			{
+				"verse": "Y avim, y para, y ophra,",
+				"number": 23
+			},
+			{
+				"verse": "Y cephar-hammonai, ophni, y gaba; doce ciudades con sus aldeas:",
+				"number": 24
+			},
+			{
+				"verse": "Gabaón, Rama, Beeroth,",
+				"number": 25
+			},
+			{
+				"verse": "Y mizpa, chephira, y moza,",
+				"number": 26
+			},
+			{
+				"verse": "Recom, Irpeel y Tarala,",
+				"number": 27
+			},
+			{
+				"verse": "Y Sela, Eleph, Jebus, que es Jerusalem, Gibeath, y Chîriath; catorce ciudades con sus aldeas. Esta es la heredad de los hijos de Benjamín, conforme á sus familias.",
+				"number": 28
+			}
+		]
+	},
+	{
+		"chapter": 19,
+		"verses": [
+			{
+				"verse": "La Segunda suerte salió por Simeón, por la tribu de los hijos de Simeón conforme á sus familias; y su heredad fué entre la heredad de los hijos de Judá.",
+				"number": 1
+			},
+			{
+				"verse": "Y tuvieron en su heredad á beer-seba, seba, y molada,",
+				"number": 2
+			},
+			{
+				"verse": "Hasar-sual, Bala, y Esem,",
+				"number": 3
+			},
+			{
+				"verse": "Heltolad, Betul, y Horma,",
+				"number": 4
+			},
+			{
+				"verse": "Siclag, Beth-marchâboth, y Hasar-susa,",
+				"number": 5
+			},
+			{
+				"verse": "Beth-lebaoth, y Saruhén; trece ciudades con sus aldeas:",
+				"number": 6
+			},
+			{
+				"verse": "Aín, Rimmón, Eter, y Asán; cuatro ciudades con sus aldeas:",
+				"number": 7
+			},
+			{
+				"verse": "Y todas las aldeas que estaban alrededor de estas ciudades hasta baalath-beer, que es ramat del mediodía. esta es la heredad de la tribu de los hijos de simeón, según sus familias.",
+				"number": 8
+			},
+			{
+				"verse": "De la suerte de los hijos de Judá fué sacada la heredad de los hijos de Simeón; por cuanto la parte de los hijos de Judá era excesiva para ellos: así que los hijos de Simeón tuvieron su heredad en medio de la de ellos.",
+				"number": 9
+			},
+			{
+				"verse": "La tercera suerte salió por los hijos de Zabulón conforme á sus familias: y el término de su heredad fué hasta Sarid.",
+				"number": 10
+			},
+			{
+				"verse": "Y su término sube hasta la mar y hasta merala, y llega hasta dabbe-seth, y de allí llega al arroyo que está delante de jocneam.",
+				"number": 11
+			},
+			{
+				"verse": "Y tornando de sarid hacia oriente, donde nace el sol al término de chisiloth-tabor, sale á dabrath, y sube á japhia;",
+				"number": 12
+			},
+			{
+				"verse": "Y pasando de allí hacia el lado oriental á gith-hepher y á itta-kazin, sale á rimmón rodeando á nea;",
+				"number": 13
+			},
+			{
+				"verse": "Y de aquí torna este término al norte á hanatón, viniendo á salir al valle de iphtael;",
+				"number": 14
+			},
+			{
+				"verse": "Y abraza catah, y naalal, y simrón, é ideala, y beth-lehem; doce ciudades con sus aldeas.",
+				"number": 15
+			},
+			{
+				"verse": "Esta es la heredad de los hijos de Zabulón por sus familias; estas ciudades con sus aldeas.",
+				"number": 16
+			},
+			{
+				"verse": "La cuarta suerte salió por Issachâr, por los hijos de Issachâr conforme á sus familias.",
+				"number": 17
+			},
+			{
+				"verse": "Y fué su término izreel, y chesullot, y sunem,",
+				"number": 18
+			},
+			{
+				"verse": "Y hapharaim, y sión, y anaarath,",
+				"number": 19
+			},
+			{
+				"verse": "Y rabbit, y chisión, y ebes,",
+				"number": 20
+			},
+			{
+				"verse": "Y rameth, y en-gannim, y en-hadda y beth-passes;",
+				"number": 21
+			},
+			{
+				"verse": "Y llega este término hasta tabor, y sahasim, y beth-semes; y sale su término al jordán: diez y seis ciudades con sus aldeas.",
+				"number": 22
+			},
+			{
+				"verse": "Esta es la heredad de la tribu de los hijos de Issachâr conforme á sus familias; estas ciudades con sus aldeas.",
+				"number": 23
+			},
+			{
+				"verse": "Y salió la quinta suerte por la tribu de los hijos de aser por sus familias.",
+				"number": 24
+			},
+			{
+				"verse": "Y su término fué helchât, y halí, y betén, y axaph,",
+				"number": 25
+			},
+			{
+				"verse": "Y alammelec, y amead, y miseal; y llega hasta carmel al occidente, y á sihor-libnath;",
+				"number": 26
+			},
+			{
+				"verse": "Y tornando de donde nace el sol á beth-dagón, llega á zabulón, y al valle de iphtael al norte, á beth-emec, y á nehiel, y sale á cabul á la izquierda;",
+				"number": 27
+			},
+			{
+				"verse": "Y abraza á hebrón, y rehob, y hammón, y cana, hasta la gran sidón;",
+				"number": 28
+			},
+			{
+				"verse": "Y torna de allí este término á horma, y hasta la fuerte ciudad de tiro, y torna este término á hosa, y sale á la mar desde el territorio de achzib:",
+				"number": 29
+			},
+			{
+				"verse": "Abraza también Umma, y Aphec, y Rehob: veinte y dos ciudades con sus aldeas.",
+				"number": 30
+			},
+			{
+				"verse": "Esta es la heredad de la tribu de los hijos de Aser por sus familias; estas ciudades con sus aldeas.",
+				"number": 31
+			},
+			{
+				"verse": "La sexta suerte salió por los hijos de Nephtalí, por los hijos de Nephtalí conforme á sus familias.",
+				"number": 32
+			},
+			{
+				"verse": "Y fué su término desde heleph, y allón-saananim, y adami-neceb, y jabneel, hasta lacum; y sale al jordán;",
+				"number": 33
+			},
+			{
+				"verse": "Y tornando de allí este término hacia el occidente á aznot-tabor, pasa de allí á hucuca, y llega hasta zabulón al mediodía, y al occidente confina con aser, y con judá al jordán hacia donde nace el sol.",
+				"number": 34
+			},
+			{
+				"verse": "Y las ciudades fuertes son siddim, ser, y hamath, raccath, y cinneroth,",
+				"number": 35
+			},
+			{
+				"verse": "Y adama, y rama, y asor,",
+				"number": 36
+			},
+			{
+				"verse": "Y cedes, y edrei, y en-hasor,",
+				"number": 37
+			},
+			{
+				"verse": "E irón, y migdalel, y horem, y beth-anath, y beth-semes: diez y nueve ciudades con sus aldeas.",
+				"number": 38
+			},
+			{
+				"verse": "Esta es la heredad de la tribu de los hijos de Nephtalí por sus familias; estas ciudades con sus aldeas.",
+				"number": 39
+			},
+			{
+				"verse": "La séptima suerte salió por la tribu de los hijos de Dan por sus familias.",
+				"number": 40
+			},
+			{
+				"verse": "Y fué el término de su heredad, sora, y estaol, é ir-semes,",
+				"number": 41
+			},
+			{
+				"verse": "Y saalabín, y ailón, y jeth-la,",
+				"number": 42
+			},
+			{
+				"verse": "Y elón, y timnatha, y ecrón,",
+				"number": 43
+			},
+			{
+				"verse": "Y eltechê, gibbethón, y baalath,",
+				"number": 44
+			},
+			{
+				"verse": "Y jehud, y bene-berác, y gath-rimmón,",
+				"number": 45
+			},
+			{
+				"verse": "Y mejarcón, y raccón, con el término que está delante de joppa.",
+				"number": 46
+			},
+			{
+				"verse": "Y faltóles término á los hijos de dan; y subieron los hijos de dan y combatieron á lesem, y tomándola metiéronla á filo de espada, y la poseyeron, y habitaron en ella; y llamaron á lesem, dan, del nombre de dan su padre.",
+				"number": 47
+			},
+			{
+				"verse": "Esta es la heredad de la tribu de los hijos de Dan conforme á sus familias; estas ciudades con sus aldeas.",
+				"number": 48
+			},
+			{
+				"verse": "Y después que acabaron de repartir la tierra en heredad por sus términos, dieron los hijos de israel heredad á josué hijo de nun en medio de ellos:",
+				"number": 49
+			},
+			{
+				"verse": "Según la palabra de Jehová, le dieron la ciudad que él pidió, Timnath-sera, en el monte de Ephraim; y él reedificó la ciudad, y habitó en ella.",
+				"number": 50
+			},
+			{
+				"verse": "Estas son las heredades que Eleazar sacerdote, y Josué hijo de Nun, y los principales de los padres, entregaron por suerte en posesión á las tribus de los hijos de Israel en Silo delante de Jehová, á la entrada del tabernáculo del testimonio; y acabaron de repartir la tierra.",
+				"number": 51
+			}
+		]
+	},
+	{
+		"chapter": 20,
+		"verses": [
+			{
+				"verse": "Y Habló Jehová á Josué, diciendo:",
+				"number": 1
+			},
+			{
+				"verse": "Habla á los hijos de Israel, diciendo: Señalaos las ciudades de refugio, de las cuales yo os hablé por Moisés;",
+				"number": 2
+			},
+			{
+				"verse": "Para que se acoja allí el homicida que matare á alguno por yerro y no á sabiendas; que os sean por acogimiento del cercano del muerto.",
+				"number": 3
+			},
+			{
+				"verse": "Y el que se acogiere á alguna de aquellas ciudades, presentaráse á la puerta de la ciudad, y dirá sus causas, oyéndolo los ancianos de aquella ciudad: y ellos le recibirán consigo dentro de la ciudad, y le darán lugar que habite con ellos.",
+				"number": 4
+			},
+			{
+				"verse": "Y cuando el cercano del muerto le siguiere, no entregarán en su mano al homicida, por cuanto hirió á su prójimo por yerro, ni tuvo con él antes enemistad.",
+				"number": 5
+			},
+			{
+				"verse": "Y quedará en aquella ciudad hasta que parezca en juicio delante del ayuntamiento, hasta la muerte del gran sacerdote que fuere en aquel tiempo: entonces el homicida tornará y vendrá á su ciudad y á su casa y á la ciudad de donde huyó.",
+				"number": 6
+			},
+			{
+				"verse": "Entonces señalaron á Cedes en Galilea, en el monte de Nephtalí, y á Sichêm en el monte de Ephraim, y á Chîriath-arba, que es Hebrón, en el monte de Judá.",
+				"number": 7
+			},
+			{
+				"verse": "Y de la otra parte del jordán de jericó, al oriente, señalaron á beser en el desierto, en la llanura de la tribu de rubén, y á ramoth en galaad de la tribu de gad, y á gaulón en basán de la tribu de manasés.",
+				"number": 8
+			},
+			{
+				"verse": "Estas fueron las ciudades señaladas para todos los hijos de Israel, y para el extranjero que morase entre ellos, para que se acogiese á ellas cualquiera que hiriese hombre por yerro, y no muriese por mano del cercano del muerto, hasta que compareciese delante del ayuntamiento.",
+				"number": 9
+			}
+		]
+	},
+	{
+		"chapter": 21,
+		"verses": [
+			{
+				"verse": "Y Los principales de los padres de los Levitas vinieron á Eleazar sacerdote, y á Josué hijo de Nun, y á los principales de los padres de las tribus de los hijos de Israel;",
+				"number": 1
+			},
+			{
+				"verse": "Y habláronles en silo en la tierra de canaán, diciendo: jehová mandó por moisés que nos fuesen dadas villas para habitar, con sus ejidos para nuestras bestias.",
+				"number": 2
+			},
+			{
+				"verse": "Entonces los hijos de Israel dieron á los Levitas de sus posesiones, conforme á la palabra de Jehová, estas villas con sus ejidos.",
+				"number": 3
+			},
+			{
+				"verse": "Y salió la suerte por las familias de los coathitas; y fueron dadas por suerte á los hijos de aarón sacerdote, que eran de los levitas, por la tribu de judá, por la de simeón y por la de benjamín, trece villas.",
+				"number": 4
+			},
+			{
+				"verse": "Y á los otros hijos de coath se dieron por suerte diez villas de las familias de la tribu de ephraim, y de la tribu de dan, y de la media tribu de manasés;",
+				"number": 5
+			},
+			{
+				"verse": "Y a los hijos de gersón, por las familias de la tribu de issachâr, y de la tribu de aser, y de la tribu de nephtalí, y de la media tribu de manasés en basán, fueron dadas por suerte trece villas.",
+				"number": 6
+			},
+			{
+				"verse": "A los hijos de merari por sus familias se dieron doce villas por la tribu de rubén, y por la tribu de gad, y por la tribu de zabulón.",
+				"number": 7
+			},
+			{
+				"verse": "Y así dieron por suerte los hijos de israel á los levitas estas villas con sus ejidos, como jehová lo había mandado por moisés.",
+				"number": 8
+			},
+			{
+				"verse": "Y de la tribu de los hijos de judá, y de la tribu de los hijos de simeón dieron estas villas que fueron nombradas:",
+				"number": 9
+			},
+			{
+				"verse": "Y la primera suerte fué de los hijos de aarón, de la familia de coath, de los hijos de leví;",
+				"number": 10
+			},
+			{
+				"verse": "A los cuales dieron chîriath-arba, del padre de anac, la cual es hebrón, en el monte de judá, con sus ejidos en sus contornos.",
+				"number": 11
+			},
+			{
+				"verse": "Mas el campo de aquesta ciudad y sus aldeas dieron á Caleb hijo de Jephone, por su posesión.",
+				"number": 12
+			},
+			{
+				"verse": "Y á los hijos de aarón sacerdote dieron la ciudad de refugio para los homicidas, a hebrón con sus ejidos; y á libna con sus ejidos,",
+				"number": 13
+			},
+			{
+				"verse": "Y á jattir con sus ejidos, y á estemoa con sus ejidos,",
+				"number": 14
+			},
+			{
+				"verse": "A helón con sus ejidos, y á debir con sus ejidos,",
+				"number": 15
+			},
+			{
+				"verse": "A ain con sus ejidos, á jutta con sus ejidos, y á beth-semes con sus ejidos; nueve villas de estas dos tribus:",
+				"number": 16
+			},
+			{
+				"verse": "Y de la tribu de benjamín, á gibeón con sus ejidos, á geba con sus ejidos,",
+				"number": 17
+			},
+			{
+				"verse": "A anathoth con sus ejidos, á almón con sus ejidos: cuatro villas.",
+				"number": 18
+			},
+			{
+				"verse": "Todas las villas de los sacerdotes, hijos de Aarón, son trece con sus ejidos.",
+				"number": 19
+			},
+			{
+				"verse": "Mas las familias de los hijos de Coath, Levitas, los que quedaban de los hijos de Coath, recibieron por suerte villas de la tribu de Ephraim.",
+				"number": 20
+			},
+			{
+				"verse": "Y diéronles á sichêm, villa de refugio para los homicidas, con sus ejidos, en el monte de ephraim; y á geser con sus ejidos.",
+				"number": 21
+			},
+			{
+				"verse": "Y á kibsaim con sus ejidos, y á beth-oron con sus ejidos: cuatro villas:",
+				"number": 22
+			},
+			{
+				"verse": "Y de la tribu de dan á eltheco con sus ejidos, á gibethón con sus ejidos,",
+				"number": 23
+			},
+			{
+				"verse": "A ayalón con sus ejidos, á gath-rimmón con sus ejidos: cuatro villas:",
+				"number": 24
+			},
+			{
+				"verse": "Y de la media tribu de manasés, á taanach con sus ejidos, y á gath-rimmón con sus ejidos: dos villas.",
+				"number": 25
+			},
+			{
+				"verse": "Todas las villas para el resto de las familias de los hijos de Coath fueron diez con sus ejidos.",
+				"number": 26
+			},
+			{
+				"verse": "A los hijos de gersón de las familias de los levitas, dieron la villa de refugio para los homicidas, de la media tribu de manasés: á gaulón en basán con sus ejidos, y á bosra con sus ejidos: dos villas.",
+				"number": 27
+			},
+			{
+				"verse": "Y de la tribu de issachâr, á cesión con sus ejidos, á dabereth con sus ejidos,",
+				"number": 28
+			},
+			{
+				"verse": "A jarmuth con sus ejidos, y á en-gannim con sus ejidos: cuatro villas:",
+				"number": 29
+			},
+			{
+				"verse": "Y de la tribu de aser, á miseal con sus ejidos, á abdón con sus ejidos,",
+				"number": 30
+			},
+			{
+				"verse": "A helchâth con sus ejidos, y á rehob con sus ejidos: cuatro villas:",
+				"number": 31
+			},
+			{
+				"verse": "Y de la tribu de nephtalí, la villa de refugio para los homicidas, a cedes en galilea con sus ejidos, á hammoth-dor con sus ejidos, y á cartán con sus ejidos: tres villas:",
+				"number": 32
+			},
+			{
+				"verse": "Todas las villas de los Gersonitas por sus familias fueron trece villas con sus ejidos.",
+				"number": 33
+			},
+			{
+				"verse": "Y á las familias de los hijos de merari, levitas que quedaban, dióseles de la tribu de zabulón, á jocneam con sus ejidos, cartha con sus ejidos,",
+				"number": 34
+			},
+			{
+				"verse": "Dimna con sus ejidos, Naalal con sus ejidos: cuatro villas:",
+				"number": 35
+			},
+			{
+				"verse": "Y de la tribu de rubén, a beser con sus ejidos, á jasa con sus ejidos,",
+				"number": 36
+			},
+			{
+				"verse": "A cedemoth con sus ejidos, y mephaat con sus ejidos: cuatro villas:",
+				"number": 37
+			},
+			{
+				"verse": "De la tribu de Gad, la villa de refugio para los homicidas, Ramoth en Galaad con sus ejidos, y Mahanaim con sus ejidos,",
+				"number": 38
+			},
+			{
+				"verse": "Hesbón con sus ejidos, y Jacer con sus ejidos: cuatro villas.",
+				"number": 39
+			},
+			{
+				"verse": "Todas las villas de los hijos de Merari por sus familias, que restaban de las familias de los Levitas, fueron por sus suertes doce villas.",
+				"number": 40
+			},
+			{
+				"verse": "Y todas la villas de los levitas en medio de la posesión de los hijos de israel, fueron cuarenta y ocho villas con sus ejidos.",
+				"number": 41
+			},
+			{
+				"verse": "Y estas ciudades estaban apartadas la una de la otra cada cual con sus ejidos alrededor de ellas: lo cual fué en todas estas ciudades.",
+				"number": 42
+			},
+			{
+				"verse": "Así dió Jehová á Israel toda la tierra que había jurado dar á sus padres; y poseyéronla, y habitaron en ella.",
+				"number": 43
+			},
+			{
+				"verse": "Y jehová les dió reposo alrededor, conforme á todo lo que había jurado á sus padres: y ninguno de todos los enemigos les paró delante, sino que jehová entregó en sus manos á todos sus enemigos.",
+				"number": 44
+			},
+			{
+				"verse": "No faltó palabra de todas la buenas que habló Jehová á la casa de Israel; todo se cumplió.",
+				"number": 45
+			}
+		]
+	},
+	{
+		"chapter": 22,
+		"verses": [
+			{
+				"verse": "Entonces josué llamó á los rubenitas y á los gaditas, y á la media tribu de manasés,",
+				"number": 1
+			},
+			{
+				"verse": "Y díjoles: vosotros habéis guardado todo lo que moisés siervo de jehová os mandó, y habéis obedecido á mi voz en todo lo que os he mandado.",
+				"number": 2
+			},
+			{
+				"verse": "No habéis dejado á vuestros hermanos en estos muchos días hasta hoy, antes habéis guardado la observancia de los mandamientos de Jehová vuestro Dios.",
+				"number": 3
+			},
+			{
+				"verse": "Ahora pues que Jehová vuestro Dios ha dado reposo á vuestros hermanos, como se lo había prometido, volved, y tornad á vuestras tiendas, á la tierra de vuestras posesiones, que Moisés siervo de Jehová os dió de la otra parte del Jordán.",
+				"number": 4
+			},
+			{
+				"verse": "Solamente que con diligencia cuidéis de poner por obra el mandamiento y la ley, que Moisés siervo de Jehová os intimó: que améis á Jehová vuestro Dios, y andéis en todos sus caminos; que guardéis sus mandamientos, y os alleguéis á él, y le sirváis de todo vuestro corazón y de toda vuestra alma.",
+				"number": 5
+			},
+			{
+				"verse": "Y bendiciéndolos josué, los envió: y fuéronse á sus tiendas.",
+				"number": 6
+			},
+			{
+				"verse": "También á la media tribu de Manasés había dado Moisés posesión en Basán; mas á la otra media dió Josué heredad entre sus hermanos de estotra parte del Jordán al occidente: y también á éstos envió Josué á sus tiendas, después de haberlos bendecido.",
+				"number": 7
+			},
+			{
+				"verse": "Y hablóles, diciendo: volveos á vuestras tiendas con grandes riquezas, y con grande copia de ganado, con plata, y con oro, y metal, y muchos vestidos: partid con vuestros hermanos el despojo de vuestros enemigos.",
+				"number": 8
+			},
+			{
+				"verse": "Y los hijos de rubén y los hijos de gad, y la media tribu de manasés, se tornaron, y partiéronse de los hijos de israel, de silo, que está en la tierra de canaán, para ir á la tierra de galaad, á la tierra de sus posesiones, de la cual eran poseedores, según palabra de jehová por mano de moisés.",
+				"number": 9
+			},
+			{
+				"verse": "Y llegando á los términos del jordán, que está en la tierra de canaán, los hijos de rubén y los hijos de gad, y la media tribu de manasés, edificaron allí un altar junto al jordán, un altar de grande apariencia.",
+				"number": 10
+			},
+			{
+				"verse": "Y los hijos de israel oyeron decir como los hijos de rubén y los hijos de gad, y la media tribu de manasés, habían edificado un altar delante de la tierra de canaán, en los términos del jordán, al paso de los hijos de israel:",
+				"number": 11
+			},
+			{
+				"verse": "Lo cual como los hijos de Israel oyeron, juntóse toda la congregación de los hijos de Israel en Silo, para subir á pelear contra ellos.",
+				"number": 12
+			},
+			{
+				"verse": "Y enviaron los hijos de israel á los hijos de rubén y á los hijos de gad y á la media tribu de manasés en la tierra de galaad, á phinees hijo de eleazar sacerdote,",
+				"number": 13
+			},
+			{
+				"verse": "Y á diez príncipes con él; un príncipe de cada casa paterna de todas las tribus de israel, cada uno de los cuales era cabeza de familia de sus padres en la multitud de israel.",
+				"number": 14
+			},
+			{
+				"verse": "Los cuales vinieron á los hijos de Rubén y á los hijos de Gad, y á la media tribu de Manasés, en la tierra de Galaad; y habláronles, diciendo:",
+				"number": 15
+			},
+			{
+				"verse": "Toda la congregación de Jehová dice así: ¿Qué transgresión es ésta con que prevaricáis contra el Dios de Israel, volviéndoos hoy de seguir á Jehová, edificándoos altar para ser hoy rebeldes contra Jehová?",
+				"number": 16
+			},
+			{
+				"verse": "¿Nos ha sido poco la maldad de Peor, de la que no estamos aún limpios hasta este día, por la cual fué la mortandad en la congregación de Jehová?",
+				"number": 17
+			},
+			{
+				"verse": "Y vosotros os volvéis hoy de seguir á jehová; mas será que vosotros os rebelaréis hoy contra jehová, y mañana se airará él contra toda la congregación de israel.",
+				"number": 18
+			},
+			{
+				"verse": "Que si os parece que la tierra de vuestra posesión es inmunda, pasaos á la tierra de la posesión de Jehová, en la cual está el tabernáculo de Jehová, y tomad posesión entre nosotros; pero no os rebeléis contra Jehová, ni os rebeléis contra nosotros, edificándoos altar á más del altar de Jehová nuestro Dios.",
+				"number": 19
+			},
+			{
+				"verse": "¿No cometió Achân, hijo de Zera, prevaricación en el anatema, y vino ira sobre toda la congregación de Israel? y aquel hombre no pereció solo en su iniquidad.",
+				"number": 20
+			},
+			{
+				"verse": "Entonces los hijos de Rubén y los hijos de Gad, y la media tribu de Manasés, respondieron y dijeron á los principales de la multitud de Israel:",
+				"number": 21
+			},
+			{
+				"verse": "El Dios de los dioses, Jehová, el Dios de los dioses, Jehová, él sabe, y sabrá Israel: si por rebelión ó por prevaricación contra Jehová ( no nos salves hoy,)",
+				"number": 22
+			},
+			{
+				"verse": "Nos hemos edificado altar para tornarnos de en pos de Jehová, ó para sacrificar holocausto ó presente, ó para hacer sobre él sacrificios pacíficos, el mismo Jehová nos lo demande.",
+				"number": 23
+			},
+			{
+				"verse": "Asimismo, si no lo hicimos por temor de esto, diciendo: Mañana vuestros hijos dirán á nuestros hijos: ¿Qué tenéis vosotros con Jehová el Dios de Israel?;",
+				"number": 24
+			},
+			{
+				"verse": "Jehová ha puesto por término el Jordán entre nosotros y vosotros, oh hijos de Rubén é hijos de Gad; no tenéis vosotros parte en Jehová: y así vuestros hijos harán que nuestros hijos no teman á Jehová.",
+				"number": 25
+			},
+			{
+				"verse": "Por esto dijimos: Hagamos ahora por edificarnos un altar, no para holocausto ni para sacrificio,",
+				"number": 26
+			},
+			{
+				"verse": "Sino para que sea un testimonio entre nosotros y vosotros, y entre los que vendrán después de nosotros, de que podemos hacer el servicio de Jehová delante de él con nuestros holocaustos, con nuestros sacrificios, y con nuestros pacíficos; y no digan mañana vuestros hijos á los nuestros: Vosotros no tenéis parte en Jehová.",
+				"number": 27
+			},
+			{
+				"verse": "Nosotros, pues, dijimos: Si aconteciere que tal digan á nosotros, ó á nuestras generaciones en lo por venir, entonces responderemos: Mirad el símil del altar de Jehová, el cual hicieron nuestros padres, no para holocaustos ó sacrificios, sino para que fuese testimonio entre nosotros y vosotros.",
+				"number": 28
+			},
+			{
+				"verse": "Nunca tal acontezca que nos rebelemos contra Jehová, ó que nos apartemos hoy de seguir á Jehová, edificando altar para holocaustos, para presente, ó para sacrificio, á más del altar de Jehová nuestro Dios que está delante de su tabernáculo.",
+				"number": 29
+			},
+			{
+				"verse": "Y oyendo phinees el sacerdote y los príncipes de la congregación, y las cabezas de la multitud de israel que con él estaban, las palabras que hablaron los hijos de rubén y los hijos de gad y los hijos de manasés, fueron contentos de ello.",
+				"number": 30
+			},
+			{
+				"verse": "Y dijo phinees hijo del sacerdote eleazar, á los hijos de rubén, á los hijos de gad, y á los hijos de manasés: hoy hemos entendido que jehová está entre nosotros, pues que no habéis intentado esta traición contra jehová. ahora habéis librado á los hijos de israel de la mano de jehová.",
+				"number": 31
+			},
+			{
+				"verse": "Y phinees hijo del sacerdote eleazar, y los príncipes, volviéronse de con los hijos de rubén, y de con los hijos de gad, de la tierra de galaad á la tierra de canaán, á los hijos de israel: á los cuales dieron la respuesta.",
+				"number": 32
+			},
+			{
+				"verse": "Y el negocio plugo á los hijos de israel, y bendijeron á dios los hijos de israel; y no hablaron más de subir contra ellos en guerra, para destruir la tierra en que habitaban los hijos de rubén y los hijos de gad.",
+				"number": 33
+			},
+			{
+				"verse": "Y los hijos de Rubén y los hijos de Gad pusieron por nombre al altar Ed; porque es testimonio entre nosotros que Jehová es Dios.",
+				"number": 34
+			}
+		]
+	},
+	{
+		"chapter": 23,
+		"verses": [
+			{
+				"verse": "Y Aconteció, pasados muchos días después que Jehová dió reposo á Israel de todos sus enemigos al contorno, que Josué, siendo viejo, y entrado en días,",
+				"number": 1
+			},
+			{
+				"verse": "Llamó á todo Israel, á sus ancianos, á sus príncipes, á sus jueces y á sus oficiales, y díjoles: Yo soy ya viejo y entrado en días:",
+				"number": 2
+			},
+			{
+				"verse": "Y vosotros habéis visto todo lo que jehová vuestro dios ha hecho con todas estas gentes en vuestra presencia; porque jehová vuestro dios ha peleado por vosotros.",
+				"number": 3
+			},
+			{
+				"verse": "He aquí os he repartido por suerte, en herencia para vuestras tribus, estas gentes, así las destruídas como las que quedan, desde el Jordán hasta la gran mar hacia donde el sol se pone.",
+				"number": 4
+			},
+			{
+				"verse": "Y jehová vuestro dios las echará de delante de vosotros, y las lanzará de vuestra presencia: y vosotros poseeréis sus tierras, como jehová vuestro dios os ha dicho.",
+				"number": 5
+			},
+			{
+				"verse": "Esforzaos pues mucho á guardar y hacer todo lo que está escrito en el libro de la ley de Moisés, sin apartaros de ello ni á la diestra ni á la siniestra;",
+				"number": 6
+			},
+			{
+				"verse": "Que cuando entrareis á estas gentes que han quedado con vosotros, no hagáis mención ni juréis por el nombre de sus dioses, ni los sirváis, ni os inclinéis á ellos:",
+				"number": 7
+			},
+			{
+				"verse": "Mas á Jehová vuestro Dios os allegaréis, como habéis hecho hasta hoy;",
+				"number": 8
+			},
+			{
+				"verse": "Pues ha echado Jehová delante de vosotros grandes y fuertes naciones, y hasta hoy nadie ha podido parar delante de vuestro rostro.",
+				"number": 9
+			},
+			{
+				"verse": "Un varón de vosotros perseguirá á mil: porque Jehová vuestro Dios pelea por vosotros, como él os dijo.",
+				"number": 10
+			},
+			{
+				"verse": "Por tanto, cuidad mucho por vuestras almas, que améis á Jehová vuestro Dios.",
+				"number": 11
+			},
+			{
+				"verse": "Porque si os apartareis, y os allegareis á lo que resta de aquestas gentes que han quedado con vosotros, y si concertareis con ellas matrimonios, y entrareis á ellas, y ellas á vosotros;",
+				"number": 12
+			},
+			{
+				"verse": "Sabed que Jehová vuestro Dios no echará más estas gentes delante de vosotros; antes os serán por lazo, y por tropiezo, y por azote para vuestros costados, y por espinas para vuestros ojos, hasta tanto que perezcáis de aquesta buena tierra que Jehová vuestro Dios os ha dado.",
+				"number": 13
+			},
+			{
+				"verse": "Y he aquí que yo estoy para entrar hoy por el camino de toda la tierra: reconoced, pues, con todo vuestro corazón y con toda vuestra alma, que no se ha perdido una palabra de todas la buenas palabras que jehová vuestro dios había dicho de vosotros: todas os han venido, no se ha perdido de ellas ni una.",
+				"number": 14
+			},
+			{
+				"verse": "Mas será, que como ha venido sobre vosotros toda palabra buena que Jehová vuestro Dios os había dicho, así también traerá Jehová sobre vosotros toda palabra mala, hasta destruiros de sobre la buena tierra que Jehová vuestro Dios os ha dado;",
+				"number": 15
+			},
+			{
+				"verse": "Cuando traspasareis el pacto de Jehová vuestro Dios que él os ha mandado, yendo y honrando dioses ajenos, é inclinándoos á ellos. Y el furor de Jehová se inflamará contra vosotros, y luego pereceréis de aquesta buena tierra que él os ha dado.",
+				"number": 16
+			}
+		]
+	},
+	{
+		"chapter": 24,
+		"verses": [
+			{
+				"verse": "Y Juntando Josué todas las tribus de Israel en Sichêm, llamó á los ancianos de Israel, y á sus príncipes, á sus jueces, y á sus oficiales; y presentáronse delante de Dios.",
+				"number": 1
+			},
+			{
+				"verse": "Y dijo josué á todo el pueblo: así dice jehová, dios de israel: vuestros padres habitaron antiguamente de esotra parte del río, es á saber, tharé, padre de abraham y de nachôr; y servían á dioses extraños.",
+				"number": 2
+			},
+			{
+				"verse": "Y yo tomé á vuestro padre abraham de la otra parte del río, y trájelo por toda la tierra de canaán, y aumenté su generación, y díle á isaac.",
+				"number": 3
+			},
+			{
+				"verse": "Y á isaac dí á jacob y á esaú: y á esaú dí el monte de seir, que lo poseyese: mas jacob y sus hijos descendieron á egipto.",
+				"number": 4
+			},
+			{
+				"verse": "Y yo envié á moisés y á aarón, y herí á egipto, al modo que lo hice en medio de él, y después os saqué.",
+				"number": 5
+			},
+			{
+				"verse": "Y saqué á vuestros padres de egipto: y como llegaron á la mar, los egipcios siguieron á vuestros padres hasta el mar bermejo con carros y caballería.",
+				"number": 6
+			},
+			{
+				"verse": "Y como ellos clamasen á jehová, él puso oscuridad entre vosotros y los egipcios, e hizo venir sobre ellos la mar, la cual los cubrió: y vuestros ojos vieron lo que hice en egipto. después estuvisteis muchos días en el desierto.",
+				"number": 7
+			},
+			{
+				"verse": "Y os introduje en la tierra de los amorrheos, que habitaban de la otra parte del jordán, los cuales pelearon contra vosotros; mas yo los entregué en vuestras manos, y poseísteis su tierra, y los destruí de delante de vosotros.",
+				"number": 8
+			},
+			{
+				"verse": "Y levantóse después balac hijo de sephor, rey de los moabitas, y peleó contra israel; y envió á llamar á balaam hijo de beor, para que os maldijese.",
+				"number": 9
+			},
+			{
+				"verse": "Mas yo no quise escuchar á Balaam, antes os bendijo repetidamente, y os libré de sus manos.",
+				"number": 10
+			},
+			{
+				"verse": "Y pasado el jordán, vinisteis á jericó; y los moradores de jericó pelearon contra vosotros: los amorrheos, pherezeos, cananeos, hetheos, gergeseos, heveos, y jebuseos: y yo los entregué en vuestras manos.",
+				"number": 11
+			},
+			{
+				"verse": "Y envié tábanos delante de vosotros, los cuales los echaron de delante de vosotros, á saber, á los dos reyes de los amorrheos; no con tu espada, ni con tu arco.",
+				"number": 12
+			},
+			{
+				"verse": "Y os dí la tierra por la cual nada trabajasteis, y las ciudades que no edificasteis, en las cuales moráis; y de las viñas y olivares que no plantasteis, coméis.",
+				"number": 13
+			},
+			{
+				"verse": "Ahora pues, temed á Jehová, y servidle con integridad y en verdad; y quitad de en medio los dioses á los cuales sirvieron vuestros padres de esotra parte del río, y en Egipto; y servid á Jehová.",
+				"number": 14
+			},
+			{
+				"verse": "Y si mal os parece servir á jehová, escogeos hoy á quién sirváis; si á los dioses á quienes sirvieron vuestros padres, cuando estuvieron de esotra parte del río, ó á los dioses de los amorrheos en cuya tierra habitáis: que yo y mi casa serviremos á jehová.",
+				"number": 15
+			},
+			{
+				"verse": "Entonces el pueblo repondió, y dijo: Nunca tal acontezca, que dejemos á Jehová por servir á otros dioses:",
+				"number": 16
+			},
+			{
+				"verse": "Porque Jehová nuestro Dios es el que nos sacó á nosotros y á nuestros padres de la tierra de Egipto, de la casa de sevidumbre; el cual delante de nuestros ojos ha hecho estas grandes señales, y nos ha guardado por todo el camino por donde hemos andado, y en todos los pueblos por entre los cuales pasamos.",
+				"number": 17
+			},
+			{
+				"verse": "Y jehová echó de delante de nosotros á todos los pueblos, y al amorrheo que habitaba en la tierra: nosotros, pues, también serviremos á jehová, porque él es nuestro dios.",
+				"number": 18
+			},
+			{
+				"verse": "Entonces Josué dijo al pueblo: No podréis servir á Jehová, porque él es Dios santo, y Dios celoso; no sufrirá vuestras rebeliones y vuestros pecados.",
+				"number": 19
+			},
+			{
+				"verse": "Si dejareis á Jehová y sirviereis á dioses ajenos, se volverá, y os maltratará, y os consumirá, después que os ha hecho bien.",
+				"number": 20
+			},
+			{
+				"verse": "El pueblo entonces dijo á Josué: No, antes á Jehová serviremos.",
+				"number": 21
+			},
+			{
+				"verse": "Y josué respondió al pueblo: vosotros sois testigos contra vosotros mismos, de que os habéis elegido á jehová para servirle. y ellos respondieron: testigos somos.",
+				"number": 22
+			},
+			{
+				"verse": "Quitad, pues, ahora los dioses ajenos que están entre vosotros, é inclinad vuestro corazón á Jehová Dios de Israel.",
+				"number": 23
+			},
+			{
+				"verse": "Y el pueblo respondió á josué: a jehová nuestro dios serviremos, y á su voz obedeceremos.",
+				"number": 24
+			},
+			{
+				"verse": "Entonces Josué hizo alianza con el pueblo el mismo día, y púsole ordenanzas y leyes en Sichêm.",
+				"number": 25
+			},
+			{
+				"verse": "Y escribió josué estas palabras en el libro de la ley de dios; y tomando una grande piedra, levantóla allí debajo de un alcornoque que estaba junto al santuario de jehová.",
+				"number": 26
+			},
+			{
+				"verse": "Y dijo josué á todo el pueblo: he aquí esta piedra será entre nosotros por testigo, la cual ha oído todas las palabras de jehová que él ha hablado con nosotros: será, pues, testigo contra vosotros, porque no mintáis contra vuestro dios.",
+				"number": 27
+			},
+			{
+				"verse": "Y envió josué al pueblo, cada uno á su heredad.",
+				"number": 28
+			},
+			{
+				"verse": "Y después de estas cosas murió josué, hijo de nun, siervo de jehová, siendo de ciento y diez años.",
+				"number": 29
+			},
+			{
+				"verse": "Y enterráronlo en el término de su posesión en timnath-sera, que está en el monte de ephraim, al norte del monte de gaas.",
+				"number": 30
+			},
+			{
+				"verse": "Y sirvió israel á jehová todo el tiempo de josué, y todo el tiempo de los ancianos que vivieron después de josué, y que sabían todas las obras de jehová, que había hecho por israel.",
+				"number": 31
+			},
+			{
+				"verse": "Y enterraron en sichêm los huesos de josé que los hijos de israel habían traído de egipto, en la parte del campo que jacob compró de los hijos de hemor padre de sichêm, por cien corderas; y fué en posesión á los hijos de josé.",
+				"number": 32
+			},
+			{
+				"verse": "También murió Eleazar, hijo de Aarón; al cual enterraron en el collado de Phinees su hijo, que le fué dado en el monte de Ephraim.",
+				"number": 33
+			}
+		]
+	}
+]
