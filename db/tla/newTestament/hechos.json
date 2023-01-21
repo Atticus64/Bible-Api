@@ -1,0 +1,2226 @@
+[
+	{
+		"chapter": 1,
+		"verses": [
+			{
+				"verse": "En mi primer libro, excelentísimo Teófilo, escribí acerca de todo lo que Jesús había hecho y enseñado desde el principio y hasta el día en que subió al cielo. Antes de irse, por medio del Espíritu Santo dio instrucciones a los apóstoles que había escogido respecto a lo que debían hacer. Y después de muerto se les presentó en persona, dándoles así claras pruebas de que estaba vivo. Durante cuarenta días se dejó ver de ellos y les estuvo hablando del reino de Dios.",
+				"number": 1
+			},
+			{
+				"verse": "Cuando todavía estaba con los apóstoles, Jesús les advirtió que no debían irse de Jerusalén. Les dijo: —Esperen a que se cumpla la promesa que mi Padre les hizo, de la cual yo les hablé.",
+				"number": 2
+			},
+			{
+				"verse": "Es cierto que Juan bautizó con agua, pero dentro de pocos días ustedes serán bautizados con el Espíritu Santo.",
+				"number": 3
+			},
+			{
+				"verse": "Los que estaban reunidos con Jesús, le preguntaron: —Señor, ¿vas a restablecer en este momento el reino de Israel?",
+				"number": 4
+			},
+			{
+				"verse": "Jesús les contestó: —No les corresponde a ustedes conocer el día o el momento que el Padre ha fijado con su propia autoridad;",
+				"number": 5
+			},
+			{
+				"verse": "pero cuando el Espíritu Santo venga sobre ustedes, recibirán poder y saldrán a dar testimonio de mí, en Jerusalén, en toda la región de Judea y de Samaria, y hasta en las partes más lejanas de la tierra.",
+				"number": 6
+			},
+			{
+				"verse": "Dicho esto, mientras ellos lo estaban mirando, Jesús fue levantado, y una nube lo envolvió y no lo volvieron a ver.",
+				"number": 7
+			},
+			{
+				"verse": "Y mientras miraban fijamente al cielo, viendo cómo jesús se alejaba, dos hombres vestidos de blanco se aparecieron junto a ellos y les dijeron: —galileos, ¿por qué se han quedado mirando al cielo? este mismo jesús que estuvo entre ustedes y que ha sido llevado al cielo, vendrá otra vez de la misma manera que lo han visto irse allá.",
+				"number": 8
+			},
+			{
+				"verse": "Desde el monte llamado de los Olivos, regresaron los apóstoles a Jerusalén: un trecho corto, precisamente lo que la ley permitía caminar en sábado.",
+				"number": 9
+			},
+			{
+				"verse": "Cuando llegaron a la ciudad, subieron al piso alto de la casa donde estaban alojados. Eran Pedro, Juan, Santiago, Andrés, Felipe, Tomás, Bartolomé, Mateo, Santiago hijo de Alfeo, Simón el Celote, y Judas, el hijo de Santiago.",
+				"number": 10
+			},
+			{
+				"verse": "Todos ellos se reunían siempre para orar con algunas mujeres, con María, la madre de Jesús, y con sus hermanos.",
+				"number": 11
+			},
+			{
+				"verse": "Por aquellos días Pedro se dirigió a los hermanos reunidos, que eran como ciento veinte personas, y les dijo:",
+				"number": 12
+			},
+			{
+				"verse": "«Hermanos, tenía que cumplirse lo que el Espíritu Santo, por medio de David, ya había dicho en la Escritura acerca de Judas, el que sirvió de guía a los que arrestaron a Jesús.",
+				"number": 13
+			},
+			{
+				"verse": "Pues Judas era uno de los nuestros, y tenía parte en nuestro trabajo. (Pero fue y compró un terreno con el dinero que le pagaron por su maldad; luego cayó de cabeza y se reventó, y se le salieron todos los intestinos. Cuando los que vivían en Jerusalén lo supieron, llamaron a aquel terreno Hacéldama, que en su lengua quiere decir: “Campo de Sangre.”)",
+				"number": 14
+			},
+			{
+				"verse": "En efecto, el libro de los Salmos dice: “Que su casa se vuelva un desierto, y que nadie viva en ella.” Y también: “Que otro ocupe su cargo.”",
+				"number": 15
+			},
+			{
+				"verse": "»Tenemos aquí hombres que nos han acompañado todo el tiempo que el Señor Jesús estuvo entre nosotros, desde que fue bautizado por Juan hasta que subió al cielo. Es necesario, pues, que uno de ellos sea agregado a nosotros, para que junto con nosotros dé testimonio de que Jesús resucitó.»",
+				"number": 16
+			},
+			{
+				"verse": "Entonces propusieron a dos: a José, llamado Barsabás, y llamado también Justo, y a Matías. Y oraron así: «Señor, tú que conoces los corazones de todos, muéstranos cuál de estos dos has escogido para que tome a su cargo el servicio de apóstol que Judas perdió por su pecado, cuando se fue al lugar que le correspondía.»",
+				"number": 17
+			},
+			{
+				"verse": "Lo echaron a la suerte, y esta favoreció a Matías, quien desde aquel momento quedó agregado a los once apóstoles.",
+				"number": 18
+			}
+		]
+	},
+	{
+		"chapter": 2,
+		"verses": [
+			{
+				"verse": "Cuando llegó la fiesta de Pentecostés, todos los creyentes se encontraban reunidos en un mismo lugar. De repente, un gran ruido que venía del cielo, como de un viento fuerte, resonó en toda la casa donde ellos estaban. Y se les aparecieron lenguas como de fuego que se repartieron, y sobre cada uno de ellos se asentó una. Y todos quedaron llenos del Espíritu Santo, y comenzaron a hablar en otras lenguas, según el Espíritu hacía que hablaran.",
+				"number": 1
+			},
+			{
+				"verse": "Vivían en Jerusalén judíos cumplidores de sus deberes religiosos, que habían venido de todas partes del mundo. La gente se reunió al oír aquel ruido, y no sabía qué pensar, porque cada uno oía a los creyentes hablar en su propia lengua.",
+				"number": 2
+			},
+			{
+				"verse": "Eran tales su sorpresa y su asombro, que decían: —¿Acaso no son galileos todos estos que están hablando? ¿Cómo es que los oímos hablar en nuestras propias lenguas? Aquí hay gente de Partia, de Media, de Elam, de Mesopotamia, de Judea, de Capadocia, del Ponto y de la provincia de Asia, de Frigia y de Panfilia, de Egipto y de las regiones de Libia cercanas a Cirene. Hay también gente de Roma que vive aquí; unos son judíos de nacimiento y otros se han convertido al judaísmo. También los hay venidos de Creta y de Arabia. ¡Y los oímos hablar en nuestras propias lenguas de las maravillas de Dios!",
+				"number": 3
+			},
+			{
+				"verse": "Todos estaban asombrados y sin saber qué pensar; y se preguntaban: —¿Qué significa todo esto?",
+				"number": 4
+			},
+			{
+				"verse": "Pero algunos, burlándose, decían: —¡Es que están borrachos!",
+				"number": 5
+			},
+			{
+				"verse": "Entonces Pedro se puso de pie junto con los otros once apóstoles, y con voz fuerte dijo: «Judíos y todos los que viven en Jerusalén, sepan ustedes esto y oigan bien lo que les voy a decir. Estos no están borrachos como ustedes creen, ya que apenas son las nueve de la mañana.",
+				"number": 6
+			},
+			{
+				"verse": "Al contrario, aquí está sucediendo lo que anunció el profeta Joel, cuando dijo:",
+				"number": 7
+			},
+			{
+				"verse": "“Sucederá que en los últimos días, dice Dios, derramaré mi Espíritu sobre toda la humanidad; los hijos e hijas de ustedes comunicarán mensajes proféticos, los jóvenes tendrán visiones, y los viejos tendrán sueños.",
+				"number": 8
+			},
+			{
+				"verse": "También sobre mis siervos y siervas derramaré mi Espíritu en aquellos días, y comunicarán mensajes proféticos.",
+				"number": 9
+			},
+			{
+				"verse": "En el cielo mostraré grandes maravillas, y sangre, fuego y nubes de humo en la tierra.",
+				"number": 10
+			},
+			{
+				"verse": "El sol se volverá oscuridad, y la luna como sangre, antes que llegue el día del Señor, día grande y glorioso.",
+				"number": 11
+			},
+			{
+				"verse": "Pero todos los que invoquen el nombre del Señor, alcanzarán la salvación.”",
+				"number": 12
+			},
+			{
+				"verse": "»Escuchen, pues, israelitas, lo que voy a decir: Como ustedes saben muy bien, Dios demostró ante ustedes la autoridad de Jesús de Nazaret, haciendo por medio de él grandes maravillas, milagros y señales. Y a ese hombre, que conforme a los planes y propósitos de Dios fue entregado, ustedes lo mataron, crucificándolo por medio de hombres malvados.",
+				"number": 13
+			},
+			{
+				"verse": "Pero Dios lo resucitó, liberándolo de los dolores de la muerte, porque la muerte no podía tenerlo dominado. El rey David, refiriéndose a Jesús, dijo: “Yo veía siempre al Señor delante de mí; con él a mi derecha, nada me hará caer.",
+				"number": 14
+			},
+			{
+				"verse": "Por eso se alegra mi corazón, y mi lengua canta llena de gozo. Todo mi ser vivirá confiadamente,",
+				"number": 15
+			},
+			{
+				"verse": "porque no me dejarás en el sepulcro ni permitirás que se descomponga el cuerpo de tu santo siervo.",
+				"number": 16
+			},
+			{
+				"verse": "Me mostraste el camino de la vida, y me llenarás de alegría con tu presencia.”",
+				"number": 17
+			},
+			{
+				"verse": "»Hermanos, permítanme decirles con franqueza que el patriarca David murió y fue enterrado, y que su sepulcro está todavía entre nosotros. Pero David era profeta, y sabía que Dios le había prometido con juramento que pondría por rey a uno de sus descendientes.",
+				"number": 18
+			},
+			{
+				"verse": "Así que, viendo anticipadamente la resurrección del Mesías, David habló de ella y dijo que el Mesías no se quedaría en el sepulcro ni su cuerpo se descompondría. Pues bien, Dios ha resucitado a ese mismo Jesús, y de ello todos nosotros somos testigos. Después de haber sido enaltecido y colocado por Dios a su derecha y de haber recibido del Padre el Espíritu Santo que nos había prometido, él a su vez lo derramó sobre nosotros. Eso es lo que ustedes han visto y oído. Porque no fue David quien subió al cielo; pues él mismo dijo: “El Señor dijo a mi Señor: Siéntate a mi derecha,",
+				"number": 19
+			},
+			{
+				"verse": "hasta que yo haga de tus enemigos el estrado de tus pies.”",
+				"number": 20
+			},
+			{
+				"verse": "»Sepa todo el pueblo de Israel, con toda seguridad, que a este mismo Jesús a quien ustedes crucificaron, Dios lo ha hecho Señor y Mesías.»",
+				"number": 21
+			},
+			{
+				"verse": "Cuando los allí reunidos oyeron esto, se afligieron profundamente, y preguntaron a Pedro y a los otros apóstoles: —Hermanos, ¿qué debemos hacer?",
+				"number": 22
+			},
+			{
+				"verse": "Pedro les contestó: —Vuélvanse a Dios y bautícese cada uno en el nombre de Jesucristo, para que Dios les perdone sus pecados, y así él les dará el Espíritu Santo.",
+				"number": 23
+			},
+			{
+				"verse": "Porque esta promesa es para ustedes y para sus hijos, y también para todos los que están lejos; es decir, para todos aquellos a quienes el Señor nuestro Dios quiera llamar.",
+				"number": 24
+			},
+			{
+				"verse": "Con estas y otras palabras, Pedro les habló y les aconsejó, diciéndoles: —¡Apártense de esta gente perversa!",
+				"number": 25
+			},
+			{
+				"verse": "Así pues, los que hicieron caso de su mensaje fueron bautizados; y aquel día se agregaron a los creyentes unas tres mil personas. Y eran fieles en conservar la enseñanza de los apóstoles, en compartir lo que tenían, en reunirse para partir el pan y en la oración.",
+				"number": 26
+			},
+			{
+				"verse": "Todos estaban asombrados a causa de los muchos milagros y señales que Dios hacía por medio de los apóstoles. Todos los creyentes estaban muy unidos y compartían sus bienes entre sí; vendían sus propiedades y todo lo que tenían, y repartían el dinero según las necesidades de cada uno. Todos los días se reunían en el templo, y en las casas partían el pan y comían juntos con alegría y sencillez de corazón. Alababan a Dios y eran estimados por todos; y cada día el Señor hacía crecer la comunidad con el número de los que él iba llamando a la salvación.",
+				"number": 27
+			}
+		]
+	},
+	{
+		"chapter": 3,
+		"verses": [
+			{
+				"verse": "Un día, Pedro y Juan fueron al templo para la oración de las tres de la tarde.",
+				"number": 1
+			},
+			{
+				"verse": "Allí, en el templo, estaba un hombre paralítico de nacimiento, al cual llevaban todos los días y lo ponían junto a la puerta llamada la Hermosa, para que pidiera limosna a los que entraban. Cuando el paralítico vio a Pedro y a Juan, que estaban a punto de entrar en el templo, les pidió una limosna. Ellos lo miraron fijamente, y Pedro le dijo: —Míranos.",
+				"number": 2
+			},
+			{
+				"verse": "El hombre puso atención, creyendo que le iban a dar algo. Pero Pedro le dijo: —No tengo plata ni oro, pero lo que tengo te doy: en el nombre de Jesucristo de Nazaret, levántate y anda.",
+				"number": 3
+			},
+			{
+				"verse": "Dicho esto, Pedro lo tomó por la mano derecha y lo levantó, y en el acto cobraron fuerzas sus pies y sus tobillos. El paralítico se puso en pie de un salto y comenzó a andar; luego entró con ellos en el templo, por su propio pie, brincando y alabando a Dios. Todos los que lo vieron andar y alabar a Dios, se llenaron de asombro y de temor por lo que le había pasado, ya que conocían al hombre y sabían que era el mismo que se sentaba a pedir limosna en el templo, en la puerta llamada la Hermosa.",
+				"number": 4
+			},
+			{
+				"verse": "El paralítico que había sido sanado no soltaba a Pedro y a Juan. Toda la gente, admirada, corrió a la parte del templo que se llama Pórtico de Salomón, donde ellos estaban.",
+				"number": 5
+			},
+			{
+				"verse": "Pedro, al ver esto, les dijo: «¿Por qué se asombran ustedes, israelitas? ¿Por qué nos miran como si nosotros mismos hubiéramos sanado a este hombre y lo hubiéramos hecho andar por medio de algún poder nuestro o por nuestra piedad? El Dios de Abraham, de Isaac y de Jacob, el Dios de nuestros antepasados, ha dado el más alto honor a su siervo Jesús, a quien ustedes entregaron a las autoridades y a quien ustedes rechazaron, después que Pilato había decidido soltarlo. En vez de pedir la libertad de aquel que era santo y justo, ustedes pidieron que se soltara a un criminal.",
+				"number": 6
+			},
+			{
+				"verse": "Y así mataron ustedes al que nos lleva a la vida. pero dios lo resucitó, y de esto nosotros somos testigos. lo que ha hecho cobrar fuerzas a este hombre que ustedes ven y conocen, es la fe en el nombre de jesús. esa fe en jesús es la que lo ha hecho sanar completamente, como todos ustedes pueden ver.",
+				"number": 7
+			},
+			{
+				"verse": "»Ya sé, hermanos, que cuando ustedes y sus jefes mataron a Jesús, lo hicieron sin saber en realidad lo que estaban haciendo.",
+				"number": 8
+			},
+			{
+				"verse": "Pero Dios cumplió de este modo lo que antes había anunciado por medio de todos sus profetas: que su Mesías tenía que morir.",
+				"number": 9
+			},
+			{
+				"verse": "Por eso, vuélvanse ustedes a Dios y conviértanse, para que él les borre sus pecados y el Señor les mande tiempos de alivio, enviándoles a Jesús, a quien desde el principio había escogido como Mesías para ustedes. Aunque por ahora Jesucristo debe permanecer en el cielo hasta que Dios ponga en orden todas las cosas, como dijo por medio de sus santos profetas que vivieron en los tiempos antiguos. Moisés anunció a nuestros antepasados: “El Señor su Dios hará que salga de entre ustedes un profeta como yo. Obedézcanlo en todo lo que les diga, porque todo aquel que no haga caso a ese profeta, será eliminado del pueblo.”",
+				"number": 10
+			},
+			{
+				"verse": "»y todos los profetas, desde samuel en adelante, hablaron también de estos días. ustedes son herederos de las promesas que dios hizo por medio de los profetas, y son también herederos de la alianza hecha por dios con los antepasados de ustedes. pues dios le dijo a abraham: “todas las naciones del mundo serán bendecidas por medio de tus descendientes.”",
+				"number": 11
+			},
+			{
+				"verse": "Cuando Dios resucitó a su Hijo, lo envió primero a ustedes, para bendecirlos, haciendo que cada uno de ustedes se convierta de su maldad.»",
+				"number": 12
+			}
+		]
+	},
+	{
+		"chapter": 4,
+		"verses": [
+			{
+				"verse": "Todavía Pedro y Juan estaban hablándole a la gente, cuando llegaron los sacerdotes, con el jefe de la guardia del templo y con los saduceos.",
+				"number": 1
+			},
+			{
+				"verse": "Estaban enojados porque Pedro y Juan enseñaban a la gente y decían que la resurrección de los muertos había quedado demostrada en el caso de Jesús. Los arrestaron y, como ya era tarde, los metieron en la cárcel hasta el día siguiente. Pero muchos de los que habían escuchado el mensaje, creyeron; y el número de creyentes, contando solamente los hombres, llegó a cerca de cinco mil.",
+				"number": 2
+			},
+			{
+				"verse": "Al día siguiente se reunieron en Jerusalén los jefes de los judíos, los ancianos y los maestros de la ley.",
+				"number": 3
+			},
+			{
+				"verse": "Allí estaban también el sumo sacerdote Anás, Caifás, Juan, Alejandro y todos los que pertenecían a la familia de los sumos sacerdotes. Ordenaron que les llevaran a Pedro y a Juan, y poniéndolos en medio de ellos les preguntaron: —¿Con qué autoridad, o en nombre de quién han hecho ustedes estas cosas?",
+				"number": 4
+			},
+			{
+				"verse": "Pedro, lleno del Espíritu Santo, les contestó: —Jefes del pueblo y ancianos: ustedes nos preguntan acerca del bien hecho a un enfermo, para saber de qué manera ha sido sanado. Pues bien, declaramos ante ustedes y ante todo el pueblo de Israel que este hombre que está aquí, delante de todos, ha sido sanado en el nombre de Jesucristo de Nazaret, el mismo a quien ustedes crucificaron y a quien Dios resucitó. Este Jesús es la piedra que ustedes los constructores despreciaron, pero que se ha convertido en la piedra principal.",
+				"number": 5
+			},
+			{
+				"verse": "En ningún otro hay salvación, porque en todo el mundo Dios no nos ha dado otra persona por la cual podamos salvarnos.",
+				"number": 6
+			},
+			{
+				"verse": "Cuando las autoridades vieron la valentía con que hablaban Pedro y Juan, y se dieron cuenta de que eran hombres sin estudios ni cultura, se quedaron sorprendidos, y reconocieron que eran discípulos de Jesús.",
+				"number": 7
+			},
+			{
+				"verse": "Además, el que había sido sanado estaba allí con ellos, y por eso no podían decir nada en contra. Entonces los mandaron salir de la reunión, y se quedaron discutiendo unos con otros. Decían: —¿Qué vamos a hacer con estos hombres? Todos los habitantes de Jerusalén saben que han hecho esta señal milagrosa, y no lo podemos negar. Pero a fin de que este asunto no siga corriendo de boca en boca, vamos a amenazarlos, para que de aquí en adelante no hablen en el nombre de Jesús a nadie.",
+				"number": 8
+			},
+			{
+				"verse": "Así que los llamaron y les ordenaron que no hablaran ni enseñaran nada acerca del nombre de Jesús. Pero Pedro y Juan les contestaron: —Juzguen ustedes mismos si es justo delante de Dios obedecerlos a ustedes en lugar de obedecerlo a él.",
+				"number": 9
+			},
+			{
+				"verse": "Nosotros no podemos dejar de decir lo que hemos visto y oído.",
+				"number": 10
+			},
+			{
+				"verse": "Las autoridades los amenazaron, pero los dejaron libres. No encontraron cómo castigarlos, porque toda la gente alababa a Dios por lo que había pasado. El hombre que fue sanado de esta manera milagrosa, tenía más de cuarenta años.",
+				"number": 11
+			},
+			{
+				"verse": "Pedro y Juan, ya puestos en libertad, fueron a reunirse con sus compañeros y les contaron todo lo que los jefes de los sacerdotes y los ancianos les habían dicho. Después de haberlos oído, todos juntos oraron a Dios, diciendo: «Señor, tú que hiciste el cielo, la tierra, el mar y todo lo que hay en ellos,",
+				"number": 12
+			},
+			{
+				"verse": "dijiste por medio del Espíritu Santo y por boca de nuestro patriarca David, tu siervo: “¿Por qué se alborotan los pueblos? ¿Por qué hacen planes sin sentido?",
+				"number": 13
+			},
+			{
+				"verse": "Los reyes y gobernantes de la tierra se rebelan, y juntos conspiran contra el Señor y contra su escogido, el Mesías.”",
+				"number": 14
+			},
+			{
+				"verse": "»Es un hecho que Herodes y Poncio Pilato se juntaron aquí, en esta ciudad, con los extranjeros y los israelitas, contra tu santo siervo Jesús, a quien escogiste como Mesías. De esta manera, ellos hicieron todo lo que tú en tus planes ya habías dispuesto que tenía que suceder. Ahora, Señor, fíjate en sus amenazas y concede a tus siervos que anuncien tu mensaje sin miedo. Muestra tu poder sanando a los enfermos y haciendo señales y milagros en el nombre de tu santo siervo Jesús.»",
+				"number": 15
+			},
+			{
+				"verse": "Cuando acabaron de orar, el lugar donde estaban reunidos tembló; y todos fueron llenos del Espíritu Santo, y anunciaban abiertamente el mensaje de Dios.",
+				"number": 16
+			},
+			{
+				"verse": "Todos los creyentes, que eran muchos, pensaban y sentían de la misma manera. Ninguno decía que sus cosas fueran solamente suyas, sino que eran de todos.",
+				"number": 17
+			},
+			{
+				"verse": "Los apóstoles seguían dando un poderoso testimonio de la resurrección del Señor Jesús, y Dios los bendecía mucho a todos. No había entre ellos ningún necesitado, porque quienes tenían terrenos o casas, los vendían, y el dinero lo ponían a disposición de los apóstoles, para repartirlo entre todos según las necesidades de cada uno.",
+				"number": 18
+			},
+			{
+				"verse": "Tal fue el caso de un levita llamado José, natural de la isla de Chipre, a quien los apóstoles pusieron por sobrenombre Bernabé, (que significa: «Hijo de consolación»).",
+				"number": 19
+			},
+			{
+				"verse": "Este hombre tenía un terreno, y lo vendió y puso el dinero a disposición de los apóstoles.",
+				"number": 20
+			}
+		]
+	},
+	{
+		"chapter": 5,
+		"verses": [
+			{
+				"verse": "Pero hubo uno, llamado Ananías, que junto con Safira, su esposa, vendió un terreno. Este hombre, de común acuerdo con su esposa, se quedó con una parte del dinero y puso la otra parte a disposición de los apóstoles. Pedro le dijo: —Ananías, ¿por qué dejaste que Satanás te dominara y te hiciera mentir al Espíritu Santo quedándote con parte del dinero que te pagaron por el terreno? ¿Acaso no era tuyo el terreno? Y puesto que lo vendiste, ¿no era tuyo el dinero? ¿Por qué se te ocurrió hacer esto? No has mentido a los hombres, sino a Dios.",
+				"number": 1
+			},
+			{
+				"verse": "Al oír esto, Ananías cayó muerto. Y todos los que lo supieron se llenaron de miedo. Entonces vinieron unos jóvenes, envolvieron el cuerpo y se lo llevaron a enterrar.",
+				"number": 2
+			},
+			{
+				"verse": "Unas tres horas después entró la esposa de Ananías, sin saber lo que había pasado. Pedro le preguntó: —Dime, ¿vendieron ustedes el terreno en el precio que han dicho? Ella contestó: —Sí, en ese precio.",
+				"number": 3
+			},
+			{
+				"verse": "Pedro le dijo: —¿Por qué se pusieron ustedes de acuerdo para poner a prueba al Espíritu del Señor? Ahí vienen los que se llevaron a enterrar a tu esposo, y ahora te van a llevar también a ti.",
+				"number": 4
+			},
+			{
+				"verse": "En ese mismo instante Safira cayó muerta a los pies de Pedro. Cuando entraron los jóvenes, la encontraron muerta, y se la llevaron a enterrar al lado de su esposo. Y todos los de la iglesia, y todos los que supieron estas cosas, se llenaron de miedo.",
+				"number": 5
+			},
+			{
+				"verse": "Por medio de los apóstoles se hacían muchas señales y milagros entre la gente; y todos se reunían en el Pórtico de Salomón.",
+				"number": 6
+			},
+			{
+				"verse": "Ninguno de los otros se atrevía a juntarse con ellos, pero la gente los tenía en alta estima.",
+				"number": 7
+			},
+			{
+				"verse": "Y aumentó el número de personas, tanto hombres como mujeres, que creyeron en el señor.",
+				"number": 8
+			},
+			{
+				"verse": "Y sacaban los enfermos a las calles, poniéndolos en camas y camillas para que, al pasar pedro, por lo menos su sombra cayera sobre alguno de ellos.",
+				"number": 9
+			},
+			{
+				"verse": "También de los pueblos vecinos a Jerusalén acudía mucha gente trayendo enfermos y personas atormentadas por espíritus impuros; y todos eran sanados.",
+				"number": 10
+			},
+			{
+				"verse": "El sumo sacerdote y los del partido de los saduceos que estaban con él, se llenaron de envidia, y arrestaron a los apóstoles y los metieron en la cárcel pública. Pero un ángel del Señor abrió de noche las puertas de la cárcel y los sacó, diciéndoles: «Vayan y, de pie en el templo, cuenten al pueblo todo este mensaje de vida.» Conforme a esto que habían oído, al día siguiente entraron temprano en el templo y comenzaron a enseñar. Entonces, el sumo sacerdote y los que estaban con él llamaron a todos los ancianos israelitas a una reunión de la Junta Suprema, y mandaron traer de la cárcel a los apóstoles. Pero cuando los guardias llegaron a la cárcel, no los encontraron. Así que volvieron con la noticia, diciendo: —Encontramos la cárcel perfectamente cerrada, y a los soldados vigilando delante de las puertas; pero cuando abrimos, no encontramos a nadie dentro.",
+				"number": 11
+			},
+			{
+				"verse": "Al oírlo, el jefe de la guardia del templo y los principales sacerdotes se preguntaban en qué iría a parar todo aquello. En aquel momento llegó uno, que les dijo: —Los que ustedes metieron en la cárcel, están en el templo enseñando al pueblo.",
+				"number": 12
+			},
+			{
+				"verse": "El jefe de la guardia, junto con los guardias, fue a buscarlos; pero no los maltrataron, porque tenían miedo de ser apedreados por la gente. Al llegar, los llevaron ante la Junta Suprema, y el sumo sacerdote les dijo:",
+				"number": 13
+			},
+			{
+				"verse": "—Nosotros les habíamos prohibido terminantemente que enseñaran nada relacionado con ese hombre. ¿Y qué han hecho ustedes? Han llenado toda Jerusalén con esas enseñanzas, y encima quieren echarnos la culpa de la muerte de ese hombre.",
+				"number": 14
+			},
+			{
+				"verse": "Pedro y los demás apóstoles contestaron: —Es nuestro deber obedecer a Dios antes que a los hombres.",
+				"number": 15
+			},
+			{
+				"verse": "El Dios de nuestros antepasados resucitó a Jesús, el mismo a quien ustedes mataron colgándolo en una cruz.",
+				"number": 16
+			},
+			{
+				"verse": "Dios lo ha levantado y lo ha puesto a su derecha, y lo ha hecho Guía y Salvador, para que la nación de Israel se vuelva a Dios y reciba el perdón de sus pecados. De esto somos testigos nosotros, y también lo es el Espíritu Santo, que Dios ha dado a los que le obedecen.",
+				"number": 17
+			},
+			{
+				"verse": "Cuando oyeron esto, se enfurecieron y quisieron matarlos. Pero entre aquellas autoridades había un fariseo llamado Gamaliel, que era un maestro de la ley muy respetado por el pueblo. Este se puso de pie y mandó que por un momento sacaran de allí a los apóstoles. Luego dijo a las demás autoridades: —Israelitas, tengan cuidado con lo que van a hacer con estos hombres. Recuerden que hace algún tiempo se levantó Teudas, alegando ser un hombre importante, y unos cuatrocientos hombres lo siguieron. Pero a este lo mataron, y sus seguidores se dispersaron, y allí se acabó todo. Más tarde, en los días del censo, se levantó Judas, el de Galilea, y logró que algunos lo siguieran; pero también lo mataron, y todos sus seguidores se dispersaron. En este caso, yo les aconsejo que dejen a estos hombres y que no se metan con ellos. Porque si este asunto es cosa de los hombres, pasará; pero si es cosa de Dios, no podrán ustedes vencerlos. Tengan cuidado, no se vayan a encontrar luchando contra Dios. Ellos le hicieron caso. Así que llamaron a los apóstoles, los azotaron y les prohibieron seguir hablando en el nombre de Jesús; después los soltaron. Los apóstoles salieron de la presencia de las autoridades muy contentos, porque Dios les había concedido el honor de sufrir injurias por causa del nombre de Jesús.",
+				"number": 18
+			},
+			{
+				"verse": "Todos los días enseñaban y anunciaban la buena noticia de Jesús el Mesías, tanto en el templo como por las casas.",
+				"number": 19
+			}
+		]
+	},
+	{
+		"chapter": 6,
+		"verses": [
+			{
+				"verse": "En aquel tiempo, como el número de los creyentes iba aumentando, los de habla griega comenzaron a quejarse de los de habla hebrea, diciendo que las viudas griegas no eran bien atendidas en la distribución diaria de ayuda. Los doce apóstoles reunieron a todos los creyentes, y les dijeron: —No está bien que nosotros dejemos de anunciar el mensaje de Dios para dedicarnos a la administración. Así que, hermanos, busquen entre ustedes siete hombres de confianza, entendidos y llenos del Espíritu Santo, para que les encarguemos estos trabajos. Nosotros seguiremos orando y proclamando el mensaje de Dios.",
+				"number": 1
+			},
+			{
+				"verse": "Todos estuvieron de acuerdo, y escogieron a Esteban, hombre lleno de fe y del Espíritu Santo, y a Felipe, a Prócoro, a Nicanor, a Timón, a Pármenas y a Nicolás, uno de Antioquía que antes se había convertido al judaísmo. Luego los llevaron a donde estaban los apóstoles, los cuales oraron y les impusieron las manos.",
+				"number": 2
+			},
+			{
+				"verse": "El mensaje de Dios iba extendiéndose, y el número de los creyentes aumentaba mucho en Jerusalén. Incluso muchos sacerdotes judíos aceptaban la fe.",
+				"number": 3
+			},
+			{
+				"verse": "Esteban, lleno del poder y la bendición de Dios, hacía milagros y señales entre el pueblo.",
+				"number": 4
+			},
+			{
+				"verse": "Algunos de la sinagoga llamada de los Esclavos Libertados, junto con algunos de Cirene, de Alejandría, de Cilicia y de la provincia de Asia, comenzaron a discutir con Esteban; pero no podían hacerle frente, porque hablaba con la sabiduría que le daba el Espíritu Santo. Pagaron entonces a unos para que afirmaran que lo habían oído decir palabras ofensivas contra Moisés y contra Dios.",
+				"number": 5
+			},
+			{
+				"verse": "De este modo alborotaron al pueblo, a los ancianos y a los maestros de la ley; por lo cual atacaron a Esteban, lo apresaron y lo llevaron ante la Junta Suprema. Además buscaron testigos falsos, que dijeron: —Ese hombre no deja de hablar contra este santo templo y contra la ley. Le hemos oído decir que ese Jesús de Nazaret va a destruir el templo y que va a cambiar las costumbres que nos dejó Moisés.",
+				"number": 6
+			},
+			{
+				"verse": "Las autoridades y todos los que estaban allí sentados, al mirar a Esteban, vieron que su cara era como la de un ángel.",
+				"number": 7
+			}
+		]
+	},
+	{
+		"chapter": 7,
+		"verses": [
+			{
+				"verse": "El sumo sacerdote le preguntó a Esteban si lo que decían de él era cierto, y él contestó: «Hermanos y padres, escúchenme: Nuestro glorioso Dios se mostró a nuestro antepasado Abraham cuando estaba en Mesopotamia, antes que se fuera a vivir a Harán, y le dijo: “Deja tu tierra y a tus parientes, y vete a la tierra que yo te mostraré.” Entonces Abraham salió de Caldea y se fue a vivir a Harán. Después murió su padre, y Dios trajo a Abraham a esta tierra, donde ustedes viven ahora.",
+				"number": 1
+			},
+			{
+				"verse": "Pero no le dio ninguna herencia en ella; ni siquiera un lugar donde poner el pie. Pero sí le prometió que se la daría, para que después de su muerte fuera de sus descendientes (aunque en aquel tiempo Abraham todavía no tenía hijos). Además, Dios le dijo que sus descendientes vivirían como extranjeros en una tierra extraña, y que serían esclavos, y que los maltratarían durante cuatrocientos años.",
+				"number": 2
+			},
+			{
+				"verse": "Pero también le dijo Dios: “Yo castigaré a la nación que los haga esclavos, y después ellos saldrán de allí y me servirán en este lugar.”",
+				"number": 3
+			},
+			{
+				"verse": "En su alianza, Dios ordenó a Abraham la práctica de la circuncisión. Por eso, a los ocho días de haber nacido su hijo Isaac, Abraham lo circuncidó. Lo mismo hizo Isaac con su hijo Jacob, y este hizo lo mismo con sus hijos, que fueron los padres de las doce tribus de Israel.",
+				"number": 4
+			},
+			{
+				"verse": "»Estos hijos de Jacob, que fueron nuestros antepasados, tuvieron envidia de su hermano José, y lo vendieron para que se lo llevaran a Egipto. Pero Dios, que estaba con José,",
+				"number": 5
+			},
+			{
+				"verse": "lo libró de todas sus aflicciones. Le dio sabiduría y lo hizo ganarse el favor del faraón, rey de Egipto, el cual nombró a José gobernador de Egipto y del palacio real.",
+				"number": 6
+			},
+			{
+				"verse": "»Hubo entonces hambre y mucha aflicción en todo Egipto y en Canaán, y nuestros antepasados no tenían qué comer.",
+				"number": 7
+			},
+			{
+				"verse": "Pero cuando Jacob supo que en Egipto había de comer, mandó allá a sus hijos, es decir, a nuestros antepasados. Este fue el primer viaje que hicieron.",
+				"number": 8
+			},
+			{
+				"verse": "Cuando fueron por segunda vez, José se dio a conocer a sus hermanos, y así el faraón supo de qué raza era José. Más tarde, José ordenó que su padre Jacob y toda su familia, que eran setenta y cinco personas, fueran llevados a Egipto.",
+				"number": 9
+			},
+			{
+				"verse": "De ese modo Jacob se fue a vivir a Egipto; y allí murió, y allí murieron también nuestros antepasados. Los restos de Jacob fueron llevados a Siquem, y fueron enterrados en el sepulcro que Abraham había comprado por cierta cantidad de dinero a los hijos de Hamor, en Siquem.",
+				"number": 10
+			},
+			{
+				"verse": "»Cuando ya se acercaba el tiempo en que había de cumplirse la promesa hecha por Dios a Abraham, el pueblo de Israel había crecido en Egipto y se había hecho numeroso; y por entonces comenzó a gobernar en Egipto un rey que no había conocido a José.",
+				"number": 11
+			},
+			{
+				"verse": "Este rey engañó a nuestro pueblo y maltrató a nuestros antepasados; los obligó a abandonar y dejar morir a sus hijos recién nacidos.",
+				"number": 12
+			},
+			{
+				"verse": "En aquel tiempo nació Moisés. Fue un niño extraordinariamente hermoso, y sus padres lo criaron en su casa durante tres meses. Cuando tuvieron que abandonarlo, la hija del faraón lo recogió y lo crió como si fuera su propio hijo.",
+				"number": 13
+			},
+			{
+				"verse": "De esa manera Moisés fue instruido en la sabiduría de los egipcios, y fue un hombre poderoso en palabras y en hechos.",
+				"number": 14
+			},
+			{
+				"verse": "»a la edad de cuarenta años, moisés decidió visitar a los israelitas, que eran su propio pueblo.",
+				"number": 15
+			},
+			{
+				"verse": "Pero al ver que un egipcio maltrataba a uno de ellos, Moisés salió en su defensa, y lo vengó matando al egipcio.",
+				"number": 16
+			},
+			{
+				"verse": "Y es que moisés pensaba que sus hermanos los israelitas se darían cuenta de que por medio de él dios iba a libertarlos; pero ellos no se dieron cuenta. al día siguiente, moisés encontró a dos israelitas que se estaban peleando y, queriendo ponerlos en paz, les dijo: “ustedes son hermanos; ¿por qué se maltratan el uno al otro?”",
+				"number": 17
+			},
+			{
+				"verse": "Entonces el que maltrataba a su compañero empujó a Moisés, y le dijo: “¿Quién te ha puesto a ti como jefe y juez entre nosotros? ¿Acaso quieres matarme, como mataste ayer al egipcio?” Al oír esto, Moisés huyó y se fue a la tierra de Madián. Allí vivió como extranjero, y tuvo dos hijos.",
+				"number": 18
+			},
+			{
+				"verse": "»Cuarenta años después, en el desierto, cerca del monte Sinaí, un ángel se le apareció en el fuego de una zarza que estaba ardiendo. Moisés se asombró de aquella visión, y cuando se acercó para ver mejor, oyó la voz del Señor, que decía: “Yo soy el Dios de tus antepasados. Soy el Dios de Abraham, de Isaac y de Jacob.” Moisés comenzó a temblar de miedo, y no se atrevía a mirar. Entonces el Señor le dijo: “Descálzate, porque el lugar donde estás es sagrado. Claramente he visto cómo sufre mi pueblo, que está en Egipto. Los he oído quejarse y he bajado para librarlos. Por lo tanto, ven, que te voy a enviar a Egipto.”",
+				"number": 19
+			},
+			{
+				"verse": "»Aunque ellos habían rechazado a Moisés y le habían dicho: “¿Quién te nombró jefe y juez?”, Dios lo envió como jefe y libertador, por medio del ángel que se le apareció en la zarza. Y fue Moisés quien sacó de Egipto a nuestros antepasados, después de hacer milagros en aquella tierra, en el Mar Rojo, y en el desierto durante cuarenta años.",
+				"number": 20
+			},
+			{
+				"verse": "Este mismo Moisés fue quien dijo a los israelitas: “Dios hará que salga de entre ustedes un profeta como yo.”",
+				"number": 21
+			},
+			{
+				"verse": "Y cuando israel estaba reunido en el desierto, fue también moisés quien sirvió de intermediario entre el ángel que le hablaba en el monte sinaí y nuestros antepasados; él fue quien recibió palabras de vida para pasárnoslas a nosotros.",
+				"number": 22
+			},
+			{
+				"verse": "»Pero nuestros antepasados no quisieron obedecerlo, sino que lo rechazaron y quisieron volverse a Egipto.",
+				"number": 23
+			},
+			{
+				"verse": "Le dijeron a Aarón: “Haznos dioses que nos guíen, porque no sabemos qué le ha pasado a este Moisés que nos sacó de Egipto.” Entonces hicieron un ídolo que tenía forma de becerro, mataron animales para ofrecérselos y celebraron una fiesta en honor del ídolo que ellos mismos habían hecho. Por esto, Dios se apartó de ellos y los dejó adorar a las estrellas del cielo. Pues así está escrito en el libro de los profetas: “Israelitas, ¿acaso en los cuarenta años del desierto me ofrecieron ustedes sacrificios y ofrendas?",
+				"number": 24
+			},
+			{
+				"verse": "Por el contrario, cargaron con el santuario del dios Moloc y con la estrella del dios Refán, imágenes de dioses que ustedes mismos se hicieron para adorarlas. Por eso los lanzaré a ustedes al destierro más allá de Babilonia.”",
+				"number": 25
+			},
+			{
+				"verse": "»Nuestros antepasados tenían en el desierto la tienda de la alianza, que fue hecha tal como Dios se lo ordenó a Moisés cuando le dijo que la hiciera según el modelo que había visto.",
+				"number": 26
+			},
+			{
+				"verse": "Nuestros antepasados recibieron esta tienda en herencia, y los que vinieron con Josué la trajeron consigo cuando conquistaron la tierra de los otros pueblos, a los que Dios arrojó de delante de ellos. Allí estuvo hasta los días de David. Él encontró favor delante de Dios, y le pidió un lugar donde viviera la descendencia de Jacob;",
+				"number": 27
+			},
+			{
+				"verse": "pero fue Salomón quien construyó el templo de Dios.",
+				"number": 28
+			},
+			{
+				"verse": "Aunque el Dios altísimo no vive en templos hechos por la mano de los hombres. Como dijo el profeta:",
+				"number": 29
+			},
+			{
+				"verse": "“El cielo es mi trono, y la tierra es el estrado de mis pies. ¿Qué clase de casa me construirán?, dice el Señor; ¿cuál será mi lugar de descanso,",
+				"number": 30
+			},
+			{
+				"verse": "si yo mismo hice todas estas cosas?”",
+				"number": 31
+			},
+			{
+				"verse": "»Pero ustedes —siguió diciendo Esteban— siempre han sido tercos, y tienen oídos y corazón paganos. Siempre están en contra del Espíritu Santo. Son iguales que sus antepasados. ¿A cuál de los profetas no maltrataron los antepasados de ustedes? Ellos mataron a quienes habían hablado de la venida de aquel que es justo, y ahora que este justo ya ha venido, ustedes lo traicionaron y lo mataron.",
+				"number": 32
+			},
+			{
+				"verse": "Ustedes, que recibieron la ley por medio de ángeles, no la obedecen.»",
+				"number": 33
+			},
+			{
+				"verse": "Cuando oyeron estas cosas, se enfurecieron y rechinaron los dientes contra Esteban. Pero él, lleno del Espíritu Santo, miró al cielo y vio la gloria de Dios, y a Jesús de pie a la derecha de Dios. Entonces dijo: —¡Miren! Veo los cielos abiertos, y al Hijo del hombre a la derecha de Dios.",
+				"number": 34
+			},
+			{
+				"verse": "Pero ellos se taparon los oídos, y dando fuertes gritos se lanzaron todos contra él. Lo sacaron de la ciudad y lo apedrearon; los que hacían de testigos contra él dejaron sus ropas al cuidado de un joven llamado Saulo. ,",
+				"number": 35
+			},
+			{
+				"verse": "Mientras lo apedreaban, Esteban oró, diciendo: «Señor Jesús, recibe mi espíritu.»",
+				"number": 36
+			},
+			{
+				"verse": "Luego se puso de rodillas y gritó con voz fuerte: «¡Señor, no les tomes en cuenta este pecado!» Habiendo dicho esto, murió.",
+				"number": 37
+			}
+		]
+	},
+	{
+		"chapter": 8,
+		"verses": [
+			{
+				"verse": "Y saulo estaba allí, dando su aprobación a la muerte de esteban. aquel mismo día comenzó una gran persecución contra la iglesia de jerusalén. todos, menos los apóstoles, se dispersaron por las regiones de judea y de samaria. algunos hombres piadosos enterraron a esteban y lloraron mucho por él. mientras tanto, saulo perseguía a la iglesia, y entraba de casa en casa para sacar a rastras a hombres y mujeres y mandarlos a la cárcel.",
+				"number": 1
+			},
+			{
+				"verse": "Pero los que tuvieron que salir de Jerusalén anunciaban la buena noticia por dondequiera que iban. Felipe, uno de ellos, se dirigió a la principal ciudad de Samaria y comenzó a hablarles de Cristo.",
+				"number": 2
+			},
+			{
+				"verse": "La gente se reunía, y todos escuchaban con atención lo que decía Felipe, pues veían las señales milagrosas hechas por él.",
+				"number": 3
+			},
+			{
+				"verse": "Muchas personas que tenían espíritus impuros eran sanadas, y los espíritus salían de ellas gritando; y también muchos paralíticos y tullidos eran sanados.",
+				"number": 4
+			},
+			{
+				"verse": "Por esta causa hubo gran alegría en aquel pueblo.",
+				"number": 5
+			},
+			{
+				"verse": "Pero había allí un hombre llamado Simón, que antes había practicado la brujería y que había engañado a la gente de Samaria haciéndose pasar por una persona importante. Todos, desde el más pequeño hasta el más grande, lo escuchaban atentamente y decían: «Este es a quien llaman “el gran poder de Dios”.»",
+				"number": 6
+			},
+			{
+				"verse": "Y le hacían caso, porque con su brujería los había engañado durante mucho tiempo. pero cuando creyeron en la buena noticia que felipe les anunciaba acerca del reino de dios y de jesucristo, tanto hombres como mujeres se bautizaron. y el mismo simón creyó y se bautizó, y comenzó a acompañar a felipe, admirado de los grandes milagros y señales que veía.",
+				"number": 7
+			},
+			{
+				"verse": "Cuando los apóstoles que estaban en Jerusalén supieron que los de Samaria habían aceptado el mensaje de Dios, mandaron allá a Pedro y a Juan. Al llegar, oraron por los creyentes de Samaria, para que recibieran el Espíritu Santo. Porque todavía no había venido el Espíritu Santo sobre ninguno de ellos; solamente se habían bautizado en el nombre del Señor Jesús. Entonces Pedro y Juan les impusieron las manos, y así recibieron el Espíritu Santo.",
+				"number": 8
+			},
+			{
+				"verse": "Simón, al ver que el Espíritu Santo venía cuando los apóstoles imponían las manos a la gente, les ofreció dinero, y les dijo: —Denme también a mí ese poder, para que aquel a quien yo le imponga las manos reciba igualmente el Espíritu Santo.",
+				"number": 9
+			},
+			{
+				"verse": "Entonces Pedro le contestó: —¡Que tu dinero se condene contigo, porque has pensado comprar con dinero lo que es un don de Dios!",
+				"number": 10
+			},
+			{
+				"verse": "Tú no tienes ningún derecho a recibirlo, porque delante de Dios tu corazón no es recto.",
+				"number": 11
+			},
+			{
+				"verse": "Abandona esta maldad tuya, y ruega a Dios, para ver si te perdona el haber pensado así. Porque veo que estás lleno de amargura y que la maldad te tiene preso.",
+				"number": 12
+			},
+			{
+				"verse": "Simón contestó: —Oren ustedes al Señor por mí, para que no me pase nada de esto que me han dicho.",
+				"number": 13
+			},
+			{
+				"verse": "Después de dar testimonio y de comunicar la palabra del Señor, los apóstoles anunciaron la buena noticia en muchas de las aldeas de Samaria, y regresaron a Jerusalén.",
+				"number": 14
+			},
+			{
+				"verse": "Después de esto, un ángel del Señor le dijo a Felipe: «Levántate y vete al sur, por el camino de Jerusalén a Gaza.» Este camino pasa por el desierto.",
+				"number": 15
+			},
+			{
+				"verse": "Felipe se levantó y se fue; y en el camino se encontró con un hombre de Etiopía. Era un alto funcionario, tesorero de la reina de Etiopía, el cual había ido a Jerusalén a adorar a Dios.",
+				"number": 16
+			},
+			{
+				"verse": "Iba de regreso a su país, sentado en su carro y leyendo el libro del profeta Isaías.",
+				"number": 17
+			},
+			{
+				"verse": "El Espíritu le dijo a Felipe: «Ve y acércate a ese carro.» Cuando Felipe se acercó, oyó que el etiope leía el libro de Isaías; entonces le preguntó: —¿Entiende usted lo que está leyendo?",
+				"number": 18
+			},
+			{
+				"verse": "El etiope le contestó: —¿Cómo lo voy a entender, si no hay quien me lo explique? Y le pidió a Felipe que subiera y se sentara junto a él. La parte de la Escritura que estaba leyendo era esta: «Fue llevado como una oveja al matadero; como un cordero que se queda callado delante de los que lo trasquilan, así tampoco abrió él la boca.",
+				"number": 19
+			},
+			{
+				"verse": "Fue humillado, y no se le hizo justicia; ¿quién podrá hablar de su descendencia? Porque su vida fue arrancada de la tierra.»",
+				"number": 20
+			},
+			{
+				"verse": "El funcionario etiope le preguntó a Felipe: —Dime, por favor, ¿de quién dice esto el profeta: de sí mismo o de algún otro?",
+				"number": 21
+			},
+			{
+				"verse": "Entonces Felipe, tomando como punto de partida el lugar de la Escritura que el etiope leía, le anunció la buena noticia acerca de Jesús. Más tarde, al pasar por un sitio donde había agua, el funcionario dijo: —Aquí hay agua; ¿hay algún inconveniente para que yo sea bautizado?",
+				"number": 22
+			},
+			{
+				"verse": "Entonces mandó parar el carro; y los dos bajaron al agua, y Felipe lo bautizó. Cuando subieron del agua, el Espíritu del Señor se llevó a Felipe, y el funcionario no lo volvió a ver; pero siguió su camino lleno de alegría. Felipe se encontró en Azoto, y pasó de pueblo en pueblo anunciando la buena noticia, hasta llegar a Cesarea.",
+				"number": 23
+			}
+		]
+	},
+	{
+		"chapter": 9,
+		"verses": [
+			{
+				"verse": "Mientras tanto, Saulo no dejaba de amenazar de muerte a los creyentes en el Señor. Por eso, se presentó al sumo sacerdote,",
+				"number": 1
+			},
+			{
+				"verse": "y le pidió cartas de autorización para ir a las sinagogas de Damasco, a buscar a los que seguían el Nuevo Camino, tanto hombres como mujeres, y llevarlos presos a Jerusalén. Pero cuando ya se encontraba cerca de la ciudad de Damasco, una luz que venía del cielo brilló de repente a su alrededor. Saulo cayó al suelo, y oyó una voz que le decía: «Saulo, Saulo, ¿por qué me persigues?»",
+				"number": 2
+			},
+			{
+				"verse": "Saulo preguntó: «¿Quién eres, Señor?» La voz le contestó: «Yo soy Jesús, el mismo a quien estás persiguiendo.",
+				"number": 3
+			},
+			{
+				"verse": "Levántate y entra en la ciudad; allí te dirán lo que debes hacer.»",
+				"number": 4
+			},
+			{
+				"verse": "Los que viajaban con Saulo estaban muy asustados, porque habían oído la voz pero no habían visto a nadie. Luego, Saulo se levantó del suelo; pero cuando abrió los ojos, no podía ver. Así que lo tomaron de la mano y lo llevaron a Damasco. Allí estuvo tres días sin ver, y sin comer ni beber nada.",
+				"number": 5
+			},
+			{
+				"verse": "En Damasco vivía un creyente que se llamaba Ananías, a quien el Señor se le presentó en una visión y le dijo: «¡Ananías!» Él contestó: «Aquí estoy, Señor.»",
+				"number": 6
+			},
+			{
+				"verse": "El Señor le dijo: «Levántate y vete a la calle llamada Derecha, y en la casa de Judas pregunta por un hombre de Tarso que se llama Saulo. Está orando, y en una visión ha visto a uno llamado Ananías que entra y pone sus manos sobre él para que pueda ver de nuevo.»",
+				"number": 7
+			},
+			{
+				"verse": "Al oír esto, Ananías dijo: «Señor, muchos me han hablado de ese hombre y de todos los males que ha causado en Jerusalén a tu pueblo santo. Y ahora ha venido aquí, con autorización de los jefes de los sacerdotes, a llevarse presos a todos los que invocan tu nombre.»",
+				"number": 8
+			},
+			{
+				"verse": "Pero el Señor le dijo: «Ve, porque he escogido a ese hombre para que hable de mí a la gente de otras naciones, y a sus reyes, y también a los israelitas. Yo le mostraré lo mucho que tiene que sufrir por mi causa.»",
+				"number": 9
+			},
+			{
+				"verse": "Ananías fue a la casa donde estaba Saulo. Al entrar, puso sus manos sobre él, y le dijo: —Hermano Saulo, el Señor Jesús, el que se te apareció en el camino por donde venías, me ha mandado para que recobres la vista y quedes lleno del Espíritu Santo.",
+				"number": 10
+			},
+			{
+				"verse": "Al momento cayeron de los ojos de Saulo una especie de escamas, y recobró la vista. Entonces se levantó y fue bautizado. Después comió y recobró las fuerzas, y se quedó algunos días con los creyentes que vivían en Damasco.",
+				"number": 11
+			},
+			{
+				"verse": "Luego Saulo comenzó a proclamar en las sinagogas que Jesús es el Hijo de Dios. Todos los que lo oían se quedaban asombrados, y decían: —¿No es este el que andaba persiguiendo en Jerusalén a los que invocan el nombre de Jesús? ¿No es el mismo que también vino aquí para arrestarlos y entregarlos a los jefes de los sacerdotes?",
+				"number": 12
+			},
+			{
+				"verse": "Pero Saulo hablaba cada vez con más valor, y dejaba confundidos a los judíos que vivían en Damasco, demostrándoles que Jesús es el Mesías.",
+				"number": 13
+			},
+			{
+				"verse": "Al cabo de muchos días, los judíos se pusieron de acuerdo para matar a Saulo, pero él llegó a saberlo. Día y noche lo esperaban en las puertas de salida de la ciudad, para matarlo, pero sus discípulos lo pusieron en un gran canasto y lo bajaron de noche por la muralla que rodeaba la ciudad.",
+				"number": 14
+			},
+			{
+				"verse": "Cuando Saulo llegó a Jerusalén, quiso reunirse con los creyentes; pero todos le tenían miedo, porque no creían que él también fuera creyente. Sin embargo, Bernabé lo llevó y lo presentó a los apóstoles. Les contó que Saulo había visto al Señor en el camino, y que el Señor le había hablado, y que, en Damasco, Saulo había anunciado a Jesús con toda valentía. Así Saulo se quedó en Jerusalén, y andaba con ellos. Hablaba del Señor con toda valentía, conversando y discutiendo con los judíos que hablaban griego; pero estos procuraban matarlo. Cuando los hermanos se dieron cuenta de ello, llevaron a Saulo a Cesarea, y de allí lo mandaron a Tarso.",
+				"number": 15
+			},
+			{
+				"verse": "Entonces la iglesia, en todas las regiones de Judea, Galilea y Samaria, tenía paz y crecía espiritualmente. Vivía en el temor del Señor y, con la ayuda del Espíritu Santo, iba aumentando en número.",
+				"number": 16
+			},
+			{
+				"verse": "Pedro, que andaba visitando a los hermanos, fue también a ver a los del pueblo santo que vivían en Lida. Allí encontró a un hombre llamado Eneas, que desde hacía ocho años estaba en cama, paralítico. Pedro le dijo: —Eneas, Jesucristo te sana. Levántate y arregla tu cama. Eneas se levantó al momento. Y todos los que vivían en Lida y en Sarón lo vieron levantarse, y se convirtieron al Señor.",
+				"number": 17
+			},
+			{
+				"verse": "Por aquel tiempo había en la ciudad de Jope una creyente llamada Tabitá, que en griego significa Dorcas. Esta mujer pasaba su vida haciendo el bien y ayudando a los necesitados. Por aquellos días, Dorcas enfermó y murió. Su cuerpo, después de haber sido lavado, fue puesto en un cuarto del piso alto. Jope estaba cerca de Lida, donde Pedro se encontraba; y como los creyentes supieron que estaba allí, mandaron dos hombres a decirle: «Venga usted a Jope sin demora.»",
+				"number": 18
+			},
+			{
+				"verse": "Y Pedro se fue con ellos. Cuando llegó, lo llevaron al cuarto donde estaba el cuerpo; y todas las viudas, llorando, rodearon a Pedro y le mostraron los vestidos y túnicas que Dorcas había hecho cuando aún vivía. Pedro los hizo salir a todos, y se arrodilló y oró; luego, mirando a la muerta, dijo: —¡Tabitá, levántate! Ella abrió los ojos y, al ver a Pedro, se sentó. Él la tomó de la mano y la levantó; luego llamó a los creyentes y a las viudas, y la presentó viva. Esto se supo en toda la ciudad de Jope, y muchos creyeron en el Señor. Pedro se quedó varios días en la ciudad, en casa de un curtidor que se llamaba Simón.",
+				"number": 19
+			}
+		]
+	},
+	{
+		"chapter": 10,
+		"verses": [
+			{
+				"verse": "Había en la ciudad de Cesarea un hombre que se llamaba Cornelio, capitán del batallón llamado el Italiano.",
+				"number": 1
+			},
+			{
+				"verse": "Era un hombre piadoso que, junto con toda su familia, adoraba a Dios. También daba mucho dinero para ayudar a los judíos, y oraba siempre a Dios. Un día, a eso de las tres de la tarde, tuvo una visión: Vio claramente a un ángel de Dios que entraba donde él estaba y le decía: «¡Cornelio!» Cornelio se quedó mirando al ángel, y con mucho miedo le preguntó: «¿Qué se te ofrece, señor?» El ángel le dijo: «Dios tiene presentes tus oraciones y lo que has hecho para ayudar a los necesitados. Manda a alguien a la ciudad de Jope para que haga venir a un hombre llamado Simón, que también es conocido como Pedro. Está alojado en casa de otro Simón, un curtidor que vive junto al mar.»",
+				"number": 2
+			},
+			{
+				"verse": "Cuando se fue el ángel que le había hablado, Cornelio llamó a dos de sus sirvientes y a un soldado que era muy religioso y de su confianza, y después de contárselo todo, los envió a Jope.",
+				"number": 3
+			},
+			{
+				"verse": "Al día siguiente, a eso del mediodía, mientras iban de camino cerca de Jope, Pedro subió a orar a la azotea de la casa.",
+				"number": 4
+			},
+			{
+				"verse": "Tenía hambre y quería comer, pero mientras le estaban preparando la comida, tuvo una visión: vio que el cielo se abría y que descendía a la tierra algo parecido a una gran sábana, bajada por las cuatro puntas. En la sábana había toda clase de cuadrúpedos, y también reptiles y aves. Y oyó una voz, que le dijo: «Levántate, Pedro; mata y come.»",
+				"number": 5
+			},
+			{
+				"verse": "Pedro contestó: «No, Señor; yo nunca he comido nada profano ni impuro.»",
+				"number": 6
+			},
+			{
+				"verse": "La voz le habló de nuevo, y le dijo: «Lo que Dios ha purificado, no lo llames tú profano.»",
+				"number": 7
+			},
+			{
+				"verse": "Esto sucedió tres veces, y luego la sábana volvió a subir al cielo. Pedro estaba preocupado pensando qué querría decir aquella visión, cuando llegaron a la puerta los hombres de Cornelio, que habían averiguado dónde estaba la casa de Simón. Al llegar, preguntaron en voz alta si allí se alojaba un tal Simón, a quien también llamaban Pedro.",
+				"number": 8
+			},
+			{
+				"verse": "Y mientras pedro todavía estaba pensando en la visión, el espíritu santo le dijo: «mira, tres hombres te buscan. levántate, baja y ve con ellos sin dudarlo, porque yo los he enviado.»",
+				"number": 9
+			},
+			{
+				"verse": "Pedro bajó y dijo a los hombres: —Yo soy el que ustedes buscan; ¿a qué han venido?",
+				"number": 10
+			},
+			{
+				"verse": "Ellos contestaron: —Venimos de parte del capitán Cornelio, un hombre justo, que adora a Dios y a quien todos los judíos estiman y quieren. Un ángel de Dios le dijo que lo llamara a usted, para que usted vaya a su casa y él escuche lo que tenga que decirle.",
+				"number": 11
+			},
+			{
+				"verse": "Entonces Pedro los hizo entrar, y se quedaron con él aquella noche. Al día siguiente, Pedro se fue con ellos, y lo acompañaron algunos de los hermanos que vivían en Jope.",
+				"number": 12
+			},
+			{
+				"verse": "Y al otro día llegaron a cesarea, donde cornelio los estaba esperando junto con un grupo de sus parientes y amigos íntimos, a quienes había invitado. cuando pedro llegó a la casa, cornelio salió a recibirlo, y se puso de rodillas delante de él, para adorarlo.",
+				"number": 13
+			},
+			{
+				"verse": "Pero Pedro lo levantó, diciéndole: —Ponte de pie, pues yo también soy un hombre, como tú.",
+				"number": 14
+			},
+			{
+				"verse": "Mientras hablaba con él, entró y encontró a muchas personas reunidas. Pedro les dijo: —Ustedes saben que a un judío le prohíbe su religión tener tratos con extranjeros o entrar en sus casas. Pero Dios me ha enseñado que no debo llamar profano o impuro a nadie. Por eso, tan pronto como me avisaron, vine sin poner ninguna objeción. Quisiera saber, pues, por qué me han llamado.",
+				"number": 15
+			},
+			{
+				"verse": "Cornelio contestó: —Hace cuatro días, como a esta misma hora, yo estaba aquí en mi casa haciendo la oración de las tres de la tarde, cuando se me apareció un hombre vestido con ropa brillante. Me dijo: “Cornelio, Dios ha oído tu oración y se ha acordado de lo que has hecho para ayudar a los necesitados. Manda a alguien a la ciudad de Jope para que haga venir a Simón, que también se llama Pedro. Está alojado en casa de otro Simón, un curtidor que vive junto al mar.” Así que envié inmediatamente a buscarte, y tú has tenido la bondad de venir. Ahora estamos todos aquí delante de Dios, y queremos escuchar todo lo que el Señor te ha mandado decirnos.",
+				"number": 16
+			},
+			{
+				"verse": "Pedro entonces comenzó a hablar, y dijo: —Ahora entiendo que de veras Dios no hace diferencia entre una persona y otra,",
+				"number": 17
+			},
+			{
+				"verse": "sino que en cualquier nación acepta a los que lo reverencian y hacen lo bueno. Dios habló a los descendientes de Israel, anunciando el mensaje de paz por medio de Jesucristo, que es el Señor de todos. Ustedes bien saben lo que pasó en toda la tierra de los judíos, comenzando en Galilea, después que Juan proclamó que era necesario bautizarse. Saben que Dios llenó de poder y del Espíritu Santo a Jesús de Nazaret, y que Jesús anduvo haciendo bien y sanando a todos los que sufrían bajo el poder del diablo. Esto pudo hacerlo porque Dios estaba con él, y nosotros somos testigos de todo lo que hizo Jesús en la región de Judea y en Jerusalén. Después lo mataron, colgándolo en una cruz.",
+				"number": 18
+			},
+			{
+				"verse": "Pero Dios lo resucitó al tercer día, e hizo que se nos apareciera a nosotros. No se apareció a todo el pueblo, sino a nosotros, a quienes Dios había escogido de antemano como testigos. Nosotros comimos y bebimos con él después que resucitó.",
+				"number": 19
+			},
+			{
+				"verse": "Y él nos envió a anunciarle al pueblo que dios lo ha puesto como juez de los vivos y de los muertos.",
+				"number": 20
+			},
+			{
+				"verse": "Todos los profetas habían hablado ya de Jesús, y habían dicho que quienes creen en él reciben por medio de él el perdón de los pecados.",
+				"number": 21
+			},
+			{
+				"verse": "Todavía estaba hablando Pedro, cuando el Espíritu Santo vino sobre todos los que escuchaban su mensaje. Y los creyentes procedentes del judaísmo que habían llegado con Pedro, se quedaron admirados de que el Espíritu Santo fuera dado también a los que no eran judíos, pues los oían hablar en lenguas extrañas y alabar a Dios.",
+				"number": 22
+			},
+			{
+				"verse": "Entonces Pedro dijo: —¿Acaso puede impedirse que sean bautizadas estas personas, que han recibido el Espíritu Santo igual que nosotros?",
+				"number": 23
+			},
+			{
+				"verse": "Y mandó que fueran bautizados en el nombre de Jesucristo. Después rogaron a Pedro que se quedara con ellos algunos días.",
+				"number": 24
+			}
+		]
+	},
+	{
+		"chapter": 11,
+		"verses": [
+			{
+				"verse": "Los apóstoles y los hermanos que estaban en Judea recibieron noticias de que también los no judíos habían aceptado el mensaje de Dios. Pero cuando Pedro volvió a Jerusalén, lo criticaron algunos de los creyentes procedentes del judaísmo.",
+				"number": 1
+			},
+			{
+				"verse": "Le preguntaron: —¿Por qué fuiste a visitar a los que no son judíos, y comiste con ellos?",
+				"number": 2
+			},
+			{
+				"verse": "Pedro les contó desde el principio todo lo que había pasado. Les dijo:",
+				"number": 3
+			},
+			{
+				"verse": "—Yo estaba en la ciudad de Jope, y mientras oraba tuve una visión: Vi algo parecido a una gran sábana que, atada por las cuatro puntas, bajaba del cielo hasta donde yo estaba. Me fijé bien para ver lo que había dentro, y vi cuadrúpedos y fieras, reptiles y aves. Y oí una voz, que me dijo: “Levántate, Pedro; mata y come.” Yo contesté: “No, Señor, porque nunca ha entrado en mi boca nada profano ni impuro.” Entonces la voz del cielo me habló de nuevo, diciéndome: “Lo que Dios ha purificado, no lo llames tú profano.” Esto sucedió tres veces, y luego todo volvió a subir al cielo. En aquel momento, tres hombres enviados desde Cesarea a buscarme llegaron a la casa donde estábamos. El Espíritu me mandó que, sin dudarlo, fuera con ellos. Y también fueron conmigo estos seis hermanos. Todos entramos en casa de cierto hombre, que nos contó cómo en su casa había visto a un ángel, que puesto de pie le había dicho: “Manda a alguien a la ciudad de Jope para que haga venir a Simón, que también es conocido como Pedro; él te dirá cómo puedes salvarte, tú y toda tu familia.”",
+				"number": 4
+			},
+			{
+				"verse": "Cuando comencé a hablarles, el Espíritu Santo vino sobre ellos de igual manera que al principio vino sobre nosotros.",
+				"number": 5
+			},
+			{
+				"verse": "Entonces me acordé de lo que había dicho el Señor: “Es cierto que Juan bautizó con agua, pero ustedes serán bautizados con el Espíritu Santo.”",
+				"number": 6
+			},
+			{
+				"verse": "Pues bien, si Dios les da también a ellos lo mismo que nos ha dado a nosotros que hemos creído en el Señor Jesucristo, ¿quién soy yo para oponerme a Dios?",
+				"number": 7
+			},
+			{
+				"verse": "Cuando los hermanos de Jerusalén oyeron estas cosas, se callaron y alabaron a Dios, diciendo: —¡De manera que también a los que no son judíos les ha dado Dios la oportunidad de volverse a él y alcanzar la vida eterna!",
+				"number": 8
+			},
+			{
+				"verse": "Después de la muerte de Esteban, comenzaron a perseguir a los creyentes, por lo que algunos tuvieron que huir a Fenicia, Chipre y Antioquía. Allí anunciaron a los judíos el mensaje del evangelio, pero no a los demás. Sin embargo, algunos creyentes de Chipre y de Cirene llegaron a la ciudad de Antioquía y hablaron también a los no judíos, anunciándoles la buena noticia acerca de Jesús, el Señor. El poder del Señor estaba con ellos, y así fueron muchos los que dejaron sus antiguas creencias y creyeron en el Señor.",
+				"number": 9
+			},
+			{
+				"verse": "Los de la iglesia de Jerusalén, al conocer esta noticia, mandaron a Bernabé a Antioquía.",
+				"number": 10
+			},
+			{
+				"verse": "Al llegar, Bernabé vio cómo Dios los había bendecido, y se alegró mucho. Les aconsejó a todos que con corazón firme siguieran fieles al Señor. Porque Bernabé era un hombre bueno, lleno del Espíritu Santo y de fe. Y así mucha gente se unió al Señor.",
+				"number": 11
+			},
+			{
+				"verse": "Después de esto, Bernabé fue a Tarso a buscar a Saulo,",
+				"number": 12
+			},
+			{
+				"verse": "y cuando lo encontró, lo llevó a Antioquía. Allí estuvieron con la iglesia un año entero, enseñando a mucha gente. Fue en Antioquía donde por primera vez se les dio a los discípulos el nombre de cristianos.",
+				"number": 13
+			},
+			{
+				"verse": "Por aquel tiempo, unos profetas fueron de Jerusalén a Antioquía. Y uno de ellos, llamado Agabo, puesto de pie y por inspiración del Espíritu, anunció que iba a haber una gran hambre en todo el mundo, lo cual sucedió, en efecto, en tiempos del emperador Claudio.",
+				"number": 14
+			},
+			{
+				"verse": "Entonces los creyentes de Antioquía decidieron enviar ayuda a los hermanos que vivían en Judea, según lo que cada uno pudiera dar. Así lo hicieron, y por medio de Bernabé y Saulo mandaron una ofrenda a los ancianos de Judea.",
+				"number": 15
+			}
+		]
+	},
+	{
+		"chapter": 12,
+		"verses": [
+			{
+				"verse": "Por aquel tiempo, el rey Herodes comenzó a perseguir a algunos de la iglesia. Ordenó matar a filo de espada a Santiago, el hermano de Juan;",
+				"number": 1
+			},
+			{
+				"verse": "y como vio que esto había agradado a los judíos, hizo arrestar también a Pedro. Esto sucedió en los días de la fiesta en que se come el pan sin levadura.",
+				"number": 2
+			},
+			{
+				"verse": "Después de arrestarlo, Herodes metió a Pedro en la cárcel, donde estaba vigilado por cuatro grupos de soldados, de cuatro soldados por grupo. Pensaba presentarlo ante el pueblo después de la Pascua. Así que Pedro estaba en la cárcel, bien vigilado, pero los de la iglesia seguían orando a Dios por él con mucho fervor.",
+				"number": 3
+			},
+			{
+				"verse": "La misma noche anterior al día en que Herodes lo iba a presentar ante el pueblo, Pedro estaba durmiendo entre dos soldados, sujeto con dos cadenas, mientras otros soldados estaban en la puerta vigilando la cárcel. De pronto se presentó un ángel del Señor, y la cárcel se llenó de luz. El ángel tocó a Pedro en el costado, lo despertó, y le dijo: «¡Levántate en seguida!» Al instante, las cadenas cayeron de las manos de Pedro, y el ángel le dijo: «Vístete y ponte las sandalias.» Así lo hizo Pedro, y el ángel añadió: «Ponte tu capa y sígueme.»",
+				"number": 4
+			},
+			{
+				"verse": "Pedro salió tras el ángel, sin saber si era realidad o no lo que el ángel hacía. Más bien le parecía que estaba viendo una visión. Pero pasaron la primera guardia, luego la segunda, y cuando llegaron a la puerta de hierro que daba a la calle, la puerta se abrió por sí sola. Salieron, y después de haber caminado una calle, el ángel lo dejó solo.",
+				"number": 5
+			},
+			{
+				"verse": "Pedro comprendió entonces, y dijo: «Ahora veo que verdaderamente el Señor ha enviado a su ángel para librarme de Herodes y de todo lo que los judíos querían hacerme.»",
+				"number": 6
+			},
+			{
+				"verse": "Al darse cuenta de esto, Pedro se fue a casa de María, la madre de Juan, llamado también Marcos, donde muchas personas estaban reunidas en oración. Llamó a la puerta de la calle, y una muchacha llamada Rode salió a ver quién era. Al reconocer la voz de Pedro, fue tanta su alegría que, en vez de abrir, corrió adentro a avisar que Pedro estaba a la puerta. Le dijeron: —¡Estás loca! Pero ella aseguraba que era cierto. Ellos decían: —No es él; es su ángel.",
+				"number": 7
+			},
+			{
+				"verse": "Mientras tanto, Pedro seguía llamando a la puerta. Y cuando abrieron y lo vieron, se asustaron. Pero él, con la mano, les hizo señas de que se callaran, y les contó cómo el Señor lo había sacado de la cárcel. Y añadió: —Cuenten esto a Santiago y a los hermanos. Luego salió y se fue a otro lugar.",
+				"number": 8
+			},
+			{
+				"verse": "Cuando amaneció, se produjo una gran confusión entre los soldados, porque no sabían qué había pasado con Pedro. Herodes ordenó buscarlo, pero como no lo pudo encontrar, hizo responsables a los guardias y los mandó matar. Después de esto, Herodes salió de Judea y se fue a vivir a Cesarea.",
+				"number": 9
+			},
+			{
+				"verse": "Herodes estaba enojado con los habitantes de Tiro y de Sidón, los cuales se pusieron de acuerdo para presentarse ante él. Lograron ganarse la buena voluntad de Blasto, un alto funcionario del rey Herodes, y por medio de él le pidieron paz, porque Tiro y Sidón obtenían sus provisiones en el país del rey.",
+				"number": 10
+			},
+			{
+				"verse": "Herodes los citó para un cierto día, en el que, vestido con ropa de ceremonia, ocupó su asiento en el tribunal y les dirigió un discurso. La gente comenzó entonces a gritar: «¡Este que habla no es un hombre, sino un dios!» En el mismo momento, un ángel del Señor hizo que Herodes cayera enfermo, por no haber dado honor a Dios, y murió comido de gusanos.",
+				"number": 11
+			},
+			{
+				"verse": "Entre tanto, el mensaje de Dios iba extendiéndose y era anunciado en todas partes.",
+				"number": 12
+			},
+			{
+				"verse": "Cuando Bernabé y Saulo terminaron su trabajo en Jerusalén, volvieron llevándose con ellos a Juan, que también se llamaba Marcos.",
+				"number": 13
+			}
+		]
+	},
+	{
+		"chapter": 13,
+		"verses": [
+			{
+				"verse": "En la iglesia que estaba en Antioquía había profetas y maestros. Eran Bernabé, Simón (al que también llamaban el Negro), Lucio de Cirene, Menahem (que se había criado junto con Herodes, el que gobernó en Galilea) y Saulo. Un día, mientras estaban celebrando el culto al Señor y ayunando, el Espíritu Santo dijo: «Sepárenme a Bernabé y a Saulo para el trabajo al cual los he llamado.»",
+				"number": 1
+			},
+			{
+				"verse": "Entonces, después de orar y ayunar, les impusieron las manos y los despidieron.",
+				"number": 2
+			},
+			{
+				"verse": "Enviados por el Espíritu Santo, Bernabé y Saulo se dirigieron a Seleucia, y allí se embarcaron para la isla de Chipre.",
+				"number": 3
+			},
+			{
+				"verse": "Al llegar al puerto de Salamina, comenzaron a anunciar el mensaje de Dios en las sinagogas de los judíos. Juan iba también con ellos, como ayudante.",
+				"number": 4
+			},
+			{
+				"verse": "Recorrieron toda la isla y llegaron a Pafos, donde encontraron a un brujo judío llamado Barjesús, que era un falso profeta. Este brujo estaba con el gobernador Sergio Paulo, que era un hombre inteligente. El gobernador mandó llamar a Bernabé y a Saulo, porque quería oír el mensaje de Dios. Pero el brujo, cuyo nombre griego era Elimas, se les opuso, tratando de impedir que el gobernador creyera. Entonces Saulo, también llamado Pablo, lleno del Espíritu Santo, lo miró fijamente y le dijo: —¡Mentiroso, malvado, hijo del diablo y enemigo de todo lo bueno! ¿Por qué no dejas de torcer los caminos rectos del Señor?",
+				"number": 5
+			},
+			{
+				"verse": "Ahora el Señor te va a castigar: vas a quedarte ciego, y por algún tiempo no podrás ver la luz del sol. Inmediatamente Elimas quedó en total oscuridad, y buscaba que alguien lo llevara de la mano porque estaba ciego. Al ver esto, el gobernador creyó, admirado de la enseñanza acerca del Señor.",
+				"number": 6
+			},
+			{
+				"verse": "Pablo y sus compañeros se embarcaron en Pafos y viajaron a Perge, en la región de Panfilia; pero Juan los dejó y volvió a Jerusalén. De Perge pasaron a Antioquía de Pisidia. Allí, el sábado, entraron en la sinagoga y se sentaron.",
+				"number": 7
+			},
+			{
+				"verse": "Después de la lectura de la ley y de los profetas, los jefes de la sinagoga los invitaron: —Hermanos, si tienen algo que decir para dar ánimo a la gente, díganlo ahora.",
+				"number": 8
+			},
+			{
+				"verse": "Entonces Pablo se levantó y, pidiéndoles con la mano que guardaran silencio, dijo: —Escuchen ustedes, israelitas, y también ustedes, los extranjeros que tienen temor de Dios. El Dios del pueblo de Israel escogió a nuestros antepasados; hizo de ellos una nación grande cuando todavía estaban viviendo como extranjeros en Egipto, y después, con su poder, los sacó de aquella tierra.",
+				"number": 9
+			},
+			{
+				"verse": "Dios soportó su conducta en el desierto unos cuarenta años,",
+				"number": 10
+			},
+			{
+				"verse": "y destruyó siete naciones en el país de Canaán, para dar sus tierras a nuestros antepasados.",
+				"number": 11
+			},
+			{
+				"verse": "Todo esto duró unos cuatrocientos cincuenta años. »Después les dio caudillos, hasta los días del profeta Samuel.",
+				"number": 12
+			},
+			{
+				"verse": "Entonces ellos pidieron un rey que los gobernara, y Dios, durante cuarenta años, les dio como rey a Saúl, hijo de Quis, que era de la tribu de Benjamín.",
+				"number": 13
+			},
+			{
+				"verse": "Más tarde, Dios quitó de su puesto a Saúl, y les dio por rey a David, de quien dijo: “He encontrado que David, hijo de Jesé, es un hombre que me agrada y que está dispuesto a hacer todo lo que yo quiero.”",
+				"number": 14
+			},
+			{
+				"verse": "Uno de los descendientes de este mismo David fue Jesús, a quien Dios envió para salvar a Israel, como había prometido.",
+				"number": 15
+			},
+			{
+				"verse": "Antes que Jesús viniera, Juan anunciaba el mensaje a todo el pueblo de Israel, diciéndoles que debían volverse a Dios y ser bautizados.",
+				"number": 16
+			},
+			{
+				"verse": "Y cuando juan se iba acercando al fin de su vida, dijo: “yo no soy lo que ustedes piensan; pero después de mí viene uno a quien yo ni siquiera merezco desatarle las sandalias de los pies.”",
+				"number": 17
+			},
+			{
+				"verse": "»Hermanos descendientes de Abraham, y ustedes, los extranjeros que tienen temor de Dios: este mensaje de salvación es para nosotros. Pues los que vivían en Jerusalén, y sus jefes, no reconocieron a Jesús ni entendieron las palabras de los profetas que se leen en la sinagoga cada sábado; así ellos mismos, cuando condenaron a Jesús, cumplieron esas profecías. Y aunque no encontraron en él ningún motivo para darle muerte, pidieron a Pilato que mandara matarlo.",
+				"number": 18
+			},
+			{
+				"verse": "Luego, cuando ya habían hecho todo lo que se decía de él en las Escrituras, lo bajaron de la cruz y lo enterraron.",
+				"number": 19
+			},
+			{
+				"verse": "Pero Dios lo resucitó. Y, durante muchos días, Jesús se apareció a los que lo habían acompañado en su viaje de Galilea a Jerusalén; y ahora ellos son testigos de Jesús ante el pueblo.",
+				"number": 20
+			},
+			{
+				"verse": "»Así que nosotros les estamos anunciando a ustedes esta buena noticia: La promesa que Dios hizo a nuestros antepasados, nos la ha cumplido a nosotros, que somos los descendientes. Esto lo ha hecho al resucitar a Jesús, como está escrito en el salmo segundo: “Tú eres mi Hijo; yo te he engendrado hoy.”",
+				"number": 21
+			},
+			{
+				"verse": "Dios ya había anunciado que lo resucitaría para que su cuerpo no se descompusiera, al decir en las Escrituras: “Cumpliré las santas y verdaderas promesas que hice a David.”",
+				"number": 22
+			},
+			{
+				"verse": "Por eso dice también en otro lugar: “No permitirás que se descomponga el cuerpo de tu santo siervo.”",
+				"number": 23
+			},
+			{
+				"verse": "Ahora bien, lo cierto es que David sirvió a los de su tiempo, según Dios se lo había ordenado, y que después murió y se reunió con sus padres, y que su cuerpo se descompuso. Pero el cuerpo de aquel que Dios resucitó, no se descompuso. Así pues, hermanos, ustedes deben saber que el perdón de los pecados se les anuncia por medio de Jesús. Por medio de él, todos los que creen quedan perdonados de todo aquello para lo que no pudieron alcanzar perdón bajo la ley de Moisés.",
+				"number": 24
+			},
+			{
+				"verse": "Tengan, pues, cuidado, para que no caiga sobre ustedes lo que escribieron los profetas:",
+				"number": 25
+			},
+			{
+				"verse": "“Miren, ustedes que desprecian, asómbrense y desaparezcan; porque en sus días haré cosas tales que ustedes no las creerían, si alguien se las contara.”»",
+				"number": 26
+			},
+			{
+				"verse": "Cuando Pablo y sus compañeros salieron de la sinagoga, les pidieron que al siguiente sábado les hablaran también de estas cosas. Una vez terminada la reunión en la sinagoga, muchos de los judíos y de los que se habían convertido al judaísmo siguieron a Pablo y Bernabé. Y ellos les aconsejaron que permanecieran firmes en el llamamiento que habían recibido por amor de Dios.",
+				"number": 27
+			},
+			{
+				"verse": "El sábado de la semana siguiente, casi toda la ciudad se reunió para oír el mensaje del Señor. Pero cuando los judíos vieron tanta gente, se llenaron de celos y comenzaron a contradecir a Pablo y a insultarlo. Entonces Pablo y Bernabé, hablando con valentía, les contestaron: —Teníamos la obligación de anunciar el mensaje de Dios en primer lugar a ustedes, que son judíos; pero ya que ustedes lo rechazan y no se consideran dignos de la vida eterna, nos iremos a los que no son judíos.",
+				"number": 28
+			},
+			{
+				"verse": "Porque así nos mandó el Señor, diciendo: “Te he puesto como luz de las naciones, para que lleves mi salvación hasta las partes más lejanas de la tierra.”",
+				"number": 29
+			},
+			{
+				"verse": "Al oír esto, los que no eran judíos se alegraron y comenzaron a decir que el mensaje del Señor era bueno; y creyeron todos los que estaban destinados a tener vida eterna.",
+				"number": 30
+			},
+			{
+				"verse": "Así se predicó el mensaje del Señor por toda aquella región. Pero los judíos hablaron con algunas mujeres piadosas y honorables, y con los hombres importantes de la ciudad, y los incitaron a comenzar una persecución contra Pablo y Bernabé, para echarlos de la región. Entonces estos sacudieron el polvo de sus pies en señal de protesta contra aquella gente, y se fueron a Iconio. Pero los creyentes estaban llenos de alegría y del Espíritu Santo.",
+				"number": 31
+			}
+		]
+	},
+	{
+		"chapter": 14,
+		"verses": [
+			{
+				"verse": "En Iconio, Pablo y Bernabé entraron juntos en la sinagoga de los judíos, y hablaron de tal modo que muchos creyeron, tanto judíos como no judíos. Pero los judíos que no creían suscitaron la mala voluntad de los no judíos contra los hermanos. Sin embargo, los apóstoles se quedaron allí mucho tiempo, y confiados en el Señor hablaron con toda franqueza; y el Señor confirmaba lo que ellos decían del amor de Dios, dándoles poder para hacer señales y milagros. Pero la gente de la ciudad estaba dividida, unos a favor de los judíos y otros a favor de los apóstoles. Entonces, tanto los judíos como los no judíos se pusieron de acuerdo con las autoridades para maltratarlos y apedrearlos. Pero Pablo y Bernabé, al saberlo, se escaparon a Listra y Derbe, pueblos de Licaonia, y a la región de alrededor,",
+				"number": 1
+			},
+			{
+				"verse": "donde también anunciaron la buena noticia.",
+				"number": 2
+			},
+			{
+				"verse": "En Listra había un hombre que no podía andar. Nunca había andado, porque era cojo de nacimiento. Este hombre estaba sentado, oyendo lo que Pablo decía, y Pablo se fijó en él y vio que tenía suficiente fe para ser sanado. Entonces le dijo con voz fuerte: —¡Levántate y ponte derecho sobre tus pies! El hombre se puso en pie de un salto, y comenzó a andar. Al ver lo que Pablo había hecho, la gente empezó a gritar en la lengua de Licaonia: —¡Dioses en forma de hombre han bajado a nosotros!",
+				"number": 3
+			},
+			{
+				"verse": "Y tomaron a bernabé por el dios zeus, y a pablo por el dios hermes, porque era el que hablaba.",
+				"number": 4
+			},
+			{
+				"verse": "El sacerdote de Zeus, que tenía su templo a la entrada del pueblo, trajo toros y adornos florales; y él y la gente querían ofrecerles un sacrificio.",
+				"number": 5
+			},
+			{
+				"verse": "Pero cuando Bernabé y Pablo se dieron cuenta, se rasgaron la ropa y se metieron entre la gente, gritando:",
+				"number": 6
+			},
+			{
+				"verse": "—Pero señores, ¿por qué hacen esto? Nosotros somos hombres, como ustedes. Precisamente hemos venido para anunciarles la buena noticia, para que dejen ya estas cosas que no sirven para nada, y que se vuelvan al Dios viviente, que hizo el cielo, la tierra, el mar y todo lo que hay en ellos. Aunque en otros tiempos Dios permitió que cada cual siguiera su propio camino,",
+				"number": 7
+			},
+			{
+				"verse": "nunca dejó de mostrar, por medio del bien que hacía, quién era él; pues él es quien les manda a ustedes la lluvia y las buenas cosechas, y quien les da lo suficiente para que coman y estén contentos.",
+				"number": 8
+			},
+			{
+				"verse": "Pero aunque les dijeron todo esto, les fue difícil impedir que la gente les ofreciera el sacrificio.",
+				"number": 9
+			},
+			{
+				"verse": "En esto llegaron unos judíos de Antioquía y de Iconio, que hicieron cambiar de parecer a la gente; entonces apedrearon a Pablo y, creyendo que lo habían matado, lo arrastraron fuera del pueblo.",
+				"number": 10
+			},
+			{
+				"verse": "Pero cuando los creyentes se juntaron alrededor de Pablo, él se levantó y entró otra vez en el pueblo; y al día siguiente salió con Bernabé para Derbe.",
+				"number": 11
+			},
+			{
+				"verse": "Después de anunciar la buena noticia en Derbe, donde ganaron muchos creyentes, volvieron a Listra, a Iconio y a Antioquía. En estos lugares animaron a los creyentes, y recomendándoles que siguieran firmes en la fe, les dijeron que para entrar en el reino de Dios hay que sufrir muchas aflicciones. También nombraron ancianos en cada iglesia, y después de orar y ayunar los encomendaron al Señor, en quien habían creído.",
+				"number": 12
+			},
+			{
+				"verse": "Pasando por la región de Pisidia, llegaron a la de Panfilia. Anunciaron el mensaje en Perge, y luego fueron a Atalía; allí se embarcaron para Antioquía, la ciudad donde los habían encomendado al amor de Dios para el trabajo que ahora habían terminado.",
+				"number": 13
+			},
+			{
+				"verse": "Cuando llegaron a Antioquía, reunieron a los de la iglesia y les contaron todas las cosas que Dios había hecho con ellos, y cómo el Señor había abierto la puerta a los no judíos, para que también ellos pudieran creer. Y Pablo y Bernabé se quedaron allí mucho tiempo con los creyentes.",
+				"number": 14
+			}
+		]
+	},
+	{
+		"chapter": 15,
+		"verses": [
+			{
+				"verse": "Por aquel tiempo, algunos que habían ido de Judea a Antioquía comenzaron a enseñar a los hermanos que no podían salvarse si no se sometían al rito de la circuncisión, conforme a la práctica establecida por Moisés.",
+				"number": 1
+			},
+			{
+				"verse": "Pablo y Bernabé tuvieron una fuerte discusión con ellos, y por fin Pablo, Bernabé y algunos otros fueron nombrados para ir a Jerusalén a tratar este asunto con los apóstoles y ancianos de la iglesia de aquella ciudad.",
+				"number": 2
+			},
+			{
+				"verse": "Enviados, pues, por los de la iglesia de Antioquía, al pasar por las regiones de Fenicia y Samaria contaron cómo los no judíos habían dejado sus antiguas creencias para seguir a Dios. Y todos los hermanos se alegraron mucho con estas noticias.",
+				"number": 3
+			},
+			{
+				"verse": "Cuando Pablo y Bernabé llegaron a Jerusalén, fueron recibidos por la iglesia y por los apóstoles y ancianos, y contaron todo lo que Dios había hecho con ellos. Pero algunos fariseos que habían creído, se levantaron y dijeron: —Es necesario circuncidar a los creyentes que no son judíos, y mandarles que cumplan la ley de Moisés.",
+				"number": 4
+			},
+			{
+				"verse": "Se reunieron entonces los apóstoles y los ancianos para estudiar este asunto. Después de mucho discutir, Pedro se levantó y les dijo: —Hermanos, ustedes saben que hace tiempo Dios me escogió de entre ustedes para anunciar la buena noticia a los no judíos, para que ellos crean.",
+				"number": 5
+			},
+			{
+				"verse": "Y dios, que conoce los corazones, mostró que los aceptaba, pues les dio el espíritu santo a ellos lo mismo que a nosotros.",
+				"number": 6
+			},
+			{
+				"verse": "Dios no ha hecho ninguna diferencia entre ellos y nosotros, pues también ha purificado sus corazones por medio de la fe. Ahora pues, ¿por qué desafían ustedes a Dios imponiendo sobre estos creyentes una carga que ni nosotros ni nuestros antepasados hemos podido llevar?",
+				"number": 7
+			},
+			{
+				"verse": "Al contrario, nosotros creemos que somos salvados gratuitamente por la bondad del Señor Jesús, lo mismo que ellos.",
+				"number": 8
+			},
+			{
+				"verse": "Todos se callaron y escucharon mientras Bernabé y Pablo hablaban de las señales y milagros que Dios había hecho por medio de ellos entre los no judíos. Cuando terminaron de hablar, Santiago dijo: —Hermanos, óiganme: Simón nos ha contado cómo Dios favoreció por primera vez a los no judíos, escogiendo también de entre ellos un pueblo para sí mismo. Esto está de acuerdo con lo que escribieron los profetas, como dice en la Escritura:",
+				"number": 9
+			},
+			{
+				"verse": "“Después de esto volveré y reconstruiré la caída choza de David; reconstruiré sus ruinas y la volveré a levantar,",
+				"number": 10
+			},
+			{
+				"verse": "para que los demás busquen al Señor junto con todas las naciones que han sido consagradas a mi nombre.",
+				"number": 11
+			},
+			{
+				"verse": "El Señor, que dio a conocer estas cosas desde tiempos antiguos, ha dado su palabra.”",
+				"number": 12
+			},
+			{
+				"verse": "»Considero, por lo tanto, que no se les debe imponer cargas innecesarias a aquellos que, no siendo judíos, dejan sus antiguas creencias para seguir a Dios. Basta con escribirles que se aparten de todo lo que haya sido contaminado por los ídolos, que eviten los matrimonios prohibidos y que no coman carne de animales estrangulados o ahogados, ni tampoco sangre.",
+				"number": 13
+			},
+			{
+				"verse": "Porque desde los tiempos antiguos hay en cada pueblo quienes predican la ley de Moisés, la cual se lee en las sinagogas cada sábado.",
+				"number": 14
+			},
+			{
+				"verse": "Los apóstoles y los ancianos, con toda la iglesia, decidieron escoger algunos de entre ellos y enviarlos a Antioquía junto con Pablo y Bernabé. Nombraron a Judas, que también se llamaba Barsabás, y a Silas, hombres de importancia entre los hermanos, y con ellos mandaron la siguiente carta: «Nosotros los apóstoles y los ancianos hermanos de ustedes saludamos a nuestros hermanos que no son judíos y que viven en Antioquía, Siria y Cilicia.",
+				"number": 15
+			},
+			{
+				"verse": "Hemos sabido que algunas personas han ido de aquí sin nuestra autorización, y que los han molestado a ustedes con sus palabras, y los han confundido. Por eso, de común acuerdo, nos ha parecido bien nombrar a algunos de entre nosotros para que vayan a verlos a ustedes junto con nuestros muy queridos hermanos Bernabé y Pablo, quienes han puesto sus vidas en peligro por la causa de nuestro Señor Jesucristo. Así que les enviamos a Judas y a Silas: ellos hablarán personalmente con ustedes para explicarles todo esto. Pues ha parecido bien al Espíritu Santo y a nosotros no imponer sobre ustedes ninguna carga aparte de estas cosas necesarias: que no coman carne de animales ofrecidos en sacrificio a los ídolos, que no coman sangre ni carne de animales estrangulados y que eviten los matrimonios prohibidos. Si se guardan de estas cosas, actuarán correctamente. Saludos.»",
+				"number": 16
+			},
+			{
+				"verse": "Así que ellos, después de despedirse, se dirigieron a Antioquía, y reuniendo a la congregación le entregaron la carta. Cuando los hermanos la leyeron, se alegraron mucho por el consuelo que les daba.",
+				"number": 17
+			},
+			{
+				"verse": "Y como judas y silas también eran profetas, consolaron y animaron mucho con sus palabras a los hermanos. al cabo de algún tiempo, los hermanos los despidieron con saludos de paz, para que regresaran a quienes los habían enviado.",
+				"number": 18
+			},
+			{
+				"verse": "Pero Pablo y Bernabé se quedaron en Antioquía y, junto con otros muchos, siguieron enseñando y anunciando el mensaje de la buena noticia del Señor.",
+				"number": 19
+			},
+			{
+				"verse": "Algún tiempo después, Pablo dijo a Bernabé: —Vamos a visitar otra vez a los hermanos en todas las ciudades donde hemos anunciado el mensaje del Señor, para ver cómo están.",
+				"number": 20
+			},
+			{
+				"verse": "Bernabé quería llevar con ellos a Juan, al que también llamaban Marcos; pero a Pablo no le pareció conveniente llevarlo, porque Marcos los había abandonado en Panfilia y no había seguido con ellos en el trabajo. Fue tan serio el desacuerdo, que terminaron separándose: Bernabé se llevó a Marcos y se embarcó para Chipre, mientras Pablo, por su parte, escogió a Silas y, encomendado por los hermanos al amor del Señor, salió de allí",
+				"number": 21
+			},
+			{
+				"verse": "y pasó por Siria y Cilicia animando a los hermanos en las iglesias.",
+				"number": 22
+			}
+		]
+	},
+	{
+		"chapter": 16,
+		"verses": [
+			{
+				"verse": "Pablo llegó a Derbe y Listra, donde encontró a un creyente llamado Timoteo, hijo de una mujer judía creyente y de padre griego.",
+				"number": 1
+			},
+			{
+				"verse": "Los hermanos de Listra y de Iconio hablaban bien de él. Pablo quiso que Timoteo lo acompañara, pero antes lo hizo circuncidar para que no se ofendieran los judíos que vivían en aquellos lugares, ya que todos sabían que el padre de Timoteo era griego.",
+				"number": 2
+			},
+			{
+				"verse": "En todos los pueblos por donde pasaban, comunicaron a los hermanos las instrucciones dadas por los apóstoles y los ancianos de la iglesia de Jerusalén. Así que las iglesias se afirmaban en la fe, y el número de creyentes aumentaba cada día.",
+				"number": 3
+			},
+			{
+				"verse": "Como el Espíritu Santo no les permitió anunciar el mensaje en la provincia de Asia, atravesaron la región de Frigia y Galacia, y llegaron a la frontera de Misia. De allí pensaban entrar en la región de Bitinia, pero el Espíritu de Jesús no se lo permitió. Así que, pasando de largo por Misia, bajaron al puerto de Tróade.",
+				"number": 4
+			},
+			{
+				"verse": "Allí Pablo tuvo de noche una visión; vio a un hombre de la región de Macedonia, que puesto de pie le rogaba: «Pasa a Macedonia y ayúdanos.» En cuanto Pablo tuvo esa visión, preparamos el viaje a Macedonia, seguros de que Dios nos estaba llamando para anunciar allí la buena noticia.",
+				"number": 5
+			},
+			{
+				"verse": "Nos embarcamos, pues, en Tróade, y fuimos directamente a la isla de Samotracia, y al día siguiente llegamos a Neápolis.",
+				"number": 6
+			},
+			{
+				"verse": "De allí fuimos a Filipos, que es una colonia romana y una ciudad muy importante de esa parte de Macedonia. Allí estuvimos algunos días. El sábado salimos a las afueras de la ciudad, junto al río, donde pensamos que había un lugar de oración de los judíos. Nos sentamos y hablamos del evangelio a las mujeres que se habían reunido. Una de ellas se llamaba Lidia; era de la ciudad de Tiatira y vendía telas finas de púrpura. A esta mujer, que adoraba a Dios y que estaba escuchando, el Señor la movió a poner toda su atención en lo que Pablo decía. Fue bautizada, junto con toda su familia, y después nos rogó: —Si ustedes juzgan que de veras soy creyente en el Señor, vengan a alojarse en mi casa. Y nos obligó a quedarnos.",
+				"number": 7
+			},
+			{
+				"verse": "Sucedió una vez, cuando íbamos al lugar de oración, que encontramos a una muchacha poseída por un espíritu de adivinación. Era una esclava que, adivinando, daba a ganar mucho dinero a sus amos.",
+				"number": 8
+			},
+			{
+				"verse": "Esta muchacha comenzó a seguirnos a Pablo y a nosotros, gritando: —¡Estos hombres son servidores del Dios altísimo, y les anuncian a ustedes el camino de salvación!",
+				"number": 9
+			},
+			{
+				"verse": "Esto hizo durante muchos días, hasta que Pablo, ya molesto, terminó por volverse y decirle al espíritu que la poseía: —En el nombre de Jesucristo, te ordeno que salgas de ella. En aquel mismo momento el espíritu la dejó.",
+				"number": 10
+			},
+			{
+				"verse": "Pero cuando los amos de la muchacha vieron que ya no tenían más esperanza de ganar dinero por medio de ella, agarraron a Pablo y a Silas y los llevaron ante las autoridades, a la plaza principal. Los presentaron a los jueces, diciendo: —Estos judíos están alborotando nuestra ciudad, y enseñan costumbres que nosotros no podemos admitir ni practicar, porque somos romanos.",
+				"number": 11
+			},
+			{
+				"verse": "Entonces la gente se levantó contra ellos, y los jueces ordenaron que les quitaran la ropa y los azotaran con varas. Después de haberlos azotado mucho, los metieron en la cárcel, y ordenaron al carcelero que los vigilara con el mayor cuidado. Al recibir esta orden, el carcelero los metió en el lugar más profundo de la cárcel y los dejó con los pies sujetos en el cepo.",
+				"number": 12
+			},
+			{
+				"verse": "Pero a eso de la medianoche, mientras Pablo y Silas oraban y cantaban himnos a Dios, y los otros presos estaban escuchando, vino de repente un temblor tan fuerte que sacudió los cimientos de la cárcel. En el mismo momento se abrieron todas las puertas, y a todos los presos se les soltaron las cadenas.",
+				"number": 13
+			},
+			{
+				"verse": "Cuando el carcelero despertó y vio que las puertas de la cárcel estaban abiertas, sacó su espada para matarse, pues pensaba que los presos se habían escapado. Pero Pablo le gritó: —¡No te hagas ningún daño, que todos estamos aquí!",
+				"number": 14
+			},
+			{
+				"verse": "Entonces el carcelero pidió una luz, entró corriendo y, temblando de miedo, se echó a los pies de Pablo y de Silas. Luego los sacó y les preguntó: —Señores, ¿qué debo hacer para salvarme?",
+				"number": 15
+			},
+			{
+				"verse": "Ellos contestaron: —Cree en el Señor Jesús, y obtendrás la salvación tú y tu familia.",
+				"number": 16
+			},
+			{
+				"verse": "Y les hablaron del mensaje del señor a él y a todos los que estaban en su casa. a esa misma hora de la noche, el carcelero les lavó las heridas, y luego él y toda su familia fueron bautizados. los llevó después a su casa y les dio de comer, y él y su familia estaban muy contentos por haber creído en dios.",
+				"number": 17
+			},
+			{
+				"verse": "Por la mañana, los jueces mandaron unos guardias al carcelero con orden de soltar a Pablo y a Silas. El carcelero le dijo a Pablo: —Los jueces me han ordenado que los suelte a ustedes; así que ya pueden irse tranquilos.",
+				"number": 18
+			},
+			{
+				"verse": "Pero Pablo dijo a los guardias: —A nosotros, que somos ciudadanos romanos, nos azotaron públicamente sin antes habernos juzgado, y nos metieron en la cárcel; ¿y ahora quieren soltarnos a escondidas? ¡Pues no! Que vengan ellos mismos a sacarnos.",
+				"number": 19
+			},
+			{
+				"verse": "Los guardias hicieron saber esto a los jueces, los cuales se asustaron al oír que se trataba de ciudadanos romanos.",
+				"number": 20
+			},
+			{
+				"verse": "Fueron, pues, los jueces a disculparse ante Pablo y Silas, y los sacaron y les rogaron que salieran de la ciudad.",
+				"number": 21
+			},
+			{
+				"verse": "Al salir de la cárcel, Pablo y Silas se dirigieron a casa de Lidia, y después de ver a los hermanos y animarlos, se fueron de allí.",
+				"number": 22
+			}
+		]
+	},
+	{
+		"chapter": 17,
+		"verses": [
+			{
+				"verse": "En su viaje, Pablo y Silas pasaron por Anfípolis y Apolonia, y luego llegaron a Tesalónica, donde los judíos tenían una sinagoga. Pablo, según su costumbre, fue a la sinagoga, y cada sábado, durante tres semanas seguidas, discutió con ellos, basándose en las Escrituras. Les explicaba que el Mesías tenía que morir, y que después de muerto tenía que resucitar. Les decía: —Este mismo Jesús que yo les anuncio a ustedes, es el Mesías.",
+				"number": 1
+			},
+			{
+				"verse": "Algunos de los judíos creyeron, y se unieron a Pablo y Silas. También creyeron muchos griegos que adoraban a Dios, y muchas mujeres distinguidas. Pero esto hizo que los judíos que no creían se llenaran de celos, y que reunieran a unos malvados que andaban ociosos por la calle para que alborotaran y perturbaran la ciudad. Atacaron además la casa de Jasón, buscando a Pablo y a Silas para sacarlos y entregarlos a la gente;",
+				"number": 2
+			},
+			{
+				"verse": "pero como no los encontraron allí, llevaron a rastras a Jasón y a algunos otros hermanos ante las autoridades de la ciudad, gritando: —¡Estos hombres, que han trastornado el mundo entero, también han venido acá, y Jasón los ha recibido en su casa! ¡Todos ellos están violando las leyes del emperador, pues dicen que hay otro rey, que es Jesús!",
+				"number": 3
+			},
+			{
+				"verse": "Al oír estas cosas, la gente y las autoridades se inquietaron. Pero Jasón y los otros dieron una fianza, y los soltaron.",
+				"number": 4
+			},
+			{
+				"verse": "Ya de noche, los hermanos hicieron que Pablo y Silas partieran inmediatamente hacia Berea. En cuanto llegaron, se dirigieron a la sinagoga de los judíos. Estos judíos, que eran de mejores sentimientos que los de Tesalónica, de buena gana recibieron el mensaje, y día tras día estudiaban las Escrituras para ver si era cierto lo que se les decía. De modo que muchos de ellos creyeron, y también creyeron muchos de los griegos, tanto mujeres distinguidas como hombres. Pero cuando los judíos de Tesalónica supieron que Pablo estaba anunciando el mensaje de Dios también en Berea, se fueron allá, y empezaron a alborotar y perturbar a la gente. Pero los hermanos hicieron que Pablo saliera sin demora hacia la costa, mientras Silas y Timoteo se quedaban en Berea. Los que acompañaban a Pablo fueron con él hasta la ciudad de Atenas. Luego volvieron con instrucciones para que Silas y Timoteo se le reunieran lo más pronto posible.",
+				"number": 5
+			},
+			{
+				"verse": "Mientras Pablo esperaba en Atenas a Silas y Timoteo, se indignó mucho al ver que la ciudad estaba llena de ídolos. Por eso discutía en la sinagoga con los judíos y con otros que adoraban a Dios, y cada día discutía igualmente en la plaza con los que allí se reunían. También algunos filósofos epicúreos y estoicos comenzaron a discutir con él. Unos decían: —¿De qué habla este charlatán? Y otros: —Parece que es propagandista de dioses extranjeros. Esto lo decían porque Pablo les anunciaba la buena noticia acerca de Jesús y de la resurrección.",
+				"number": 6
+			},
+			{
+				"verse": "Entonces lo llevaron al Areópago, y le preguntaron: —¿Se puede saber qué nueva enseñanza es esta que tú nos traes? Pues nos hablas de cosas extrañas, y queremos saber qué significan.",
+				"number": 7
+			},
+			{
+				"verse": "Y es que todos los atenienses, como también los extranjeros que vivían allí, solo se ocupaban de oír y comentar las últimas novedades.",
+				"number": 8
+			},
+			{
+				"verse": "Pablo se levantó en medio de ellos en el Areópago, y dijo: «Atenienses, por todo lo que veo, ustedes son gente muy religiosa.",
+				"number": 9
+			},
+			{
+				"verse": "Pues al mirar los lugares donde ustedes celebran sus cultos, he encontrado un altar que tiene escritas estas palabras: “A un Dios no conocido”. Pues bien, lo que ustedes adoran sin conocer, es lo que yo vengo a anunciarles.",
+				"number": 10
+			},
+			{
+				"verse": "»El Dios que hizo el mundo y todas las cosas que hay en él, es Señor del cielo y de la tierra. No vive en templos hechos por los hombres,",
+				"number": 11
+			},
+			{
+				"verse": "ni necesita que nadie haga nada por él, pues él es quien nos da a todos la vida, el aire y las demás cosas.",
+				"number": 12
+			},
+			{
+				"verse": "»De un solo hombre hizo él todas las naciones, para que vivan en toda la tierra; y les ha señalado el tiempo y el lugar en que deben vivir,",
+				"number": 13
+			},
+			{
+				"verse": "para que busquen a Dios, y quizá, como a tientas, puedan encontrarlo, aunque en verdad Dios no está lejos de cada uno de nosotros. Porque en Dios vivimos, nos movemos y existimos; como también algunos de los poetas de ustedes dijeron: “Somos descendientes de Dios.”",
+				"number": 14
+			},
+			{
+				"verse": "Siendo, pues, descendientes de Dios, no debemos pensar que Dios sea como las imágenes de oro, plata o piedra que los hombres hacen según su propia imaginación. Dios pasó por alto en otros tiempos la ignorancia de la gente, pero ahora ordena a todos, en todas partes, que se vuelvan a él. Porque Dios ha fijado un día en el cual juzgará al mundo con justicia, por medio de un hombre que él ha escogido; y de ello dio pruebas a todos cuando lo resucitó.»",
+				"number": 15
+			},
+			{
+				"verse": "Al oír eso de la resurrección de los muertos, unos se burlaron y otros dijeron: —Ya te oiremos hablar de esto en otra ocasión.",
+				"number": 16
+			},
+			{
+				"verse": "Entonces Pablo los dejó. Pero algunos lo siguieron y creyeron. Entre ellos estaba Dionisio, que era uno de los miembros del Areópago, y también una mujer llamada Dámaris, y otros más.",
+				"number": 17
+			}
+		]
+	},
+	{
+		"chapter": 18,
+		"verses": [
+			{
+				"verse": "Después de esto, Pablo salió de Atenas y se fue a Corinto.",
+				"number": 1
+			},
+			{
+				"verse": "Allí se encontró con un judío llamado Aquila, que era de la región del Ponto. Poco antes, Aquila y su esposa Priscila habían llegado de Italia, de donde tuvieron que salir porque el emperador Claudio había ordenado que todos los judíos salieran de Roma. Pablo fue a visitarlos y, como tenía el mismo oficio que ellos, que era hacer tiendas de campaña, se quedó con ellos para trabajar juntos.",
+				"number": 2
+			},
+			{
+				"verse": "Y cada sábado pablo iba a la sinagoga, donde hablaba y trataba de convencer tanto a los judíos como a los no judíos.",
+				"number": 3
+			},
+			{
+				"verse": "Cuando Silas y Timoteo llegaron de Macedonia, Pablo se dedicó por completo a anunciar el mensaje y a probar a los judíos que Jesús era el Mesías. ,",
+				"number": 4
+			},
+			{
+				"verse": "Pero ellos comenzaron a ponerse en contra suya y a insultarlo; así que Pablo sacudió su ropa en señal de protesta, y les dijo: —De ustedes será la culpa de su propia perdición; yo no me hago responsable. De hoy en adelante me iré a los que no son judíos.",
+				"number": 5
+			},
+			{
+				"verse": "Salió de la sinagoga y se fue a casa de un hombre llamado Ticio Justo, que adoraba a Dios y que vivía al lado de la sinagoga. Y Crispo, el jefe de la sinagoga, con toda su familia, creyó en el Señor. Y también muchos de los de Corinto, al oír el mensaje, creyeron y fueron bautizados. Una noche, el Señor le dijo a Pablo en una visión: «No tengas miedo; sigue anunciando el mensaje y no calles. Porque yo estoy contigo y nadie te puede tocar para hacerte daño, pues mi pueblo es muy grande en esta ciudad.» Así que Pablo se quedó un año y medio en Corinto, enseñando entre ellos el mensaje de Dios.",
+				"number": 6
+			},
+			{
+				"verse": "Pero en los días en que Galión era gobernador de Acaya, los judíos se juntaron contra Pablo; lo llevaron al tribunal y dijeron al gobernador: —Este hombre anda convenciendo a la gente de que deben adorar a Dios en una forma que va contra la ley.",
+				"number": 7
+			},
+			{
+				"verse": "Pablo ya iba a hablar, cuando Galión dijo a los judíos: —Si se tratara de algún delito o algún crimen grave, yo, naturalmente, me tomaría la molestia de oírlos a ustedes los judíos; pero como se trata de palabras, de nombres y de la ley de ustedes, arréglenlo ustedes mismos, porque yo no quiero meterme en esos asuntos.",
+				"number": 8
+			},
+			{
+				"verse": "Y los echó del tribunal. entonces agarraron todos a sóstenes, el jefe de la sinagoga, y lo golpearon allí mismo, delante del tribunal. pero a galión no le importaba nada de esto.",
+				"number": 9
+			},
+			{
+				"verse": "Pablo se quedó todavía muchos días en Corinto. Después se despidió de los hermanos y, junto con Priscila y Aquila, se embarcó para la región de Siria. En Cencreas, antes de embarcarse, se rapó la cabeza, para cumplir una promesa que había hecho. Cuando llegaron a Éfeso, Pablo dejó a Priscila y Aquila y se fue a la sinagoga, donde habló con los judíos que allí se reunían. Ellos le rogaron que se quedara más tiempo, pero no quiso, sino que se despidió de ellos diciendo: «Si Dios quiere, volveré a visitarlos otra vez.» Después Pablo se embarcó y se fue de Éfeso. Cuando llegó a Cesarea, fue a Jerusalén a saludar a los de la iglesia, y luego se dirigió a Antioquía.",
+				"number": 10
+			},
+			{
+				"verse": "Al cabo de algún tiempo, salió de nuevo a recorrer uno por uno los lugares de Galacia y Frigia, animando a todos los creyentes.",
+				"number": 11
+			},
+			{
+				"verse": "Por aquel tiempo llegó a Éfeso un judío llamado Apolo, que era de la ciudad de Alejandría. Era muy elocuente y conocía muy bien las Escrituras. Estaba instruido en el camino del Señor, y hablaba con mucho entusiasmo enseñando con claridad acerca de Jesús, aunque solo conocía el bautismo de Juan.",
+				"number": 12
+			},
+			{
+				"verse": "Apolo se puso a hablar abiertamente en la sinagoga; pero cuando lo oyeron Priscila y Aquila, lo llevaron aparte y le explicaron más exactamente el camino de Dios. Cuando Apolo quiso pasar a la región de Acaya, los hermanos le dieron su apoyo, y escribieron una carta a los creyentes de allá para que lo recibieran bien. Cuando llegó a Acaya, ayudó mucho a los que, por la bondad de Dios, habían creído, pues delante de todos contradecía a los judíos con razones que ellos no podían negar, y basándose en las Escrituras demostraba que Jesús era el Mesías.",
+				"number": 13
+			}
+		]
+	},
+	{
+		"chapter": 19,
+		"verses": [
+			{
+				"verse": "Mientras Apolo estaba en Corinto, Pablo cruzó la región montañosa y llegó a Éfeso, donde encontró a varios creyentes. Les preguntó: —¿Recibieron ustedes el Espíritu Santo cuando se hicieron creyentes? Ellos le contestaron: —Ni siquiera habíamos oído hablar del Espíritu Santo.",
+				"number": 1
+			},
+			{
+				"verse": "Pablo les preguntó: —Pues ¿qué bautismo recibieron ustedes? Y ellos respondieron: —El bautismo de Juan.",
+				"number": 2
+			},
+			{
+				"verse": "Pablo les dijo: —Sí, Juan bautizaba a los que se volvían a Dios, pero les decía que creyeran en el que vendría después de él, es decir, en Jesús.",
+				"number": 3
+			},
+			{
+				"verse": "Al oír esto, fueron bautizados en el nombre del Señor Jesús; y cuando Pablo les impuso las manos, también vino sobre ellos el Espíritu Santo, y hablaban en lenguas extrañas, y comunicaban mensajes proféticos. Eran entre todos unos doce hombres.",
+				"number": 4
+			},
+			{
+				"verse": "Durante tres meses, Pablo estuvo yendo a la sinagoga, donde anunciaba el mensaje sin ningún temor, y hablaba y trataba de convencer a la gente acerca del reino de Dios. Pero algunos, tercamente, no quisieron creer, sino que delante de la gente hablaban mal del Nuevo Camino. Entonces Pablo se apartó de ellos y llevó a los creyentes a la escuela de un tal Tirano. Allí hablaba todos los días,",
+				"number": 5
+			},
+			{
+				"verse": "y así lo hizo durante dos años, de modo que todos los que vivían en la provincia de Asia, tanto los judíos como los que no lo eran, oyeron el mensaje del Señor.",
+				"number": 6
+			},
+			{
+				"verse": "Y dios hacía grandes milagros por medio de pablo, tanto que hasta los pañuelos o las ropas que habían sido tocados por su cuerpo eran llevados a los enfermos, y estos se curaban de sus enfermedades, y los espíritus malignos salían de ellos.",
+				"number": 7
+			},
+			{
+				"verse": "Pero algunos judíos que andaban por las calles expulsando de la gente espíritus malignos, quisieron usar para ello el nombre del Señor Jesús; así que decían a los espíritus: «¡En el nombre de Jesús, a quien Pablo anuncia, les ordeno que salgan!»",
+				"number": 8
+			},
+			{
+				"verse": "Esto es lo que hacían los siete hijos de un judío llamado Esceva, que era un jefe de los sacerdotes.",
+				"number": 9
+			},
+			{
+				"verse": "Pero en cierta ocasión el espíritu maligno les contestó: «Conozco a Jesús, y sé quién es Pablo; pero ustedes, ¿quiénes son?»",
+				"number": 10
+			},
+			{
+				"verse": "Al mismo tiempo, el hombre que tenía el espíritu maligno se lanzó sobre ellos, y con gran fuerza los dominó a todos, maltratándolos con tanta violencia que huyeron de la casa desnudos y heridos. Todos los que vivían en Éfeso, judíos y no judíos, lo supieron, y se llenaron de temor. De esta manera crecía la fama del nombre del Señor Jesús.",
+				"number": 11
+			},
+			{
+				"verse": "También muchos de los que creyeron llegaban confesando públicamente todo lo malo que antes habían hecho, y muchos que habían practicado la brujería trajeron sus libros y los quemaron en presencia de todos. Cuando se calculó el precio de aquellos libros, resultó que valían como cincuenta mil monedas de plata.",
+				"number": 12
+			},
+			{
+				"verse": "Así el mensaje del Señor iba extendiéndose y demostrando su poder.",
+				"number": 13
+			},
+			{
+				"verse": "Después de estas cosas, Pablo decidió visitar Macedonia y Acaya, y seguir su viaje hasta Jerusalén. Además decía que después de ir a Jerusalén tendría que ir también a Roma. Entonces mandó a Macedonia a dos de sus ayudantes, Timoteo y Erasto, mientras él se quedaba algún tiempo más en Asia.",
+				"number": 14
+			},
+			{
+				"verse": "Por aquel tiempo hubo en Éfeso un gran alboroto acerca del Nuevo Camino,",
+				"number": 15
+			},
+			{
+				"verse": "causado por uno llamado Demetrio, que era platero. Este hombre hacía figuritas de plata que representaban el templo de la diosa Artemisa, y daba mucha ganancia a los que trabajaban con él. Reunió, pues, a estos, junto con otros que trabajaban en oficios semejantes, y les dijo: «Señores, ustedes saben que nuestro bienestar depende de este oficio. Pero como ustedes ven y oyen, ese tal Pablo anda diciendo que los dioses hechos por los hombres no son dioses; y así ha convencido a mucha gente, no solamente aquí en Éfeso sino en casi toda la provincia de Asia. Esto es muy peligroso, porque nuestro negocio puede echarse a perder, y el templo mismo de la gran diosa Artemisa puede también perder la fama que tiene, y así será despreciada la grandeza de esta diosa que es adorada en toda la provincia de Asia y en el mundo entero.»",
+				"number": 16
+			},
+			{
+				"verse": "Cuando oyeron esto, se enojaron mucho y gritaron: «¡Viva Artemisa de los efesios!»",
+				"number": 17
+			},
+			{
+				"verse": "Hubo, pues, confusión en toda la ciudad. Se lanzaron sobre Gayo y Aristarco, dos hombres de Macedonia que acompañaban a Pablo, y los arrastraron hasta el teatro. Pablo quiso entrar allí para hablar a la gente, pero los creyentes no lo dejaron. También entre las autoridades de Asia había algunos amigos de Pablo, que mandaron a decirle que no debía meterse allí. Entre tanto, en la reunión, unos gritaban una cosa y otros otra, porque la gente estaba alborotada y la mayor parte ni sabía para qué se habían reunido. Pero algunos de ellos explicaron el asunto a Alejandro, a quien los judíos habían empujado al frente de todos. Alejandro hizo señas con la mano para pedir silencio y hablar en defensa de los judíos delante del pueblo. Pero cuando se dieron cuenta de que él mismo era judío, gritaron todos durante un par de horas: «¡Viva Artemisa de los efesios!»",
+				"number": 18
+			},
+			{
+				"verse": "El secretario de la ciudad, cuando pudo calmar a la gente, dijo: «Ciudadanos de Éfeso, todo el mundo sabe que esta ciudad está encargada de cuidar el templo de la gran diosa Artemisa y de la imagen de ella que cayó del cielo. Como nadie puede negar esto, cálmense ustedes y no hagan nada sin pensarlo bien. Porque estos hombres que ustedes han traído no han profanado el templo ni han hablado mal de nuestra diosa. Si Demetrio y los que trabajan con él tienen alguna queja contra alguien, ahí están los jueces y los juzgados; que reclamen ante las autoridades y que cada uno defienda su derecho. Y si ustedes piden alguna otra cosa, deberá tratarse en una reunión legal. Con lo que hoy ha pasado corremos peligro de que nos acusen de agitadores, pues no hay ninguna razón que podamos dar, si nos preguntan por la causa de este alboroto.» Dicho esto, despidió a la gente.",
+				"number": 19
+			}
+		]
+	},
+	{
+		"chapter": 20,
+		"verses": [
+			{
+				"verse": "Una vez terminado el alboroto, Pablo llamó a los creyentes para darles algunos consejos. Luego se despidió de ellos y se fue a Macedonia. Visitó todos aquellos lugares animando mucho con sus palabras a los hermanos; y después llegó a Grecia, donde se quedó tres meses. Estaba ya a punto de tomar el barco para ir a Siria, cuando supo que los judíos habían hecho planes contra él. Así que decidió regresar por tierra, pasando otra vez por Macedonia. Lo acompañaron Sópatro de Berea, hijo de Pirro; y Aristarco y Segundo de Tesalónica, Gayo de Derbe, Timoteo, y también Tíquico y Trófimo, que eran de la provincia de Asia.",
+				"number": 1
+			},
+			{
+				"verse": "Estos hermanos se adelantaron y nos esperaron en Tróade. Nosotros, pasados los días en que se come el pan sin levadura, salimos de Filipos en barco, y a los cinco días los alcanzamos en Tróade, donde nos quedamos siete días.",
+				"number": 2
+			},
+			{
+				"verse": "El primer día de la semana nos reunimos para partir el pan, y Pablo estuvo hablando a los creyentes. Como tenía que salir al día siguiente, prolongó su discurso hasta la medianoche. Nos hallábamos reunidos en un cuarto del piso alto, donde había muchas lámparas encendidas; y un joven que se llamaba Eutico estaba sentado en la ventana. Como Pablo habló por largo tiempo, le entró sueño al muchacho, que al fin, profundamente dormido, cayó desde el tercer piso; y lo levantaron muerto. Entonces Pablo bajó, se tendió sobre el muchacho y lo abrazó. Y dijo a los hermanos: —No se asusten; está vivo.",
+				"number": 3
+			},
+			{
+				"verse": "Luego Pablo volvió a subir, partió el pan, comió y siguió hablando hasta el amanecer. Entonces se fue. En cuanto al muchacho, se lo llevaron vivo, y eso los animó mucho.",
+				"number": 4
+			},
+			{
+				"verse": "Nosotros nos adelantamos y fuimos en barco hasta Aso para recoger a Pablo, según se había convenido, porque él quiso ir por tierra.",
+				"number": 5
+			},
+			{
+				"verse": "Cuando nos encontramos con él en Aso, se embarcó con nosotros y fuimos a Mitilene.",
+				"number": 6
+			},
+			{
+				"verse": "Salimos de allí, y al día siguiente pasamos frente a Quío, llegando un día después al puerto de Samos. Al cabo de otro día de viaje, llegamos a Mileto.",
+				"number": 7
+			},
+			{
+				"verse": "Se hizo así porque Pablo, para no retrasarse mucho en Asia, no quiso ir a Éfeso; pues quería llegar pronto a Jerusalén y, de ser posible, estar allí para el día de Pentecostés.",
+				"number": 8
+			},
+			{
+				"verse": "Estando en Mileto, Pablo mandó llamar a los ancianos de la iglesia de Éfeso.",
+				"number": 9
+			},
+			{
+				"verse": "Cuando llegaron les dijo: «Ustedes saben cómo me he portado desde el primer día que vine a la provincia de Asia.",
+				"number": 10
+			},
+			{
+				"verse": "Todo el tiempo he estado entre ustedes sirviendo al Señor con toda humildad, con muchas lágrimas y en medio de muchas pruebas que me vinieron por lo que me querían hacer los judíos. Pero no dejé de anunciarles a ustedes nada de lo que era para su bien, enseñándoles públicamente y en sus casas. A judíos y a no judíos les he dicho que se vuelvan a Dios y crean en nuestro Señor Jesús.",
+				"number": 11
+			},
+			{
+				"verse": "Y ahora voy a jerusalén, obligado por el espíritu, sin saber lo que allí me espera. lo único que sé es que, en todas las ciudades a donde voy, el espíritu santo me dice que me esperan la cárcel y muchos sufrimientos. para mí, sin embargo, mi propia vida no cuenta, con tal de que yo pueda correr con gozo hasta el fin de la carrera y cumplir el encargo que el señor jesús me dio de anunciar la buena noticia del amor de dios.",
+				"number": 12
+			},
+			{
+				"verse": "»y ahora estoy seguro de que ninguno de ustedes, entre quienes he anunciado el reino de dios, me volverá a ver. por esto quiero decirles hoy que no me siento culpable respecto de ninguno, porque les he anunciado todo el plan de dios, sin ocultarles nada. por lo tanto, estén atentos y cuiden de toda la congregación, en la cual el espíritu santo los ha puesto como pastores para que cuiden de la iglesia de dios, que él compró con su propia sangre.",
+				"number": 13
+			},
+			{
+				"verse": "Sé que cuando yo me vaya vendrán otros que, como lobos feroces, querrán acabar con la iglesia. Aun entre ustedes mismos se levantarán algunos que enseñarán mentiras para que los creyentes los sigan.",
+				"number": 14
+			},
+			{
+				"verse": "Estén alerta; acuérdense de que durante tres años, de día y de noche, no dejé de aconsejar con lágrimas a cada uno de ustedes.",
+				"number": 15
+			},
+			{
+				"verse": "»Ahora, hermanos, los encomiendo a Dios y al mensaje de su amor. Él tiene poder para hacerlos crecer espiritualmente y darles todo lo que ha prometido a su pueblo santo. No he querido para mí mismo ni el dinero ni la ropa de nadie;",
+				"number": 16
+			},
+			{
+				"verse": "al contrario, bien saben ustedes que trabajé con mis propias manos para conseguir lo necesario para mí y para los que estaban conmigo.",
+				"number": 17
+			},
+			{
+				"verse": "Siempre les he enseñado que así se debe trabajar y ayudar a los que están en necesidad, recordando aquellas palabras del Señor Jesús: “Hay más dicha en dar que en recibir.”»",
+				"number": 18
+			},
+			{
+				"verse": "Después de decir esto, Pablo se puso de rodillas y oró con todos ellos. Todos lloraron, y abrazaron y besaron a Pablo. Y estaban muy tristes, porque les había dicho que no volverían a verlo. Luego lo acompañaron hasta el barco.",
+				"number": 19
+			}
+		]
+	},
+	{
+		"chapter": 21,
+		"verses": [
+			{
+				"verse": "Cuando dejamos a los hermanos, nos embarcamos y fuimos directamente a Cos, y al día siguiente a Rodas, y de allí a Pátara. En Pátara encontramos un barco que iba a Fenicia, y en él nos embarcamos. Al pasar, vimos la isla de Chipre, y dejándola a mano izquierda seguimos hasta Siria. Y como el barco tenía que dejar carga en el puerto de Tiro, entramos allí.",
+				"number": 1
+			},
+			{
+				"verse": "Encontramos a los creyentes, y nos quedamos con ellos siete días. Ellos, advertidos por el Espíritu, dijeron a Pablo que no debía ir a Jerusalén. Pero pasados los siete días, salimos. Todos, con sus mujeres y niños, nos acompañaron hasta fuera de la ciudad, y allí en la playa nos arrodillamos y oramos. Luego nos despedimos y subimos al barco, y ellos regresaron a sus casas.",
+				"number": 2
+			},
+			{
+				"verse": "Terminamos nuestro viaje por mar yendo de Tiro a Tolemaida, donde saludamos a los hermanos y nos quedamos con ellos un día. Al día siguiente salimos y llegamos a Cesarea. Fuimos a casa de Felipe el evangelista, que era uno de los siete ayudantes de los apóstoles, y nos quedamos con él. Felipe tenía cuatro hijas solteras, que eran profetisas. Ya hacía varios días que estábamos allí, cuando llegó de Judea un profeta llamado Agabo.",
+				"number": 3
+			},
+			{
+				"verse": "Al llegar ante nosotros tomó el cinturón de Pablo, se sujetó con él las manos y los pies, y dijo: —El Espíritu Santo dice que en Jerusalén los judíos atarán así al dueño de este cinturón, y lo entregarán en manos de los extranjeros.",
+				"number": 4
+			},
+			{
+				"verse": "Al oír esto, nosotros y los de Cesarea rogamos a Pablo que no fuera a Jerusalén. Pero Pablo contestó: —¿Por qué lloran y me ponen triste? Yo estoy dispuesto, no solamente a ser atado sino también a morir en Jerusalén por causa del Señor Jesús.",
+				"number": 5
+			},
+			{
+				"verse": "Como no pudimos convencerlo, lo dejamos, diciendo: —Que se haga la voluntad del Señor.",
+				"number": 6
+			},
+			{
+				"verse": "Después de esto, nos preparamos y nos fuimos a Jerusalén. Nos acompañaron algunos creyentes de Cesarea, quienes nos llevaron a casa de un hombre de Chipre llamado Mnasón, que era creyente desde hacía mucho tiempo y que iba a darnos alojamiento.",
+				"number": 7
+			},
+			{
+				"verse": "Cuando llegamos a Jerusalén, los hermanos nos recibieron con alegría. Al día siguiente, Pablo fue con nosotros a visitar a Santiago, y allí estaban también todos los ancianos.",
+				"number": 8
+			},
+			{
+				"verse": "Pablo los saludó, y luego les contó detalladamente las cosas que Dios había hecho por medio de él entre los no judíos. Cuando lo oyeron, alabaron a Dios. Dijeron a Pablo: —Bueno, hermano, ya ves que entre los judíos hay muchos miles que han creído, y todos ellos insisten en que es necesario seguir la ley de Moisés. Y les han informado que a todos los judíos que viven en el extranjero tú les enseñas que deben renegar de la ley de Moisés, y les dices que no deben circuncidar a sus hijos ni seguir nuestras costumbres. ¿Qué hay de esto? Pues sin duda la gente va a saber que has venido. Lo mejor es que hagas lo siguiente: Hay aquí, entre nosotros, cuatro hombres que tienen que cumplir una promesa. Llévalos contigo, purifícate junto con ellos y paga sus gastos, para que ellos puedan hacerse cortar el cabello. Así todos verán que no es cierto lo que les han dicho de ti, sino que, al contrario, tú también obedeces la ley. En cuanto a los que no son judíos y han creído, ya les hemos escrito nuestra decisión: no deben comer carne que haya sido ofrecida a los ídolos, ni sangre, ni carne de animales estrangulados, y deben evitar los matrimonios prohibidos.",
+				"number": 9
+			},
+			{
+				"verse": "Entonces Pablo se llevó a los cuatro hombres, y al día siguiente se purificó junto con ellos; luego entró en el templo para avisar cuándo terminarían los días del cumplimiento de la promesa, es decir, cuándo cada uno de ellos tendría que presentar su ofrenda.",
+				"number": 10
+			},
+			{
+				"verse": "Estando ya por terminar los siete días, unos judíos de la provincia de Asia vieron a Pablo en el templo y alborotaron a la gente. Se lanzaron contra Pablo, gritando: «¡Israelitas, ayúdennos! Este es el hombre que anda por todas partes enseñando a la gente cosas que van contra nuestro pueblo, contra la ley de Moisés y contra este templo. Además, ahora ha metido en el templo a unos griegos, profanando este Lugar santo.»",
+				"number": 11
+			},
+			{
+				"verse": "Decían esto porque antes lo habían visto en la ciudad con Trófimo de Éfeso, y pensaban que Pablo lo había llevado al templo.",
+				"number": 12
+			},
+			{
+				"verse": "Toda la ciudad se alborotó, y la gente llegó corriendo. Agarraron a Pablo y lo arrastraron fuera del templo, cerrando inmediatamente las puertas. Estaban a punto de matarlo, cuando al comandante del batallón romano le llegó la noticia de que toda la ciudad de Jerusalén se había alborotado. El comandante reunió a sus soldados y oficiales, y fue corriendo a donde estaba la gente. Cuando vieron al comandante y a los soldados, dejaron de golpear a Pablo. Entonces el comandante se acercó, arrestó a Pablo y mandó que lo sujetaran con dos cadenas. Después preguntó quién era y qué había hecho. Pero unos gritaban una cosa y otros otra, de modo que el comandante no podía aclarar nada a causa del ruido que hacían; así que mandó llevarlo al cuartel.",
+				"number": 13
+			},
+			{
+				"verse": "Al llegar a las gradas del cuartel, los soldados tuvieron que llevar a Pablo a cuestas, debido a la violencia de la gente; porque todos iban detrás, gritando: «¡Muera!»",
+				"number": 14
+			},
+			{
+				"verse": "Cuando ya iban a meterlo en el cuartel, Pablo le preguntó al comandante del batallón: —¿Puedo hablar con usted un momento? El comandante le contestó: —¿Sabes hablar griego? Entonces, ¿tú no eres aquel egipcio que hace algún tiempo comenzó una rebelión y salió al desierto con cuatro mil guerrilleros?",
+				"number": 15
+			},
+			{
+				"verse": "Pablo le dijo: —Yo soy judío, natural de Tarso de Cilicia, ciudadano de una población importante; pero, por favor, permítame usted hablar a la gente.",
+				"number": 16
+			},
+			{
+				"verse": "El comandante le dio permiso, y Pablo se puso de pie en las gradas y con la mano hizo callar a la gente. Cuando se hizo silencio, les habló en hebreo, diciendo:",
+				"number": 17
+			}
+		]
+	},
+	{
+		"chapter": 22,
+		"verses": [
+			{
+				"verse": "«Hermanos y padres, escuchen lo que les digo en mi defensa.»",
+				"number": 1
+			},
+			{
+				"verse": "Al oír que les hablaba en hebreo, guardaron aún más silencio. Pablo continuó:",
+				"number": 2
+			},
+			{
+				"verse": "«Yo soy judío. Nací en Tarso de Cilicia, pero me crié aquí en Jerusalén y estudié bajo la dirección de Gamaliel, muy de acuerdo con la ley de nuestros antepasados. Siempre he procurado servir a Dios con todo mi corazón, tal como todos ustedes lo hacen hoy día. Antes perseguí a muerte a quienes seguían este Nuevo Camino, y los arresté y metí en la cárcel, ya fueran hombres o mujeres. El jefe de los sacerdotes y todos los ancianos son testigos de esto. Ellos me dieron cartas para nuestros hermanos judíos en Damasco, y fui allá en busca de creyentes, para traerlos aquí a Jerusalén y castigarlos.",
+				"number": 3
+			},
+			{
+				"verse": "»Pero mientras iba yo de camino, y estando ya cerca de Damasco, a eso del mediodía, una fuerte luz del cielo brilló de repente a mi alrededor, y caí al suelo. Y oí una voz, que me decía: “Saulo, Saulo, ¿por qué me persigues?” Pregunté: “¿Quién eres, Señor?” Y la voz me contestó: “Yo soy Jesús de Nazaret, el mismo a quien tú estás persiguiendo.”",
+				"number": 4
+			},
+			{
+				"verse": "Los que iban conmigo vieron la luz, pero no oyeron la voz del que me hablaba. Yo pregunté: “¿Qué debo hacer, Señor?” Y el Señor me dijo: “Levántate y sigue tu viaje a Damasco. Allí se te dirá todo lo que debes hacer.” Como el brillo de la luz me dejó ciego, mis compañeros me llevaron de la mano a Damasco.",
+				"number": 5
+			},
+			{
+				"verse": "»Allí había un hombre llamado Ananías, que era muy piadoso y obediente a la ley de Moisés; todos los judíos que vivían en Damasco hablaban muy bien de él. Ananías vino a verme, y al llegar me dijo: “Hermano Saulo, recibe de nuevo la vista.” En aquel mismo momento recobré la vista, y pude verlo. Luego añadió: “El Dios de nuestros padres te ha escogido para que conozcas su voluntad, y para que veas al que es justo y oigas su voz de sus propios labios. Pues tú vas a ser testigo suyo ante todo el mundo, y vas a contar lo que has visto y oído. Y ahora, no esperes más. Levántate, bautízate y lávate de tus pecados, invocando el nombre del Señor.”",
+				"number": 6
+			},
+			{
+				"verse": "»Cuando regresé a Jerusalén, fui al templo a orar, y tuve una visión. Vi al Señor, que me dijo: “Date prisa, sal rápidamente de Jerusalén, porque no van a hacer caso de lo que dices de mí.” Yo le dije: “Señor, ellos saben que yo iba por todas las sinagogas y llevaba a la cárcel a los que creían en ti, y que los golpeaba, y que cuando mataron a tu siervo Esteban, que daba testimonio de ti, yo mismo estaba allí, aprobando que lo mataran, e incluso cuidé la ropa de quienes lo mataron.”",
+				"number": 7
+			},
+			{
+				"verse": "Pero el Señor me dijo: “Ponte en camino, que voy a enviarte a naciones lejanas.”»",
+				"number": 8
+			},
+			{
+				"verse": "Hasta este punto lo escucharon; pero entonces comenzaron a gritar: «¡Ese hombre no debe vivir! ¡Bórralo de este mundo!»",
+				"number": 9
+			},
+			{
+				"verse": "Y como seguían gritando y sacudiendo sus ropas y tirando polvo al aire,",
+				"number": 10
+			},
+			{
+				"verse": "el comandante ordenó que metieran a Pablo en el cuartel, y mandó que lo azotaran, para que confesara por qué la gente gritaba en contra suya. Pero cuando ya lo tenían atado para azotarlo, Pablo le preguntó al capitán que estaba presente: —¿Tienen ustedes autoridad para azotar a un ciudadano romano, y además sin haberlo juzgado?",
+				"number": 11
+			},
+			{
+				"verse": "Al oír esto, el capitán fue y avisó al comandante, diciendo: —¿Qué va a hacer usted? Este hombre es ciudadano romano.",
+				"number": 12
+			},
+			{
+				"verse": "Entonces el comandante se acercó a Pablo, y le preguntó: —¿Es cierto que tú eres ciudadano romano? Pablo le contestó: —Sí.",
+				"number": 13
+			},
+			{
+				"verse": "El comandante le dijo: —A mí me costó mucho dinero hacerme ciudadano romano. Y Pablo respondió: —Pues yo lo soy por nacimiento.",
+				"number": 14
+			},
+			{
+				"verse": "Con esto, los que iban a azotar a Pablo se apartaron de él; y hasta el mismo comandante, al darse cuenta de que era ciudadano romano, tuvo miedo por haberlo encadenado.",
+				"number": 15
+			},
+			{
+				"verse": "Al día siguiente, el comandante, queriendo saber con exactitud de qué acusaban los judíos a Pablo, le quitó las cadenas y mandó reunir a los jefes de los sacerdotes y a toda la Junta Suprema. Luego sacó a Pablo y lo puso delante de ellos.",
+				"number": 16
+			}
+		]
+	},
+	{
+		"chapter": 23,
+		"verses": [
+			{
+				"verse": "Pablo miró a los de la Junta Suprema y les dijo: —Hermanos, yo he vivido hasta hoy con la conciencia tranquila delante de Dios.",
+				"number": 1
+			},
+			{
+				"verse": "Entonces Ananías, que era sumo sacerdote, mandó a los que estaban cerca de Pablo que le pegaran en la boca. Pero Pablo le contestó: —¡Dios le va a pegar a usted, hipócrita! Si usted está sentado ahí para juzgarme según la ley, ¿por qué contra la ley manda que me peguen?",
+				"number": 2
+			},
+			{
+				"verse": "Los que estaban presentes le dijeron: —¿Así insultas al sumo sacerdote de Dios?",
+				"number": 3
+			},
+			{
+				"verse": "Pablo dijo: —Hermanos, yo no sabía que fuera el sumo sacerdote; pues en la Escritura dice: “No maldigas al que gobierna a tu pueblo.”",
+				"number": 4
+			},
+			{
+				"verse": "Luego, dándose cuenta de que algunos de la Junta eran del partido saduceo y otros del partido fariseo, dijo Pablo en voz alta: —Hermanos, yo soy fariseo, de familia de fariseos; y se me está juzgando porque espero la resurrección de los muertos.",
+				"number": 5
+			},
+			{
+				"verse": "En cuanto Pablo dijo esto, los fariseos y los saduceos comenzaron a discutir entre sí, y se dividió la reunión. Porque los saduceos dicen que los muertos no resucitan, y que no hay ángeles ni espíritus; en cambio, los fariseos creen en todas estas cosas. Todos gritaban; y algunos maestros de la ley, que eran del partido fariseo, se levantaron y dijeron: —Este hombre no ha hecho nada malo; tal vez le ha hablado un espíritu o un ángel.",
+				"number": 6
+			},
+			{
+				"verse": "Como el alboroto era cada vez mayor, el comandante tuvo miedo de que hicieran pedazos a Pablo, por lo cual mandó llamar a unos soldados para sacarlo de allí y llevarlo otra vez al cuartel.",
+				"number": 7
+			},
+			{
+				"verse": "A la noche siguiente, el señor se le apareció a pablo y le dijo: «ánimo, pablo, porque así como has dado testimonio de mí aquí en jerusalén, así tendrás que darlo también en roma.»",
+				"number": 8
+			},
+			{
+				"verse": "Al día siguiente, algunos de los judíos se pusieron de acuerdo para matar a Pablo, y juraron bajo maldición que no comerían ni beberían hasta que lograran matarlo. Eran más de cuarenta hombres los que así se habían comprometido. Fueron, pues, a los jefes de los sacerdotes y a los ancianos de los judíos, y les dijeron: —Nosotros hemos jurado bajo maldición que no comeremos nada mientras no matemos a Pablo. Ahora, ustedes y los demás miembros de la Junta Suprema pidan al comandante que lo traiga mañana ante ustedes, con el pretexto de investigar su caso con más cuidado; y nosotros estaremos listos para matarlo antes que llegue.",
+				"number": 9
+			},
+			{
+				"verse": "Pero el hijo de la hermana de Pablo se enteró del asunto, y fue al cuartel a avisarle. Pablo llamó a uno de los capitanes, y le dijo: —Lleve a este muchacho al comandante, porque tiene algo que comunicarle.",
+				"number": 10
+			},
+			{
+				"verse": "El capitán lo llevó al comandante, y le dijo: —El preso Pablo me llamó y me pidió que trajera aquí a este muchacho, que tiene algo que comunicarle a usted.",
+				"number": 11
+			},
+			{
+				"verse": "El comandante tomó de la mano al muchacho, y llevándolo aparte le preguntó: —¿Qué quieres decirme?",
+				"number": 12
+			},
+			{
+				"verse": "El muchacho le dijo: —Los judíos se han puesto de acuerdo para pedirle a usted que mañana lleve a Pablo ante la Junta Suprema, con el pretexto de que quieren investigar su caso con más cuidado. Pero no les crea, porque más de cuarenta de sus hombres lo esperan escondidos, y han jurado bajo maldición que no comerán ni beberán hasta que maten a Pablo; y ahora están listos, esperando solamente que usted les dé una respuesta.",
+				"number": 13
+			},
+			{
+				"verse": "Entonces el comandante despidió al muchacho, mandándole que no dijera a nadie que le había contado eso.",
+				"number": 14
+			},
+			{
+				"verse": "El comandante llamó a dos de sus capitanes, y les dio orden de preparar doscientos soldados de a pie, setenta de a caballo y doscientos con lanzas, para ir a Cesarea a las nueve de la noche.",
+				"number": 15
+			},
+			{
+				"verse": "Además mandó preparar caballos para que Pablo montara, y dio orden de llevarlo sano y salvo al gobernador Félix.",
+				"number": 16
+			},
+			{
+				"verse": "Con ellos envió una carta que decía lo siguiente:",
+				"number": 17
+			},
+			{
+				"verse": "«De Claudio Lisias al excelentísimo gobernador Félix: saludos. Los judíos habían arrestado a este hombre y lo iban a matar, pero cuando yo supe que se trataba de un ciudadano romano, fui con mis soldados y lo libré. Como quise saber de qué lo acusaban, lo llevé ante la Junta de los judíos, y resultó que lo acusaban de asuntos de la ley de ellos; pero no había razón para matarlo, y ni siquiera para tenerlo en la cárcel. Pero como me he enterado de que los judíos tienen planes para matarlo, ahí se lo envío a usted; y he pedido también a los que lo acusan que traten delante de usted lo que tengan contra él.»",
+				"number": 18
+			},
+			{
+				"verse": "Los soldados, conforme a las órdenes que tenían, tomaron a Pablo y lo llevaron de noche a Antípatris.",
+				"number": 19
+			},
+			{
+				"verse": "Al día siguiente, los soldados de a pie volvieron al cuartel, y los de a caballo siguieron el viaje con Pablo. Al llegar a Cesarea, dieron la carta al gobernador y le entregaron también a Pablo. Después de leer la carta, el gobernador preguntó de dónde era Pablo; y al saber que era de Cilicia, le dijo: —Te oiré cuando vengan los que te acusan. Luego dio orden de ponerlo bajo vigilancia en el palacio de Herodes.",
+				"number": 20
+			}
+		]
+	},
+	{
+		"chapter": 24,
+		"verses": [
+			{
+				"verse": "Cinco días después, Ananías, el sumo sacerdote, llegó a Cesarea con algunos de los ancianos y con un abogado que se llamaba Tértulo. Estos se presentaron ante el gobernador, para acusar a Pablo. Cuando trajeron a Pablo, Tértulo comenzó su acusación, diciendo a Félix: —Gracias a usted, señor gobernador, tenemos paz, y gracias a sus sabias disposiciones se han hecho muchas mejoras en nuestra nación. Todo esto lo recibimos siempre y en todas partes, oh excelentísimo Félix, con mucho agradecimiento.",
+				"number": 1
+			},
+			{
+				"verse": "Pero para no quitarle mucho tiempo, le ruego que tenga la bondad de oírnos un momento. Hemos encontrado que este hombre es una calamidad, y que por todo el mundo anda provocando divisiones entre los judíos, y que es cabecilla de la secta de los nazarenos.",
+				"number": 2
+			},
+			{
+				"verse": "Incluso trató de profanar el templo, por lo cual nosotros lo arrestamos.",
+				"number": 3
+			},
+			{
+				"verse": "Usted mismo puede interrogarlo para saber la verdad de todo esto de que lo acusamos.",
+				"number": 4
+			},
+			{
+				"verse": "Los judíos allí presentes también afirmaban lo mismo. El gobernador le hizo entonces a Pablo señas de que hablara, y Pablo dijo: —Con mucho gusto presento mi defensa ante usted, porque sé que usted es juez de esta nación desde hace muchos años. Como usted mismo puede averiguar, hace apenas doce días que llegué a Jerusalén, a adorar a Dios. Y no me encontraron discutiendo con nadie, ni alborotando a la gente en el templo, ni en las sinagogas, ni en otras partes de la ciudad. Estas personas no pueden probar ninguna de las cosas de que me acusan. Pero lo que sí confieso es que sirvo al Dios de mis padres de acuerdo con el Nuevo Camino que ellos llaman una secta, porque creo todo lo que está escrito en los libros de la ley y de los profetas.",
+				"number": 5
+			},
+			{
+				"verse": "Y tengo, lo mismo que ellos, la esperanza en dios de que los muertos han de resucitar, tanto los buenos como los malos.",
+				"number": 6
+			},
+			{
+				"verse": "Por eso procuro siempre tener limpia mi conciencia delante de Dios y de los hombres.",
+				"number": 7
+			},
+			{
+				"verse": "»Después de algunos años de andar por otras partes, volví a mi país para dar limosnas y presentar ofrendas.",
+				"number": 8
+			},
+			{
+				"verse": "Y estaba haciendo esto, después de haberme purificado según el rito establecido, aunque sin mucha gente y sin ningún alboroto, cuando unos judíos de la provincia de asia me encontraron en el templo. esos son los que deben venir y presentarse aquí para acusarme, si es que tienen algo contra mí. y si no, que estos que están aquí digan si me hallaron culpable de algún delito cuando estuve ante la junta suprema de los judíos. a no ser que cuando estuve entre ellos dije en voz alta: “hoy me están juzgando ustedes porque creo en la resurrección de los muertos.”»",
+				"number": 9
+			},
+			{
+				"verse": "Al oír esto, Félix, como estaba bien informado del Nuevo Camino, dejó el asunto pendiente y les dijo: —Cuando venga el comandante Lisias, me informaré mejor de este asunto de ustedes.",
+				"number": 10
+			},
+			{
+				"verse": "Y mandó félix al capitán que pablo siguiera detenido, pero que le diera alguna libertad y dejara que sus amigos lo atendieran.",
+				"number": 11
+			},
+			{
+				"verse": "Unos días más tarde llegó otra vez Félix, junto con Drusila, su esposa, que era judía. Y mandó Félix llamar a Pablo, y escuchó lo que este decía acerca de la fe en Jesucristo. Pero cuando Pablo le habló de una vida de rectitud, del dominio propio y del juicio futuro, Félix se asustó y le dijo: —Vete ahora. Te volveré a llamar cuando tenga tiempo.",
+				"number": 12
+			},
+			{
+				"verse": "Por otra parte, Félix esperaba que Pablo le diera dinero; por eso lo llamaba muchas veces para hablar con él. Dos años pasaron así; luego Félix dejó de ser gobernador, y en su lugar entró Porcio Festo. Y como Félix quería quedar bien con los judíos, dejó preso a Pablo.",
+				"number": 13
+			}
+		]
+	},
+	{
+		"chapter": 25,
+		"verses": [
+			{
+				"verse": "Festo llegó para tomar su puesto de gobernador, y tres días después se dirigió de Cesarea a Jerusalén.",
+				"number": 1
+			},
+			{
+				"verse": "Allí los jefes de los sacerdotes y los judíos más importantes le presentaron una demanda contra Pablo. Le pidieron, como favor especial, que ordenara que Pablo fuera llevado a Jerusalén. El plan de ellos era hacer que lo mataran en el camino;",
+				"number": 2
+			},
+			{
+				"verse": "pero Festo contestó que Pablo seguiría preso en Cesarea, y que él mismo pensaba ir allá dentro de poco. Les dijo: —Por eso, las autoridades de ustedes deben ir conmigo a Cesarea, y si ese hombre ha cometido algún delito, allí podrán acusarlo.",
+				"number": 3
+			},
+			{
+				"verse": "Festo estuvo en Jerusalén unos ocho o diez días más, y luego regresó a Cesarea. Al día siguiente ocupó su asiento en el tribunal y ordenó que le llevaran a Pablo. Cuando Pablo entró, los judíos que habían llegado de Jerusalén se acercaron y lo acusaron de muchas cosas graves, aunque no pudieron probar ninguna de ellas.",
+				"number": 4
+			},
+			{
+				"verse": "Pablo, por su parte, decía en su defensa: —Yo no he cometido ningún delito, ni contra la ley de los judíos ni contra el templo ni contra el emperador romano.",
+				"number": 5
+			},
+			{
+				"verse": "Pero como Festo quería quedar bien con los judíos, le preguntó a Pablo: —¿Quieres ir a Jerusalén, para que yo juzgue allá tu caso?",
+				"number": 6
+			},
+			{
+				"verse": "Pablo contestó: —Estoy ante el tribunal del emperador romano, que es donde debo ser juzgado. Como bien sabe usted, no he hecho nada malo contra los judíos. Si he cometido algún delito que merezca la pena de muerte, no me niego a morir; pero si no hay nada de cierto en las cosas de que me acusan, nadie tiene el derecho de entregarme a ellos. Pido que el emperador mismo me juzgue.",
+				"number": 7
+			},
+			{
+				"verse": "Festo entonces consultó con sus consejeros, y luego dijo: —Ya que has pedido que te juzgue el emperador, al emperador irás.",
+				"number": 8
+			},
+			{
+				"verse": "Al cabo de algunos días, el rey Agripa y Berenice fueron a Cesarea a saludar a Festo. Como estuvieron allí varios días, Festo contó al rey el caso de Pablo. Le dijo: —Hay aquí un hombre que Félix dejó preso. Cuando estuve en Jerusalén, los jefes de los sacerdotes y los ancianos de los judíos me presentaron una demanda contra él, pidiéndome que lo condenara. Yo les contesté que la autoridad romana no acostumbra condenar a muerte a nadie sin que antes el acusado pueda verse cara a cara con los que lo acusan, para defenderse de la acusación.",
+				"number": 9
+			},
+			{
+				"verse": "Por eso, cuando ellos vinieron acá, no perdí tiempo, sino que al día siguiente ocupé mi asiento en el tribunal y mandé traer al hombre. Pero los que se presentaron para acusarlo no alegaron en contra suya ninguno de los delitos que yo había pensado. Lo único que decían contra él eran cosas de su religión, y de un tal Jesús que murió y que Pablo dice que está vivo. Como yo no sabía qué hacer en este asunto, le pregunté a Pablo si quería ir a Jerusalén para ser juzgado de esas cosas. Pero él ha pedido que lo juzgue Su Majestad el emperador, así que he ordenado que siga preso hasta que yo pueda mandárselo.",
+				"number": 10
+			},
+			{
+				"verse": "Entonces Agripa le dijo a Festo: —Yo también quisiera oír a ese hombre. Y Festo le contestó: —Mañana mismo lo oirás.",
+				"number": 11
+			},
+			{
+				"verse": "Al día siguiente, Agripa y Berenice llegaron y entraron con gran solemnidad en la sala, junto con los jefes militares y los principales señores de la ciudad. Festo mandó que le llevaran a Pablo, y dijo: —Rey Agripa y señores que están aquí reunidos con nosotros: ahí tienen a ese hombre. Todos los judíos me han traído acusaciones contra él, tanto en Jerusalén como aquí en Cesarea, y no dejan de pedirme a gritos su muerte; pero a mí me parece que no ha hecho nada que la merezca. Sin embargo, como él mismo ha pedido ser juzgado por Su Majestad el emperador, he decidido enviárselo. Pero como no tengo nada concreto que escribirle a mi señor el emperador acerca de él, lo traigo ante ustedes, y sobre todo ante ti, oh rey Agripa, para que después de interrogarlo tenga yo algo que escribir. Pues me parece absurdo enviar un preso y no decir de qué está acusado.",
+				"number": 12
+			}
+		]
+	},
+	{
+		"chapter": 26,
+		"verses": [
+			{
+				"verse": "Entonces Agripa le dijo a Pablo: —Puedes hablar en tu defensa. Pablo alzó la mano y comenzó a hablar así: «Me siento feliz de poder hablar hoy delante de Su Majestad, oh rey Agripa, para defenderme de todas las acusaciones que los judíos han presentado contra mí, sobre todo porque Su Majestad conoce todas las costumbres de los judíos y las cosas que discutimos. Por eso le pido que me oiga con paciencia.",
+				"number": 1
+			},
+			{
+				"verse": "»Todos los judíos saben cómo viví entre ellos, en mi tierra y en Jerusalén, desde mi juventud. También saben, y lo pueden declarar si quieren, que siempre he sido fariseo, que es la secta más estricta de nuestra religión. Y ahora me han traído a juicio precisamente por esta esperanza que tengo en la promesa que Dios hizo a nuestros antepasados. Nuestras doce tribus de Israel esperan ver el cumplimiento de esta promesa, y por eso adoran a Dios y le sirven día y noche. Por esta misma esperanza, oh rey Agripa, los judíos me acusan ahora. ¿Por qué no creen ustedes que Dios resucita a los muertos?",
+				"number": 2
+			},
+			{
+				"verse": "»Yo mismo pensaba antes que debía hacer muchas cosas en contra del nombre de Jesús de Nazaret,",
+				"number": 3
+			},
+			{
+				"verse": "y así lo hice en Jerusalén. Con la autorización de los jefes de los sacerdotes, metí en la cárcel a muchos de los creyentes; y cuando los mataban, yo estaba de acuerdo. Muchas veces los castigaba para obligarlos a negar su fe. Y esto lo hacía en todas las sinagogas, y estaba tan furioso contra ellos que los perseguía hasta en ciudades extranjeras.",
+				"number": 4
+			},
+			{
+				"verse": "»Con ese propósito me dirigía a la ciudad de Damasco, autorizado y comisionado por los jefes de los sacerdotes. Pero en el camino, oh rey, vi a mediodía una luz del cielo, más fuerte que la luz del sol, que brilló alrededor de mí y de los que iban conmigo. Todos caímos al suelo, y oí una voz que me decía en hebreo: “Saulo, Saulo, ¿por qué me persigues? Te estás haciendo daño a ti mismo, como si dieras coces contra el aguijón.”",
+				"number": 5
+			},
+			{
+				"verse": "Entonces dije: “¿Quién eres, Señor?” El Señor me contestó: “Yo soy Jesús, el mismo a quien estás persiguiendo.",
+				"number": 6
+			},
+			{
+				"verse": "Pero levántate, ponte de pie, porque me he aparecido a ti para designarte como mi servidor y testigo de lo que ahora has visto y de lo que todavía has de ver de mí. Te voy a librar de los judíos y también de los no judíos, a los cuales ahora te envío.",
+				"number": 7
+			},
+			{
+				"verse": "Te mando a ellos para que les abras los ojos y no caminen más en la oscuridad, sino en la luz; para que no sigan bajo el poder de Satanás, sino que sigan a Dios; y para que crean en mí y reciban así el perdón de los pecados y una herencia en el pueblo santo de Dios.”",
+				"number": 8
+			},
+			{
+				"verse": "»Así que, oh rey Agripa, no desobedecí a la visión del cielo, sino que primero anuncié el mensaje a los que estaban en Damasco, luego a los de Jerusalén y de toda la región de Judea, y también a los no judíos, invitándolos a convertirse, y a volverse a Dios, y a hacer obras que demuestren esa conversión.",
+				"number": 9
+			},
+			{
+				"verse": "Por este motivo, los judíos me arrestaron en el templo y quisieron matarme.",
+				"number": 10
+			},
+			{
+				"verse": "Pero con la ayuda de Dios sigo firme hasta ahora, hablando de Dios a todos, pequeños y grandes. Nunca les digo nada aparte de lo que los profetas y Moisés dijeron que había de suceder:",
+				"number": 11
+			},
+			{
+				"verse": "que el Mesías tenía que morir, pero que después de morir sería el primero en resucitar, y que anunciaría la luz de la salvación tanto a nuestro pueblo como a las otras naciones.»",
+				"number": 12
+			},
+			{
+				"verse": "Al decir Pablo estas cosas en su defensa, Festo gritó: —¡Estás loco, Pablo! De tanto estudiar te has vuelto loco.",
+				"number": 13
+			},
+			{
+				"verse": "Pero Pablo contestó: —No estoy loco, excelentísimo Festo; al contrario, lo que digo es razonable y es la verdad. Ahí está el rey Agripa, que conoce bien estas cosas, y por eso hablo con tanta libertad delante de él; porque estoy seguro de que él también sabe todo esto, ya que no se trata de cosas sucedidas en algún rincón escondido. ¿Cree Su Majestad lo que dijeron los profetas? Yo sé que lo cree.",
+				"number": 14
+			},
+			{
+				"verse": "Agripa le contestó: —¿Piensas hacerme cristiano en tan poco tiempo?",
+				"number": 15
+			},
+			{
+				"verse": "Pablo dijo: —Que sea en poco tiempo o en mucho, quiera Dios que no solamente Su Majestad, sino también todos los que me están escuchando hoy, lleguen a ser como yo, aunque sin estas cadenas.",
+				"number": 16
+			},
+			{
+				"verse": "Entonces se levantó el rey, y también el gobernador, junto con Berenice y todos los que estaban allí sentados, y se fueron aparte a hablar del asunto. Decían entre sí: —Este hombre no ha hecho nada que merezca la muerte; ni siquiera debe estar en la cárcel.",
+				"number": 17
+			},
+			{
+				"verse": "Y Agripa dijo a Festo: —Se podría haber soltado a este hombre, si él mismo no hubiera pedido ser juzgado por el emperador.",
+				"number": 18
+			}
+		]
+	},
+	{
+		"chapter": 27,
+		"verses": [
+			{
+				"verse": "Cuando decidieron mandarnos a Italia, Pablo y los otros presos fueron entregados a un capitán que se llamaba Julio, del batallón llamado del Emperador. Nos embarcamos, pues, en un barco del puerto de Adramitio que estaba a punto de salir para los puertos de Asia. Estaba también con nosotros Aristarco, que era de Tesalónica, ciudad de Macedonia. Al día siguiente llegamos al puerto de Sidón, donde Julio trató a Pablo con mucha consideración, pues lo dejó visitar a sus amigos y ser atendido por ellos. Saliendo de Sidón, navegamos protegidos del viento por la isla de Chipre, porque teníamos el viento en contra. Bordeamos la costa de Cilicia y Panfilia, y llegamos a Mira, una ciudad de Licia.",
+				"number": 1
+			},
+			{
+				"verse": "El capitán de los soldados encontró allí un barco de Alejandría que iba a Italia, y nos hizo embarcar para seguir el viaje. Durante varios días viajamos despacio, y con mucho trabajo llegamos frente a Cnido. Como todavía teníamos el viento en contra, pasamos frente a Salmona dando la vuelta a la isla de Creta; y navegando con dificultad a lo largo de la costa, llegamos a un lugar llamado Buenos Puertos, cerca del pueblo de Lasea.",
+				"number": 2
+			},
+			{
+				"verse": "Se había perdido mucho tiempo, y ya era peligroso viajar por mar porque se acercaba el invierno. Por eso, Pablo les aconsejó:",
+				"number": 3
+			},
+			{
+				"verse": "—Señores, veo que este viaje va a ser muy peligroso, y que vamos a perder tanto el barco como su carga, y que hasta podemos perder la vida.",
+				"number": 4
+			},
+			{
+				"verse": "Pero el capitán de los soldados hizo más caso al dueño del barco y al capitán del mismo que a Pablo.",
+				"number": 5
+			},
+			{
+				"verse": "Y como aquel puerto no era bueno para pasar el invierno, casi todos pensaron que sería mejor salir de allí e intentar llegar a fenice, un puerto de creta que mira al sudoeste y al noroeste, y pasar allí el invierno.",
+				"number": 6
+			},
+			{
+				"verse": "Pensando que podrían seguir el viaje porque comenzaba a soplar un viento suave del sur, salieron y navegaron junto a la costa de Creta. Pero poco después un viento huracanado del nordeste azotó el barco,",
+				"number": 7
+			},
+			{
+				"verse": "y comenzó a arrastrarlo. Como no podíamos mantener el barco de cara al viento, tuvimos que dejarnos llevar por él. Pasamos por detrás de una pequeña isla llamada Cauda, donde el viento no soplaba tan fuerte, y con mucho trabajo pudimos recoger el bote salvavidas.",
+				"number": 8
+			},
+			{
+				"verse": "Después de subirlo a bordo, usaron sogas para reforzar el barco. Luego, como tenían miedo de encallar en los bancos de arena llamados la Sirte, echaron el ancla flotante y se dejaron llevar por el viento. Al día siguiente, la tempestad era todavía fuerte, así que comenzaron a arrojar al mar la carga del barco; y al tercer día, con sus propias manos, arrojaron también los aparejos del barco. Por muchos días no se dejaron ver ni el sol ni las estrellas, y con la gran tempestad que nos azotaba habíamos perdido ya toda esperanza de salvarnos.",
+				"number": 9
+			},
+			{
+				"verse": "Como habíamos pasado mucho tiempo sin comer, Pablo se levantó en medio de todos y dijo: —Señores, hubiera sido mejor hacerme caso y no salir de Creta; así habríamos evitado estos daños y perjuicios. Ahora, sin embargo, no se desanimen, porque ninguno de ustedes morirá, aunque el barco sí va a perderse. Pues anoche se me apareció un ángel, enviado por el Dios a quien pertenezco y sirvo, y me dijo: “No tengas miedo, Pablo, porque tienes que presentarte ante el emperador romano, y por tu causa Dios va a librar de la muerte a todos los que están contigo en el barco.” Por tanto, señores, anímense, porque tengo confianza en Dios y estoy seguro de que las cosas sucederán como el ángel me dijo. Pero vamos a encallar en una isla.",
+				"number": 10
+			},
+			{
+				"verse": "Una noche, cuando al cabo de dos semanas de viaje nos encontrábamos en el mar Adriático llevados de un lado a otro por el viento, a eso de la medianoche los marineros se dieron cuenta de que estábamos llegando a tierra. Midieron la profundidad del agua, y era de treinta y seis metros; un poco más adelante la midieron otra vez, y era de veintisiete metros. Por miedo de chocar contra las rocas, echaron cuatro anclas por la parte de atrás del barco, mientras pedían a Dios que amaneciera. Pero los marineros pensaron en escapar del barco, así que comenzaron a bajar el bote salvavidas, haciendo como que iban a echar las anclas de la parte delantera del barco. Pero Pablo avisó al capitán y a sus soldados, diciendo: —Si estos no se quedan en el barco, ustedes no podrán salvarse.",
+				"number": 11
+			},
+			{
+				"verse": "Entonces los soldados cortaron las amarras del bote salvavidas y lo dejaron caer al agua.",
+				"number": 12
+			},
+			{
+				"verse": "De madrugada, Pablo les recomendó a todos que comieran algo. Les dijo: —Ya hace dos semanas que, por esperar a ver qué pasa, ustedes no han comido nada. Les ruego que coman algo. Esto es necesario, si quieren sobrevivir, pues nadie va a perder ni un cabello de la cabeza.",
+				"number": 13
+			},
+			{
+				"verse": "Al decir esto, Pablo tomó en sus manos un pan y dio gracias a Dios delante de todos. Lo partió y comenzó a comer. Luego todos se animaron y comieron también. Éramos en el barco doscientas setenta y seis personas en total. Después de haber comido lo que quisieron, echaron el trigo al mar para aligerar el barco.",
+				"number": 14
+			},
+			{
+				"verse": "Cuando amaneció, los marineros no reconocieron la tierra, pero vieron una bahía que tenía playa; y decidieron tratar de arrimar el barco hacia allá. Cortaron las amarras de las anclas, abandonándolas en el mar, y aflojaron los remos que servían para guiar el barco. Luego alzaron al viento la vela delantera, y el barco comenzó a acercarse a la playa. Pero fue a dar en un banco de arena, donde el barco encalló. La parte delantera quedó atascada en la arena, sin poder moverse, mientras la parte de atrás comenzó a hacerse pedazos por la fuerza de las olas.",
+				"number": 15
+			},
+			{
+				"verse": "Los soldados quisieron matar a los presos, para no dejarlos escapar nadando.",
+				"number": 16
+			},
+			{
+				"verse": "Pero el capitán de los soldados, que quería salvar a Pablo, no dejó que lo hicieran, sino que ordenó que quienes supieran nadar se echaran al agua primero para llegar a tierra, y que los demás siguieran sobre tablas o en pedazos del barco. Así llegamos todos salvos a tierra.",
+				"number": 17
+			}
+		]
+	},
+	{
+		"chapter": 28,
+		"verses": [
+			{
+				"verse": "Cuando ya estuvimos todos a salvo, supimos que la isla se llamaba Malta.",
+				"number": 1
+			},
+			{
+				"verse": "Los nativos nos trataron muy bien a todos; y como estaba lloviendo y hacía frío, encendieron una gran fogata y nos invitaron a acercarnos. Pablo, que había recogido un poco de leña seca, la estaba echando al fuego cuando una víbora salió huyendo del calor y se le enredó en la mano. Al ver los nativos la víbora colgada de la mano de Pablo, se dijeron unos a otros: «Este hombre debe de ser un asesino, pues aunque se salvó del mar, la justicia divina no lo deja vivir.»",
+				"number": 2
+			},
+			{
+				"verse": "Pero Pablo se sacudió la víbora en el fuego, y no le pasó nada.",
+				"number": 3
+			},
+			{
+				"verse": "Todos estaban esperando que se hinchara o que de un momento a otro cayera muerto; pero después de mucho esperar, cuando vieron que nada le pasaba, cambiaron de idea y comenzaron a decir que Pablo era un dios.",
+				"number": 4
+			},
+			{
+				"verse": "Cerca de aquel lugar había unos terrenos que pertenecían al personaje principal de la isla, llamado Publio, que nos recibió y nos atendió muy bien durante tres días. Y sucedió que el padre de Publio estaba en cama, enfermo de fiebre y disentería. Pablo fue entonces a visitarlo y, después de orar, puso las manos sobre él y lo sanó. Con esto, vinieron también los otros enfermos que había en la isla, y fueron sanados. Nos llenaron de atenciones, y después, al embarcarnos de nuevo, nos dieron todo lo necesario para el viaje.",
+				"number": 5
+			},
+			{
+				"verse": "Al cabo de tres meses de estar en la isla, nos embarcamos en un barco que había pasado allí el invierno; era una embarcación de Alejandría, que llevaba por insignia la figura de los dioses Cástor y Pólux.",
+				"number": 6
+			},
+			{
+				"verse": "Llegamos al puerto de Siracusa, donde nos quedamos tres días, y de allí seguimos el viaje hasta arribar a Regio. El día siguiente tuvimos viento sur, y un día más tarde llegamos a Pozzuoli, donde encontramos a algunos hermanos que nos invitaron a quedarnos con ellos una semana; y así, finalmente, llegamos a Roma. Los hermanos de Roma ya tenían noticias acerca de nosotros; de manera que salieron a nuestro encuentro hasta el Foro de Apio y el lugar llamado las Tres Tabernas. Al verlos, Pablo dio gracias a Dios y se sintió animado.",
+				"number": 7
+			},
+			{
+				"verse": "Cuando llegamos a Roma, permitieron que Pablo viviera aparte, vigilado solamente por un soldado.",
+				"number": 8
+			},
+			{
+				"verse": "Tres días después de su llegada, Pablo mandó llamar a los principales judíos de Roma. Cuando estuvieron reunidos, les dijo: —Hermanos, yo no he hecho nada contra los judíos ni contra las costumbres de nuestros antepasados. Sin embargo, en Jerusalén fui entregado a los romanos, quienes después de interrogarme querían soltarme, porque no encontraron ninguna razón para condenarme a muerte.",
+				"number": 9
+			},
+			{
+				"verse": "Pero los judíos se opusieron, y tuve que pedir que el emperador me juzgara, aunque no tengo nada de qué acusar a los de mi nación. Por esto, pues, los he llamado a ustedes, para verlos y hablarles; porque es precisamente por la esperanza que tenemos nosotros los israelitas, por lo que me encuentro aquí encadenado.",
+				"number": 10
+			},
+			{
+				"verse": "Ellos le dijeron: —Nosotros no hemos recibido ninguna carta de Judea acerca de ti, ni ninguno de los hermanos judíos que han llegado de allá nos ha dicho nada malo en contra tuya. Quisiéramos oír lo que tú piensas, porque sabemos que en todas partes se habla en contra de esta nueva secta.",
+				"number": 11
+			},
+			{
+				"verse": "Así que le señalaron un día, en el que acudieron muchas personas a donde Pablo estaba alojado. Desde la mañana hasta la tarde, Pablo les habló del reino de Dios. Trataba de convencerlos acerca de Jesús, por medio de la ley de Moisés y los escritos de los profetas.",
+				"number": 12
+			},
+			{
+				"verse": "Unos aceptaron lo que Pablo decía, pero otros no creyeron. Y como no se ponían de acuerdo entre sí, comenzaron a irse. Pablo les dijo solamente: —Bien habló el Espíritu Santo a los antepasados de ustedes por medio del profeta Isaías, diciendo:",
+				"number": 13
+			},
+			{
+				"verse": "“Anda y dile a este pueblo: Por más que escuchen, no entenderán; por más que miren, no verán.",
+				"number": 14
+			},
+			{
+				"verse": "Pues la mente de este pueblo está entorpecida, tienen tapados los oídos y sus ojos están cerrados, para que no puedan ver ni oír, ni puedan entender; para que no se vuelvan a mí, y yo no los sane.”",
+				"number": 15
+			},
+			{
+				"verse": "Sepan ustedes, pues, que de ahora en adelante esta salvación de Dios se ofrece a los no judíos, y ellos sí escucharán.",
+				"number": 16
+			},
+			{
+				"verse": "Pablo se quedó dos años completos en la casa que tenía alquilada, donde recibía a todos los que iban a verlo. Con toda libertad anunciaba el reino de Dios, y enseñaba acerca del Señor Jesucristo sin que nadie se lo estorbara.",
+				"number": 17
+			}
+		]
+	}
+]
