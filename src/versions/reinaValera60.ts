@@ -1,6 +1,7 @@
 import { Context, Hono } from "hono";
 import { getChapter } from "$/getChapter.ts";
 import { isInNewTestament, isInOldTestament } from "$/main.ts";
+import { versions } from "../scraping/versions.ts";
 
 const reinaValera1960 = new Hono();
 
@@ -66,7 +67,7 @@ reinaValera1960.get("/oldTestament/:book/:chapter", async (c: Context) => {
       }, 400);
     }
 
-    const chapterBook = await getChapter(c, "Antiguo Testamento");
+    const chapterBook = await getChapter(c, "Antiguo Testamento", versions.RVR60);
 
     return chapterBook;
   } catch (_error) {
@@ -104,7 +105,7 @@ reinaValera1960.get("/newTestament/:book/:chapter", async (c: Context) => {
       }, 400);
     }
 
-    const chapterBook = await getChapter(c, "Nuevo Testamento");
+    const chapterBook = await getChapter(c, "Nuevo Testamento", versions.RVR60);
 
     return chapterBook;
   } catch (_error) {
@@ -136,9 +137,9 @@ reinaValera1960.get("/book/:bookName/:chapter", async (c: Context) => {
     const book = c.req.param("bookName");
     let chapterBook;
     if (isInOldTestament(book)) {
-      chapterBook = await getChapter(c, "Antiguo Testamento");
+      chapterBook = await getChapter(c, "Antiguo Testamento", versions.RVR60);
     } else {
-      chapterBook = await getChapter(c, "Nuevo Testamento");
+      chapterBook = await getChapter(c, "Nuevo Testamento", versions.RVR60);
     }
 
     return chapterBook;
