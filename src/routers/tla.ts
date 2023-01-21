@@ -3,31 +3,31 @@ import { getChapter } from "$/getChapter.ts";
 import { isInNewTestament, isInOldTestament } from "$/main.ts";
 import { versions } from "../scraping/versions.ts";
 
-const reinaValera1909 = new Hono();
+const router_tla = new Hono();
 
-reinaValera1909.get("/", async (c: Context) => {
+router_tla.get("/", async (c: Context) => {
   const books = [];
 
   for await (
-    const entry of Deno.readDir(`${Deno.cwd()}/db/rv1909/oldTestament`)
+    const entry of Deno.readDir(`${Deno.cwd()}/db/tla/oldTestament`)
   ) {
     const name = entry.name.replaceAll(".json", "");
     const book = {
       name,
-      endpoint: `/rv1909/book/${name}/`,
-      byChapter: `/rv1909/book/${name}/1`,
+      endpoint: `/tla/book/${name}/`,
+      byChapter: `/tla/book/${name}/1`,
     };
     books.push(book);
   }
 
   const byOldTestament = {
     oldTestament: "Reina Valera 1960 Old Testament books endpoint",
-    oldTestamentByChapter: "/rv1909/oldTestament/:book/:chapter",
+    oldTestamentByChapter: "/tla/oldTestament/:book/:chapter",
   };
 
   const byNewTestament = {
     oldTestament: "Reina Valera 1960 New Testament books endpoint",
-    oldTestamentByChapter: "/rv1909/newTestament/:book/:chapter",
+    oldTestamentByChapter: "/tla/newTestament/:book/:chapter",
   };
 
   books.unshift(byOldTestament);
@@ -38,17 +38,17 @@ reinaValera1909.get("/", async (c: Context) => {
   );
 });
 
-reinaValera1909.get("/oldTestament/:book", async (c: Context) => {
+router_tla.get("/oldTestament/:book", async (c: Context) => {
   try {
     const bookName = c.req.param("book");
 
     if (isInNewTestament(bookName)) {
       return c.json({
         "error": "Not found",
-        "try to endpoints": "/rv1909/newTestament/:book",
+        "try to endpoints": "/tla/newTestament/:book",
       }, 400);
     }
-    const path = `${Deno.cwd()}/db/rv1909/oldTestament/${bookName}.json`;
+    const path = `${Deno.cwd()}/db/tla/oldTestament/${bookName}.json`;
     const book = await Deno.readTextFile(path);
 
     return c.json(JSON.parse(book));
@@ -57,17 +57,17 @@ reinaValera1909.get("/oldTestament/:book", async (c: Context) => {
   }
 });
 
-reinaValera1909.get("/oldTestament/:book/:chapter", async (c: Context) => {
+router_tla.get("/oldTestament/:book/:chapter", async (c: Context) => {
   try {
     const book = c.req.param("book");
     if (isInNewTestament(book)) {
       return c.json({
         "error": "Not found",
-        "try to endpoints": "/rv1909/newTestament/:book",
+        "try to endpoints": "/tla/newTestament/:book",
       }, 400);
     }
 
-    const chapterBook = await getChapter(c, "Antiguo Testamento", versions.RVR09);
+    const chapterBook = await getChapter(c, "Antiguo Testamento", versions.TLA);
 
     return chapterBook;
   } catch (_error) {
@@ -75,18 +75,18 @@ reinaValera1909.get("/oldTestament/:book/:chapter", async (c: Context) => {
   }
 });
 
-reinaValera1909.get("/newTestament/:book", async (c: Context) => {
+router_tla.get("/newTestament/:book", async (c: Context) => {
   try {
     const bookName = c.req.param("book");
 
     if (isInOldTestament(bookName)) {
       return c.json({
         "error": "Not found",
-        "try to endpoints": "/rv1909/oldTestament/:book",
+        "try to endpoints": "/tla/oldTestament/:book",
       }, 400);
     }
 
-    const path = `${Deno.cwd()}/db/rv1909/newTestament/${bookName}.json`;
+    const path = `${Deno.cwd()}/db/tla/newTestament/${bookName}.json`;
     const book = await Deno.readTextFile(path);
 
     return c.json(JSON.parse(book));
@@ -95,17 +95,17 @@ reinaValera1909.get("/newTestament/:book", async (c: Context) => {
   }
 });
 
-reinaValera1909.get("/newTestament/:book/:chapter", async (c: Context) => {
+router_tla.get("/newTestament/:book/:chapter", async (c: Context) => {
   try {
     const book = c.req.param("book");
     if (isInOldTestament(book)) {
       return c.json({
         "error": "Not found",
-        "try to endpoints": "/rv1909/oldTestament/:book",
+        "try to endpoints": "/tla/oldTestament/:book",
       }, 400);
     }
 
-    const chapterBook = await getChapter(c, "Nuevo Testamento", versions.RVR09);
+    const chapterBook = await getChapter(c, "Nuevo Testamento", versions.TLA);
 
     return chapterBook;
   } catch (_error) {
@@ -113,16 +113,16 @@ reinaValera1909.get("/newTestament/:book/:chapter", async (c: Context) => {
   }
 });
 
-reinaValera1909.get("/book/:bookName", async (c: Context) => {
+router_tla.get("/book/:bookName", async (c: Context) => {
   try {
     const book = c.req.param("bookName");
 
     let rawBook;
     if (isInOldTestament(book)) {
-      const path = `${Deno.cwd()}/db/rv1909/oldTestament/${book}.json`;
+      const path = `${Deno.cwd()}/db/tla/oldTestament/${book}.json`;
       rawBook = await Deno.readTextFile(path);
     } else {
-      const path = `${Deno.cwd()}/db/rv1909/newTestament/${book}.json`;
+      const path = `${Deno.cwd()}/db/tla/newTestament/${book}.json`;
       rawBook = await Deno.readTextFile(path);
     }
 
@@ -132,14 +132,14 @@ reinaValera1909.get("/book/:bookName", async (c: Context) => {
   }
 });
 
-reinaValera1909.get("/book/:bookName/:chapter", async (c: Context) => {
+router_tla.get("/book/:bookName/:chapter", async (c: Context) => {
   try {
     const book = c.req.param("bookName");
     let chapterBook;
     if (isInOldTestament(book)) {
-      chapterBook = await getChapter(c, "Antiguo Testamento", versions.RVR09);
+      chapterBook = await getChapter(c, "Antiguo Testamento", versions.TLA);
     } else {
-      chapterBook = await getChapter(c, "Nuevo Testamento", versions.RVR09);
+      chapterBook = await getChapter(c, "Nuevo Testamento", versions.TLA);
     }
 
     return chapterBook;
@@ -148,4 +148,7 @@ reinaValera1909.get("/book/:bookName/:chapter", async (c: Context) => {
   }
 });
 
-export default reinaValera1909;
+export default router_tla;
+
+
+

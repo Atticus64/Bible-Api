@@ -2,8 +2,9 @@ import { Hono } from "hono";
 import { cors } from "middleware";
 import { serve } from "server";
 import { books } from "$/scraping/index.ts";
-import reinaValera1960 from "$/versions/reinaValera60.ts";
-import reinaValera1909 from "$/versions/reinaValera09.ts";
+import router_rv60 from "$/routers/rv60.ts";
+import router_rv09 from "$/routers/rv09.ts";
+import router_tla from "$/routers/tla.ts";
 
 const app = new Hono();
 
@@ -33,9 +34,14 @@ app.get("/", (c) => {
   });
 });
 
-app.route("/rv1960", reinaValera1960);
+// servir la version reina valera 1960
+app.route("/rv1960", router_rv60);
 
-app.route("/rv1909", reinaValera1909);
+// servir la version reina valera 1909
+app.route("/rv1909", router_rv09);
+
+// servir la  version traduccion lenguaje actual
+app.route("/tla", router_tla);
 
 app.notFound((c) => {
   const { pathname } = new URL(c.req.url);
