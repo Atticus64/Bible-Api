@@ -134,7 +134,8 @@ const getChapter = (html: string) => {
       const oneWordUpper = arr[0];
       const twoWordsUpper = arr[0] + arr[1];
       if (isUpperCase(oneWordUpper)) {
-        verse = formatString(verse);
+        const wor1 = formatString(arr[0]);
+        verse = `${wor1} ${arr.slice(2, verse.length).join(" ")}`
       }
       if (isUpperCase(twoWordsUpper)) {
         const two1 = formatString(arr[0]);
