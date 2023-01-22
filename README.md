@@ -1,6 +1,6 @@
 # Bible API
 
-## Enpoints
+## Endpoints
 
 ### Reina Valera 1960
 
